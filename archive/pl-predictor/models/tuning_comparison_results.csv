@@ -1,0 +1,11 @@
+Mercado,Modelo,Línea Base,Optimizado,Mejora,¿Mejoró?,Hiperparámetros
+1X2 (Match Winner),Logistic Regression (Elastic Net),0.523758865248227,0.5283687943262411,0.004609929078014052,SÍ,"{'C': 0.06022056678559559, 'l1_ratio': 0.999336754135407}"
+1X2 (Match Winner),Random Forest,0.5209219858156028,0.526241134751773,0.005319148936170248,SÍ,"{'n_estimators': 190, 'max_depth': 5, 'min_samples_split': 20, 'min_samples_leaf': 16}"
+1X2 (Match Winner),HistGradientBoosting (Early Stopping),0.5209219858156028,0.5209219858156028,0.0,NO,"{'learning_rate': 0.04479008504296469, 'max_iter': 227, 'max_depth': 2, 'l2_regularization': 0.00025514781146820773}"
+1X2 (Match Winner),XGBoost (L1/L2 Regularized),0.499645390070922,0.525177304964539,0.025531914893616947,SÍ,"{'learning_rate': 0.016439824803972634, 'n_estimators': 161, 'max_depth': 2, 'reg_lambda': 0.3543779034442479, 'reg_alpha': 0.015635734965089586}"
+1X2 (Match Winner),Neural Network (Dropout),0.4719858156028369,0.5134751773049645,0.04148936170212758,SÍ,"{'hidden_dim': 32, 'dropout_rate': 0.484307449325578, 'lr': 0.0014776238956402028, 'epochs': 100, 'batch_size': 32}"
+Home Clean Sheet,Logistic Regression (Elastic Net),0.6836879432624114,0.7085106382978724,0.024822695035460973,SÍ,"{'C': 0.0018251678272389765, 'l1_ratio': 0.2532042369371722}"
+Home Clean Sheet,Random Forest,0.6943262411347517,0.7070921985815604,0.01276595744680864,SÍ,"{'n_estimators': 289, 'max_depth': 3, 'min_samples_split': 11, 'min_samples_leaf': 5}"
+Home Clean Sheet,HistGradientBoosting (Early Stopping),0.6932624113475176,0.7088652482269504,0.015602836879432758,SÍ,"{'learning_rate': 0.005758204519894158, 'max_iter': 103, 'max_depth': 2, 'l2_regularization': 0.07331689188607811}"
+Home Clean Sheet,XGBoost (L1/L2 Regularized),0.6801418439716312,0.7085106382978724,0.028368794326241176,SÍ,"{'learning_rate': 0.0015774861245416046, 'n_estimators': 232, 'max_depth': 3, 'reg_lambda': 0.03175939202806781, 'reg_alpha': 0.25192996348026764}"
+Home Clean Sheet,Neural Network (Dropout),0.6375886524822695,0.7099290780141845,0.072340425531915,SÍ,"{'hidden_dim': 32, 'dropout_rate': 0.3009962879735154, 'lr': 0.04656839875750122, 'epochs': 50, 'batch_size': 32}"

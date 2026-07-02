@@ -1,0 +1,766 @@
+league,season,game,team,player,nation,age,min,Shot Stopping_SoTA,Shot Stopping_GA,Shot Stopping_Saves,Shot Stopping_Save%,game_id
+ENG-Premier League,1718,2017-08-11 Arsenal-Leicester City,Arsenal,Petr Čech,CZE,35-083,90,4,3,1,25.0,e3c3ddf0
+ENG-Premier League,1718,2017-08-11 Arsenal-Leicester City,Leicester City,Kasper Schmeichel,DEN,30-279,90,10,4,6,60.0,e3c3ddf0
+ENG-Premier League,1718,2017-08-12 Brighton-Manchester City,Brighton & Hove Albion,Mathew Ryan,AUS,25-126,90,5,2,3,60.0,072bfc99
+ENG-Premier League,1718,2017-08-12 Brighton-Manchester City,Manchester City,Ederson,BRA,23-360,90,2,0,2,100.0,072bfc99
+ENG-Premier League,1718,2017-08-12 Chelsea-Burnley,Burnley,Tom Heaton,ENG,31-119,90,6,2,4,66.7,71b00bca
+ENG-Premier League,1718,2017-08-12 Chelsea-Burnley,Chelsea,Thibaut Courtois,BEL,25-093,90,5,3,2,40.0,71b00bca
+ENG-Premier League,1718,2017-08-12 Crystal Palace-Huddersfield Town,Crystal Palace,Wayne Hennessey,WAL,30-200,90,7,3,4,57.1,2d369d17
+ENG-Premier League,1718,2017-08-12 Crystal Palace-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-192,90,4,0,4,100.0,2d369d17
+ENG-Premier League,1718,2017-08-12 Everton-Stoke City,Everton,Jordan Pickford,ENG,23-158,90,1,0,1,100.0,7c834541
+ENG-Premier League,1718,2017-08-12 Everton-Stoke City,Stoke City,Jack Butland,ENG,24-155,90,4,1,3,75.0,7c834541
+ENG-Premier League,1718,2017-08-12 Southampton-Swansea City,Southampton,Fraser Forster,ENG,29-148,90,0,0,0,,e782371e
+ENG-Premier League,1718,2017-08-12 Southampton-Swansea City,Swansea City,Łukasz Fabiański,POL,32-116,90,2,0,2,100.0,e782371e
+ENG-Premier League,1718,2017-08-12 Watford-Liverpool,Liverpool,Simon Mignolet,BEL,29-159,90,4,3,1,25.0,60f6cc1d
+ENG-Premier League,1718,2017-08-12 Watford-Liverpool,Watford,Heurelho Gomes,BRA,36-178,90,4,3,2,50.0,60f6cc1d
+ENG-Premier League,1718,2017-08-12 West Brom-Bournemouth,Bournemouth,Asmir Begović,BIH,30-053,90,6,1,5,83.3,684f704a
+ENG-Premier League,1718,2017-08-12 West Brom-Bournemouth,West Bromwich Albion,Ben Foster,ENG,34-131,90,2,0,2,100.0,684f704a
+ENG-Premier League,1718,2017-08-13 Manchester Utd-West Ham United,Manchester United,David de Gea,ESP,26-279,90,1,0,1,100.0,f5d1f6f4
+ENG-Premier League,1718,2017-08-13 Manchester Utd-West Ham United,West Ham United,Joe Hart,ENG,30-116,90,5,4,1,20.0,f5d1f6f4
+ENG-Premier League,1718,2017-08-13 Newcastle United-Tottenham Hotspur,Newcastle United,Rob Elliot,IRL,31-105,90,6,2,4,66.7,d8a995d7
+ENG-Premier League,1718,2017-08-13 Newcastle United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-230,90,2,0,2,100.0,d8a995d7
+ENG-Premier League,1718,2017-08-19 Bournemouth-Watford,Bournemouth,Asmir Begović,BIH,30-060,90,7,2,5,71.4,21fec287
+ENG-Premier League,1718,2017-08-19 Bournemouth-Watford,Watford,Heurelho Gomes,BRA,36-185,90,2,0,2,100.0,21fec287
+ENG-Premier League,1718,2017-08-19 Burnley-West Brom,Burnley,Tom Heaton,ENG,31-126,90,1,1,0,0.0,e868e7b5
+ENG-Premier League,1718,2017-08-19 Burnley-West Brom,West Bromwich Albion,Ben Foster,ENG,34-138,90,0,0,0,,e868e7b5
+ENG-Premier League,1718,2017-08-19 Leicester City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-133,90,4,2,2,50.0,e487b860
+ENG-Premier League,1718,2017-08-19 Leicester City-Brighton,Leicester City,Kasper Schmeichel,DEN,30-287,90,2,0,2,100.0,e487b860
+ENG-Premier League,1718,2017-08-19 Liverpool-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-207,90,13,1,12,92.3,ea1213ed
+ENG-Premier League,1718,2017-08-19 Liverpool-Crystal Palace,Liverpool,Simon Mignolet,BEL,29-166,90,1,0,1,100.0,ea1213ed
+ENG-Premier League,1718,2017-08-19 Southampton-West Ham United,Southampton,Fraser Forster,ENG,29-155,90,8,2,6,75.0,4dc6e9ad
+ENG-Premier League,1718,2017-08-19 Southampton-West Ham United,West Ham United,Joe Hart,ENG,30-122,90,3,3,2,66.7,4dc6e9ad
+ENG-Premier League,1718,2017-08-19 Stoke City-Arsenal,Arsenal,Petr Čech,CZE,35-091,90,4,1,3,75.0,37f97732
+ENG-Premier League,1718,2017-08-19 Stoke City-Arsenal,Stoke City,Jack Butland,ENG,24-162,90,6,0,6,100.0,37f97732
+ENG-Premier League,1718,2017-08-19 Swansea City-Manchester Utd,Manchester United,David de Gea,ESP,26-285,90,1,0,1,100.0,9c09e079
+ENG-Premier League,1718,2017-08-19 Swansea City-Manchester Utd,Swansea City,Łukasz Fabiański,POL,32-123,90,8,4,4,50.0,9c09e079
+ENG-Premier League,1718,2017-08-20 Huddersfield Town-Newcastle United,Huddersfield Town,Jonas Lössl,DEN,28-200,90,5,0,5,100.0,3786388c
+ENG-Premier League,1718,2017-08-20 Huddersfield Town-Newcastle United,Newcastle United,Rob Elliot,IRL,31-112,90,3,1,2,66.7,3786388c
+ENG-Premier League,1718,2017-08-20 Tottenham Hotspur-Chelsea,Chelsea,Thibaut Courtois,BEL,25-101,90,7,1,6,85.7,1bf15b95
+ENG-Premier League,1718,2017-08-20 Tottenham Hotspur-Chelsea,Tottenham Hotspur,Hugo Lloris,FRA,30-237,90,2,2,0,0.0,1bf15b95
+ENG-Premier League,1718,2017-08-21 Manchester City-Everton,Everton,Jordan Pickford,ENG,23-167,90,6,1,5,83.3,424dc3f9
+ENG-Premier League,1718,2017-08-21 Manchester City-Everton,Manchester City,Ederson,BRA,24-004,90,2,1,1,50.0,424dc3f9
+ENG-Premier League,1718,2017-08-26 Bournemouth-Manchester City,Bournemouth,Asmir Begović,BIH,30-067,90,8,2,6,75.0,77beb1ff
+ENG-Premier League,1718,2017-08-26 Bournemouth-Manchester City,Manchester City,Ederson,BRA,24-009,90,3,1,2,66.7,77beb1ff
+ENG-Premier League,1718,2017-08-26 Crystal Palace-Swansea City,Crystal Palace,Wayne Hennessey,WAL,30-214,90,3,2,1,33.3,86d8c6b8
+ENG-Premier League,1718,2017-08-26 Crystal Palace-Swansea City,Swansea City,Łukasz Fabiański,POL,32-130,90,3,0,3,100.0,86d8c6b8
+ENG-Premier League,1718,2017-08-26 Huddersfield Town-Southampton,Huddersfield Town,Jonas Lössl,DEN,28-206,90,2,0,2,100.0,2b22bafa
+ENG-Premier League,1718,2017-08-26 Huddersfield Town-Southampton,Southampton,Fraser Forster,ENG,29-162,90,6,0,6,100.0,2b22bafa
+ENG-Premier League,1718,2017-08-26 Manchester Utd-Leicester City,Leicester City,Kasper Schmeichel,DEN,30-294,90,5,2,4,60.0,b841af28
+ENG-Premier League,1718,2017-08-26 Manchester Utd-Leicester City,Manchester United,David de Gea,ESP,26-292,90,4,0,4,100.0,b841af28
+ENG-Premier League,1718,2017-08-26 Newcastle United-West Ham United,Newcastle United,Rob Elliot,IRL,31-118,90,3,0,3,100.0,b7de45b7
+ENG-Premier League,1718,2017-08-26 Newcastle United-West Ham United,West Ham United,Joe Hart,ENG,30-129,90,8,3,5,62.5,b7de45b7
+ENG-Premier League,1718,2017-08-26 Watford-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-140,90,0,0,0,,7bd57325
+ENG-Premier League,1718,2017-08-26 Watford-Brighton,Watford,Heurelho Gomes,BRA,36-192,90,2,0,2,100.0,7bd57325
+ENG-Premier League,1718,2017-08-27 Chelsea-Everton,Chelsea,Thibaut Courtois,BEL,25-108,90,0,0,0,,5a276f0b
+ENG-Premier League,1718,2017-08-27 Chelsea-Everton,Everton,Jordan Pickford,ENG,23-173,90,7,2,5,71.4,5a276f0b
+ENG-Premier League,1718,2017-08-27 Liverpool-Arsenal,Arsenal,Petr Čech,CZE,35-099,90,11,4,7,63.6,e4374144
+ENG-Premier League,1718,2017-08-27 Liverpool-Arsenal,Liverpool,Loris Karius,GER,24-066,90,0,0,0,,e4374144
+ENG-Premier League,1718,2017-08-27 Tottenham Hotspur-Burnley,Burnley,Tom Heaton,ENG,31-134,90,5,1,4,80.0,9402c6ee
+ENG-Premier League,1718,2017-08-27 Tottenham Hotspur-Burnley,Tottenham Hotspur,Hugo Lloris,FRA,30-244,90,3,1,2,66.7,9402c6ee
+ENG-Premier League,1718,2017-08-27 West Brom-Stoke City,Stoke City,Jack Butland,ENG,24-170,90,2,1,1,50.0,abccb71c
+ENG-Premier League,1718,2017-08-27 West Brom-Stoke City,West Bromwich Albion,Ben Foster,ENG,34-146,90,2,1,1,50.0,abccb71c
+ENG-Premier League,1718,2017-09-09 Arsenal-Bournemouth,Arsenal,Petr Čech,CZE,35-112,90,2,0,2,100.0,2fab7d59
+ENG-Premier League,1718,2017-09-09 Arsenal-Bournemouth,Bournemouth,Asmir Begović,BIH,30-081,90,9,3,6,66.7,2fab7d59
+ENG-Premier League,1718,2017-09-09 Brighton-West Brom,Brighton & Hove Albion,Mathew Ryan,AUS,25-154,90,3,1,2,66.7,b81fcf8d
+ENG-Premier League,1718,2017-09-09 Brighton-West Brom,West Bromwich Albion,Ben Foster,ENG,34-159,90,6,3,3,50.0,b81fcf8d
+ENG-Premier League,1718,2017-09-09 Everton-Tottenham Hotspur,Everton,Jordan Pickford,ENG,23-186,90,6,3,3,50.0,2a7d4892
+ENG-Premier League,1718,2017-09-09 Everton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-257,90,1,0,1,100.0,2a7d4892
+ENG-Premier League,1718,2017-09-09 Leicester City-Chelsea,Chelsea,Thibaut Courtois,BEL,25-121,90,1,1,1,100.0,733dcf07
+ENG-Premier League,1718,2017-09-09 Leicester City-Chelsea,Leicester City,Kasper Schmeichel,DEN,30-308,90,6,2,4,66.7,733dcf07
+ENG-Premier League,1718,2017-09-09 Manchester City-Liverpool,Liverpool,Simon Mignolet,BEL,29-187,90,11,5,6,54.5,39dcce19
+ENG-Premier League,1718,2017-09-09 Manchester City-Liverpool,Manchester City,Claudio Bravo,CHI,34-149,45,0,0,0,,39dcce19
+ENG-Premier League,1718,2017-09-09 Manchester City-Liverpool,Manchester City,Ederson,BRA,24-023,44,3,0,3,100.0,39dcce19
+ENG-Premier League,1718,2017-09-09 Southampton-Watford,Southampton,Fraser Forster,ENG,29-176,90,3,2,1,33.3,bb0151f4
+ENG-Premier League,1718,2017-09-09 Southampton-Watford,Watford,Heurelho Gomes,BRA,36-206,90,1,0,1,100.0,bb0151f4
+ENG-Premier League,1718,2017-09-09 Stoke City-Manchester Utd,Manchester United,David de Gea,ESP,26-306,90,5,2,3,60.0,06ec2f77
+ENG-Premier League,1718,2017-09-09 Stoke City-Manchester Utd,Stoke City,Jack Butland,ENG,24-183,90,9,2,7,77.8,06ec2f77
+ENG-Premier League,1718,2017-09-10 Burnley-Crystal Palace,Burnley,Nick Pope,ENG,25-144,54,3,0,3,100.0,96db0268
+ENG-Premier League,1718,2017-09-10 Burnley-Crystal Palace,Burnley,Tom Heaton,ENG,31-148,36,0,0,0,,96db0268
+ENG-Premier League,1718,2017-09-10 Burnley-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-229,90,2,1,1,50.0,96db0268
+ENG-Premier League,1718,2017-09-10 Swansea City-Newcastle United,Newcastle United,Rob Elliot,IRL,31-133,90,3,0,3,100.0,d9c661eb
+ENG-Premier League,1718,2017-09-10 Swansea City-Newcastle United,Swansea City,Łukasz Fabiański,POL,32-145,90,8,1,7,87.5,d9c661eb
+ENG-Premier League,1718,2017-09-11 West Ham United-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-222,90,4,2,2,50.0,74758ffd
+ENG-Premier League,1718,2017-09-11 West Ham United-Huddersfield Town,West Ham United,Joe Hart,ENG,30-145,90,2,0,2,100.0,74758ffd
+ENG-Premier League,1718,2017-09-15 Bournemouth-Brighton,Bournemouth,Asmir Begović,BIH,30-087,90,2,1,1,50.0,00836893
+ENG-Premier League,1718,2017-09-15 Bournemouth-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-160,90,3,2,1,33.3,00836893
+ENG-Premier League,1718,2017-09-16 Crystal Palace-Southampton,Crystal Palace,Wayne Hennessey,WAL,30-235,90,4,1,3,75.0,720202a0
+ENG-Premier League,1718,2017-09-16 Crystal Palace-Southampton,Southampton,Fraser Forster,ENG,29-183,90,3,0,3,100.0,720202a0
+ENG-Premier League,1718,2017-09-16 Huddersfield Town-Leicester City,Huddersfield Town,Jonas Lössl,DEN,28-227,90,1,1,1,100.0,8b0b0397
+ENG-Premier League,1718,2017-09-16 Huddersfield Town-Leicester City,Leicester City,Kasper Schmeichel,DEN,30-315,90,3,1,2,66.7,8b0b0397
+ENG-Premier League,1718,2017-09-16 Liverpool-Burnley,Burnley,Nick Pope,ENG,25-150,90,9,1,8,88.9,ab422c29
+ENG-Premier League,1718,2017-09-16 Liverpool-Burnley,Liverpool,Simon Mignolet,BEL,29-194,90,3,1,2,66.7,ab422c29
+ENG-Premier League,1718,2017-09-16 Newcastle United-Stoke City,Newcastle United,Rob Elliot,IRL,31-139,90,4,1,3,75.0,349276f6
+ENG-Premier League,1718,2017-09-16 Newcastle United-Stoke City,Stoke City,Jack Butland,ENG,24-190,90,3,2,1,33.3,349276f6
+ENG-Premier League,1718,2017-09-16 Tottenham Hotspur-Swansea City,Swansea City,Łukasz Fabiański,POL,32-151,90,8,0,8,100.0,bca1fa26
+ENG-Premier League,1718,2017-09-16 Tottenham Hotspur-Swansea City,Tottenham Hotspur,Hugo Lloris,FRA,30-264,90,0,0,0,,bca1fa26
+ENG-Premier League,1718,2017-09-16 Watford-Manchester City,Manchester City,Ederson,BRA,24-030,90,1,0,1,100.0,f9dc0d8f
+ENG-Premier League,1718,2017-09-16 Watford-Manchester City,Watford,Heurelho Gomes,BRA,36-213,90,9,6,4,44.4,f9dc0d8f
+ENG-Premier League,1718,2017-09-16 West Brom-West Ham United,West Bromwich Albion,Ben Foster,ENG,34-166,90,1,0,1,100.0,e0e9e784
+ENG-Premier League,1718,2017-09-16 West Brom-West Ham United,West Ham United,Joe Hart,ENG,30-150,90,1,0,1,100.0,e0e9e784
+ENG-Premier League,1718,2017-09-17 Chelsea-Arsenal,Arsenal,Petr Čech,CZE,35-120,90,4,0,4,100.0,b015cd93
+ENG-Premier League,1718,2017-09-17 Chelsea-Arsenal,Chelsea,Thibaut Courtois,BEL,25-129,90,2,0,2,100.0,b015cd93
+ENG-Premier League,1718,2017-09-17 Manchester Utd-Everton,Everton,Jordan Pickford,ENG,23-194,90,6,4,3,50.0,94bab527
+ENG-Premier League,1718,2017-09-17 Manchester Utd-Everton,Manchester United,David de Gea,ESP,26-314,90,3,0,3,100.0,94bab527
+ENG-Premier League,1718,2017-09-23 Burnley-Huddersfield Town,Burnley,Nick Pope,ENG,25-157,90,2,0,2,100.0,6481f3d3
+ENG-Premier League,1718,2017-09-23 Burnley-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-234,90,2,0,2,100.0,6481f3d3
+ENG-Premier League,1718,2017-09-23 Everton-Bournemouth,Bournemouth,Asmir Begović,BIH,30-095,90,3,2,1,33.3,d255555f
+ENG-Premier League,1718,2017-09-23 Everton-Bournemouth,Everton,Jordan Pickford,ENG,23-200,90,4,1,3,75.0,d255555f
+ENG-Premier League,1718,2017-09-23 Leicester City-Liverpool,Leicester City,Kasper Schmeichel,DEN,30-322,90,6,3,3,50.0,4bdab275
+ENG-Premier League,1718,2017-09-23 Leicester City-Liverpool,Liverpool,Simon Mignolet,BEL,29-201,90,5,2,4,60.0,4bdab275
+ENG-Premier League,1718,2017-09-23 Manchester City-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-242,90,9,5,4,44.4,63496f6c
+ENG-Premier League,1718,2017-09-23 Manchester City-Crystal Palace,Manchester City,Ederson,BRA,24-037,90,0,0,0,,63496f6c
+ENG-Premier League,1718,2017-09-23 Southampton-Manchester Utd,Manchester United,David de Gea,ESP,26-320,90,3,0,3,100.0,3af86414
+ENG-Premier League,1718,2017-09-23 Southampton-Manchester Utd,Southampton,Fraser Forster,ENG,29-190,90,4,1,3,75.0,3af86414
+ENG-Premier League,1718,2017-09-23 Stoke City-Chelsea,Chelsea,Thibaut Courtois,BEL,25-135,90,2,0,2,100.0,3d438a3e
+ENG-Premier League,1718,2017-09-23 Stoke City-Chelsea,Stoke City,Jack Butland,ENG,24-197,90,4,4,0,0.0,3d438a3e
+ENG-Premier League,1718,2017-09-23 Swansea City-Watford,Swansea City,Łukasz Fabiański,POL,32-158,90,4,2,2,50.0,bb4b59af
+ENG-Premier League,1718,2017-09-23 Swansea City-Watford,Watford,Heurelho Gomes,BRA,36-220,90,3,1,2,66.7,bb4b59af
+ENG-Premier League,1718,2017-09-23 West Ham United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-271,90,4,2,2,50.0,8c97796b
+ENG-Premier League,1718,2017-09-23 West Ham United-Tottenham Hotspur,West Ham United,Joe Hart,ENG,30-157,90,5,3,2,40.0,8c97796b
+ENG-Premier League,1718,2017-09-24 Brighton-Newcastle United,Brighton & Hove Albion,Mathew Ryan,AUS,25-169,90,5,0,5,100.0,a7efd775
+ENG-Premier League,1718,2017-09-24 Brighton-Newcastle United,Newcastle United,Rob Elliot,IRL,31-147,90,3,1,2,66.7,a7efd775
+ENG-Premier League,1718,2017-09-25 Arsenal-West Brom,Arsenal,Petr Čech,CZE,35-128,90,2,0,2,100.0,b46b6153
+ENG-Premier League,1718,2017-09-25 Arsenal-West Brom,West Bromwich Albion,Ben Foster,ENG,34-175,90,5,2,4,80.0,b46b6153
+ENG-Premier League,1718,2017-09-30 Bournemouth-Leicester City,Bournemouth,Asmir Begović,BIH,30-102,90,1,0,1,100.0,c4ef65e4
+ENG-Premier League,1718,2017-09-30 Bournemouth-Leicester City,Leicester City,Kasper Schmeichel,DEN,30-329,90,4,0,4,100.0,c4ef65e4
+ENG-Premier League,1718,2017-09-30 Chelsea-Manchester City,Chelsea,Thibaut Courtois,BEL,25-142,90,5,1,4,80.0,9ebfd27b
+ENG-Premier League,1718,2017-09-30 Chelsea-Manchester City,Manchester City,Ederson,BRA,24-044,90,2,0,2,100.0,9ebfd27b
+ENG-Premier League,1718,2017-09-30 Huddersfield Town-Tottenham Hotspur,Huddersfield Town,Jonas Lössl,DEN,28-241,90,7,4,3,42.9,f25c2561
+ENG-Premier League,1718,2017-09-30 Huddersfield Town-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-278,90,1,0,1,100.0,f25c2561
+ENG-Premier League,1718,2017-09-30 Manchester Utd-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-249,90,7,4,3,42.9,a720cc9e
+ENG-Premier League,1718,2017-09-30 Manchester Utd-Crystal Palace,Manchester United,David de Gea,ESP,26-327,90,1,0,1,100.0,a720cc9e
+ENG-Premier League,1718,2017-09-30 Stoke City-Southampton,Southampton,Fraser Forster,ENG,29-197,90,5,2,4,60.0,44cd18c0
+ENG-Premier League,1718,2017-09-30 Stoke City-Southampton,Stoke City,Jack Butland,ENG,24-204,90,3,1,2,66.7,44cd18c0
+ENG-Premier League,1718,2017-09-30 West Brom-Watford,Watford,Heurelho Gomes,BRA,36-227,90,4,2,2,50.0,d96be99d
+ENG-Premier League,1718,2017-09-30 West Brom-Watford,West Bromwich Albion,Ben Foster,ENG,34-180,90,3,2,1,33.3,d96be99d
+ENG-Premier League,1718,2017-09-30 West Ham United-Swansea City,Swansea City,Łukasz Fabiański,POL,32-165,90,4,1,3,75.0,6d059e4e
+ENG-Premier League,1718,2017-09-30 West Ham United-Swansea City,West Ham United,Joe Hart,ENG,30-164,90,1,0,1,100.0,6d059e4e
+ENG-Premier League,1718,2017-10-01 Arsenal-Brighton,Arsenal,Petr Čech,CZE,35-134,90,1,0,1,100.0,304dc26b
+ENG-Premier League,1718,2017-10-01 Arsenal-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-176,90,8,2,6,75.0,304dc26b
+ENG-Premier League,1718,2017-10-01 Everton-Burnley,Burnley,Nick Pope,ENG,25-165,90,4,0,4,100.0,275000a3
+ENG-Premier League,1718,2017-10-01 Everton-Burnley,Everton,Jordan Pickford,ENG,23-208,90,2,1,1,50.0,275000a3
+ENG-Premier League,1718,2017-10-01 Newcastle United-Liverpool,Liverpool,Simon Mignolet,BEL,29-209,90,5,1,4,80.0,b1b3ecb9
+ENG-Premier League,1718,2017-10-01 Newcastle United-Liverpool,Newcastle United,Rob Elliot,IRL,31-154,90,2,1,1,50.0,b1b3ecb9
+ENG-Premier League,1718,2017-10-14 Burnley-West Ham United,Burnley,Nick Pope,ENG,25-178,90,6,1,5,83.3,1cf63700
+ENG-Premier League,1718,2017-10-14 Burnley-West Ham United,West Ham United,Joe Hart,ENG,30-178,90,5,1,4,80.0,1cf63700
+ENG-Premier League,1718,2017-10-14 Crystal Palace-Chelsea,Chelsea,Thibaut Courtois,BEL,25-156,90,6,2,4,66.7,70d64db2
+ENG-Premier League,1718,2017-10-14 Crystal Palace-Chelsea,Crystal Palace,Julián Speroni,ARG,38-149,90,5,1,4,80.0,70d64db2
+ENG-Premier League,1718,2017-10-14 Liverpool-Manchester Utd,Liverpool,Simon Mignolet,BEL,29-222,90,1,0,1,100.0,d7dce737
+ENG-Premier League,1718,2017-10-14 Liverpool-Manchester Utd,Manchester United,David de Gea,ESP,26-341,90,5,0,5,100.0,d7dce737
+ENG-Premier League,1718,2017-10-14 Manchester City-Stoke City,Manchester City,Ederson,BRA,24-058,90,2,2,0,0.0,f81f42ed
+ENG-Premier League,1718,2017-10-14 Manchester City-Stoke City,Stoke City,Jack Butland,ENG,24-218,90,11,7,4,36.4,f81f42ed
+ENG-Premier League,1718,2017-10-14 Swansea City-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-255,90,3,2,1,33.3,dfe3c484
+ENG-Premier League,1718,2017-10-14 Swansea City-Huddersfield Town,Swansea City,Łukasz Fabiański,POL,32-179,90,2,0,2,100.0,dfe3c484
+ENG-Premier League,1718,2017-10-14 Tottenham Hotspur-Bournemouth,Bournemouth,Asmir Begović,BIH,30-116,90,6,1,5,83.3,0e98ac46
+ENG-Premier League,1718,2017-10-14 Tottenham Hotspur-Bournemouth,Tottenham Hotspur,Hugo Lloris,FRA,30-292,90,2,0,1,100.0,0e98ac46
+ENG-Premier League,1718,2017-10-14 Watford-Arsenal,Arsenal,Petr Čech,CZE,35-147,90,2,2,1,50.0,f18931d9
+ENG-Premier League,1718,2017-10-14 Watford-Arsenal,Watford,Heurelho Gomes,BRA,36-241,90,6,1,5,83.3,f18931d9
+ENG-Premier League,1718,2017-10-15 Brighton-Everton,Brighton & Hove Albion,Mathew Ryan,AUS,25-190,90,5,1,5,100.0,1585521f
+ENG-Premier League,1718,2017-10-15 Brighton-Everton,Everton,Jordan Pickford,ENG,23-222,90,3,1,2,66.7,1585521f
+ENG-Premier League,1718,2017-10-15 Southampton-Newcastle United,Newcastle United,Rob Elliot,IRL,31-168,90,1,2,0,0.0,a479dc92
+ENG-Premier League,1718,2017-10-15 Southampton-Newcastle United,Southampton,Fraser Forster,ENG,29-212,90,4,2,2,50.0,a479dc92
+ENG-Premier League,1718,2017-10-16 Leicester City-West Brom,Leicester City,Kasper Schmeichel,DEN,30-345,90,1,1,0,0.0,199aafa3
+ENG-Premier League,1718,2017-10-16 Leicester City-West Brom,West Bromwich Albion,Boaz Myhill,WAL,34-341,90,3,1,2,66.7,199aafa3
+ENG-Premier League,1718,2017-10-20 West Ham United-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-195,90,2,0,2,100.0,2f83e2ec
+ENG-Premier League,1718,2017-10-20 West Ham United-Brighton,West Ham United,Joe Hart,ENG,30-184,90,4,3,2,50.0,2f83e2ec
+ENG-Premier League,1718,2017-10-21 Chelsea-Watford,Chelsea,Thibaut Courtois,BEL,25-163,90,5,2,3,60.0,048d192d
+ENG-Premier League,1718,2017-10-21 Chelsea-Watford,Watford,Heurelho Gomes,BRA,36-248,90,8,4,4,50.0,048d192d
+ENG-Premier League,1718,2017-10-21 Huddersfield Town-Manchester Utd,Huddersfield Town,Jonas Lössl,DEN,28-262,90,3,1,2,66.7,155ed776
+ENG-Premier League,1718,2017-10-21 Huddersfield Town-Manchester Utd,Manchester United,David de Gea,ESP,26-348,90,3,2,1,33.3,155ed776
+ENG-Premier League,1718,2017-10-21 Manchester City-Burnley,Burnley,Nick Pope,ENG,25-185,90,9,3,7,77.8,11c702a4
+ENG-Premier League,1718,2017-10-21 Manchester City-Burnley,Manchester City,Ederson,BRA,24-065,90,0,0,0,,11c702a4
+ENG-Premier League,1718,2017-10-21 Newcastle United-Crystal Palace,Crystal Palace,Julián Speroni,ARG,38-156,90,3,1,2,66.7,ab9171ec
+ENG-Premier League,1718,2017-10-21 Newcastle United-Crystal Palace,Newcastle United,Rob Elliot,IRL,31-174,90,0,0,0,,ab9171ec
+ENG-Premier League,1718,2017-10-21 Southampton-West Brom,Southampton,Fraser Forster,ENG,29-218,90,2,0,2,100.0,424a0e74
+ENG-Premier League,1718,2017-10-21 Southampton-West Brom,West Bromwich Albion,Ben Foster,ENG,34-201,90,6,1,5,83.3,424a0e74
+ENG-Premier League,1718,2017-10-21 Stoke City-Bournemouth,Bournemouth,Asmir Begović,BIH,30-123,90,3,1,2,66.7,7da1fc42
+ENG-Premier League,1718,2017-10-21 Stoke City-Bournemouth,Stoke City,Jack Butland,ENG,24-225,90,2,2,1,50.0,7da1fc42
+ENG-Premier League,1718,2017-10-21 Swansea City-Leicester City,Leicester City,Kasper Schmeichel,DEN,30-350,90,4,1,3,75.0,78a41b8a
+ENG-Premier League,1718,2017-10-21 Swansea City-Leicester City,Swansea City,Łukasz Fabiański,POL,32-186,90,7,2,5,71.4,78a41b8a
+ENG-Premier League,1718,2017-10-22 Everton-Arsenal,Arsenal,Petr Čech,CZE,35-155,90,3,2,1,33.3,73da64ff
+ENG-Premier League,1718,2017-10-22 Everton-Arsenal,Everton,Jordan Pickford,ENG,23-229,90,14,5,9,64.3,73da64ff
+ENG-Premier League,1718,2017-10-22 Tottenham Hotspur-Liverpool,Liverpool,Simon Mignolet,BEL,29-230,90,5,4,1,20.0,b43525f5
+ENG-Premier League,1718,2017-10-22 Tottenham Hotspur-Liverpool,Tottenham Hotspur,Hugo Lloris,FRA,30-300,90,7,1,6,85.7,b43525f5
+ENG-Premier League,1718,2017-10-28 Arsenal-Swansea City,Arsenal,Petr Čech,CZE,35-161,90,2,1,1,50.0,3424d0e6
+ENG-Premier League,1718,2017-10-28 Arsenal-Swansea City,Swansea City,Łukasz Fabiański,POL,32-193,90,5,2,3,60.0,3424d0e6
+ENG-Premier League,1718,2017-10-28 Bournemouth-Chelsea,Bournemouth,Asmir Begović,BIH,30-130,90,5,1,4,80.0,6eb8787a
+ENG-Premier League,1718,2017-10-28 Bournemouth-Chelsea,Chelsea,Thibaut Courtois,BEL,25-170,90,1,0,1,100.0,6eb8787a
+ENG-Premier League,1718,2017-10-28 Crystal Palace-West Ham United,Crystal Palace,Julián Speroni,ARG,38-163,90,2,2,0,0.0,4ee00470
+ENG-Premier League,1718,2017-10-28 Crystal Palace-West Ham United,West Ham United,Joe Hart,ENG,30-192,90,8,2,7,87.5,4ee00470
+ENG-Premier League,1718,2017-10-28 Liverpool-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-269,90,6,3,4,50.0,9e2f900f
+ENG-Premier League,1718,2017-10-28 Liverpool-Huddersfield Town,Liverpool,Simon Mignolet,BEL,29-236,90,0,0,0,,9e2f900f
+ENG-Premier League,1718,2017-10-28 Manchester Utd-Tottenham Hotspur,Manchester United,David de Gea,ESP,26-355,90,4,0,4,100.0,11f75bcb
+ENG-Premier League,1718,2017-10-28 Manchester Utd-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-306,90,3,1,2,66.7,11f75bcb
+ENG-Premier League,1718,2017-10-28 Watford-Stoke City,Stoke City,Jack Butland,ENG,24-232,90,0,0,0,,7834b95f
+ENG-Premier League,1718,2017-10-28 Watford-Stoke City,Watford,Heurelho Gomes,BRA,36-255,90,2,1,1,50.0,7834b95f
+ENG-Premier League,1718,2017-10-28 West Brom-Manchester City,Manchester City,Ederson,BRA,24-072,90,4,2,2,50.0,fdbbce69
+ENG-Premier League,1718,2017-10-28 West Brom-Manchester City,West Bromwich Albion,Ben Foster,ENG,34-208,90,5,3,2,40.0,fdbbce69
+ENG-Premier League,1718,2017-10-29 Brighton-Southampton,Brighton & Hove Albion,Mathew Ryan,AUS,25-204,90,1,1,0,0.0,864d3ffd
+ENG-Premier League,1718,2017-10-29 Brighton-Southampton,Southampton,Fraser Forster,ENG,29-226,90,2,1,1,50.0,864d3ffd
+ENG-Premier League,1718,2017-10-29 Leicester City-Everton,Everton,Jordan Pickford,ENG,23-236,90,3,2,1,33.3,f6cf8af5
+ENG-Premier League,1718,2017-10-29 Leicester City-Everton,Leicester City,Kasper Schmeichel,DEN,30-358,90,2,0,2,100.0,f6cf8af5
+ENG-Premier League,1718,2017-10-30 Burnley-Newcastle United,Burnley,Nick Pope,ENG,25-194,90,5,0,5,100.0,d41003f2
+ENG-Premier League,1718,2017-10-30 Burnley-Newcastle United,Newcastle United,Rob Elliot,IRL,31-183,90,5,1,4,80.0,d41003f2
+ENG-Premier League,1718,2017-11-04 Huddersfield Town-West Brom,Huddersfield Town,Jonas Lössl,DEN,28-276,90,3,0,3,100.0,b2cc19bf
+ENG-Premier League,1718,2017-11-04 Huddersfield Town-West Brom,West Bromwich Albion,Ben Foster,ENG,34-215,90,3,1,2,66.7,b2cc19bf
+ENG-Premier League,1718,2017-11-04 Newcastle United-Bournemouth,Bournemouth,Asmir Begović,BIH,30-137,90,4,0,4,100.0,b2dc70f2
+ENG-Premier League,1718,2017-11-04 Newcastle United-Bournemouth,Newcastle United,Rob Elliot,IRL,31-188,90,5,1,4,80.0,b2dc70f2
+ENG-Premier League,1718,2017-11-04 Southampton-Burnley,Burnley,Nick Pope,ENG,25-199,90,3,0,3,100.0,2849b3bf
+ENG-Premier League,1718,2017-11-04 Southampton-Burnley,Southampton,Fraser Forster,ENG,29-232,90,1,1,0,0.0,2849b3bf
+ENG-Premier League,1718,2017-11-04 Stoke City-Leicester City,Leicester City,Kasper Schmeichel,DEN,30-364,90,7,2,5,71.4,3cefdf58
+ENG-Premier League,1718,2017-11-04 Stoke City-Leicester City,Stoke City,Jack Butland,ENG,24-239,90,4,2,2,50.0,3cefdf58
+ENG-Premier League,1718,2017-11-04 Swansea City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-210,90,2,0,2,100.0,4282f27d
+ENG-Premier League,1718,2017-11-04 Swansea City-Brighton,Swansea City,Łukasz Fabiański,POL,32-200,90,2,1,1,50.0,4282f27d
+ENG-Premier League,1718,2017-11-04 West Ham United-Liverpool,Liverpool,Simon Mignolet,BEL,29-243,90,1,1,0,0.0,172202bc
+ENG-Premier League,1718,2017-11-04 West Ham United-Liverpool,West Ham United,Joe Hart,ENG,30-199,90,8,4,4,50.0,172202bc
+ENG-Premier League,1718,2017-11-05 Chelsea-Manchester Utd,Chelsea,Thibaut Courtois,BEL,25-178,90,2,0,2,100.0,70104ce7
+ENG-Premier League,1718,2017-11-05 Chelsea-Manchester Utd,Manchester United,David de Gea,ESP,26-363,90,8,1,7,87.5,70104ce7
+ENG-Premier League,1718,2017-11-05 Everton-Watford,Everton,Jordan Pickford,ENG,23-243,90,3,2,1,33.3,113bc344
+ENG-Premier League,1718,2017-11-05 Everton-Watford,Watford,Heurelho Gomes,BRA,36-263,58,2,0,2,100.0,113bc344
+ENG-Premier League,1718,2017-11-05 Everton-Watford,Watford,Orestis Karnezis,GRE,32-117,31,2,3,0,0.0,113bc344
+ENG-Premier League,1718,2017-11-05 Manchester City-Arsenal,Arsenal,Petr Čech,CZE,35-169,90,5,3,3,60.0,03da14dd
+ENG-Premier League,1718,2017-11-05 Manchester City-Arsenal,Manchester City,Ederson,BRA,24-080,90,3,1,2,66.7,03da14dd
+ENG-Premier League,1718,2017-11-05 Tottenham Hotspur-Crystal Palace,Crystal Palace,Julián Speroni,ARG,38-171,90,2,1,1,50.0,c91bcebc
+ENG-Premier League,1718,2017-11-05 Tottenham Hotspur-Crystal Palace,Tottenham Hotspur,Paulo Gazzaniga,ARG,25-307,90,3,0,3,100.0,c91bcebc
+ENG-Premier League,1718,2017-11-18 Arsenal-Tottenham Hotspur,Arsenal,Petr Čech,CZE,35-182,90,4,0,4,100.0,ae345878
+ENG-Premier League,1718,2017-11-18 Arsenal-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-327,90,5,2,3,60.0,ae345878
+ENG-Premier League,1718,2017-11-18 Bournemouth-Huddersfield Town,Bournemouth,Asmir Begović,BIH,30-151,90,3,0,3,100.0,5e8ab70a
+ENG-Premier League,1718,2017-11-18 Bournemouth-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-290,90,5,4,1,20.0,5e8ab70a
+ENG-Premier League,1718,2017-11-18 Burnley-Swansea City,Burnley,Nick Pope,ENG,25-213,90,1,0,1,100.0,807a3956
+ENG-Premier League,1718,2017-11-18 Burnley-Swansea City,Swansea City,Łukasz Fabiański,POL,32-214,90,8,2,6,75.0,807a3956
+ENG-Premier League,1718,2017-11-18 Crystal Palace-Everton,Crystal Palace,Julián Speroni,ARG,38-184,90,4,2,3,75.0,a96b0eaa
+ENG-Premier League,1718,2017-11-18 Crystal Palace-Everton,Everton,Jordan Pickford,ENG,23-256,90,7,2,5,71.4,a96b0eaa
+ENG-Premier League,1718,2017-11-18 Leicester City-Manchester City,Leicester City,Kasper Schmeichel,DEN,31-013,90,4,2,2,50.0,fd125d0b
+ENG-Premier League,1718,2017-11-18 Leicester City-Manchester City,Manchester City,Ederson,BRA,24-093,90,1,0,1,100.0,fd125d0b
+ENG-Premier League,1718,2017-11-18 Liverpool-Southampton,Liverpool,Simon Mignolet,BEL,29-257,90,0,0,0,,78df644e
+ENG-Premier League,1718,2017-11-18 Liverpool-Southampton,Southampton,Fraser Forster,ENG,29-246,90,8,3,5,62.5,78df644e
+ENG-Premier League,1718,2017-11-18 Manchester Utd-Newcastle United,Manchester United,David de Gea,ESP,27-011,90,5,1,4,80.0,a624cbc4
+ENG-Premier League,1718,2017-11-18 Manchester Utd-Newcastle United,Newcastle United,Rob Elliot,IRL,31-202,90,7,4,3,42.9,a624cbc4
+ENG-Premier League,1718,2017-11-18 West Brom-Chelsea,Chelsea,Thibaut Courtois,BEL,25-191,90,2,0,2,100.0,499d50ec
+ENG-Premier League,1718,2017-11-18 West Brom-Chelsea,West Bromwich Albion,Ben Foster,ENG,34-229,90,7,4,3,42.9,499d50ec
+ENG-Premier League,1718,2017-11-19 Watford-West Ham United,Watford,Heurelho Gomes,BRA,36-277,90,5,0,5,100.0,236c48b6
+ENG-Premier League,1718,2017-11-19 Watford-West Ham United,West Ham United,Joe Hart,ENG,30-214,90,7,2,5,71.4,236c48b6
+ENG-Premier League,1718,2017-11-20 Brighton-Stoke City,Brighton & Hove Albion,Mathew Ryan,AUS,25-226,90,6,2,4,66.7,77995c06
+ENG-Premier League,1718,2017-11-20 Brighton-Stoke City,Stoke City,Lee Grant,ENG,34-297,90,3,2,1,33.3,77995c06
+ENG-Premier League,1718,2017-11-24 West Ham United-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-019,90,4,1,3,75.0,3ac99526
+ENG-Premier League,1718,2017-11-24 West Ham United-Leicester City,West Ham United,Joe Hart,ENG,30-219,90,2,1,1,50.0,3ac99526
+ENG-Premier League,1718,2017-11-25 Crystal Palace-Stoke City,Crystal Palace,Wayne Hennessey,WAL,30-305,90,3,1,2,66.7,d6d1f3dc
+ENG-Premier League,1718,2017-11-25 Crystal Palace-Stoke City,Stoke City,Lee Grant,ENG,34-302,90,5,2,3,60.0,d6d1f3dc
+ENG-Premier League,1718,2017-11-25 Liverpool-Chelsea,Chelsea,Thibaut Courtois,BEL,25-198,90,4,1,3,75.0,aa480195
+ENG-Premier League,1718,2017-11-25 Liverpool-Chelsea,Liverpool,Simon Mignolet,BEL,29-264,90,3,1,2,66.7,aa480195
+ENG-Premier League,1718,2017-11-25 Manchester Utd-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-231,90,5,1,4,80.0,8d061522
+ENG-Premier League,1718,2017-11-25 Manchester Utd-Brighton,Manchester United,David de Gea,ESP,27-018,90,2,0,2,100.0,8d061522
+ENG-Premier League,1718,2017-11-25 Newcastle United-Watford,Newcastle United,Rob Elliot,IRL,31-209,90,5,3,2,40.0,dfc83a02
+ENG-Premier League,1718,2017-11-25 Newcastle United-Watford,Watford,Heurelho Gomes,BRA,36-283,90,2,0,2,100.0,dfc83a02
+ENG-Premier League,1718,2017-11-25 Swansea City-Bournemouth,Bournemouth,Asmir Begović,BIH,30-158,90,1,0,1,100.0,bc90e5b8
+ENG-Premier League,1718,2017-11-25 Swansea City-Bournemouth,Swansea City,Łukasz Fabiański,POL,32-221,90,5,0,5,100.0,bc90e5b8
+ENG-Premier League,1718,2017-11-25 Tottenham Hotspur-West Brom,Tottenham Hotspur,Hugo Lloris,FRA,30-334,90,2,1,1,50.0,0ea2d13d
+ENG-Premier League,1718,2017-11-25 Tottenham Hotspur-West Brom,West Bromwich Albion,Ben Foster,ENG,34-236,90,5,1,4,80.0,0ea2d13d
+ENG-Premier League,1718,2017-11-26 Burnley-Arsenal,Arsenal,Petr Čech,CZE,35-190,90,2,0,2,100.0,0ad47126
+ENG-Premier League,1718,2017-11-26 Burnley-Arsenal,Burnley,Nick Pope,ENG,25-221,90,1,1,1,100.0,0ad47126
+ENG-Premier League,1718,2017-11-26 Huddersfield Town-Manchester City,Huddersfield Town,Jonas Lössl,DEN,28-298,90,4,2,3,75.0,c150919a
+ENG-Premier League,1718,2017-11-26 Huddersfield Town-Manchester City,Manchester City,Ederson,BRA,24-101,90,1,1,0,0.0,c150919a
+ENG-Premier League,1718,2017-11-26 Southampton-Everton,Everton,Jordan Pickford,ENG,23-264,90,5,4,1,20.0,24bc9343
+ENG-Premier League,1718,2017-11-26 Southampton-Everton,Southampton,Fraser Forster,ENG,29-254,90,2,1,1,50.0,24bc9343
+ENG-Premier League,1718,2017-11-28 Brighton-Crystal Palace,Brighton & Hove Albion,Mathew Ryan,AUS,25-234,90,4,0,4,100.0,2b611e0f
+ENG-Premier League,1718,2017-11-28 Brighton-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-308,90,3,0,3,100.0,2b611e0f
+ENG-Premier League,1718,2017-11-28 Leicester City-Tottenham Hotspur,Leicester City,Kasper Schmeichel,DEN,31-023,90,5,1,4,80.0,49a854c5
+ENG-Premier League,1718,2017-11-28 Leicester City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-337,90,3,2,1,33.3,49a854c5
+ENG-Premier League,1718,2017-11-28 Watford-Manchester Utd,Manchester United,David de Gea,ESP,27-021,90,2,2,1,50.0,1a4b3369
+ENG-Premier League,1718,2017-11-28 Watford-Manchester Utd,Watford,Heurelho Gomes,BRA,36-286,90,6,4,2,33.3,1a4b3369
+ENG-Premier League,1718,2017-11-28 West Brom-Newcastle United,Newcastle United,Karl Darlow,WAL,27-051,90,4,2,2,50.0,c9a6291f
+ENG-Premier League,1718,2017-11-28 West Brom-Newcastle United,West Bromwich Albion,Ben Foster,ENG,34-239,90,5,2,3,60.0,c9a6291f
+ENG-Premier League,1718,2017-11-29 Arsenal-Huddersfield Town,Arsenal,Petr Čech,CZE,35-193,90,2,0,2,100.0,5765760d
+ENG-Premier League,1718,2017-11-29 Arsenal-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-301,90,6,5,1,16.7,5765760d
+ENG-Premier League,1718,2017-11-29 Bournemouth-Burnley,Bournemouth,Asmir Begović,BIH,30-162,90,4,2,2,50.0,0f0e0f7f
+ENG-Premier League,1718,2017-11-29 Bournemouth-Burnley,Burnley,Nick Pope,ENG,25-224,90,2,1,1,50.0,0f0e0f7f
+ENG-Premier League,1718,2017-11-29 Chelsea-Swansea City,Chelsea,Thibaut Courtois,BEL,25-202,90,0,0,0,,0d60e1e4
+ENG-Premier League,1718,2017-11-29 Chelsea-Swansea City,Swansea City,Łukasz Fabiański,POL,32-225,90,10,1,9,90.0,0d60e1e4
+ENG-Premier League,1718,2017-11-29 Everton-West Ham United,Everton,Jordan Pickford,ENG,23-267,90,1,0,2,100.0,a302fbdd
+ENG-Premier League,1718,2017-11-29 Everton-West Ham United,West Ham United,Joe Hart,ENG,30-224,90,3,4,0,-33.3,a302fbdd
+ENG-Premier League,1718,2017-11-29 Manchester City-Southampton,Manchester City,Ederson,BRA,24-104,90,2,1,1,50.0,cb554100
+ENG-Premier League,1718,2017-11-29 Manchester City-Southampton,Southampton,Fraser Forster,ENG,29-257,90,12,2,10,83.3,cb554100
+ENG-Premier League,1718,2017-11-29 Stoke City-Liverpool,Liverpool,Simon Mignolet,BEL,29-268,90,1,0,1,100.0,21c13e13
+ENG-Premier League,1718,2017-11-29 Stoke City-Liverpool,Stoke City,Lee Grant,ENG,34-306,90,7,3,4,57.1,21c13e13
+ENG-Premier League,1718,2017-12-02 Arsenal-Manchester Utd,Arsenal,Petr Čech,CZE,35-196,90,5,3,2,40.0,baa538cc
+ENG-Premier League,1718,2017-12-02 Arsenal-Manchester Utd,Manchester United,David de Gea,ESP,27-025,90,15,1,14,93.3,baa538cc
+ENG-Premier League,1718,2017-12-02 Brighton-Liverpool,Brighton & Hove Albion,Mathew Ryan,AUS,25-238,90,7,5,2,28.6,92a410a2
+ENG-Premier League,1718,2017-12-02 Brighton-Liverpool,Liverpool,Simon Mignolet,BEL,29-271,90,1,1,1,100.0,92a410a2
+ENG-Premier League,1718,2017-12-02 Chelsea-Newcastle United,Chelsea,Thibaut Courtois,BEL,25-205,90,2,1,1,50.0,66efb2b9
+ENG-Premier League,1718,2017-12-02 Chelsea-Newcastle United,Newcastle United,Karl Darlow,WAL,27-055,90,8,3,6,75.0,66efb2b9
+ENG-Premier League,1718,2017-12-02 Everton-Huddersfield Town,Everton,Jordan Pickford,ENG,23-270,90,3,0,3,100.0,cfc62400
+ENG-Premier League,1718,2017-12-02 Everton-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-304,90,4,2,2,50.0,cfc62400
+ENG-Premier League,1718,2017-12-02 Leicester City-Burnley,Burnley,Nick Pope,ENG,25-227,90,3,1,2,66.7,fbda6872
+ENG-Premier League,1718,2017-12-02 Leicester City-Burnley,Leicester City,Kasper Schmeichel,DEN,31-027,90,4,0,4,100.0,fbda6872
+ENG-Premier League,1718,2017-12-02 Stoke City-Swansea City,Stoke City,Jack Butland,ENG,24-267,90,4,1,3,75.0,83bc0290
+ENG-Premier League,1718,2017-12-02 Stoke City-Swansea City,Swansea City,Łukasz Fabiański,POL,32-228,90,3,2,1,33.3,83bc0290
+ENG-Premier League,1718,2017-12-02 Watford-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-341,90,2,1,1,50.0,0dbc6a97
+ENG-Premier League,1718,2017-12-02 Watford-Tottenham Hotspur,Watford,Heurelho Gomes,BRA,36-290,90,2,1,1,50.0,0dbc6a97
+ENG-Premier League,1718,2017-12-02 West Brom-Crystal Palace,Crystal Palace,Julián Speroni,ARG,38-198,90,6,0,6,100.0,4a14eedc
+ENG-Premier League,1718,2017-12-02 West Brom-Crystal Palace,West Bromwich Albion,Ben Foster,ENG,34-243,90,2,0,2,100.0,4a14eedc
+ENG-Premier League,1718,2017-12-03 Bournemouth-Southampton,Bournemouth,Asmir Begović,BIH,30-166,90,3,1,2,66.7,3a114119
+ENG-Premier League,1718,2017-12-03 Bournemouth-Southampton,Southampton,Fraser Forster,ENG,29-261,90,5,1,4,80.0,3a114119
+ENG-Premier League,1718,2017-12-03 Manchester City-West Ham United,Manchester City,Ederson,BRA,24-108,90,4,1,3,75.0,7c65617e
+ENG-Premier League,1718,2017-12-03 Manchester City-West Ham United,West Ham United,Adrián,ESP,30-334,90,8,2,6,75.0,7c65617e
+ENG-Premier League,1718,2017-12-09 Burnley-Watford,Burnley,Nick Pope,ENG,25-234,90,2,0,2,100.0,db3b2aca
+ENG-Premier League,1718,2017-12-09 Burnley-Watford,Watford,Heurelho Gomes,BRA,36-297,90,5,1,4,80.0,db3b2aca
+ENG-Premier League,1718,2017-12-09 Crystal Palace-Bournemouth,Bournemouth,Asmir Begović,BIH,30-172,90,5,2,5,80.0,4aa97fef
+ENG-Premier League,1718,2017-12-09 Crystal Palace-Bournemouth,Crystal Palace,Julián Speroni,ARG,38-205,90,5,2,3,60.0,4aa97fef
+ENG-Premier League,1718,2017-12-09 Huddersfield Town-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-245,90,6,2,4,66.7,1e0cec3d
+ENG-Premier League,1718,2017-12-09 Huddersfield Town-Brighton,Huddersfield Town,Jonas Lössl,DEN,28-311,90,2,0,2,100.0,1e0cec3d
+ENG-Premier League,1718,2017-12-09 Newcastle United-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-034,90,4,2,2,50.0,14f71230
+ENG-Premier League,1718,2017-12-09 Newcastle United-Leicester City,Newcastle United,Karl Darlow,WAL,27-062,90,6,3,3,50.0,14f71230
+ENG-Premier League,1718,2017-12-09 Swansea City-West Brom,Swansea City,Łukasz Fabiański,POL,32-235,90,1,0,1,100.0,dbcf5536
+ENG-Premier League,1718,2017-12-09 Swansea City-West Brom,West Bromwich Albion,Ben Foster,ENG,34-250,90,3,1,2,66.7,dbcf5536
+ENG-Premier League,1718,2017-12-09 Tottenham Hotspur-Stoke City,Stoke City,Jack Butland,ENG,24-274,90,12,5,7,58.3,a91a2bf3
+ENG-Premier League,1718,2017-12-09 Tottenham Hotspur-Stoke City,Tottenham Hotspur,Hugo Lloris,FRA,30-348,90,3,1,2,66.7,a91a2bf3
+ENG-Premier League,1718,2017-12-09 West Ham United-Chelsea,Chelsea,Thibaut Courtois,BEL,25-212,90,2,1,1,50.0,efda9b14
+ENG-Premier League,1718,2017-12-09 West Ham United-Chelsea,West Ham United,Adrián,ESP,30-340,90,2,0,2,100.0,efda9b14
+ENG-Premier League,1718,2017-12-10 Liverpool-Everton,Everton,Jordan Pickford,ENG,23-278,90,3,1,2,66.7,347ec791
+ENG-Premier League,1718,2017-12-10 Liverpool-Everton,Liverpool,Simon Mignolet,BEL,29-279,90,1,1,1,100.0,347ec791
+ENG-Premier League,1718,2017-12-10 Manchester Utd-Manchester City,Manchester City,Ederson,BRA,24-115,90,5,1,4,80.0,52419e39
+ENG-Premier League,1718,2017-12-10 Manchester Utd-Manchester City,Manchester United,David de Gea,ESP,27-033,90,7,2,5,71.4,52419e39
+ENG-Premier League,1718,2017-12-10 Southampton-Arsenal,Arsenal,Petr Čech,CZE,35-204,90,3,1,2,66.7,8a233cbd
+ENG-Premier League,1718,2017-12-10 Southampton-Arsenal,Southampton,Fraser Forster,ENG,29-268,90,6,1,5,83.3,8a233cbd
+ENG-Premier League,1718,2017-12-12 Burnley-Stoke City,Burnley,Nick Pope,ENG,25-237,90,7,0,7,100.0,8ff402f4
+ENG-Premier League,1718,2017-12-12 Burnley-Stoke City,Stoke City,Jack Butland,ENG,24-277,90,2,1,1,50.0,8ff402f4
+ENG-Premier League,1718,2017-12-12 Crystal Palace-Watford,Crystal Palace,Julián Speroni,ARG,38-208,90,2,1,1,50.0,099b2800
+ENG-Premier League,1718,2017-12-12 Crystal Palace-Watford,Watford,Heurelho Gomes,BRA,36-300,90,4,2,2,50.0,099b2800
+ENG-Premier League,1718,2017-12-12 Huddersfield Town-Chelsea,Chelsea,Thibaut Courtois,BEL,25-215,90,3,1,2,66.7,6e0cc46e
+ENG-Premier League,1718,2017-12-12 Huddersfield Town-Chelsea,Huddersfield Town,Jonas Lössl,DEN,28-314,90,5,3,2,40.0,6e0cc46e
+ENG-Premier League,1718,2017-12-13 Liverpool-West Brom,Liverpool,Loris Karius,GER,24-174,90,1,0,1,100.0,1b7ef0bf
+ENG-Premier League,1718,2017-12-13 Liverpool-West Brom,West Bromwich Albion,Ben Foster,ENG,34-254,90,3,0,3,100.0,1b7ef0bf
+ENG-Premier League,1718,2017-12-13 Manchester Utd-Bournemouth,Bournemouth,Asmir Begović,BIH,30-176,90,2,1,1,50.0,eaf5939d
+ENG-Premier League,1718,2017-12-13 Manchester Utd-Bournemouth,Manchester United,David de Gea,ESP,27-036,90,7,0,7,100.0,eaf5939d
+ENG-Premier League,1718,2017-12-13 Newcastle United-Everton,Everton,Jordan Pickford,ENG,23-281,90,4,0,4,100.0,73b5607f
+ENG-Premier League,1718,2017-12-13 Newcastle United-Everton,Newcastle United,Karl Darlow,WAL,27-066,90,4,1,3,75.0,73b5607f
+ENG-Premier League,1718,2017-12-13 Southampton-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-038,90,4,1,3,75.0,d4cf1115
+ENG-Premier League,1718,2017-12-13 Southampton-Leicester City,Southampton,Fraser Forster,ENG,29-271,90,9,4,5,55.6,d4cf1115
+ENG-Premier League,1718,2017-12-13 Swansea City-Manchester City,Manchester City,Ederson,BRA,24-118,90,3,0,3,100.0,f7ddcac0
+ENG-Premier League,1718,2017-12-13 Swansea City-Manchester City,Swansea City,Łukasz Fabiański,POL,32-239,90,10,4,6,60.0,f7ddcac0
+ENG-Premier League,1718,2017-12-13 Tottenham Hotspur-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-249,90,7,2,5,71.4,8ca205ce
+ENG-Premier League,1718,2017-12-13 Tottenham Hotspur-Brighton,Tottenham Hotspur,Hugo Lloris,FRA,30-352,90,4,0,4,100.0,8ca205ce
+ENG-Premier League,1718,2017-12-13 West Ham United-Arsenal,Arsenal,Petr Čech,CZE,35-207,90,0,0,0,,2f10aa8f
+ENG-Premier League,1718,2017-12-13 West Ham United-Arsenal,West Ham United,Adrián,ESP,30-344,90,3,0,3,100.0,2f10aa8f
+ENG-Premier League,1718,2017-12-16 Arsenal-Newcastle United,Arsenal,Petr Čech,CZE,35-210,90,2,0,2,100.0,2d7430b9
+ENG-Premier League,1718,2017-12-16 Arsenal-Newcastle United,Newcastle United,Rob Elliot,IRL,31-230,90,5,1,4,80.0,2d7430b9
+ENG-Premier League,1718,2017-12-16 Brighton-Burnley,Brighton & Hove Albion,Mathew Ryan,AUS,25-252,90,6,0,6,100.0,4365b452
+ENG-Premier League,1718,2017-12-16 Brighton-Burnley,Burnley,Nick Pope,ENG,25-241,90,1,0,1,100.0,4365b452
+ENG-Premier League,1718,2017-12-16 Chelsea-Southampton,Chelsea,Thibaut Courtois,BEL,25-219,90,2,0,2,100.0,cd98063b
+ENG-Premier League,1718,2017-12-16 Chelsea-Southampton,Southampton,Fraser Forster,ENG,29-274,90,8,1,7,87.5,cd98063b
+ENG-Premier League,1718,2017-12-16 Leicester City-Crystal Palace,Crystal Palace,Julián Speroni,ARG,38-212,90,2,0,2,100.0,029fd911
+ENG-Premier League,1718,2017-12-16 Leicester City-Crystal Palace,Leicester City,Kasper Schmeichel,DEN,31-041,90,6,3,3,50.0,029fd911
+ENG-Premier League,1718,2017-12-16 Manchester City-Tottenham Hotspur,Manchester City,Ederson,BRA,24-121,90,2,1,1,50.0,6b423cc3
+ENG-Premier League,1718,2017-12-16 Manchester City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-355,90,9,4,6,55.6,6b423cc3
+ENG-Premier League,1718,2017-12-16 Stoke City-West Ham United,Stoke City,Jack Butland,ENG,24-281,90,6,3,4,66.7,17329e19
+ENG-Premier League,1718,2017-12-16 Stoke City-West Ham United,West Ham United,Adrián,ESP,30-347,90,0,0,0,,17329e19
+ENG-Premier League,1718,2017-12-16 Watford-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-318,90,3,1,2,66.7,178a7528
+ENG-Premier League,1718,2017-12-16 Watford-Huddersfield Town,Watford,Heurelho Gomes,BRA,36-304,90,6,4,3,50.0,178a7528
+ENG-Premier League,1718,2017-12-17 Bournemouth-Liverpool,Bournemouth,Asmir Begović,BIH,30-180,90,7,4,3,42.9,790f1ce3
+ENG-Premier League,1718,2017-12-17 Bournemouth-Liverpool,Liverpool,Simon Mignolet,BEL,29-286,90,2,0,2,100.0,790f1ce3
+ENG-Premier League,1718,2017-12-17 West Brom-Manchester Utd,Manchester United,David de Gea,ESP,27-040,90,5,1,4,80.0,097569a9
+ENG-Premier League,1718,2017-12-17 West Brom-Manchester Utd,West Bromwich Albion,Ben Foster,ENG,34-258,90,3,2,1,33.3,097569a9
+ENG-Premier League,1718,2017-12-18 Everton-Swansea City,Everton,Jordan Pickford,ENG,23-286,90,3,1,2,66.7,34b9d0ea
+ENG-Premier League,1718,2017-12-18 Everton-Swansea City,Swansea City,Łukasz Fabiański,POL,32-244,90,4,3,3,50.0,34b9d0ea
+ENG-Premier League,1718,2017-12-22 Arsenal-Liverpool,Arsenal,Petr Čech,CZE,35-216,90,9,3,6,66.7,12c55371
+ENG-Premier League,1718,2017-12-22 Arsenal-Liverpool,Liverpool,Simon Mignolet,BEL,29-291,90,4,3,1,25.0,12c55371
+ENG-Premier League,1718,2017-12-23 Brighton-Watford,Brighton & Hove Albion,Mathew Ryan,AUS,25-259,90,1,0,1,100.0,409da328
+ENG-Premier League,1718,2017-12-23 Brighton-Watford,Watford,Heurelho Gomes,BRA,36-311,90,3,1,2,66.7,409da328
+ENG-Premier League,1718,2017-12-23 Burnley-Tottenham Hotspur,Burnley,Nick Pope,ENG,25-248,90,7,3,5,71.4,c82015ec
+ENG-Premier League,1718,2017-12-23 Burnley-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,30-362,90,2,0,2,100.0,c82015ec
+ENG-Premier League,1718,2017-12-23 Everton-Chelsea,Chelsea,Thibaut Courtois,BEL,25-226,90,0,0,0,,317b694e
+ENG-Premier League,1718,2017-12-23 Everton-Chelsea,Everton,Jordan Pickford,ENG,23-291,90,5,0,5,100.0,317b694e
+ENG-Premier League,1718,2017-12-23 Leicester City-Manchester Utd,Leicester City,Kasper Schmeichel,DEN,31-048,90,6,2,4,66.7,1913bdd6
+ENG-Premier League,1718,2017-12-23 Leicester City-Manchester Utd,Manchester United,David de Gea,ESP,27-046,90,3,2,1,33.3,1913bdd6
+ENG-Premier League,1718,2017-12-23 Manchester City-Bournemouth,Bournemouth,Asmir Begović,BIH,30-186,90,5,4,1,20.0,8b61dc89
+ENG-Premier League,1718,2017-12-23 Manchester City-Bournemouth,Manchester City,Ederson,BRA,24-128,90,1,0,1,100.0,8b61dc89
+ENG-Premier League,1718,2017-12-23 Southampton-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-325,90,6,1,5,83.3,6ea3edf9
+ENG-Premier League,1718,2017-12-23 Southampton-Huddersfield Town,Southampton,Fraser Forster,ENG,29-281,90,3,1,2,66.7,6ea3edf9
+ENG-Premier League,1718,2017-12-23 Stoke City-West Brom,Stoke City,Jack Butland,ENG,24-288,90,7,1,6,85.7,07776252
+ENG-Premier League,1718,2017-12-23 Stoke City-West Brom,West Bromwich Albion,Ben Foster,ENG,34-264,90,5,3,2,40.0,07776252
+ENG-Premier League,1718,2017-12-23 Swansea City-Crystal Palace,Crystal Palace,Julián Speroni,ARG,38-219,90,2,1,1,50.0,49d4cefb
+ENG-Premier League,1718,2017-12-23 Swansea City-Crystal Palace,Swansea City,Łukasz Fabiański,POL,32-249,90,4,1,4,100.0,49d4cefb
+ENG-Premier League,1718,2017-12-23 West Ham United-Newcastle United,Newcastle United,Rob Elliot,IRL,31-237,90,4,2,3,50.0,f30add1b
+ENG-Premier League,1718,2017-12-23 West Ham United-Newcastle United,West Ham United,Adrián,ESP,30-354,90,4,3,1,25.0,f30add1b
+ENG-Premier League,1718,2017-12-26 Bournemouth-West Ham United,Bournemouth,Asmir Begović,BIH,30-189,90,5,3,2,40.0,0abc466b
+ENG-Premier League,1718,2017-12-26 Bournemouth-West Ham United,West Ham United,Adrián,ESP,30-357,90,10,3,7,70.0,0abc466b
+ENG-Premier League,1718,2017-12-26 Chelsea-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-262,90,7,2,5,71.4,d187fd93
+ENG-Premier League,1718,2017-12-26 Chelsea-Brighton,Chelsea,Thibaut Courtois,BEL,25-229,90,1,0,1,100.0,d187fd93
+ENG-Premier League,1718,2017-12-26 Huddersfield Town-Stoke City,Huddersfield Town,Jonas Lössl,DEN,28-328,90,5,1,4,80.0,c892dd25
+ENG-Premier League,1718,2017-12-26 Huddersfield Town-Stoke City,Stoke City,Jack Butland,ENG,24-291,90,8,1,7,87.5,c892dd25
+ENG-Premier League,1718,2017-12-26 Liverpool-Swansea City,Liverpool,Simon Mignolet,BEL,29-295,90,4,0,4,100.0,0d761f4b
+ENG-Premier League,1718,2017-12-26 Liverpool-Swansea City,Swansea City,Łukasz Fabiański,POL,32-252,90,9,5,4,44.4,0d761f4b
+ENG-Premier League,1718,2017-12-26 Manchester Utd-Burnley,Burnley,Nick Pope,ENG,25-251,90,5,2,3,60.0,b1b1fcc9
+ENG-Premier League,1718,2017-12-26 Manchester Utd-Burnley,Manchester United,David de Gea,ESP,27-049,90,2,2,0,0.0,b1b1fcc9
+ENG-Premier League,1718,2017-12-26 Tottenham Hotspur-Southampton,Southampton,Fraser Forster,ENG,29-284,90,6,5,1,16.7,ef6aade1
+ENG-Premier League,1718,2017-12-26 Tottenham Hotspur-Southampton,Tottenham Hotspur,Hugo Lloris,FRA,31-000,90,7,2,5,71.4,ef6aade1
+ENG-Premier League,1718,2017-12-26 Watford-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-051,90,2,2,0,0.0,690be862
+ENG-Premier League,1718,2017-12-26 Watford-Leicester City,Watford,Heurelho Gomes,BRA,36-314,90,5,1,4,80.0,690be862
+ENG-Premier League,1718,2017-12-26 West Brom-Everton,Everton,Jordan Pickford,ENG,23-294,90,3,0,3,100.0,92d5a975
+ENG-Premier League,1718,2017-12-26 West Brom-Everton,West Bromwich Albion,Ben Foster,ENG,34-267,90,3,0,3,100.0,92d5a975
+ENG-Premier League,1718,2017-12-27 Newcastle United-Manchester City,Manchester City,Ederson,BRA,24-132,90,1,0,1,100.0,31a533e7
+ENG-Premier League,1718,2017-12-27 Newcastle United-Manchester City,Newcastle United,Rob Elliot,IRL,31-241,90,6,1,5,83.3,31a533e7
+ENG-Premier League,1718,2017-12-28 Crystal Palace-Arsenal,Arsenal,Petr Čech,CZE,35-222,90,2,2,0,0.0,f0510a2c
+ENG-Premier League,1718,2017-12-28 Crystal Palace-Arsenal,Crystal Palace,Julián Speroni,ARG,38-224,90,9,3,6,66.7,f0510a2c
+ENG-Premier League,1718,2017-12-30 Bournemouth-Everton,Bournemouth,Asmir Begović,BIH,30-193,90,1,1,0,0.0,8788e1c3
+ENG-Premier League,1718,2017-12-30 Bournemouth-Everton,Everton,Jordan Pickford,ENG,23-298,90,7,2,5,71.4,8788e1c3
+ENG-Premier League,1718,2017-12-30 Chelsea-Stoke City,Chelsea,Thibaut Courtois,BEL,25-233,90,1,0,1,100.0,508f7222
+ENG-Premier League,1718,2017-12-30 Chelsea-Stoke City,Stoke City,Jack Butland,ENG,24-295,90,11,5,7,63.6,508f7222
+ENG-Premier League,1718,2017-12-30 Huddersfield Town-Burnley,Burnley,Nick Pope,ENG,25-255,90,1,0,1,100.0,2a80724c
+ENG-Premier League,1718,2017-12-30 Huddersfield Town-Burnley,Huddersfield Town,Jonas Lössl,DEN,28-332,90,4,0,4,100.0,2a80724c
+ENG-Premier League,1718,2017-12-30 Liverpool-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-055,90,6,2,4,66.7,a26f1f91
+ENG-Premier League,1718,2017-12-30 Liverpool-Leicester City,Liverpool,Loris Karius,GER,24-191,90,1,1,0,0.0,a26f1f91
+ENG-Premier League,1718,2017-12-30 Manchester Utd-Southampton,Manchester United,David de Gea,ESP,27-053,90,3,0,3,100.0,a4051431
+ENG-Premier League,1718,2017-12-30 Manchester Utd-Southampton,Southampton,Alex McCarthy,ENG,28-027,90,3,0,3,100.0,a4051431
+ENG-Premier League,1718,2017-12-30 Newcastle United-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-266,90,2,0,2,100.0,edf48b64
+ENG-Premier League,1718,2017-12-30 Newcastle United-Brighton,Newcastle United,Karl Darlow,WAL,27-083,90,3,0,3,100.0,edf48b64
+ENG-Premier League,1718,2017-12-30 Watford-Swansea City,Swansea City,Łukasz Fabiański,POL,32-256,90,4,1,3,75.0,ca2f3a1a
+ENG-Premier League,1718,2017-12-30 Watford-Swansea City,Watford,Heurelho Gomes,BRA,36-318,90,4,2,2,50.0,ca2f3a1a
+ENG-Premier League,1718,2017-12-31 Crystal Palace-Manchester City,Crystal Palace,Wayne Hennessey,WAL,30-341,90,4,0,4,100.0,b4453679
+ENG-Premier League,1718,2017-12-31 Crystal Palace-Manchester City,Manchester City,Ederson,BRA,24-136,90,0,0,0,,b4453679
+ENG-Premier League,1718,2017-12-31 West Brom-Arsenal,Arsenal,Petr Čech,CZE,35-225,90,2,1,2,100.0,1d0f3208
+ENG-Premier League,1718,2017-12-31 West Brom-Arsenal,West Bromwich Albion,Ben Foster,ENG,34-272,90,5,1,4,80.0,1d0f3208
+ENG-Premier League,1718,2018-01-01 Brighton-Bournemouth,Bournemouth,Asmir Begović,BIH,30-195,90,6,2,4,66.7,42fceb48
+ENG-Premier League,1718,2018-01-01 Brighton-Bournemouth,Brighton & Hove Albion,Mathew Ryan,AUS,25-268,90,8,2,6,75.0,42fceb48
+ENG-Premier League,1718,2018-01-01 Burnley-Liverpool,Burnley,Nick Pope,ENG,25-257,90,5,2,3,60.0,5bc68150
+ENG-Premier League,1718,2018-01-01 Burnley-Liverpool,Liverpool,Simon Mignolet,BEL,29-301,90,4,1,3,75.0,5bc68150
+ENG-Premier League,1718,2018-01-01 Everton-Manchester Utd,Everton,Jordan Pickford,ENG,23-300,90,6,2,4,66.7,19e56788
+ENG-Premier League,1718,2018-01-01 Everton-Manchester Utd,Manchester United,David de Gea,ESP,27-055,90,0,0,0,,19e56788
+ENG-Premier League,1718,2018-01-01 Leicester City-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-334,90,5,3,2,40.0,55099119
+ENG-Premier League,1718,2018-01-01 Leicester City-Huddersfield Town,Leicester City,Kasper Schmeichel,DEN,31-057,90,1,0,1,100.0,55099119
+ENG-Premier League,1718,2018-01-01 Stoke City-Newcastle United,Newcastle United,Karl Darlow,WAL,27-085,90,4,0,4,100.0,dcd9c8a8
+ENG-Premier League,1718,2018-01-01 Stoke City-Newcastle United,Stoke City,Jack Butland,ENG,24-297,90,6,1,5,83.3,dcd9c8a8
+ENG-Premier League,1718,2018-01-02 Manchester City-Watford,Manchester City,Ederson,BRA,24-138,90,4,1,3,75.0,1def0427
+ENG-Premier League,1718,2018-01-02 Manchester City-Watford,Watford,Heurelho Gomes,BRA,36-321,90,8,3,5,62.5,1def0427
+ENG-Premier League,1718,2018-01-02 Southampton-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-343,90,3,1,2,66.7,5ab84ac7
+ENG-Premier League,1718,2018-01-02 Southampton-Crystal Palace,Southampton,Alex McCarthy,ENG,28-030,90,4,2,2,50.0,5ab84ac7
+ENG-Premier League,1718,2018-01-02 Swansea City-Tottenham Hotspur,Swansea City,Łukasz Fabiański,POL,32-259,90,5,2,3,60.0,3a995480
+ENG-Premier League,1718,2018-01-02 Swansea City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-007,90,1,0,1,100.0,3a995480
+ENG-Premier League,1718,2018-01-02 West Ham United-West Brom,West Bromwich Albion,Ben Foster,ENG,34-274,90,5,2,3,60.0,2d1547f5
+ENG-Premier League,1718,2018-01-02 West Ham United-West Brom,West Ham United,Adrián,ESP,30-364,90,3,1,2,66.7,2d1547f5
+ENG-Premier League,1718,2018-01-03 Arsenal-Chelsea,Arsenal,Petr Čech,CZE,35-228,90,5,2,4,80.0,cea73804
+ENG-Premier League,1718,2018-01-03 Arsenal-Chelsea,Chelsea,Thibaut Courtois,BEL,25-237,90,6,2,4,66.7,cea73804
+ENG-Premier League,1718,2018-01-04 Tottenham Hotspur-West Ham United,Tottenham Hotspur,Hugo Lloris,FRA,31-009,90,2,1,1,50.0,017448ed
+ENG-Premier League,1718,2018-01-04 Tottenham Hotspur-West Ham United,West Ham United,Adrián,ESP,31-001,90,8,1,7,87.5,017448ed
+ENG-Premier League,1718,2018-01-13 Chelsea-Leicester City,Chelsea,Thibaut Courtois,BEL,25-247,90,1,0,1,100.0,57dd6ca8
+ENG-Premier League,1718,2018-01-13 Chelsea-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-069,90,7,0,7,100.0,57dd6ca8
+ENG-Premier League,1718,2018-01-13 Crystal Palace-Burnley,Burnley,Nick Pope,ENG,25-269,90,2,1,1,50.0,45e647f7
+ENG-Premier League,1718,2018-01-13 Crystal Palace-Burnley,Crystal Palace,Wayne Hennessey,WAL,30-354,90,2,0,2,100.0,45e647f7
+ENG-Premier League,1718,2018-01-13 Huddersfield Town-West Ham United,Huddersfield Town,Jonas Lössl,DEN,28-346,90,5,4,1,20.0,7e7a4e35
+ENG-Premier League,1718,2018-01-13 Huddersfield Town-West Ham United,West Ham United,Adrián,ESP,31-010,90,2,1,1,50.0,7e7a4e35
+ENG-Premier League,1718,2018-01-13 Newcastle United-Swansea City,Newcastle United,Karl Darlow,WAL,27-097,90,3,1,2,66.7,2f39646c
+ENG-Premier League,1718,2018-01-13 Newcastle United-Swansea City,Swansea City,Łukasz Fabiański,POL,32-270,90,4,1,3,75.0,2f39646c
+ENG-Premier League,1718,2018-01-13 Tottenham Hotspur-Everton,Everton,Jordan Pickford,ENG,23-312,90,10,4,6,60.0,22374439
+ENG-Premier League,1718,2018-01-13 Tottenham Hotspur-Everton,Tottenham Hotspur,Hugo Lloris,FRA,31-018,90,0,0,0,,22374439
+ENG-Premier League,1718,2018-01-13 Watford-Southampton,Southampton,Alex McCarthy,ENG,28-041,90,4,2,2,50.0,eb2cc880
+ENG-Premier League,1718,2018-01-13 Watford-Southampton,Watford,Heurelho Gomes,BRA,36-332,90,4,2,2,50.0,eb2cc880
+ENG-Premier League,1718,2018-01-13 West Brom-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-280,90,4,2,2,50.0,e1119830
+ENG-Premier League,1718,2018-01-13 West Brom-Brighton,West Bromwich Albion,Ben Foster,ENG,34-285,90,1,0,1,100.0,e1119830
+ENG-Premier League,1718,2018-01-14 Bournemouth-Arsenal,Arsenal,Petr Čech,CZE,35-239,90,5,2,3,60.0,085a3a26
+ENG-Premier League,1718,2018-01-14 Bournemouth-Arsenal,Bournemouth,Asmir Begović,BIH,30-208,90,3,1,2,66.7,085a3a26
+ENG-Premier League,1718,2018-01-14 Liverpool-Manchester City,Liverpool,Loris Karius,GER,24-206,90,4,3,1,25.0,481fc676
+ENG-Premier League,1718,2018-01-14 Liverpool-Manchester City,Manchester City,Ederson,BRA,24-150,90,7,4,3,42.9,481fc676
+ENG-Premier League,1718,2018-01-15 Manchester Utd-Stoke City,Manchester United,David de Gea,ESP,27-069,90,4,0,4,100.0,baf79461
+ENG-Premier League,1718,2018-01-15 Manchester Utd-Stoke City,Stoke City,Jack Butland,ENG,24-311,90,9,3,6,66.7,baf79461
+ENG-Premier League,1718,2018-01-20 Arsenal-Crystal Palace,Arsenal,Petr Čech,CZE,35-245,90,5,1,4,80.0,65607b87
+ENG-Premier League,1718,2018-01-20 Arsenal-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,30-361,90,10,4,6,60.0,65607b87
+ENG-Premier League,1718,2018-01-20 Brighton-Chelsea,Brighton & Hove Albion,Mathew Ryan,AUS,25-287,90,10,4,6,60.0,9c2b1d89
+ENG-Premier League,1718,2018-01-20 Brighton-Chelsea,Chelsea,Willy Caballero,ARG,36-114,90,3,0,3,100.0,9c2b1d89
+ENG-Premier League,1718,2018-01-20 Burnley-Manchester Utd,Burnley,Nick Pope,ENG,25-276,90,2,1,1,50.0,ff3f2b39
+ENG-Premier League,1718,2018-01-20 Burnley-Manchester Utd,Manchester United,David de Gea,ESP,27-074,90,2,0,2,100.0,ff3f2b39
+ENG-Premier League,1718,2018-01-20 Everton-West Brom,Everton,Jordan Pickford,ENG,23-319,90,5,1,4,80.0,01d63d4d
+ENG-Premier League,1718,2018-01-20 Everton-West Brom,West Bromwich Albion,Ben Foster,ENG,34-292,90,4,1,3,75.0,01d63d4d
+ENG-Premier League,1718,2018-01-20 Leicester City-Watford,Leicester City,Kasper Schmeichel,DEN,31-076,90,3,0,3,100.0,40e6f091
+ENG-Premier League,1718,2018-01-20 Leicester City-Watford,Watford,Orestis Karnezis,GRE,32-193,90,4,2,3,75.0,40e6f091
+ENG-Premier League,1718,2018-01-20 Manchester City-Newcastle United,Manchester City,Ederson,BRA,24-156,90,4,1,3,75.0,d2e55b6f
+ENG-Premier League,1718,2018-01-20 Manchester City-Newcastle United,Newcastle United,Karl Darlow,WAL,27-104,90,8,3,6,75.0,d2e55b6f
+ENG-Premier League,1718,2018-01-20 Stoke City-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,28-353,90,6,2,4,66.7,4acdcd55
+ENG-Premier League,1718,2018-01-20 Stoke City-Huddersfield Town,Stoke City,Jack Butland,ENG,24-316,90,3,0,3,100.0,4acdcd55
+ENG-Premier League,1718,2018-01-20 West Ham United-Bournemouth,Bournemouth,Asmir Begović,BIH,30-214,90,4,1,3,75.0,bbd82d91
+ENG-Premier League,1718,2018-01-20 West Ham United-Bournemouth,West Ham United,Adrián,ESP,31-017,90,3,1,2,66.7,bbd82d91
+ENG-Premier League,1718,2018-01-21 Southampton-Tottenham Hotspur,Southampton,Alex McCarthy,ENG,28-049,90,2,1,1,50.0,5b5c13a0
+ENG-Premier League,1718,2018-01-21 Southampton-Tottenham Hotspur,Tottenham Hotspur,Michel Vorm,NED,34-093,90,5,1,4,80.0,5b5c13a0
+ENG-Premier League,1718,2018-01-22 Swansea City-Liverpool,Liverpool,Loris Karius,GER,24-214,90,2,1,1,50.0,2c81652d
+ENG-Premier League,1718,2018-01-22 Swansea City-Liverpool,Swansea City,Łukasz Fabiański,POL,32-279,90,4,0,4,100.0,2c81652d
+ENG-Premier League,1718,2018-01-30 Huddersfield Town-Liverpool,Huddersfield Town,Jonas Lössl,DEN,28-363,90,6,3,4,66.7,813d0751
+ENG-Premier League,1718,2018-01-30 Huddersfield Town-Liverpool,Liverpool,Loris Karius,GER,24-222,90,1,0,1,100.0,813d0751
+ENG-Premier League,1718,2018-01-30 Swansea City-Arsenal,Arsenal,Petr Čech,CZE,35-255,90,4,3,1,25.0,d42b1f12
+ENG-Premier League,1718,2018-01-30 Swansea City-Arsenal,Swansea City,Łukasz Fabiański,POL,32-287,90,4,1,3,75.0,d42b1f12
+ENG-Premier League,1718,2018-01-30 West Ham United-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-006,90,2,1,2,100.0,9ae03901
+ENG-Premier League,1718,2018-01-30 West Ham United-Crystal Palace,West Ham United,Adrián,ESP,31-027,90,3,1,2,66.7,9ae03901
+ENG-Premier League,1718,2018-01-31 Chelsea-Bournemouth,Bournemouth,Asmir Begović,BIH,30-225,90,5,0,5,100.0,8bffc3ba
+ENG-Premier League,1718,2018-01-31 Chelsea-Bournemouth,Chelsea,Thibaut Courtois,BEL,25-265,90,5,3,2,40.0,8bffc3ba
+ENG-Premier League,1718,2018-01-31 Everton-Leicester City,Everton,Jordan Pickford,ENG,23-330,90,0,1,0,,d4dec53e
+ENG-Premier League,1718,2018-01-31 Everton-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-087,90,3,2,1,33.3,d4dec53e
+ENG-Premier League,1718,2018-01-31 Manchester City-West Brom,Manchester City,Ederson,BRA,24-167,90,1,0,1,100.0,c5500fbf
+ENG-Premier League,1718,2018-01-31 Manchester City-West Brom,West Bromwich Albion,Ben Foster,ENG,34-303,90,10,3,7,70.0,c5500fbf
+ENG-Premier League,1718,2018-01-31 Newcastle United-Burnley,Burnley,Nick Pope,ENG,25-287,90,2,1,2,50.0,e2a83944
+ENG-Premier League,1718,2018-01-31 Newcastle United-Burnley,Newcastle United,Karl Darlow,WAL,27-115,90,3,1,2,66.7,e2a83944
+ENG-Premier League,1718,2018-01-31 Southampton-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-298,90,3,1,2,66.7,02109db0
+ENG-Premier League,1718,2018-01-31 Southampton-Brighton,Southampton,Alex McCarthy,ENG,28-059,90,1,1,1,100.0,02109db0
+ENG-Premier League,1718,2018-01-31 Stoke City-Watford,Stoke City,Jack Butland,ENG,24-327,90,2,0,2,100.0,4f701c0f
+ENG-Premier League,1718,2018-01-31 Stoke City-Watford,Watford,Orestis Karnezis,GRE,32-204,90,4,0,4,100.0,4f701c0f
+ENG-Premier League,1718,2018-01-31 Tottenham Hotspur-Manchester Utd,Manchester United,David de Gea,ESP,27-085,90,7,2,5,71.4,e766e559
+ENG-Premier League,1718,2018-01-31 Tottenham Hotspur-Manchester Utd,Tottenham Hotspur,Hugo Lloris,FRA,31-036,90,3,0,3,100.0,e766e559
+ENG-Premier League,1718,2018-02-03 Arsenal-Everton,Arsenal,David Ospina,COL,29-156,21,1,0,1,100.0,ac69ef1b
+ENG-Premier League,1718,2018-02-03 Arsenal-Everton,Arsenal,Petr Čech,CZE,35-259,69,1,1,0,0.0,ac69ef1b
+ENG-Premier League,1718,2018-02-03 Arsenal-Everton,Everton,Jordan Pickford,ENG,23-333,90,7,5,2,28.6,ac69ef1b
+ENG-Premier League,1718,2018-02-03 Bournemouth-Stoke City,Bournemouth,Asmir Begović,BIH,30-228,90,3,1,2,66.7,3ad5f648
+ENG-Premier League,1718,2018-02-03 Bournemouth-Stoke City,Stoke City,Jack Butland,ENG,24-330,90,7,2,5,71.4,3ad5f648
+ENG-Premier League,1718,2018-02-03 Brighton-West Ham United,Brighton & Hove Albion,Mathew Ryan,AUS,25-301,90,1,1,0,0.0,a424d390
+ENG-Premier League,1718,2018-02-03 Brighton-West Ham United,West Ham United,Adrián,ESP,31-031,90,5,3,2,40.0,a424d390
+ENG-Premier League,1718,2018-02-03 Burnley-Manchester City,Burnley,Nick Pope,ENG,25-290,90,7,1,6,85.7,a54e56e3
+ENG-Premier League,1718,2018-02-03 Burnley-Manchester City,Manchester City,Ederson,BRA,24-170,90,3,1,2,66.7,a54e56e3
+ENG-Premier League,1718,2018-02-03 Leicester City-Swansea City,Leicester City,Kasper Schmeichel,DEN,31-090,90,1,1,0,0.0,e85b8a76
+ENG-Premier League,1718,2018-02-03 Leicester City-Swansea City,Swansea City,Łukasz Fabiański,POL,32-291,90,4,1,3,75.0,e85b8a76
+ENG-Premier League,1718,2018-02-03 Manchester Utd-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-002,90,5,2,4,60.0,a41f9ea1
+ENG-Premier League,1718,2018-02-03 Manchester Utd-Huddersfield Town,Manchester United,David de Gea,ESP,27-088,90,0,0,0,,a41f9ea1
+ENG-Premier League,1718,2018-02-03 West Brom-Southampton,Southampton,Alex McCarthy,ENG,28-062,90,3,2,1,33.3,398ae957
+ENG-Premier League,1718,2018-02-03 West Brom-Southampton,West Bromwich Albion,Ben Foster,ENG,34-306,90,5,3,2,40.0,398ae957
+ENG-Premier League,1718,2018-02-04 Crystal Palace-Newcastle United,Crystal Palace,Wayne Hennessey,WAL,31-011,90,8,1,7,87.5,8849f87b
+ENG-Premier League,1718,2018-02-04 Crystal Palace-Newcastle United,Newcastle United,Karl Darlow,WAL,27-119,90,4,1,4,100.0,8849f87b
+ENG-Premier League,1718,2018-02-04 Liverpool-Tottenham Hotspur,Liverpool,Loris Karius,GER,24-227,90,3,2,3,66.7,4825ca2d
+ENG-Premier League,1718,2018-02-04 Liverpool-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-040,90,3,2,1,33.3,4825ca2d
+ENG-Premier League,1718,2018-02-05 Watford-Chelsea,Chelsea,Thibaut Courtois,BEL,25-270,90,7,4,4,57.1,92aff98f
+ENG-Premier League,1718,2018-02-05 Watford-Chelsea,Watford,Orestis Karnezis,GRE,32-209,90,3,1,2,66.7,92aff98f
+ENG-Premier League,1718,2018-02-10 Everton-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-017,90,5,3,2,40.0,15ad0bb7
+ENG-Premier League,1718,2018-02-10 Everton-Crystal Palace,Everton,Jordan Pickford,ENG,23-340,90,3,1,3,100.0,15ad0bb7
+ENG-Premier League,1718,2018-02-10 Manchester City-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-097,90,10,5,5,50.0,f9585810
+ENG-Premier League,1718,2018-02-10 Manchester City-Leicester City,Manchester City,Ederson,BRA,24-177,90,2,1,1,50.0,f9585810
+ENG-Premier League,1718,2018-02-10 Stoke City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-308,90,0,1,0,,f37354cd
+ENG-Premier League,1718,2018-02-10 Stoke City-Brighton,Stoke City,Jack Butland,ENG,24-337,90,6,1,5,83.3,f37354cd
+ENG-Premier League,1718,2018-02-10 Swansea City-Burnley,Burnley,Nick Pope,ENG,25-297,90,4,1,3,75.0,2fffd724
+ENG-Premier League,1718,2018-02-10 Swansea City-Burnley,Swansea City,Łukasz Fabiański,POL,32-298,90,1,0,1,100.0,2fffd724
+ENG-Premier League,1718,2018-02-10 Tottenham Hotspur-Arsenal,Arsenal,Petr Čech,CZE,35-266,90,7,1,6,85.7,9be2b4a6
+ENG-Premier League,1718,2018-02-10 Tottenham Hotspur-Arsenal,Tottenham Hotspur,Hugo Lloris,FRA,31-046,90,1,0,1,100.0,9be2b4a6
+ENG-Premier League,1718,2018-02-10 West Ham United-Watford,Watford,Orestis Karnezis,GRE,32-214,90,4,2,2,50.0,fd50c838
+ENG-Premier League,1718,2018-02-10 West Ham United-Watford,West Ham United,Adrián,ESP,31-038,90,4,0,4,100.0,fd50c838
+ENG-Premier League,1718,2018-02-11 Huddersfield Town-Bournemouth,Bournemouth,Asmir Begović,BIH,30-236,90,4,4,1,25.0,5406ef33
+ENG-Premier League,1718,2018-02-11 Huddersfield Town-Bournemouth,Huddersfield Town,Jonas Lössl,DEN,29-010,90,2,1,1,50.0,5406ef33
+ENG-Premier League,1718,2018-02-11 Newcastle United-Manchester Utd,Manchester United,David de Gea,ESP,27-096,90,3,1,2,66.7,a58f05b9
+ENG-Premier League,1718,2018-02-11 Newcastle United-Manchester Utd,Newcastle United,Martin Dúbravka,SVK,29-027,90,3,0,3,100.0,a58f05b9
+ENG-Premier League,1718,2018-02-11 Southampton-Liverpool,Liverpool,Loris Karius,GER,24-234,90,4,0,4,100.0,016d56ed
+ENG-Premier League,1718,2018-02-11 Southampton-Liverpool,Southampton,Alex McCarthy,ENG,28-070,90,4,2,2,50.0,016d56ed
+ENG-Premier League,1718,2018-02-12 Chelsea-West Brom,Chelsea,Thibaut Courtois,BEL,25-277,90,1,0,1,100.0,47b76f62
+ENG-Premier League,1718,2018-02-12 Chelsea-West Brom,West Bromwich Albion,Ben Foster,ENG,34-315,90,8,3,5,62.5,47b76f62
+ENG-Premier League,1718,2018-02-24 Bournemouth-Newcastle United,Bournemouth,Asmir Begović,BIH,30-249,90,4,2,2,50.0,c3df70b9
+ENG-Premier League,1718,2018-02-24 Bournemouth-Newcastle United,Newcastle United,Martin Dúbravka,SVK,29-040,90,5,2,3,60.0,c3df70b9
+ENG-Premier League,1718,2018-02-24 Brighton-Swansea City,Brighton & Hove Albion,Mathew Ryan,AUS,25-322,90,2,1,1,50.0,ecb61418
+ENG-Premier League,1718,2018-02-24 Brighton-Swansea City,Swansea City,Łukasz Fabiański,POL,32-312,90,4,4,1,25.0,ecb61418
+ENG-Premier League,1718,2018-02-24 Burnley-Southampton,Burnley,Nick Pope,ENG,25-311,90,5,1,4,80.0,e694462e
+ENG-Premier League,1718,2018-02-24 Burnley-Southampton,Southampton,Alex McCarthy,ENG,28-083,90,3,1,2,66.7,e694462e
+ENG-Premier League,1718,2018-02-24 Leicester City-Stoke City,Leicester City,Kasper Schmeichel,DEN,31-111,90,2,1,1,50.0,27ff97c5
+ENG-Premier League,1718,2018-02-24 Leicester City-Stoke City,Stoke City,Jack Butland,ENG,24-351,90,10,1,9,90.0,27ff97c5
+ENG-Premier League,1718,2018-02-24 Liverpool-West Ham United,Liverpool,Loris Karius,GER,24-247,90,4,1,3,75.0,c7b11325
+ENG-Premier League,1718,2018-02-24 Liverpool-West Ham United,West Ham United,Adrián,ESP,31-052,90,12,4,8,66.7,c7b11325
+ENG-Premier League,1718,2018-02-24 Watford-Everton,Everton,Jordan Pickford,ENG,23-354,90,5,1,4,80.0,9b5c3c10
+ENG-Premier League,1718,2018-02-24 Watford-Everton,Watford,Orestis Karnezis,GRE,32-228,90,2,0,2,100.0,9b5c3c10
+ENG-Premier League,1718,2018-02-24 West Brom-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-023,90,3,1,2,66.7,6d26af49
+ENG-Premier League,1718,2018-02-24 West Brom-Huddersfield Town,West Bromwich Albion,Ben Foster,ENG,34-327,90,7,2,5,71.4,6d26af49
+ENG-Premier League,1718,2018-02-25 Crystal Palace-Tottenham Hotspur,Crystal Palace,Wayne Hennessey,WAL,31-032,90,5,1,4,80.0,61447e13
+ENG-Premier League,1718,2018-02-25 Crystal Palace-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-061,90,3,0,3,100.0,61447e13
+ENG-Premier League,1718,2018-02-25 Manchester Utd-Chelsea,Chelsea,Thibaut Courtois,BEL,25-290,90,5,2,3,60.0,98517bf6
+ENG-Premier League,1718,2018-02-25 Manchester Utd-Chelsea,Manchester United,David de Gea,ESP,27-110,90,7,1,6,85.7,98517bf6
+ENG-Premier League,1718,2018-03-01 Arsenal-Manchester City,Arsenal,Petr Čech,CZE,35-285,90,5,3,2,40.0,7a4e4ce6
+ENG-Premier League,1718,2018-03-01 Arsenal-Manchester City,Manchester City,Ederson,BRA,24-196,90,3,0,4,100.0,7a4e4ce6
+ENG-Premier League,1718,2018-03-03 Burnley-Everton,Burnley,Nick Pope,ENG,25-318,90,4,1,3,75.0,347dfee2
+ENG-Premier League,1718,2018-03-03 Burnley-Everton,Everton,Jordan Pickford,ENG,23-361,90,8,2,6,75.0,347dfee2
+ENG-Premier League,1718,2018-03-03 Leicester City-Bournemouth,Bournemouth,Asmir Begović,BIH,30-256,90,4,1,3,75.0,586cc946
+ENG-Premier League,1718,2018-03-03 Leicester City-Bournemouth,Leicester City,Kasper Schmeichel,DEN,31-118,90,2,1,2,100.0,586cc946
+ENG-Premier League,1718,2018-03-03 Liverpool-Newcastle United,Liverpool,Loris Karius,GER,24-254,90,2,0,2,100.0,0280920f
+ENG-Premier League,1718,2018-03-03 Liverpool-Newcastle United,Newcastle United,Martin Dúbravka,SVK,29-047,90,3,2,1,33.3,0280920f
+ENG-Premier League,1718,2018-03-03 Southampton-Stoke City,Southampton,Alex McCarthy,ENG,28-090,90,3,0,3,100.0,a9bd2423
+ENG-Premier League,1718,2018-03-03 Southampton-Stoke City,Stoke City,Jack Butland,ENG,24-358,90,6,0,6,100.0,a9bd2423
+ENG-Premier League,1718,2018-03-03 Swansea City-West Ham United,Swansea City,Łukasz Fabiański,POL,32-319,90,2,1,1,50.0,4d3b05af
+ENG-Premier League,1718,2018-03-03 Swansea City-West Ham United,West Ham United,Adrián,ESP,31-059,90,6,4,3,50.0,4d3b05af
+ENG-Premier League,1718,2018-03-03 Tottenham Hotspur-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-030,90,7,2,5,71.4,df00152d
+ENG-Premier League,1718,2018-03-03 Tottenham Hotspur-Huddersfield Town,Tottenham Hotspur,Hugo Lloris,FRA,31-067,90,3,0,3,100.0,df00152d
+ENG-Premier League,1718,2018-03-03 Watford-West Brom,Watford,Orestis Karnezis,GRE,32-235,90,2,0,2,100.0,02b0f00c
+ENG-Premier League,1718,2018-03-03 Watford-West Brom,West Bromwich Albion,Ben Foster,ENG,34-334,90,3,1,2,66.7,02b0f00c
+ENG-Premier League,1718,2018-03-04 Brighton-Arsenal,Arsenal,Petr Čech,CZE,35-288,90,6,2,4,66.7,42457283
+ENG-Premier League,1718,2018-03-04 Brighton-Arsenal,Brighton & Hove Albion,Mathew Ryan,AUS,25-330,90,7,1,6,85.7,42457283
+ENG-Premier League,1718,2018-03-04 Manchester City-Chelsea,Chelsea,Thibaut Courtois,BEL,25-297,90,2,1,1,50.0,dc8c6aaf
+ENG-Premier League,1718,2018-03-04 Manchester City-Chelsea,Manchester City,Ederson,BRA,24-199,90,0,0,0,,dc8c6aaf
+ENG-Premier League,1718,2018-03-05 Crystal Palace-Manchester Utd,Crystal Palace,Wayne Hennessey,WAL,31-040,90,7,3,4,57.1,9abb5749
+ENG-Premier League,1718,2018-03-05 Crystal Palace-Manchester Utd,Manchester United,David de Gea,ESP,27-118,90,4,2,2,50.0,9abb5749
+ENG-Premier League,1718,2018-03-10 Chelsea-Crystal Palace,Chelsea,Thibaut Courtois,BEL,25-303,90,2,1,1,50.0,15c3f004
+ENG-Premier League,1718,2018-03-10 Chelsea-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-045,90,9,2,7,77.8,15c3f004
+ENG-Premier League,1718,2018-03-10 Everton-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,25-336,90,2,2,1,0.0,9f941a1f
+ENG-Premier League,1718,2018-03-10 Everton-Brighton,Everton,Jordan Pickford,ENG,24-003,90,4,0,4,100.0,9f941a1f
+ENG-Premier League,1718,2018-03-10 Huddersfield Town-Swansea City,Huddersfield Town,Jonas Lössl,DEN,29-037,90,0,0,0,,f35f4268
+ENG-Premier League,1718,2018-03-10 Huddersfield Town-Swansea City,Swansea City,Łukasz Fabiański,POL,32-326,90,4,0,4,100.0,f35f4268
+ENG-Premier League,1718,2018-03-10 Manchester Utd-Liverpool,Liverpool,Loris Karius,GER,24-261,90,2,2,0,0.0,00e55ca8
+ENG-Premier League,1718,2018-03-10 Manchester Utd-Liverpool,Manchester United,David de Gea,ESP,27-123,90,3,1,2,66.7,00e55ca8
+ENG-Premier League,1718,2018-03-10 Newcastle United-Southampton,Newcastle United,Martin Dúbravka,SVK,29-054,90,2,0,2,100.0,4fd6c2ee
+ENG-Premier League,1718,2018-03-10 Newcastle United-Southampton,Southampton,Alex McCarthy,ENG,28-097,90,5,3,2,40.0,4fd6c2ee
+ENG-Premier League,1718,2018-03-10 West Brom-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-125,90,2,1,1,50.0,629b83d0
+ENG-Premier League,1718,2018-03-10 West Brom-Leicester City,West Bromwich Albion,Ben Foster,ENG,34-341,90,7,4,3,42.9,629b83d0
+ENG-Premier League,1718,2018-03-10 West Ham United-Burnley,Burnley,Nick Pope,ENG,25-325,90,4,0,4,100.0,1cd9b494
+ENG-Premier League,1718,2018-03-10 West Ham United-Burnley,West Ham United,Joe Hart,ENG,30-325,90,4,3,1,25.0,1cd9b494
+ENG-Premier League,1718,2018-03-11 Arsenal-Watford,Arsenal,Petr Čech,CZE,35-295,90,2,0,3,100.0,9eba55b6
+ENG-Premier League,1718,2018-03-11 Arsenal-Watford,Watford,Orestis Karnezis,GRE,32-243,90,7,3,4,57.1,9eba55b6
+ENG-Premier League,1718,2018-03-11 Bournemouth-Tottenham Hotspur,Bournemouth,Asmir Begović,BIH,30-264,90,8,4,4,50.0,80a47654
+ENG-Premier League,1718,2018-03-11 Bournemouth-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-075,90,3,1,2,66.7,80a47654
+ENG-Premier League,1718,2018-03-12 Stoke City-Manchester City,Manchester City,Ederson,BRA,24-207,90,0,0,0,,09d80d49
+ENG-Premier League,1718,2018-03-12 Stoke City-Manchester City,Stoke City,Jack Butland,ENG,25-002,90,6,2,4,66.7,09d80d49
+ENG-Premier League,1718,2018-03-17 Bournemouth-West Brom,Bournemouth,Asmir Begović,BIH,30-270,90,5,1,4,80.0,134dc51c
+ENG-Premier League,1718,2018-03-17 Bournemouth-West Brom,West Bromwich Albion,Ben Foster,ENG,34-348,90,5,2,3,60.0,134dc51c
+ENG-Premier League,1718,2018-03-17 Huddersfield Town-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-052,90,2,0,2,100.0,3b6ded14
+ENG-Premier League,1718,2018-03-17 Huddersfield Town-Crystal Palace,Huddersfield Town,Jonas Lössl,DEN,29-044,90,4,2,3,75.0,3b6ded14
+ENG-Premier League,1718,2018-03-17 Liverpool-Watford,Liverpool,Loris Karius,GER,24-268,90,1,0,1,100.0,99d79931
+ENG-Premier League,1718,2018-03-17 Liverpool-Watford,Watford,Orestis Karnezis,GRE,32-249,90,10,5,5,50.0,99d79931
+ENG-Premier League,1718,2018-03-17 Stoke City-Everton,Everton,Jordan Pickford,ENG,24-010,90,4,1,3,75.0,01f6b961
+ENG-Premier League,1718,2018-03-17 Stoke City-Everton,Stoke City,Jack Butland,ENG,25-007,90,8,2,6,75.0,01f6b961
+ENG-Premier League,1718,2018-03-31 Brighton-Leicester City,Brighton & Hove Albion,Mathew Ryan,AUS,25-357,90,4,2,2,50.0,683b188f
+ENG-Premier League,1718,2018-03-31 Brighton-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-146,90,1,0,2,100.0,683b188f
+ENG-Premier League,1718,2018-03-31 Crystal Palace-Liverpool,Crystal Palace,Wayne Hennessey,WAL,31-066,90,6,2,4,66.7,98213b8d
+ENG-Premier League,1718,2018-03-31 Crystal Palace-Liverpool,Liverpool,Loris Karius,GER,24-282,90,2,1,2,100.0,98213b8d
+ENG-Premier League,1718,2018-03-31 Everton-Manchester City,Everton,Jordan Pickford,ENG,24-024,90,4,3,1,25.0,ca51e3ba
+ENG-Premier League,1718,2018-03-31 Everton-Manchester City,Manchester City,Ederson,BRA,24-226,90,2,1,1,50.0,ca51e3ba
+ENG-Premier League,1718,2018-03-31 Manchester Utd-Swansea City,Manchester United,David de Gea,ESP,27-144,90,2,0,2,100.0,41e0dc54
+ENG-Premier League,1718,2018-03-31 Manchester Utd-Swansea City,Swansea City,Łukasz Fabiański,POL,32-347,90,5,2,3,60.0,41e0dc54
+ENG-Premier League,1718,2018-03-31 Newcastle United-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-058,90,3,1,2,66.7,f7c1128f
+ENG-Premier League,1718,2018-03-31 Newcastle United-Huddersfield Town,Newcastle United,Martin Dúbravka,SVK,29-075,90,0,0,0,,f7c1128f
+ENG-Premier League,1718,2018-03-31 Watford-Bournemouth,Bournemouth,Asmir Begović,BIH,30-284,90,5,2,3,60.0,fe2d2f2c
+ENG-Premier League,1718,2018-03-31 Watford-Bournemouth,Watford,Orestis Karnezis,GRE,32-263,90,5,2,4,80.0,fe2d2f2c
+ENG-Premier League,1718,2018-03-31 West Brom-Burnley,Burnley,Nick Pope,ENG,25-346,90,3,1,2,66.7,68df68a4
+ENG-Premier League,1718,2018-03-31 West Brom-Burnley,West Bromwich Albion,Ben Foster,ENG,34-362,90,4,2,2,50.0,68df68a4
+ENG-Premier League,1718,2018-03-31 West Ham United-Southampton,Southampton,Alex McCarthy,ENG,28-118,90,5,3,2,40.0,781945f9
+ENG-Premier League,1718,2018-03-31 West Ham United-Southampton,West Ham United,Joe Hart,ENG,30-346,90,0,0,0,,781945f9
+ENG-Premier League,1718,2018-04-01 Arsenal-Stoke City,Arsenal,David Ospina,COL,29-213,90,2,0,2,100.0,9c1a218b
+ENG-Premier League,1718,2018-04-01 Arsenal-Stoke City,Stoke City,Jack Butland,ENG,25-022,90,9,3,8,88.9,9c1a218b
+ENG-Premier League,1718,2018-04-01 Chelsea-Tottenham Hotspur,Chelsea,Willy Caballero,ARG,36-185,90,6,3,3,50.0,fbe31f74
+ENG-Premier League,1718,2018-04-01 Chelsea-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-096,90,4,1,3,75.0,fbe31f74
+ENG-Premier League,1718,2018-04-07 Bournemouth-Crystal Palace,Bournemouth,Asmir Begović,BIH,30-291,90,6,2,4,66.7,b2a3c401
+ENG-Premier League,1718,2018-04-07 Bournemouth-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-073,90,5,2,3,60.0,b2a3c401
+ENG-Premier League,1718,2018-04-07 Brighton-Huddersfield Town,Brighton & Hove Albion,Mathew Ryan,AUS,25-364,90,5,1,4,80.0,a5f340e0
+ENG-Premier League,1718,2018-04-07 Brighton-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-065,90,5,1,4,80.0,a5f340e0
+ENG-Premier League,1718,2018-04-07 Everton-Liverpool,Everton,Jordan Pickford,ENG,24-031,90,3,0,3,100.0,675b2cb4
+ENG-Premier League,1718,2018-04-07 Everton-Liverpool,Liverpool,Loris Karius,GER,24-289,90,1,0,1,100.0,675b2cb4
+ENG-Premier League,1718,2018-04-07 Leicester City-Newcastle United,Leicester City,Kasper Schmeichel,DEN,31-153,90,4,2,2,50.0,4acfb58c
+ENG-Premier League,1718,2018-04-07 Leicester City-Newcastle United,Newcastle United,Martin Dúbravka,SVK,29-082,90,1,1,0,0.0,4acfb58c
+ENG-Premier League,1718,2018-04-07 Manchester City-Manchester Utd,Manchester City,Ederson,BRA,24-233,90,4,3,1,25.0,50a03a01
+ENG-Premier League,1718,2018-04-07 Manchester City-Manchester Utd,Manchester United,David de Gea,ESP,27-151,90,6,2,4,66.7,50a03a01
+ENG-Premier League,1718,2018-04-07 Stoke City-Tottenham Hotspur,Stoke City,Jack Butland,ENG,25-028,90,4,2,2,50.0,1da6c7b5
+ENG-Premier League,1718,2018-04-07 Stoke City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-102,90,4,1,3,75.0,1da6c7b5
+ENG-Premier League,1718,2018-04-07 Watford-Burnley,Burnley,Nick Pope,ENG,25-353,90,5,1,4,80.0,8410e555
+ENG-Premier League,1718,2018-04-07 Watford-Burnley,Watford,Orestis Karnezis,GRE,32-270,90,4,2,2,50.0,8410e555
+ENG-Premier League,1718,2018-04-07 West Brom-Swansea City,Swansea City,Łukasz Fabiański,POL,32-354,90,3,1,2,66.7,bfe5ba12
+ENG-Premier League,1718,2018-04-07 West Brom-Swansea City,West Bromwich Albion,Ben Foster,ENG,35-004,90,1,1,0,0.0,bfe5ba12
+ENG-Premier League,1718,2018-04-08 Arsenal-Southampton,Arsenal,Petr Čech,CZE,35-323,90,7,2,5,71.4,dd1ec108
+ENG-Premier League,1718,2018-04-08 Arsenal-Southampton,Southampton,Alex McCarthy,ENG,28-126,90,7,3,4,57.1,dd1ec108
+ENG-Premier League,1718,2018-04-08 Chelsea-West Ham United,Chelsea,Thibaut Courtois,BEL,25-332,90,2,1,1,50.0,b325a378
+ENG-Premier League,1718,2018-04-08 Chelsea-West Ham United,West Ham United,Joe Hart,ENG,30-354,90,6,1,5,83.3,b325a378
+ENG-Premier League,1718,2018-04-14 Burnley-Leicester City,Burnley,Nick Pope,ENG,25-360,90,6,1,5,83.3,eae8514a
+ENG-Premier League,1718,2018-04-14 Burnley-Leicester City,Leicester City,Ben Hamer,ENG,30-145,4,0,0,0,,eae8514a
+ENG-Premier League,1718,2018-04-14 Burnley-Leicester City,Leicester City,Kasper Schmeichel,DEN,31-160,86,3,2,1,33.3,eae8514a
+ENG-Premier League,1718,2018-04-14 Crystal Palace-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,26-006,90,7,3,4,57.1,30714500
+ENG-Premier League,1718,2018-04-14 Crystal Palace-Brighton,Crystal Palace,Wayne Hennessey,WAL,31-080,90,3,2,1,33.3,30714500
+ENG-Premier League,1718,2018-04-14 Huddersfield Town-Watford,Huddersfield Town,Jonas Lössl,DEN,29-072,90,2,0,2,100.0,d9d7c9b3
+ENG-Premier League,1718,2018-04-14 Huddersfield Town-Watford,Watford,Orestis Karnezis,GRE,32-277,90,1,1,0,0.0,d9d7c9b3
+ENG-Premier League,1718,2018-04-14 Liverpool-Bournemouth,Bournemouth,Asmir Begović,BIH,30-298,90,6,3,3,50.0,3c508794
+ENG-Premier League,1718,2018-04-14 Liverpool-Bournemouth,Liverpool,Loris Karius,GER,24-296,90,1,0,1,100.0,3c508794
+ENG-Premier League,1718,2018-04-14 Southampton-Chelsea,Chelsea,Thibaut Courtois,BEL,25-338,90,7,2,5,71.4,c0ef52a9
+ENG-Premier League,1718,2018-04-14 Southampton-Chelsea,Southampton,Alex McCarthy,ENG,28-132,90,5,3,2,40.0,c0ef52a9
+ENG-Premier League,1718,2018-04-14 Swansea City-Everton,Everton,Jordan Pickford,ENG,24-038,90,5,1,4,80.0,f863ee2a
+ENG-Premier League,1718,2018-04-14 Swansea City-Everton,Swansea City,Łukasz Fabiański,POL,32-361,90,4,1,3,75.0,f863ee2a
+ENG-Premier League,1718,2018-04-14 Tottenham Hotspur-Manchester City,Manchester City,Ederson,BRA,24-240,90,3,1,2,66.7,8fe8c64c
+ENG-Premier League,1718,2018-04-14 Tottenham Hotspur-Manchester City,Tottenham Hotspur,Hugo Lloris,FRA,31-109,90,5,3,3,60.0,8fe8c64c
+ENG-Premier League,1718,2018-04-15 Manchester Utd-West Brom,Manchester United,David de Gea,ESP,27-159,90,4,1,3,75.0,b5ed1d8d
+ENG-Premier League,1718,2018-04-15 Manchester Utd-West Brom,West Bromwich Albion,Ben Foster,ENG,35-012,90,4,0,4,100.0,b5ed1d8d
+ENG-Premier League,1718,2018-04-15 Newcastle United-Arsenal,Arsenal,Petr Čech,CZE,35-330,90,4,2,2,50.0,a4ac40df
+ENG-Premier League,1718,2018-04-15 Newcastle United-Arsenal,Newcastle United,Martin Dúbravka,SVK,29-090,90,3,1,2,66.7,a4ac40df
+ENG-Premier League,1718,2018-04-16 West Ham United-Stoke City,Stoke City,Jack Butland,ENG,25-037,90,6,1,5,83.3,1b6e8568
+ENG-Premier League,1718,2018-04-16 West Ham United-Stoke City,West Ham United,Joe Hart,ENG,30-362,90,6,1,5,83.3,1b6e8568
+ENG-Premier League,1718,2018-04-17 Brighton-Tottenham Hotspur,Brighton & Hove Albion,Mathew Ryan,AUS,26-009,90,6,1,5,83.3,c42bcaf3
+ENG-Premier League,1718,2018-04-17 Brighton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-112,90,4,1,4,100.0,c42bcaf3
+ENG-Premier League,1718,2018-04-18 Bournemouth-Manchester Utd,Bournemouth,Asmir Begović,BIH,30-302,90,4,2,2,50.0,533420c5
+ENG-Premier League,1718,2018-04-18 Bournemouth-Manchester Utd,Manchester United,David de Gea,ESP,27-162,90,2,0,2,100.0,533420c5
+ENG-Premier League,1718,2018-04-19 Burnley-Chelsea,Burnley,Nick Pope,ENG,26-000,90,6,2,4,66.7,082489f8
+ENG-Premier League,1718,2018-04-19 Burnley-Chelsea,Chelsea,Thibaut Courtois,BEL,25-343,90,2,1,1,50.0,082489f8
+ENG-Premier League,1718,2018-04-19 Leicester City-Southampton,Leicester City,Ben Hamer,ENG,30-150,90,2,0,2,100.0,693cf232
+ENG-Premier League,1718,2018-04-19 Leicester City-Southampton,Southampton,Alex McCarthy,ENG,28-137,90,3,0,3,100.0,693cf232
+ENG-Premier League,1718,2018-04-21 Watford-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-087,90,4,0,4,100.0,abaea3fc
+ENG-Premier League,1718,2018-04-21 Watford-Crystal Palace,Watford,Orestis Karnezis,GRE,32-284,90,1,0,1,100.0,abaea3fc
+ENG-Premier League,1718,2018-04-21 West Brom-Liverpool,Liverpool,Loris Karius,GER,24-303,90,6,2,4,66.7,a1c7d96c
+ENG-Premier League,1718,2018-04-21 West Brom-Liverpool,West Bromwich Albion,Ben Foster,ENG,35-018,90,3,2,1,33.3,a1c7d96c
+ENG-Premier League,1718,2018-04-22 Arsenal-West Ham United,Arsenal,David Ospina,COL,29-234,90,4,1,3,75.0,183dc99a
+ENG-Premier League,1718,2018-04-22 Arsenal-West Ham United,West Ham United,Joe Hart,ENG,31-003,90,8,4,4,50.0,183dc99a
+ENG-Premier League,1718,2018-04-22 Manchester City-Swansea City,Manchester City,Ederson,BRA,24-248,90,1,0,1,100.0,8beedd1d
+ENG-Premier League,1718,2018-04-22 Manchester City-Swansea City,Swansea City,Łukasz Fabiański,POL,33-004,90,10,5,6,50.0,8beedd1d
+ENG-Premier League,1718,2018-04-22 Stoke City-Burnley,Burnley,Nick Pope,ENG,26-003,90,3,1,2,66.7,4b1d1fa6
+ENG-Premier League,1718,2018-04-22 Stoke City-Burnley,Stoke City,Jack Butland,ENG,25-043,90,7,1,6,85.7,4b1d1fa6
+ENG-Premier League,1718,2018-04-23 Everton-Newcastle United,Everton,Jordan Pickford,ENG,24-047,90,2,0,2,100.0,1e1e3394
+ENG-Premier League,1718,2018-04-23 Everton-Newcastle United,Newcastle United,Martin Dúbravka,SVK,29-098,90,1,1,0,0.0,1e1e3394
+ENG-Premier League,1718,2018-04-28 Burnley-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,26-020,90,4,0,4,100.0,c1a0d4ce
+ENG-Premier League,1718,2018-04-28 Burnley-Brighton,Burnley,Nick Pope,ENG,26-009,90,1,0,1,100.0,c1a0d4ce
+ENG-Premier League,1718,2018-04-28 Crystal Palace-Leicester City,Crystal Palace,Wayne Hennessey,WAL,31-094,90,0,0,0,,9afd62dd
+ENG-Premier League,1718,2018-04-28 Crystal Palace-Leicester City,Leicester City,Ben Hamer,ENG,30-159,90,7,5,3,42.9,9afd62dd
+ENG-Premier League,1718,2018-04-28 Huddersfield Town-Everton,Everton,Jordan Pickford,ENG,24-052,90,2,0,2,100.0,611476e6
+ENG-Premier League,1718,2018-04-28 Huddersfield Town-Everton,Huddersfield Town,Jonas Lössl,DEN,29-086,90,5,2,3,60.0,611476e6
+ENG-Premier League,1718,2018-04-28 Liverpool-Stoke City,Liverpool,Loris Karius,GER,24-310,90,1,0,1,100.0,b6b246c1
+ENG-Premier League,1718,2018-04-28 Liverpool-Stoke City,Stoke City,Jack Butland,ENG,25-049,90,2,0,2,100.0,b6b246c1
+ENG-Premier League,1718,2018-04-28 Newcastle United-West Brom,Newcastle United,Martin Dúbravka,SVK,29-103,90,2,1,1,50.0,229ca929
+ENG-Premier League,1718,2018-04-28 Newcastle United-West Brom,West Bromwich Albion,Ben Foster,ENG,35-025,90,2,0,2,100.0,229ca929
+ENG-Premier League,1718,2018-04-28 Southampton-Bournemouth,Bournemouth,Asmir Begović,BIH,30-312,90,6,2,4,66.7,4d38129c
+ENG-Premier League,1718,2018-04-28 Southampton-Bournemouth,Southampton,Alex McCarthy,ENG,28-146,90,7,1,6,85.7,4d38129c
+ENG-Premier League,1718,2018-04-28 Swansea City-Chelsea,Chelsea,Thibaut Courtois,BEL,25-352,90,3,0,3,100.0,d5f17e08
+ENG-Premier League,1718,2018-04-28 Swansea City-Chelsea,Swansea City,Łukasz Fabiański,POL,33-010,90,3,1,2,66.7,d5f17e08
+ENG-Premier League,1718,2018-04-29 Manchester Utd-Arsenal,Arsenal,David Ospina,COL,29-241,90,2,2,0,0.0,5b587217
+ENG-Premier League,1718,2018-04-29 Manchester Utd-Arsenal,Manchester United,David de Gea,ESP,27-173,90,3,1,2,66.7,5b587217
+ENG-Premier League,1718,2018-04-29 West Ham United-Manchester City,Manchester City,Ederson,BRA,24-255,90,1,1,0,0.0,fdabc4e9
+ENG-Premier League,1718,2018-04-29 West Ham United-Manchester City,West Ham United,Adrián,ESP,31-116,90,8,4,4,50.0,fdabc4e9
+ENG-Premier League,1718,2018-04-30 Tottenham Hotspur-Watford,Tottenham Hotspur,Hugo Lloris,FRA,31-125,90,5,0,5,100.0,5f040190
+ENG-Premier League,1718,2018-04-30 Tottenham Hotspur-Watford,Watford,Orestis Karnezis,GRE,32-293,90,3,2,1,33.3,5f040190
+ENG-Premier League,1718,2018-05-04 Brighton-Manchester Utd,Brighton & Hove Albion,Mathew Ryan,AUS,26-026,90,3,0,3,100.0,0cbb18e2
+ENG-Premier League,1718,2018-05-04 Brighton-Manchester Utd,Manchester United,David de Gea,ESP,27-178,90,4,1,3,75.0,0cbb18e2
+ENG-Premier League,1718,2018-05-05 Bournemouth-Swansea City,Bournemouth,Asmir Begović,BIH,30-319,90,3,0,3,100.0,e7933b97
+ENG-Premier League,1718,2018-05-05 Bournemouth-Swansea City,Swansea City,Łukasz Fabiański,POL,33-017,90,5,1,4,80.0,e7933b97
+ENG-Premier League,1718,2018-05-05 Everton-Southampton,Everton,Jordan Pickford,ENG,24-059,90,5,1,4,80.0,79dc6ab9
+ENG-Premier League,1718,2018-05-05 Everton-Southampton,Southampton,Alex McCarthy,ENG,28-153,90,3,1,2,66.7,79dc6ab9
+ENG-Premier League,1718,2018-05-05 Leicester City-West Ham United,Leicester City,Ben Hamer,ENG,30-166,90,3,2,1,33.3,0914df36
+ENG-Premier League,1718,2018-05-05 Leicester City-West Ham United,West Ham United,Adrián,ESP,31-122,90,2,0,2,100.0,0914df36
+ENG-Premier League,1718,2018-05-05 Stoke City-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,31-101,90,2,1,1,50.0,ab069f6c
+ENG-Premier League,1718,2018-05-05 Stoke City-Crystal Palace,Stoke City,Jack Butland,ENG,25-056,90,2,2,0,0.0,ab069f6c
+ENG-Premier League,1718,2018-05-05 Watford-Newcastle United,Newcastle United,Martin Dúbravka,SVK,29-110,90,6,2,5,66.7,f337e187
+ENG-Premier League,1718,2018-05-05 Watford-Newcastle United,Watford,Orestis Karnezis,GRE,32-298,90,2,1,1,50.0,f337e187
+ENG-Premier League,1718,2018-05-05 West Brom-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,31-130,90,2,1,1,50.0,3a876b14
+ENG-Premier League,1718,2018-05-05 West Brom-Tottenham Hotspur,West Bromwich Albion,Ben Foster,ENG,35-032,90,5,0,5,100.0,3a876b14
+ENG-Premier League,1718,2018-05-06 Arsenal-Burnley,Arsenal,Petr Čech,CZE,35-351,90,2,0,2,100.0,c8c42b05
+ENG-Premier League,1718,2018-05-06 Arsenal-Burnley,Burnley,Nick Pope,ENG,26-017,90,8,5,3,37.5,c8c42b05
+ENG-Premier League,1718,2018-05-06 Chelsea-Liverpool,Chelsea,Thibaut Courtois,BEL,25-360,90,5,0,5,100.0,b9a7da48
+ENG-Premier League,1718,2018-05-06 Chelsea-Liverpool,Liverpool,Loris Karius,GER,24-318,90,4,1,3,75.0,b9a7da48
+ENG-Premier League,1718,2018-05-06 Manchester City-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-094,90,2,0,2,100.0,a71b21ec
+ENG-Premier League,1718,2018-05-06 Manchester City-Huddersfield Town,Manchester City,Ederson,BRA,24-262,90,3,0,3,100.0,a71b21ec
+ENG-Premier League,1718,2018-05-08 Swansea City-Southampton,Southampton,Alex McCarthy,ENG,28-156,90,3,0,3,100.0,625bb62f
+ENG-Premier League,1718,2018-05-08 Swansea City-Southampton,Swansea City,Łukasz Fabiański,POL,33-020,90,8,1,7,87.5,625bb62f
+ENG-Premier League,1718,2018-05-09 Chelsea-Huddersfield Town,Chelsea,Willy Caballero,ARG,36-223,90,2,1,1,50.0,f0f325a6
+ENG-Premier League,1718,2018-05-09 Chelsea-Huddersfield Town,Huddersfield Town,Jonas Lössl,DEN,29-097,90,5,1,4,80.0,f0f325a6
+ENG-Premier League,1718,2018-05-09 Leicester City-Arsenal,Arsenal,Petr Čech,CZE,35-354,90,9,3,7,77.8,825733ff
+ENG-Premier League,1718,2018-05-09 Leicester City-Arsenal,Leicester City,Eldin Jakupović,SUI,33-219,90,7,1,6,85.7,825733ff
+ENG-Premier League,1718,2018-05-09 Manchester City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,26-031,90,7,3,4,57.1,f2114fff
+ENG-Premier League,1718,2018-05-09 Manchester City-Brighton,Manchester City,Claudio Bravo,CHI,35-026,90,3,1,2,66.7,f2114fff
+ENG-Premier League,1718,2018-05-09 Tottenham Hotspur-Newcastle United,Newcastle United,Martin Dúbravka,SVK,29-114,90,7,1,6,85.7,90f41993
+ENG-Premier League,1718,2018-05-09 Tottenham Hotspur-Newcastle United,Tottenham Hotspur,Hugo Lloris,FRA,31-134,90,3,0,3,100.0,90f41993
+ENG-Premier League,1718,2018-05-10 West Ham United-Manchester Utd,Manchester United,David de Gea,ESP,27-184,90,2,0,2,100.0,153401b5
+ENG-Premier League,1718,2018-05-10 West Ham United-Manchester Utd,West Ham United,Adrián,ESP,31-127,90,6,0,6,100.0,153401b5
+ENG-Premier League,1718,2018-05-13 Burnley-Bournemouth,Bournemouth,Asmir Begović,BIH,30-327,90,4,1,3,75.0,47540632
+ENG-Premier League,1718,2018-05-13 Burnley-Bournemouth,Burnley,Nick Pope,ENG,26-024,90,5,2,3,60.0,47540632
+ENG-Premier League,1718,2018-05-13 Crystal Palace-West Brom,Crystal Palace,Wayne Hennessey,WAL,31-109,90,1,0,1,100.0,4abed407
+ENG-Premier League,1718,2018-05-13 Crystal Palace-West Brom,West Bromwich Albion,Ben Foster,ENG,35-040,90,5,2,3,60.0,4abed407
+ENG-Premier League,1718,2018-05-13 Huddersfield Town-Arsenal,Arsenal,David Ospina,COL,29-255,90,3,0,3,100.0,7c431214
+ENG-Premier League,1718,2018-05-13 Huddersfield Town-Arsenal,Huddersfield Town,Jonas Lössl,DEN,29-101,90,4,1,3,75.0,7c431214
+ENG-Premier League,1718,2018-05-13 Liverpool-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,26-035,90,10,4,6,60.0,0c92e854
+ENG-Premier League,1718,2018-05-13 Liverpool-Brighton,Liverpool,Loris Karius,GER,24-325,90,1,0,1,100.0,0c92e854
+ENG-Premier League,1718,2018-05-13 Manchester Utd-Watford,Manchester United,Sergio Romero,ARG,31-080,90,3,0,3,100.0,c137bab4
+ENG-Premier League,1718,2018-05-13 Manchester Utd-Watford,Watford,Heurelho Gomes,BRA,37-087,90,1,1,0,0.0,c137bab4
+ENG-Premier League,1718,2018-05-13 Newcastle United-Chelsea,Chelsea,Thibaut Courtois,BEL,26-002,90,7,3,4,57.1,8bb22e44
+ENG-Premier League,1718,2018-05-13 Newcastle United-Chelsea,Newcastle United,Martin Dúbravka,SVK,29-118,90,2,0,2,100.0,8bb22e44
+ENG-Premier League,1718,2018-05-13 Southampton-Manchester City,Manchester City,Claudio Bravo,CHI,35-030,90,2,0,2,100.0,db4a1124
+ENG-Premier League,1718,2018-05-13 Southampton-Manchester City,Southampton,Alex McCarthy,ENG,28-161,90,2,1,1,50.0,db4a1124
+ENG-Premier League,1718,2018-05-13 Swansea City-Stoke City,Stoke City,Jack Butland,ENG,25-064,90,10,1,9,90.0,03a63fbc
+ENG-Premier League,1718,2018-05-13 Swansea City-Stoke City,Swansea City,Łukasz Fabiański,POL,33-025,90,3,2,2,33.3,03a63fbc
+ENG-Premier League,1718,2018-05-13 Tottenham Hotspur-Leicester City,Leicester City,Eldin Jakupović,SUI,33-223,90,7,5,2,28.6,f8c06939
+ENG-Premier League,1718,2018-05-13 Tottenham Hotspur-Leicester City,Tottenham Hotspur,Hugo Lloris,FRA,31-138,90,9,4,5,55.6,f8c06939
+ENG-Premier League,1718,2018-05-13 West Ham United-Everton,Everton,Jordan Pickford,ENG,24-067,90,4,3,1,25.0,5214d676
+ENG-Premier League,1718,2018-05-13 West Ham United-Everton,West Ham United,Adrián,ESP,31-130,90,7,1,6,85.7,5214d676

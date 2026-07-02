@@ -1,0 +1,771 @@
+league,season,game,team,player,nation,age,min,Shot Stopping_SoTA,Shot Stopping_GA,Shot Stopping_Saves,Shot Stopping_Save%,game_id
+ENG-Premier League,2425,2024-08-16 Manchester Utd-Fulham,Fulham,Bernd Leno,GER,32-165,90,5,1,4,80.0,cc5b4244
+ENG-Premier League,2425,2024-08-16 Manchester Utd-Fulham,Manchester United,André Onana,CMR,28-136,90,2,0,2,100.0,cc5b4244
+ENG-Premier League,2425,2024-08-17 Arsenal-Wolves,Arsenal,David Raya,ESP,28-337,90,3,0,3,100.0,c0e3342a
+ENG-Premier League,2425,2024-08-17 Arsenal-Wolves,Wolverhampton Wanderers,José Sá,POR,31-213,90,6,2,4,66.7,c0e3342a
+ENG-Premier League,2425,2024-08-17 Everton-Brighton,Brighton & Hove Albion,Jason Steele,ENG,33-365,90,1,0,1,100.0,71618ace
+ENG-Premier League,2425,2024-08-17 Everton-Brighton,Everton,Jordan Pickford,ENG,30-163,90,5,3,2,40.0,71618ace
+ENG-Premier League,2425,2024-08-17 Ipswich Town-Liverpool,Ipswich Town,Christian Walton,ENG,28-282,90,5,2,3,60.0,a1d0d529
+ENG-Premier League,2425,2024-08-17 Ipswich Town-Liverpool,Liverpool,Alisson,BRA,31-320,90,2,0,2,100.0,a1d0d529
+ENG-Premier League,2425,2024-08-17 Newcastle United-Southampton,Newcastle United,Nick Pope,ENG,32-120,90,3,0,3,100.0,34557647
+ENG-Premier League,2425,2024-08-17 Newcastle United-Southampton,Southampton,Alex McCarthy,ENG,34-258,90,1,1,0,0.0,34557647
+ENG-Premier League,2425,2024-08-17 Nottingham Forest-Bournemouth,Bournemouth,Neto,BRA,35-029,90,8,1,7,87.5,4efc72e4
+ENG-Premier League,2425,2024-08-17 Nottingham Forest-Bournemouth,Nottingham Forest,Matz Sels,BEL,32-173,90,4,1,3,75.0,4efc72e4
+ENG-Premier League,2425,2024-08-17 West Ham United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,31-350,90,3,1,3,100.0,eac7c00b
+ENG-Premier League,2425,2024-08-17 West Ham United-Aston Villa,West Ham United,Alphonse Areola,FRA,31-172,90,3,2,1,33.3,eac7c00b
+ENG-Premier League,2425,2024-08-18 Brentford-Crystal Palace,Brentford,Mark Flekken,NED,31-066,90,7,1,6,85.7,b63822b9
+ENG-Premier League,2425,2024-08-18 Brentford-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-159,90,5,2,3,60.0,b63822b9
+ENG-Premier League,2425,2024-08-18 Chelsea-Manchester City,Chelsea,Robert Sánchez,ESP,26-274,90,5,2,3,60.0,67a0c715
+ENG-Premier League,2425,2024-08-18 Chelsea-Manchester City,Manchester City,Ederson,BRA,31-001,90,3,0,3,100.0,67a0c715
+ENG-Premier League,2425,2024-08-19 Leicester City-Tottenham Hotspur,Leicester City,Mads Hermansen,DEN,24-039,90,6,1,5,83.3,62eea1d6
+ENG-Premier League,2425,2024-08-19 Leicester City-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,27-317,90,3,1,2,66.7,62eea1d6
+ENG-Premier League,2425,2024-08-24 Aston Villa-Arsenal,Arsenal,David Raya,ESP,28-344,90,3,0,3,100.0,4692171a
+ENG-Premier League,2425,2024-08-24 Aston Villa-Arsenal,Aston Villa,Emiliano Martínez,ARG,31-357,90,4,2,2,50.0,4692171a
+ENG-Premier League,2425,2024-08-24 Brighton-Manchester Utd,Brighton & Hove Albion,Jason Steele,ENG,34-006,90,3,1,2,66.7,fc8ab8b2
+ENG-Premier League,2425,2024-08-24 Brighton-Manchester Utd,Manchester United,André Onana,CMR,28-144,90,4,2,2,50.0,fc8ab8b2
+ENG-Premier League,2425,2024-08-24 Crystal Palace-West Ham United,Crystal Palace,Dean Henderson,ENG,27-165,90,3,2,1,33.3,540cfb68
+ENG-Premier League,2425,2024-08-24 Crystal Palace-West Ham United,West Ham United,Alphonse Areola,FRA,31-179,90,2,0,2,100.0,540cfb68
+ENG-Premier League,2425,2024-08-24 Fulham-Leicester City,Fulham,Bernd Leno,GER,32-173,90,4,1,3,75.0,4d0079fb
+ENG-Premier League,2425,2024-08-24 Fulham-Leicester City,Leicester City,Mads Hermansen,DEN,24-044,90,6,2,4,66.7,4d0079fb
+ENG-Premier League,2425,2024-08-24 Manchester City-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,25-291,90,4,4,1,25.0,a24b7a43
+ENG-Premier League,2425,2024-08-24 Manchester City-Ipswich Town,Manchester City,Ederson,BRA,31-007,90,1,1,0,0.0,a24b7a43
+ENG-Premier League,2425,2024-08-24 Southampton-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-180,90,1,0,1,100.0,a641f3a0
+ENG-Premier League,2425,2024-08-24 Southampton-Nottingham Forest,Southampton,Alex McCarthy,ENG,34-265,90,8,1,7,87.5,a641f3a0
+ENG-Premier League,2425,2024-08-24 Tottenham Hotspur-Everton,Everton,Jordan Pickford,ENG,30-170,90,7,4,3,42.9,1eef1717
+ENG-Premier League,2425,2024-08-24 Tottenham Hotspur-Everton,Tottenham Hotspur,Guglielmo Vicario,ITA,27-322,90,1,0,1,100.0,1eef1717
+ENG-Premier League,2425,2024-08-25 Bournemouth-Newcastle United,Bournemouth,Neto,BRA,35-037,90,5,1,4,80.0,1934f267
+ENG-Premier League,2425,2024-08-25 Bournemouth-Newcastle United,Newcastle United,Nick Pope,ENG,32-128,90,4,1,3,75.0,1934f267
+ENG-Premier League,2425,2024-08-25 Liverpool-Brentford,Brentford,Mark Flekken,NED,31-073,90,8,2,6,75.0,09b1742e
+ENG-Premier League,2425,2024-08-25 Liverpool-Brentford,Liverpool,Alisson,BRA,31-328,90,2,0,2,100.0,09b1742e
+ENG-Premier League,2425,2024-08-25 Wolves-Chelsea,Chelsea,Robert Sánchez,ESP,26-281,90,4,2,2,50.0,e76c15c9
+ENG-Premier League,2425,2024-08-25 Wolves-Chelsea,Wolverhampton Wanderers,José Sá,POR,31-221,90,8,6,2,25.0,e76c15c9
+ENG-Premier League,2425,2024-08-31 Arsenal-Brighton,Arsenal,David Raya,ESP,28-351,90,4,1,3,75.0,a843d023
+ENG-Premier League,2425,2024-08-31 Arsenal-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-013,90,7,1,6,85.7,a843d023
+ENG-Premier League,2425,2024-08-31 Brentford-Southampton,Brentford,Mark Flekken,NED,31-079,90,6,1,5,83.3,fec3438b
+ENG-Premier League,2425,2024-08-31 Brentford-Southampton,Southampton,Aaron Ramsdale,ENG,26-109,90,7,3,4,57.1,fec3438b
+ENG-Premier League,2425,2024-08-31 Everton-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,29-333,90,8,2,6,75.0,58bbe046
+ENG-Premier League,2425,2024-08-31 Everton-Bournemouth,Everton,Jordan Pickford,ENG,30-177,90,7,3,4,57.1,58bbe046
+ENG-Premier League,2425,2024-08-31 Ipswich Town-Fulham,Fulham,Bernd Leno,GER,32-180,90,4,1,3,75.0,cec85838
+ENG-Premier League,2425,2024-08-31 Ipswich Town-Fulham,Ipswich Town,Arijanet Muric,KVX,25-298,90,4,1,3,75.0,cec85838
+ENG-Premier League,2425,2024-08-31 Leicester City-Aston Villa,Aston Villa,Emiliano Martínez,ARG,31-364,90,3,1,2,66.7,5af68b76
+ENG-Premier League,2425,2024-08-31 Leicester City-Aston Villa,Leicester City,Mads Hermansen,DEN,24-051,90,5,2,3,60.0,5af68b76
+ENG-Premier League,2425,2024-08-31 Nottingham Forest-Wolves,Nottingham Forest,Matz Sels,BEL,32-187,90,2,1,1,50.0,837f0304
+ENG-Premier League,2425,2024-08-31 Nottingham Forest-Wolves,Wolverhampton Wanderers,Sam Johnstone,ENG,31-159,90,5,1,4,80.0,837f0304
+ENG-Premier League,2425,2024-08-31 West Ham United-Manchester City,Manchester City,Ederson,BRA,31-014,90,3,1,2,66.7,97ce60d4
+ENG-Premier League,2425,2024-08-31 West Ham United-Manchester City,West Ham United,Alphonse Areola,FRA,31-186,45,5,2,3,60.0,97ce60d4
+ENG-Premier League,2425,2024-08-31 West Ham United-Manchester City,West Ham United,Łukasz Fabiański,POL,39-135,45,3,1,2,66.7,97ce60d4
+ENG-Premier League,2425,2024-09-01 Chelsea-Crystal Palace,Chelsea,Robert Sánchez,ESP,26-288,90,3,1,2,66.7,3387c2c8
+ENG-Premier League,2425,2024-09-01 Chelsea-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-173,90,7,1,6,85.7,3387c2c8
+ENG-Premier League,2425,2024-09-01 Manchester Utd-Liverpool,Liverpool,Alisson,BRA,31-335,90,3,0,3,100.0,a7ab7a12
+ENG-Premier League,2425,2024-09-01 Manchester Utd-Liverpool,Manchester United,André Onana,CMR,28-152,90,3,3,0,0.0,a7ab7a12
+ENG-Premier League,2425,2024-09-01 Newcastle United-Tottenham Hotspur,Newcastle United,Nick Pope,ENG,32-135,90,7,1,6,85.7,0c994746
+ENG-Premier League,2425,2024-09-01 Newcastle United-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,27-330,90,3,2,1,33.3,0c994746
+ENG-Premier League,2425,2024-09-14 Aston Villa-Everton,Aston Villa,Emiliano Martínez,ARG,32-012,90,2,2,0,0.0,cdb4c33b
+ENG-Premier League,2425,2024-09-14 Aston Villa-Everton,Everton,Jordan Pickford,ENG,30-191,90,7,3,4,57.1,cdb4c33b
+ENG-Premier League,2425,2024-09-14 Bournemouth-Chelsea,Bournemouth,Mark Travers,IRL,25-119,90,3,1,2,66.7,456b4762
+ENG-Premier League,2425,2024-09-14 Bournemouth-Chelsea,Chelsea,Robert Sánchez,ESP,26-301,90,5,0,6,100.0,456b4762
+ENG-Premier League,2425,2024-09-14 Brighton-Ipswich Town,Brighton & Hove Albion,Bart Verbruggen,NED,22-027,90,1,0,1,100.0,2ffa4354
+ENG-Premier League,2425,2024-09-14 Brighton-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,25-312,90,6,0,6,100.0,2ffa4354
+ENG-Premier League,2425,2024-09-14 Crystal Palace-Leicester City,Crystal Palace,Dean Henderson,ENG,27-186,90,4,2,2,50.0,430cce12
+ENG-Premier League,2425,2024-09-14 Crystal Palace-Leicester City,Leicester City,Mads Hermansen,DEN,24-065,90,3,2,2,66.7,430cce12
+ENG-Premier League,2425,2024-09-14 Fulham-West Ham United,Fulham,Bernd Leno,GER,32-194,90,3,1,2,66.7,fa2b1777
+ENG-Premier League,2425,2024-09-14 Fulham-West Ham United,West Ham United,Alphonse Areola,FRA,31-200,90,5,1,4,80.0,fa2b1777
+ENG-Premier League,2425,2024-09-14 Liverpool-Nottingham Forest,Liverpool,Alisson,BRA,31-348,90,3,1,2,66.7,674bfe9e
+ENG-Premier League,2425,2024-09-14 Liverpool-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-201,90,5,0,5,100.0,674bfe9e
+ENG-Premier League,2425,2024-09-14 Manchester City-Brentford,Brentford,Mark Flekken,NED,31-093,90,7,2,5,71.4,54405f8a
+ENG-Premier League,2425,2024-09-14 Manchester City-Brentford,Manchester City,Ederson,BRA,31-028,90,6,1,5,83.3,54405f8a
+ENG-Premier League,2425,2024-09-14 Southampton-Manchester Utd,Manchester United,André Onana,CMR,28-165,90,1,0,2,100.0,b96c3759
+ENG-Premier League,2425,2024-09-14 Southampton-Manchester Utd,Southampton,Aaron Ramsdale,ENG,26-123,90,10,3,7,70.0,b96c3759
+ENG-Premier League,2425,2024-09-15 Tottenham Hotspur-Arsenal,Arsenal,David Raya,ESP,29-000,90,5,0,5,100.0,17774a57
+ENG-Premier League,2425,2024-09-15 Tottenham Hotspur-Arsenal,Tottenham Hotspur,Guglielmo Vicario,ITA,27-344,90,4,1,3,75.0,17774a57
+ENG-Premier League,2425,2024-09-15 Wolves-Newcastle United,Newcastle United,Nick Pope,ENG,32-149,90,5,1,4,80.0,4b01981e
+ENG-Premier League,2425,2024-09-15 Wolves-Newcastle United,Wolverhampton Wanderers,Sam Johnstone,ENG,31-174,90,6,2,4,66.7,4b01981e
+ENG-Premier League,2425,2024-09-21 Aston Villa-Wolves,Aston Villa,Emiliano Martínez,ARG,32-019,90,4,1,3,75.0,e2b62260
+ENG-Premier League,2425,2024-09-21 Aston Villa-Wolves,Wolverhampton Wanderers,Sam Johnstone,ENG,31-180,90,3,3,0,0.0,e2b62260
+ENG-Premier League,2425,2024-09-21 Crystal Palace-Manchester Utd,Crystal Palace,Dean Henderson,ENG,27-193,90,7,0,6,100.0,929e225f
+ENG-Premier League,2425,2024-09-21 Crystal Palace-Manchester Utd,Manchester United,André Onana,CMR,28-172,90,4,0,4,100.0,929e225f
+ENG-Premier League,2425,2024-09-21 Fulham-Newcastle United,Fulham,Bernd Leno,GER,32-201,90,4,1,3,75.0,de7298df
+ENG-Premier League,2425,2024-09-21 Fulham-Newcastle United,Newcastle United,Nick Pope,ENG,32-155,90,11,3,8,72.7,de7298df
+ENG-Premier League,2425,2024-09-21 Leicester City-Everton,Everton,Jordan Pickford,ENG,30-198,90,2,1,1,50.0,4e6e1cc7
+ENG-Premier League,2425,2024-09-21 Leicester City-Everton,Leicester City,Mads Hermansen,DEN,24-072,90,5,1,4,80.0,4e6e1cc7
+ENG-Premier League,2425,2024-09-21 Liverpool-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,29-354,90,12,3,9,75.0,32a9539b
+ENG-Premier League,2425,2024-09-21 Liverpool-Bournemouth,Liverpool,Caoimhín Kelleher,IRL,25-303,90,7,0,6,100.0,32a9539b
+ENG-Premier League,2425,2024-09-21 Southampton-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,25-319,90,3,1,2,66.7,948d52cc
+ENG-Premier League,2425,2024-09-21 Southampton-Ipswich Town,Southampton,Aaron Ramsdale,ENG,26-130,90,6,1,5,83.3,948d52cc
+ENG-Premier League,2425,2024-09-21 Tottenham Hotspur-Brentford,Brentford,Mark Flekken,NED,31-100,90,9,3,6,66.7,9511708f
+ENG-Premier League,2425,2024-09-21 Tottenham Hotspur-Brentford,Tottenham Hotspur,Guglielmo Vicario,ITA,27-350,90,6,1,5,83.3,9511708f
+ENG-Premier League,2425,2024-09-21 West Ham United-Chelsea,Chelsea,Robert Sánchez,ESP,26-308,90,7,0,7,100.0,ce0fb1f5
+ENG-Premier League,2425,2024-09-21 West Ham United-Chelsea,West Ham United,Alphonse Areola,FRA,31-207,90,5,3,2,40.0,ce0fb1f5
+ENG-Premier League,2425,2024-09-22 Brighton-Nottingham Forest,Brighton & Hove Albion,Bart Verbruggen,NED,22-035,90,3,2,2,66.7,d701a1df
+ENG-Premier League,2425,2024-09-22 Brighton-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-209,90,3,2,1,33.3,d701a1df
+ENG-Premier League,2425,2024-09-22 Manchester City-Arsenal,Arsenal,David Raya,ESP,29-007,90,11,2,9,81.8,d7538020
+ENG-Premier League,2425,2024-09-22 Manchester City-Arsenal,Manchester City,Ederson,BRA,31-036,90,3,2,1,33.3,d7538020
+ENG-Premier League,2425,2024-09-28 Arsenal-Leicester City,Arsenal,David Raya,ESP,29-013,90,3,2,1,33.3,2ee60ac7
+ENG-Premier League,2425,2024-09-28 Arsenal-Leicester City,Leicester City,Mads Hermansen,DEN,24-079,90,17,4,13,76.5,2ee60ac7
+ENG-Premier League,2425,2024-09-28 Brentford-West Ham United,Brentford,Mark Flekken,NED,31-107,90,3,1,2,66.7,9c4f2bcd
+ENG-Premier League,2425,2024-09-28 Brentford-West Ham United,West Ham United,Alphonse Areola,FRA,31-214,90,3,1,2,66.7,9c4f2bcd
+ENG-Premier League,2425,2024-09-28 Chelsea-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-041,90,5,4,2,40.0,1714cebe
+ENG-Premier League,2425,2024-09-28 Chelsea-Brighton,Chelsea,Robert Sánchez,ESP,26-315,90,6,2,4,66.7,1714cebe
+ENG-Premier League,2425,2024-09-28 Everton-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-200,90,2,2,0,0.0,d47382cd
+ENG-Premier League,2425,2024-09-28 Everton-Crystal Palace,Everton,Jordan Pickford,ENG,30-205,90,4,1,3,75.0,d47382cd
+ENG-Premier League,2425,2024-09-28 Newcastle United-Manchester City,Manchester City,Ederson,BRA,31-042,90,3,1,3,100.0,b4df0bca
+ENG-Premier League,2425,2024-09-28 Newcastle United-Manchester City,Newcastle United,Nick Pope,ENG,32-162,90,6,1,5,83.3,b4df0bca
+ENG-Premier League,2425,2024-09-28 Nottingham Forest-Fulham,Fulham,Bernd Leno,GER,32-208,90,1,0,1,100.0,ee7d3371
+ENG-Premier League,2425,2024-09-28 Nottingham Forest-Fulham,Nottingham Forest,Matz Sels,BEL,32-215,90,1,1,1,100.0,ee7d3371
+ENG-Premier League,2425,2024-09-28 Wolves-Liverpool,Liverpool,Alisson,BRA,31-362,90,3,1,2,66.7,f2633f1d
+ENG-Premier League,2425,2024-09-28 Wolves-Liverpool,Wolverhampton Wanderers,Sam Johnstone,ENG,31-187,90,5,2,4,80.0,f2633f1d
+ENG-Premier League,2425,2024-09-29 Ipswich Town-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-027,90,5,2,3,60.0,ef742b9c
+ENG-Premier League,2425,2024-09-29 Ipswich Town-Aston Villa,Ipswich Town,Arijanet Muric,KVX,25-327,90,3,2,1,33.3,ef742b9c
+ENG-Premier League,2425,2024-09-29 Manchester Utd-Tottenham Hotspur,Manchester United,André Onana,CMR,28-180,90,10,3,7,70.0,c4b97377
+ENG-Premier League,2425,2024-09-29 Manchester Utd-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,27-358,90,2,0,2,100.0,c4b97377
+ENG-Premier League,2425,2024-09-30 Bournemouth-Southampton,Bournemouth,Kepa Arrizabalaga,ESP,29-363,90,3,1,2,66.7,04d2cc03
+ENG-Premier League,2425,2024-09-30 Bournemouth-Southampton,Southampton,Aaron Ramsdale,ENG,26-139,90,6,3,3,50.0,04d2cc03
+ENG-Premier League,2425,2024-10-05 Arsenal-Southampton,Arsenal,David Raya,ESP,29-020,90,2,1,1,50.0,c6439e5b
+ENG-Premier League,2425,2024-10-05 Arsenal-Southampton,Southampton,Aaron Ramsdale,ENG,26-144,90,6,3,3,50.0,c6439e5b
+ENG-Premier League,2425,2024-10-05 Brentford-Wolves,Brentford,Mark Flekken,NED,31-114,90,6,3,3,50.0,909090f8
+ENG-Premier League,2425,2024-10-05 Brentford-Wolves,Wolverhampton Wanderers,Sam Johnstone,ENG,31-194,90,11,5,7,63.6,909090f8
+ENG-Premier League,2425,2024-10-05 Crystal Palace-Liverpool,Crystal Palace,Dean Henderson,ENG,27-207,90,4,1,3,75.0,49ea224b
+ENG-Premier League,2425,2024-10-05 Crystal Palace-Liverpool,Liverpool,Alisson,BRA,32-003,78,4,0,4,100.0,49ea224b
+ENG-Premier League,2425,2024-10-05 Crystal Palace-Liverpool,Liverpool,Vitezslav Jaros,CZE,23-074,12,1,0,1,100.0,49ea224b
+ENG-Premier League,2425,2024-10-05 Everton-Newcastle United,Everton,Jordan Pickford,ENG,30-212,90,1,0,2,100.0,e99a7857
+ENG-Premier League,2425,2024-10-05 Everton-Newcastle United,Newcastle United,Nick Pope,ENG,32-169,90,2,0,2,100.0,e99a7857
+ENG-Premier League,2425,2024-10-05 Leicester City-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-002,90,2,1,1,50.0,d153872e
+ENG-Premier League,2425,2024-10-05 Leicester City-Bournemouth,Leicester City,Mads Hermansen,DEN,24-086,90,2,0,2,100.0,d153872e
+ENG-Premier League,2425,2024-10-05 Manchester City-Fulham,Fulham,Bernd Leno,GER,32-215,90,7,3,4,57.1,61d60f62
+ENG-Premier League,2425,2024-10-05 Manchester City-Fulham,Manchester City,Ederson,BRA,31-049,90,4,2,2,50.0,61d60f62
+ENG-Premier League,2425,2024-10-05 West Ham United-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,25-333,90,12,4,8,66.7,93e19c5e
+ENG-Premier League,2425,2024-10-05 West Ham United-Ipswich Town,West Ham United,Alphonse Areola,FRA,31-221,90,2,1,1,50.0,93e19c5e
+ENG-Premier League,2425,2024-10-06 Aston Villa-Manchester Utd,Aston Villa,Emiliano Martínez,ARG,32-034,90,4,0,4,100.0,abef5f2a
+ENG-Premier League,2425,2024-10-06 Aston Villa-Manchester Utd,Manchester United,André Onana,CMR,28-187,90,1,0,1,100.0,abef5f2a
+ENG-Premier League,2425,2024-10-06 Brighton-Tottenham Hotspur,Brighton & Hove Albion,Bart Verbruggen,NED,22-049,90,3,2,1,33.3,dac142c7
+ENG-Premier League,2425,2024-10-06 Brighton-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,27-365,90,4,3,1,25.0,dac142c7
+ENG-Premier League,2425,2024-10-06 Chelsea-Nottingham Forest,Chelsea,Robert Sánchez,ESP,26-323,90,9,1,8,88.9,b9e00aac
+ENG-Premier League,2425,2024-10-06 Chelsea-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-223,90,8,1,7,87.5,b9e00aac
+ENG-Premier League,2425,2024-10-19 Bournemouth-Arsenal,Arsenal,David Raya,ESP,29-034,90,3,2,2,66.7,01e63a1f
+ENG-Premier League,2425,2024-10-19 Bournemouth-Arsenal,Bournemouth,Kepa Arrizabalaga,ESP,30-016,90,1,0,1,100.0,01e63a1f
+ENG-Premier League,2425,2024-10-19 Fulham-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-047,90,2,1,2,50.0,615d637e
+ENG-Premier League,2425,2024-10-19 Fulham-Aston Villa,Fulham,Bernd Leno,GER,32-229,90,7,3,4,57.1,615d637e
+ENG-Premier League,2425,2024-10-19 Ipswich Town-Everton,Everton,Jordan Pickford,ENG,30-226,90,2,0,2,100.0,2273e126
+ENG-Premier League,2425,2024-10-19 Ipswich Town-Everton,Ipswich Town,Arijanet Muric,KVX,25-347,90,8,2,6,75.0,2273e126
+ENG-Premier League,2425,2024-10-19 Manchester Utd-Brentford,Brentford,Mark Flekken,NED,31-128,90,11,2,9,81.8,7f2c3291
+ENG-Premier League,2425,2024-10-19 Manchester Utd-Brentford,Manchester United,André Onana,CMR,28-200,90,2,1,1,50.0,7f2c3291
+ENG-Premier League,2425,2024-10-19 Newcastle United-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-062,90,6,0,6,100.0,48081db0
+ENG-Premier League,2425,2024-10-19 Newcastle United-Brighton,Newcastle United,Nick Pope,ENG,32-183,90,5,1,4,80.0,48081db0
+ENG-Premier League,2425,2024-10-19 Southampton-Leicester City,Leicester City,Mads Hermansen,DEN,24-100,90,8,2,6,75.0,03d28c48
+ENG-Premier League,2425,2024-10-19 Southampton-Leicester City,Southampton,Aaron Ramsdale,ENG,26-158,90,3,3,1,33.3,03d28c48
+ENG-Premier League,2425,2024-10-19 Tottenham Hotspur-West Ham United,Tottenham Hotspur,Guglielmo Vicario,ITA,28-012,90,3,1,2,66.7,923bfab0
+ENG-Premier League,2425,2024-10-19 Tottenham Hotspur-West Ham United,West Ham United,Alphonse Areola,FRA,31-235,90,8,4,4,50.0,923bfab0
+ENG-Premier League,2425,2024-10-20 Liverpool-Chelsea,Chelsea,Robert Sánchez,ESP,26-337,90,4,2,3,75.0,99b4737c
+ENG-Premier League,2425,2024-10-20 Liverpool-Chelsea,Liverpool,Caoimhín Kelleher,IRL,25-332,90,2,1,1,50.0,99b4737c
+ENG-Premier League,2425,2024-10-20 Wolves-Manchester City,Manchester City,Ederson,BRA,31-064,90,2,1,1,50.0,90b22cd5
+ENG-Premier League,2425,2024-10-20 Wolves-Manchester City,Wolverhampton Wanderers,José Sá,POR,31-277,90,7,2,5,71.4,90b22cd5
+ENG-Premier League,2425,2024-10-21 Nottingham Forest-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-223,90,6,1,5,83.3,5ed3894e
+ENG-Premier League,2425,2024-10-21 Nottingham Forest-Crystal Palace,Nottingham Forest,Matz Sels,BEL,32-238,90,7,0,7,100.0,5ed3894e
+ENG-Premier League,2425,2024-10-25 Leicester City-Nottingham Forest,Leicester City,Mads Hermansen,DEN,24-106,90,5,3,2,40.0,292d8bc4
+ENG-Premier League,2425,2024-10-25 Leicester City-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-242,90,1,1,0,0.0,292d8bc4
+ENG-Premier League,2425,2024-10-26 Aston Villa-Bournemouth,Aston Villa,Emiliano Martínez,ARG,32-054,90,3,1,2,66.7,bce300b2
+ENG-Premier League,2425,2024-10-26 Aston Villa-Bournemouth,Bournemouth,Mark Travers,IRL,25-161,90,8,1,7,87.5,bce300b2
+ENG-Premier League,2425,2024-10-26 Brentford-Ipswich Town,Brentford,Mark Flekken,NED,31-135,90,5,3,2,40.0,1fb2dcde
+ENG-Premier League,2425,2024-10-26 Brentford-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,25-354,90,10,4,7,70.0,1fb2dcde
+ENG-Premier League,2425,2024-10-26 Brighton-Wolves,Brighton & Hove Albion,Bart Verbruggen,NED,22-069,90,7,2,5,71.4,9487e056
+ENG-Premier League,2425,2024-10-26 Brighton-Wolves,Wolverhampton Wanderers,José Sá,POR,31-283,90,6,2,4,66.7,9487e056
+ENG-Premier League,2425,2024-10-26 Everton-Fulham,Everton,Jordan Pickford,ENG,30-233,90,3,1,2,66.7,1e5152bf
+ENG-Premier League,2425,2024-10-26 Everton-Fulham,Fulham,Bernd Leno,GER,32-236,90,5,1,4,80.0,1e5152bf
+ENG-Premier League,2425,2024-10-26 Manchester City-Southampton,Manchester City,Ederson,BRA,31-070,90,2,0,2,100.0,b66f6389
+ENG-Premier League,2425,2024-10-26 Manchester City-Southampton,Southampton,Aaron Ramsdale,ENG,26-165,90,7,1,6,85.7,b66f6389
+ENG-Premier League,2425,2024-10-27 Arsenal-Liverpool,Arsenal,David Raya,ESP,29-042,90,4,2,2,50.0,68aa1099
+ENG-Premier League,2425,2024-10-27 Arsenal-Liverpool,Liverpool,Caoimhín Kelleher,IRL,25-339,90,3,2,1,33.3,68aa1099
+ENG-Premier League,2425,2024-10-27 Chelsea-Newcastle United,Chelsea,Robert Sánchez,ESP,26-344,90,2,1,1,50.0,33571b04
+ENG-Premier League,2425,2024-10-27 Chelsea-Newcastle United,Newcastle United,Nick Pope,ENG,32-191,90,7,2,5,71.4,33571b04
+ENG-Premier League,2425,2024-10-27 Crystal Palace-Tottenham Hotspur,Crystal Palace,Dean Henderson,ENG,27-229,90,3,0,3,100.0,e995d937
+ENG-Premier League,2425,2024-10-27 Crystal Palace-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-020,90,6,1,5,83.3,e995d937
+ENG-Premier League,2425,2024-10-27 West Ham United-Manchester Utd,Manchester United,André Onana,CMR,28-208,90,2,2,1,50.0,38c31a07
+ENG-Premier League,2425,2024-10-27 West Ham United-Manchester Utd,West Ham United,Łukasz Fabiański,POL,39-192,90,5,1,4,80.0,38c31a07
+ENG-Premier League,2425,2024-11-02 Bournemouth-Manchester City,Bournemouth,Mark Travers,IRL,25-168,90,4,1,3,75.0,ed970fef
+ENG-Premier League,2425,2024-11-02 Bournemouth-Manchester City,Manchester City,Ederson,BRA,31-077,90,6,2,4,66.7,ed970fef
+ENG-Premier League,2425,2024-11-02 Ipswich Town-Leicester City,Ipswich Town,Arijanet Muric,KVX,25-361,90,5,1,4,80.0,ed8f93a0
+ENG-Premier League,2425,2024-11-02 Ipswich Town-Leicester City,Leicester City,Mads Hermansen,DEN,24-114,90,2,1,1,50.0,ed8f93a0
+ENG-Premier League,2425,2024-11-02 Liverpool-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-076,90,8,2,6,75.0,7d114c70
+ENG-Premier League,2425,2024-11-02 Liverpool-Brighton,Liverpool,Caoimhín Kelleher,IRL,25-345,90,5,1,4,80.0,7d114c70
+ENG-Premier League,2425,2024-11-02 Newcastle United-Arsenal,Arsenal,David Raya,ESP,29-048,90,4,1,3,75.0,cc960c22
+ENG-Premier League,2425,2024-11-02 Newcastle United-Arsenal,Newcastle United,Nick Pope,ENG,32-197,90,0,0,0,,cc960c22
+ENG-Premier League,2425,2024-11-02 Nottingham Forest-West Ham United,Nottingham Forest,Matz Sels,BEL,32-250,90,1,0,1,100.0,c2505640
+ENG-Premier League,2425,2024-11-02 Nottingham Forest-West Ham United,West Ham United,Łukasz Fabiański,POL,39-198,90,6,3,3,50.0,c2505640
+ENG-Premier League,2425,2024-11-02 Southampton-Everton,Everton,Jordan Pickford,ENG,30-240,90,2,1,1,50.0,2be42fdb
+ENG-Premier League,2425,2024-11-02 Southampton-Everton,Southampton,Aaron Ramsdale,ENG,26-172,90,5,0,5,100.0,2be42fdb
+ENG-Premier League,2425,2024-11-02 Wolves-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-235,90,6,2,4,66.7,a4251fae
+ENG-Premier League,2425,2024-11-02 Wolves-Crystal Palace,Wolverhampton Wanderers,José Sá,POR,31-290,90,6,2,4,66.7,a4251fae
+ENG-Premier League,2425,2024-11-03 Manchester Utd-Chelsea,Chelsea,Robert Sánchez,ESP,26-351,90,3,1,3,100.0,1273ae28
+ENG-Premier League,2425,2024-11-03 Manchester Utd-Chelsea,Manchester United,André Onana,CMR,28-215,90,3,1,2,66.7,1273ae28
+ENG-Premier League,2425,2024-11-03 Tottenham Hotspur-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-062,90,6,4,2,33.3,8fa951f9
+ENG-Premier League,2425,2024-11-03 Tottenham Hotspur-Aston Villa,Tottenham Hotspur,Guglielmo Vicario,ITA,28-027,90,2,1,1,50.0,8fa951f9
+ENG-Premier League,2425,2024-11-04 Fulham-Brentford,Brentford,Mark Flekken,NED,31-144,90,12,2,10,83.3,e1590847
+ENG-Premier League,2425,2024-11-04 Fulham-Brentford,Fulham,Bernd Leno,GER,32-245,90,2,1,1,50.0,e1590847
+ENG-Premier League,2425,2024-11-09 Brentford-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-037,90,6,3,3,50.0,1c998ef5
+ENG-Premier League,2425,2024-11-09 Brentford-Bournemouth,Brentford,Mark Flekken,NED,31-149,90,3,2,1,33.3,1c998ef5
+ENG-Premier League,2425,2024-11-09 Brighton-Manchester City,Brighton & Hove Albion,Bart Verbruggen,NED,22-083,90,6,1,5,83.3,62aa7905
+ENG-Premier League,2425,2024-11-09 Brighton-Manchester City,Manchester City,Ederson,BRA,31-084,90,4,2,2,50.0,62aa7905
+ENG-Premier League,2425,2024-11-09 Crystal Palace-Fulham,Crystal Palace,Dean Henderson,ENG,27-242,90,7,2,5,71.4,d5015ba4
+ENG-Premier League,2425,2024-11-09 Crystal Palace-Fulham,Fulham,Bernd Leno,GER,32-250,90,4,0,4,100.0,d5015ba4
+ENG-Premier League,2425,2024-11-09 Liverpool-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-068,90,5,2,3,60.0,737af5bf
+ENG-Premier League,2425,2024-11-09 Liverpool-Aston Villa,Liverpool,Caoimhín Kelleher,IRL,25-352,90,2,0,2,100.0,737af5bf
+ENG-Premier League,2425,2024-11-09 West Ham United-Everton,Everton,Jordan Pickford,ENG,30-247,90,6,0,6,100.0,a4cf40b4
+ENG-Premier League,2425,2024-11-09 West Ham United-Everton,West Ham United,Łukasz Fabiański,POL,39-205,90,4,0,4,100.0,a4cf40b4
+ENG-Premier League,2425,2024-11-09 Wolves-Southampton,Southampton,Aaron Ramsdale,ENG,26-179,90,4,2,2,50.0,dbec2d40
+ENG-Premier League,2425,2024-11-09 Wolves-Southampton,Wolverhampton Wanderers,José Sá,POR,31-297,90,0,0,0,,dbec2d40
+ENG-Premier League,2425,2024-11-10 Chelsea-Arsenal,Arsenal,David Raya,ESP,29-056,90,3,1,2,66.7,2874d56e
+ENG-Premier League,2425,2024-11-10 Chelsea-Arsenal,Chelsea,Robert Sánchez,ESP,26-358,90,3,1,2,66.7,2874d56e
+ENG-Premier League,2425,2024-11-10 Manchester Utd-Leicester City,Leicester City,Mads Hermansen,DEN,24-122,90,4,3,1,25.0,35888afe
+ENG-Premier League,2425,2024-11-10 Manchester Utd-Leicester City,Manchester United,André Onana,CMR,28-222,90,5,0,5,100.0,35888afe
+ENG-Premier League,2425,2024-11-10 Nottingham Forest-Newcastle United,Newcastle United,Nick Pope,ENG,32-205,90,3,1,2,66.7,a41ce5c3
+ENG-Premier League,2425,2024-11-10 Nottingham Forest-Newcastle United,Nottingham Forest,Matz Sels,BEL,32-258,90,6,3,3,50.0,a41ce5c3
+ENG-Premier League,2425,2024-11-10 Tottenham Hotspur-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,26-003,90,6,1,5,83.3,f9b9c3c4
+ENG-Premier League,2425,2024-11-10 Tottenham Hotspur-Ipswich Town,Tottenham Hotspur,Guglielmo Vicario,ITA,28-034,90,3,2,1,33.3,f9b9c3c4
+ENG-Premier League,2425,2024-11-23 Arsenal-Nottingham Forest,Arsenal,David Raya,ESP,29-069,90,0,0,0,,0cb4129b
+ENG-Premier League,2425,2024-11-23 Arsenal-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-271,90,6,3,3,50.0,0cb4129b
+ENG-Premier League,2425,2024-11-23 Aston Villa-Crystal Palace,Aston Villa,Emiliano Martínez,ARG,32-082,90,6,2,4,66.7,bf2e07a1
+ENG-Premier League,2425,2024-11-23 Aston Villa-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-256,90,3,2,2,33.3,bf2e07a1
+ENG-Premier League,2425,2024-11-23 Bournemouth-Brighton,Bournemouth,Kepa Arrizabalaga,ESP,30-051,90,4,2,2,50.0,4708a5bf
+ENG-Premier League,2425,2024-11-23 Bournemouth-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-097,90,5,1,4,80.0,4708a5bf
+ENG-Premier League,2425,2024-11-23 Everton-Brentford,Brentford,Mark Flekken,NED,31-163,90,5,0,5,100.0,dd7675a7
+ENG-Premier League,2425,2024-11-23 Everton-Brentford,Everton,Jordan Pickford,ENG,30-261,90,2,0,2,100.0,dd7675a7
+ENG-Premier League,2425,2024-11-23 Fulham-Wolves,Fulham,Bernd Leno,GER,32-264,90,5,4,1,20.0,ed24aeb8
+ENG-Premier League,2425,2024-11-23 Fulham-Wolves,Wolverhampton Wanderers,José Sá,POR,31-311,90,3,1,2,66.7,ed24aeb8
+ENG-Premier League,2425,2024-11-23 Leicester City-Chelsea,Chelsea,Robert Sánchez,ESP,27-005,90,0,1,0,,bb885467
+ENG-Premier League,2425,2024-11-23 Leicester City-Chelsea,Leicester City,Mads Hermansen,DEN,24-135,90,6,2,4,66.7,bb885467
+ENG-Premier League,2425,2024-11-23 Manchester City-Tottenham Hotspur,Manchester City,Ederson,BRA,31-098,90,7,4,3,42.9,c48b896c
+ENG-Premier League,2425,2024-11-23 Manchester City-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-047,90,5,0,5,100.0,c48b896c
+ENG-Premier League,2425,2024-11-24 Ipswich Town-Manchester Utd,Ipswich Town,Arijanet Muric,KVX,26-017,90,4,1,3,75.0,db1e4ea5
+ENG-Premier League,2425,2024-11-24 Ipswich Town-Manchester Utd,Manchester United,André Onana,CMR,28-236,90,6,1,5,83.3,db1e4ea5
+ENG-Premier League,2425,2024-11-24 Southampton-Liverpool,Liverpool,Caoimhín Kelleher,IRL,26-001,90,3,2,2,33.3,eb6f8e39
+ENG-Premier League,2425,2024-11-24 Southampton-Liverpool,Southampton,Alex McCarthy,ENG,34-357,90,10,3,8,80.0,eb6f8e39
+ENG-Premier League,2425,2024-11-25 Newcastle United-West Ham United,Newcastle United,Nick Pope,ENG,32-220,90,6,2,4,66.7,79f46eec
+ENG-Premier League,2425,2024-11-25 Newcastle United-West Ham United,West Ham United,Łukasz Fabiański,POL,39-221,90,2,0,2,100.0,79f46eec
+ENG-Premier League,2425,2024-11-29 Brighton-Southampton,Brighton & Hove Albion,Bart Verbruggen,NED,22-103,90,2,1,1,50.0,d38c4a31
+ENG-Premier League,2425,2024-11-29 Brighton-Southampton,Southampton,Joe Lumley,ENG,29-288,90,5,1,4,80.0,d38c4a31
+ENG-Premier League,2425,2024-11-30 Brentford-Leicester City,Brentford,Mark Flekken,NED,31-170,90,3,1,2,66.7,f4f9a64f
+ENG-Premier League,2425,2024-11-30 Brentford-Leicester City,Leicester City,Mads Hermansen,DEN,24-142,90,6,4,2,33.3,f4f9a64f
+ENG-Premier League,2425,2024-11-30 Crystal Palace-Newcastle United,Crystal Palace,Dean Henderson,ENG,27-263,90,1,1,0,0.0,a4f03af0
+ENG-Premier League,2425,2024-11-30 Crystal Palace-Newcastle United,Newcastle United,Nick Pope,ENG,32-225,90,3,1,2,66.7,a4f03af0
+ENG-Premier League,2425,2024-11-30 Nottingham Forest-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,26-023,90,4,1,4,100.0,ddc8856c
+ENG-Premier League,2425,2024-11-30 Nottingham Forest-Ipswich Town,Nottingham Forest,Matz Sels,BEL,32-278,90,2,0,2,100.0,ddc8856c
+ENG-Premier League,2425,2024-11-30 West Ham United-Arsenal,Arsenal,David Raya,ESP,29-076,90,5,2,3,60.0,f78bee62
+ENG-Premier League,2425,2024-11-30 West Ham United-Arsenal,West Ham United,Łukasz Fabiański,POL,39-226,90,5,5,2,40.0,f78bee62
+ENG-Premier League,2425,2024-11-30 Wolves-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-058,90,3,2,1,33.3,adfb1b89
+ENG-Premier League,2425,2024-11-30 Wolves-Bournemouth,Wolverhampton Wanderers,José Sá,POR,31-318,90,5,4,4,80.0,adfb1b89
+ENG-Premier League,2425,2024-12-01 Chelsea-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-090,45,5,2,3,60.0,080b797b
+ENG-Premier League,2425,2024-12-01 Chelsea-Aston Villa,Aston Villa,Robin Olsen,SWE,34-328,45,3,1,2,66.7,080b797b
+ENG-Premier League,2425,2024-12-01 Chelsea-Aston Villa,Chelsea,Robert Sánchez,ESP,27-013,90,3,0,3,100.0,080b797b
+ENG-Premier League,2425,2024-12-01 Liverpool-Manchester City,Liverpool,Caoimhín Kelleher,IRL,26-008,90,3,0,2,100.0,0bd6ad44
+ENG-Premier League,2425,2024-12-01 Liverpool-Manchester City,Manchester City,Stefan Ortega,GER,32-025,90,6,2,5,83.3,0bd6ad44
+ENG-Premier League,2425,2024-12-01 Manchester Utd-Everton,Everton,Jordan Pickford,ENG,30-269,90,5,4,1,20.0,e6eef20f
+ENG-Premier League,2425,2024-12-01 Manchester Utd-Everton,Manchester United,André Onana,CMR,28-243,90,2,0,2,100.0,e6eef20f
+ENG-Premier League,2425,2024-12-01 Tottenham Hotspur-Fulham,Fulham,Bernd Leno,GER,32-272,90,3,1,2,66.7,9aaa6ed5
+ENG-Premier League,2425,2024-12-01 Tottenham Hotspur-Fulham,Tottenham Hotspur,Fraser Forster,ENG,36-259,90,6,1,5,83.3,9aaa6ed5
+ENG-Premier League,2425,2024-12-03 Ipswich Town-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-266,90,2,0,2,100.0,f7a96e82
+ENG-Premier League,2425,2024-12-03 Ipswich Town-Crystal Palace,Ipswich Town,Arijanet Muric,KVX,26-026,90,3,1,2,66.7,f7a96e82
+ENG-Premier League,2425,2024-12-03 Leicester City-West Ham United,Leicester City,Mads Hermansen,DEN,24-145,90,8,1,7,87.5,355fd8ce
+ENG-Premier League,2425,2024-12-03 Leicester City-West Ham United,West Ham United,Łukasz Fabiański,POL,39-229,90,6,3,3,50.0,355fd8ce
+ENG-Premier League,2425,2024-12-04 Arsenal-Manchester Utd,Arsenal,David Raya,ESP,29-080,90,2,0,2,100.0,9938aa27
+ENG-Premier League,2425,2024-12-04 Arsenal-Manchester Utd,Manchester United,André Onana,CMR,28-246,90,6,2,4,66.7,9938aa27
+ENG-Premier League,2425,2024-12-04 Aston Villa-Brentford,Aston Villa,Emiliano Martínez,ARG,32-093,90,1,1,0,0.0,c24a734b
+ENG-Premier League,2425,2024-12-04 Aston Villa-Brentford,Brentford,Mark Flekken,NED,31-174,90,9,3,7,77.8,c24a734b
+ENG-Premier League,2425,2024-12-04 Everton-Wolves,Everton,Jordan Pickford,ENG,30-272,90,2,0,2,100.0,71f00b04
+ENG-Premier League,2425,2024-12-04 Everton-Wolves,Wolverhampton Wanderers,José Sá,POR,31-322,90,6,4,2,33.3,71f00b04
+ENG-Premier League,2425,2024-12-04 Manchester City-Nottingham Forest,Manchester City,Stefan Ortega,GER,32-028,90,3,0,3,100.0,dedb0eee
+ENG-Premier League,2425,2024-12-04 Manchester City-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-282,90,6,3,3,50.0,dedb0eee
+ENG-Premier League,2425,2024-12-04 Newcastle United-Liverpool,Liverpool,Caoimhín Kelleher,IRL,26-011,90,6,3,3,50.0,ca898c29
+ENG-Premier League,2425,2024-12-04 Newcastle United-Liverpool,Newcastle United,Nick Pope,ENG,32-229,90,5,3,2,40.0,ca898c29
+ENG-Premier League,2425,2024-12-04 Southampton-Chelsea,Chelsea,Filip Jørgensen,DEN,22-232,90,4,1,3,75.0,e4480630
+ENG-Premier League,2425,2024-12-04 Southampton-Chelsea,Southampton,Joe Lumley,ENG,29-293,90,11,5,6,54.5,e4480630
+ENG-Premier League,2425,2024-12-05 Bournemouth-Tottenham Hotspur,Bournemouth,Kepa Arrizabalaga,ESP,30-063,90,4,0,4,100.0,c7e59a0a
+ENG-Premier League,2425,2024-12-05 Bournemouth-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,36-263,90,8,1,7,87.5,c7e59a0a
+ENG-Premier League,2425,2024-12-05 Fulham-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-109,90,3,3,0,0.0,32aaf579
+ENG-Premier League,2425,2024-12-05 Fulham-Brighton,Fulham,Bernd Leno,GER,32-276,90,3,1,2,66.7,32aaf579
+ENG-Premier League,2425,2024-12-07 Aston Villa-Southampton,Aston Villa,Emiliano Martínez,ARG,32-096,90,0,0,0,,92cfde2c
+ENG-Premier League,2425,2024-12-07 Aston Villa-Southampton,Southampton,Joe Lumley,ENG,29-296,90,4,1,3,75.0,92cfde2c
+ENG-Premier League,2425,2024-12-07 Brentford-Newcastle United,Brentford,Mark Flekken,NED,31-177,90,4,2,2,50.0,1042592d
+ENG-Premier League,2425,2024-12-07 Brentford-Newcastle United,Newcastle United,Nick Pope,ENG,32-232,90,8,4,4,50.0,1042592d
+ENG-Premier League,2425,2024-12-07 Crystal Palace-Manchester City,Crystal Palace,Dean Henderson,ENG,27-270,90,4,2,2,50.0,6b7fbda1
+ENG-Premier League,2425,2024-12-07 Crystal Palace-Manchester City,Manchester City,Stefan Ortega,GER,32-031,90,3,2,1,33.3,6b7fbda1
+ENG-Premier League,2425,2024-12-07 Manchester Utd-Nottingham Forest,Manchester United,André Onana,CMR,28-249,90,3,3,0,0.0,08966ea6
+ENG-Premier League,2425,2024-12-07 Manchester Utd-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-285,90,7,2,5,71.4,08966ea6
+ENG-Premier League,2425,2024-12-08 Fulham-Arsenal,Arsenal,David Raya,ESP,29-084,90,2,1,1,50.0,038dfa98
+ENG-Premier League,2425,2024-12-08 Fulham-Arsenal,Fulham,Bernd Leno,GER,32-279,90,4,1,3,75.0,038dfa98
+ENG-Premier League,2425,2024-12-08 Ipswich Town-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-066,90,5,1,4,80.0,392c7b1f
+ENG-Premier League,2425,2024-12-08 Ipswich Town-Bournemouth,Ipswich Town,Arijanet Muric,KVX,26-031,90,6,2,4,66.7,392c7b1f
+ENG-Premier League,2425,2024-12-08 Leicester City-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-112,90,3,2,1,33.3,7b549f8f
+ENG-Premier League,2425,2024-12-08 Leicester City-Brighton,Leicester City,Mads Hermansen,DEN,24-150,90,7,2,5,71.4,7b549f8f
+ENG-Premier League,2425,2024-12-08 Tottenham Hotspur-Chelsea,Chelsea,Robert Sánchez,ESP,27-020,90,5,3,2,40.0,abff9b73
+ENG-Premier League,2425,2024-12-08 Tottenham Hotspur-Chelsea,Tottenham Hotspur,Fraser Forster,ENG,36-266,90,6,4,4,66.7,abff9b73
+ENG-Premier League,2425,2024-12-09 West Ham United-Wolves,West Ham United,Łukasz Fabiański,POL,39-235,90,5,1,4,80.0,4d72ec87
+ENG-Premier League,2425,2024-12-09 West Ham United-Wolves,Wolverhampton Wanderers,Sam Johnstone,ENG,31-259,90,4,2,2,50.0,4d72ec87
+ENG-Premier League,2425,2024-12-14 Arsenal-Everton,Arsenal,David Raya,ESP,29-090,90,0,0,0,,32aa9e8e
+ENG-Premier League,2425,2024-12-14 Arsenal-Everton,Everton,Jordan Pickford,ENG,30-282,90,5,0,5,100.0,32aa9e8e
+ENG-Premier League,2425,2024-12-14 Liverpool-Fulham,Fulham,Bernd Leno,GER,32-285,90,4,2,2,50.0,a436996c
+ENG-Premier League,2425,2024-12-14 Liverpool-Fulham,Liverpool,Alisson,BRA,32-073,90,3,2,1,33.3,a436996c
+ENG-Premier League,2425,2024-12-14 Newcastle United-Leicester City,Leicester City,Danny Ward,WAL,31-175,45,6,3,3,50.0,0b6fe43f
+ENG-Premier League,2425,2024-12-14 Newcastle United-Leicester City,Leicester City,Mads Hermansen,DEN,24-156,45,5,1,4,80.0,0b6fe43f
+ENG-Premier League,2425,2024-12-14 Newcastle United-Leicester City,Newcastle United,Martin Dúbravka,SVK,35-334,90,1,0,1,100.0,0b6fe43f
+ENG-Premier League,2425,2024-12-14 Nottingham Forest-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-103,90,6,2,4,66.7,26926fd3
+ENG-Premier League,2425,2024-12-14 Nottingham Forest-Aston Villa,Nottingham Forest,Matz Sels,BEL,32-292,90,2,1,1,50.0,26926fd3
+ENG-Premier League,2425,2024-12-14 Wolves-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,26-037,90,6,1,5,83.3,46d52e33
+ENG-Premier League,2425,2024-12-14 Wolves-Ipswich Town,Wolverhampton Wanderers,Sam Johnstone,ENG,31-264,90,4,2,2,50.0,46d52e33
+ENG-Premier League,2425,2024-12-15 Brighton-Crystal Palace,Brighton & Hove Albion,Bart Verbruggen,NED,22-119,90,5,3,2,40.0,c8314a05
+ENG-Premier League,2425,2024-12-15 Brighton-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-278,90,6,1,5,83.3,c8314a05
+ENG-Premier League,2425,2024-12-15 Chelsea-Brentford,Brentford,Mark Flekken,NED,31-185,90,8,2,6,75.0,5f0803f7
+ENG-Premier League,2425,2024-12-15 Chelsea-Brentford,Chelsea,Robert Sánchez,ESP,27-027,90,4,1,3,75.0,5f0803f7
+ENG-Premier League,2425,2024-12-15 Manchester City-Manchester Utd,Manchester City,Ederson,BRA,31-120,90,2,2,1,50.0,3d772028
+ENG-Premier League,2425,2024-12-15 Manchester City-Manchester Utd,Manchester United,André Onana,CMR,28-257,90,3,1,2,66.7,3d772028
+ENG-Premier League,2425,2024-12-15 Southampton-Tottenham Hotspur,Southampton,Alex McCarthy,ENG,35-012,90,9,5,4,44.4,37afd6da
+ENG-Premier League,2425,2024-12-15 Southampton-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,36-273,90,4,0,3,100.0,37afd6da
+ENG-Premier League,2425,2024-12-16 Bournemouth-West Ham United,Bournemouth,Kepa Arrizabalaga,ESP,30-074,90,2,1,2,100.0,49cd674b
+ENG-Premier League,2425,2024-12-16 Bournemouth-West Ham United,West Ham United,Łukasz Fabiański,POL,39-242,90,9,1,8,88.9,49cd674b
+ENG-Premier League,2425,2024-12-21 Aston Villa-Manchester City,Aston Villa,Emiliano Martínez,ARG,32-110,90,6,1,5,83.3,ce9dc982
+ENG-Premier League,2425,2024-12-21 Aston Villa-Manchester City,Manchester City,Stefan Ortega,GER,32-045,90,6,2,4,66.7,ce9dc982
+ENG-Premier League,2425,2024-12-21 Brentford-Nottingham Forest,Brentford,Mark Flekken,NED,31-191,90,6,2,4,66.7,1c60d037
+ENG-Premier League,2425,2024-12-21 Brentford-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-299,90,3,0,3,100.0,1c60d037
+ENG-Premier League,2425,2024-12-21 Crystal Palace-Arsenal,Arsenal,David Raya,ESP,29-097,90,6,1,5,83.3,5e7aa707
+ENG-Premier League,2425,2024-12-21 Crystal Palace-Arsenal,Crystal Palace,Dean Henderson,ENG,27-284,90,6,5,1,16.7,5e7aa707
+ENG-Premier League,2425,2024-12-21 Ipswich Town-Newcastle United,Ipswich Town,Arijanet Muric,KVX,26-044,90,7,4,3,42.9,764fc51e
+ENG-Premier League,2425,2024-12-21 Ipswich Town-Newcastle United,Newcastle United,Martin Dúbravka,SVK,35-341,90,2,0,2,100.0,764fc51e
+ENG-Premier League,2425,2024-12-21 West Ham United-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-125,90,4,1,3,75.0,04be8e87
+ENG-Premier League,2425,2024-12-21 West Ham United-Brighton,West Ham United,Łukasz Fabiański,POL,39-247,90,6,1,5,83.3,04be8e87
+ENG-Premier League,2425,2024-12-22 Everton-Chelsea,Chelsea,Robert Sánchez,ESP,27-034,90,4,0,4,100.0,de72140c
+ENG-Premier League,2425,2024-12-22 Everton-Chelsea,Everton,Jordan Pickford,ENG,30-290,90,4,0,4,100.0,de72140c
+ENG-Premier League,2425,2024-12-22 Fulham-Southampton,Fulham,Bernd Leno,GER,32-293,90,1,0,1,100.0,ba3fcb1e
+ENG-Premier League,2425,2024-12-22 Fulham-Southampton,Southampton,Aaron Ramsdale,ENG,26-222,90,5,0,5,100.0,ba3fcb1e
+ENG-Premier League,2425,2024-12-22 Leicester City-Wolves,Leicester City,Danny Ward,WAL,31-183,90,4,3,1,25.0,ecd6cb1d
+ENG-Premier League,2425,2024-12-22 Leicester City-Wolves,Wolverhampton Wanderers,José Sá,POR,31-340,90,4,0,4,100.0,ecd6cb1d
+ENG-Premier League,2425,2024-12-22 Manchester Utd-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-080,90,7,0,7,100.0,8381ba53
+ENG-Premier League,2425,2024-12-22 Manchester Utd-Bournemouth,Manchester United,André Onana,CMR,28-264,90,4,3,2,50.0,8381ba53
+ENG-Premier League,2425,2024-12-22 Tottenham Hotspur-Liverpool,Liverpool,Alisson,BRA,32-081,90,5,3,2,40.0,1e1cea4c
+ENG-Premier League,2425,2024-12-22 Tottenham Hotspur-Liverpool,Tottenham Hotspur,Fraser Forster,ENG,36-280,90,12,6,6,50.0,1e1cea4c
+ENG-Premier League,2425,2024-12-26 Bournemouth-Crystal Palace,Bournemouth,Kepa Arrizabalaga,ESP,30-084,90,4,0,4,100.0,886ca6b3
+ENG-Premier League,2425,2024-12-26 Bournemouth-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-289,90,3,0,3,100.0,886ca6b3
+ENG-Premier League,2425,2024-12-26 Chelsea-Fulham,Chelsea,Robert Sánchez,ESP,27-038,90,7,2,5,71.4,03d6159c
+ENG-Premier League,2425,2024-12-26 Chelsea-Fulham,Fulham,Bernd Leno,GER,32-297,90,8,1,7,87.5,03d6159c
+ENG-Premier League,2425,2024-12-26 Liverpool-Leicester City,Leicester City,Jakub Stolarczyk,POL,24-007,90,7,3,4,57.1,1f604fbd
+ENG-Premier League,2425,2024-12-26 Liverpool-Leicester City,Liverpool,Alisson,BRA,32-085,90,1,1,0,0.0,1f604fbd
+ENG-Premier League,2425,2024-12-26 Manchester City-Everton,Everton,Jordan Pickford,ENG,30-294,90,3,1,3,66.7,87f2d794
+ENG-Premier League,2425,2024-12-26 Manchester City-Everton,Manchester City,Stefan Ortega,GER,32-050,90,3,1,2,66.7,87f2d794
+ENG-Premier League,2425,2024-12-26 Newcastle United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-115,90,7,3,4,57.1,9985f304
+ENG-Premier League,2425,2024-12-26 Newcastle United-Aston Villa,Newcastle United,Martin Dúbravka,SVK,35-346,90,1,0,1,100.0,9985f304
+ENG-Premier League,2425,2024-12-26 Nottingham Forest-Tottenham Hotspur,Nottingham Forest,Matz Sels,BEL,32-304,90,4,0,4,100.0,eb738106
+ENG-Premier League,2425,2024-12-26 Nottingham Forest-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,36-284,90,3,1,2,66.7,eb738106
+ENG-Premier League,2425,2024-12-26 Southampton-West Ham United,Southampton,Aaron Ramsdale,ENG,26-226,90,2,1,1,50.0,8050686b
+ENG-Premier League,2425,2024-12-26 Southampton-West Ham United,West Ham United,Alphonse Areola,FRA,31-303,55,2,0,2,100.0,8050686b
+ENG-Premier League,2425,2024-12-26 Southampton-West Ham United,West Ham United,Łukasz Fabiański,POL,39-252,35,3,0,3,100.0,8050686b
+ENG-Premier League,2425,2024-12-26 Wolves-Manchester Utd,Manchester United,André Onana,CMR,28-268,90,4,2,2,50.0,77bcad49
+ENG-Premier League,2425,2024-12-26 Wolves-Manchester Utd,Wolverhampton Wanderers,José Sá,POR,31-344,90,4,0,4,100.0,77bcad49
+ENG-Premier League,2425,2024-12-27 Arsenal-Ipswich Town,Arsenal,David Raya,ESP,29-103,90,0,0,0,,668dad03
+ENG-Premier League,2425,2024-12-27 Arsenal-Ipswich Town,Ipswich Town,Arijanet Muric,KVX,26-050,90,5,1,4,80.0,668dad03
+ENG-Premier League,2425,2024-12-27 Brighton-Brentford,Brentford,Hákon Valdimarsson,ISL,23-075,55,2,0,2,100.0,15b10b33
+ENG-Premier League,2425,2024-12-27 Brighton-Brentford,Brentford,Mark Flekken,NED,31-197,35,6,0,6,100.0,15b10b33
+ENG-Premier League,2425,2024-12-27 Brighton-Brentford,Brighton & Hove Albion,Bart Verbruggen,NED,22-131,90,3,0,3,100.0,15b10b33
+ENG-Premier League,2425,2024-12-29 Crystal Palace-Southampton,Crystal Palace,Dean Henderson,ENG,27-292,90,3,1,2,66.7,6d06b29c
+ENG-Premier League,2425,2024-12-29 Crystal Palace-Southampton,Southampton,Aaron Ramsdale,ENG,26-229,90,10,2,8,80.0,6d06b29c
+ENG-Premier League,2425,2024-12-29 Everton-Nottingham Forest,Everton,Jordan Pickford,ENG,30-297,90,7,2,5,71.4,5fa986dc
+ENG-Premier League,2425,2024-12-29 Everton-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-307,90,2,0,2,100.0,5fa986dc
+ENG-Premier League,2425,2024-12-29 Fulham-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-087,90,6,2,4,66.7,4b4023dc
+ENG-Premier League,2425,2024-12-29 Fulham-Bournemouth,Fulham,Bernd Leno,GER,32-300,90,8,2,6,75.0,4b4023dc
+ENG-Premier League,2425,2024-12-29 Leicester City-Manchester City,Leicester City,Jakub Stolarczyk,POL,24-010,90,5,2,3,60.0,8bbb6d95
+ENG-Premier League,2425,2024-12-29 Leicester City-Manchester City,Manchester City,Stefan Ortega,GER,32-053,90,3,0,3,100.0,8bbb6d95
+ENG-Premier League,2425,2024-12-29 Tottenham Hotspur-Wolves,Tottenham Hotspur,Fraser Forster,ENG,36-287,90,3,2,1,33.3,3d2ef5b4
+ENG-Premier League,2425,2024-12-29 Tottenham Hotspur-Wolves,Wolverhampton Wanderers,José Sá,POR,31-347,90,1,2,0,-100.0,3d2ef5b4
+ENG-Premier League,2425,2024-12-29 West Ham United-Liverpool,Liverpool,Alisson,BRA,32-088,90,1,0,0,100.0,c1a66ac0
+ENG-Premier League,2425,2024-12-29 West Ham United-Liverpool,West Ham United,Alphonse Areola,FRA,31-306,90,13,5,8,61.5,c1a66ac0
+ENG-Premier League,2425,2024-12-30 Aston Villa-Brighton,Aston Villa,Emiliano Martínez,ARG,32-119,90,5,2,3,60.0,5e8340e9
+ENG-Premier League,2425,2024-12-30 Aston Villa-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-134,90,4,2,3,75.0,5e8340e9
+ENG-Premier League,2425,2024-12-30 Ipswich Town-Chelsea,Chelsea,Filip Jørgensen,DEN,22-258,90,5,2,4,80.0,88073205
+ENG-Premier League,2425,2024-12-30 Ipswich Town-Chelsea,Ipswich Town,Christian Walton,ENG,29-051,90,4,0,4,100.0,88073205
+ENG-Premier League,2425,2024-12-30 Manchester Utd-Newcastle United,Manchester United,André Onana,CMR,28-272,90,4,2,2,50.0,8cff7a63
+ENG-Premier League,2425,2024-12-30 Manchester Utd-Newcastle United,Newcastle United,Martin Dúbravka,SVK,35-350,90,0,0,0,,8cff7a63
+ENG-Premier League,2425,2025-01-01 Brentford-Arsenal,Arsenal,David Raya,ESP,29-108,90,2,1,1,50.0,7e6892e4
+ENG-Premier League,2425,2025-01-01 Brentford-Arsenal,Brentford,Mark Flekken,NED,31-202,90,4,3,1,25.0,7e6892e4
+ENG-Premier League,2425,2025-01-04 Aston Villa-Leicester City,Aston Villa,Emiliano Martínez,ARG,32-124,90,2,1,1,50.0,f5ae8d7d
+ENG-Premier League,2425,2025-01-04 Aston Villa-Leicester City,Leicester City,Jakub Stolarczyk,POL,24-016,90,5,2,3,60.0,f5ae8d7d
+ENG-Premier League,2425,2025-01-04 Bournemouth-Everton,Bournemouth,Mark Travers,IRL,25-231,90,0,0,0,,43f0c302
+ENG-Premier League,2425,2025-01-04 Bournemouth-Everton,Everton,Jordan Pickford,ENG,30-303,90,8,1,7,87.5,43f0c302
+ENG-Premier League,2425,2025-01-04 Brighton-Arsenal,Arsenal,David Raya,ESP,29-111,90,3,1,3,100.0,52186da4
+ENG-Premier League,2425,2025-01-04 Brighton-Arsenal,Brighton & Hove Albion,Bart Verbruggen,NED,22-139,90,3,1,2,66.7,52186da4
+ENG-Premier League,2425,2025-01-04 Crystal Palace-Chelsea,Chelsea,Robert Sánchez,ESP,27-047,90,6,1,5,83.3,cd9861d5
+ENG-Premier League,2425,2025-01-04 Crystal Palace-Chelsea,Crystal Palace,Dean Henderson,ENG,27-298,90,1,1,0,0.0,cd9861d5
+ENG-Premier League,2425,2025-01-04 Manchester City-West Ham United,Manchester City,Stefan Ortega,GER,32-059,90,4,1,3,75.0,d7773a4c
+ENG-Premier League,2425,2025-01-04 Manchester City-West Ham United,West Ham United,Alphonse Areola,FRA,31-312,90,8,4,4,50.0,d7773a4c
+ENG-Premier League,2425,2025-01-04 Southampton-Brentford,Brentford,Mark Flekken,NED,31-205,90,1,0,1,100.0,36fc576a
+ENG-Premier League,2425,2025-01-04 Southampton-Brentford,Southampton,Aaron Ramsdale,ENG,26-235,90,9,5,5,55.6,36fc576a
+ENG-Premier League,2425,2025-01-04 Tottenham Hotspur-Newcastle United,Newcastle United,Martin Dúbravka,SVK,35-355,90,4,1,3,75.0,be247ac3
+ENG-Premier League,2425,2025-01-04 Tottenham Hotspur-Newcastle United,Tottenham Hotspur,Brandon Austin,ENG,25-362,90,4,2,2,50.0,be247ac3
+ENG-Premier League,2425,2025-01-05 Fulham-Ipswich Town,Fulham,Bernd Leno,GER,32-307,90,2,2,1,50.0,8b69ef69
+ENG-Premier League,2425,2025-01-05 Fulham-Ipswich Town,Ipswich Town,Christian Walton,ENG,29-057,90,2,2,2,100.0,8b69ef69
+ENG-Premier League,2425,2025-01-05 Liverpool-Manchester Utd,Liverpool,Alisson,BRA,32-095,90,4,2,2,50.0,4cef863f
+ENG-Premier League,2425,2025-01-05 Liverpool-Manchester Utd,Manchester United,André Onana,CMR,28-278,90,5,2,4,80.0,4cef863f
+ENG-Premier League,2425,2025-01-06 Wolves-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-315,90,5,0,5,100.0,56c4250a
+ENG-Premier League,2425,2025-01-06 Wolves-Nottingham Forest,Wolverhampton Wanderers,José Sá,POR,31-355,90,3,3,0,0.0,56c4250a
+ENG-Premier League,2425,2025-01-14 Brentford-Manchester City,Brentford,Mark Flekken,NED,31-215,90,8,2,6,75.0,68c2e6b8
+ENG-Premier League,2425,2025-01-14 Brentford-Manchester City,Manchester City,Stefan Ortega,GER,32-069,90,5,2,3,60.0,68c2e6b8
+ENG-Premier League,2425,2025-01-14 Chelsea-Bournemouth,Bournemouth,Mark Travers,IRL,25-241,90,10,2,8,80.0,fff671a9
+ENG-Premier League,2425,2025-01-14 Chelsea-Bournemouth,Chelsea,Robert Sánchez,ESP,27-057,90,2,2,1,50.0,fff671a9
+ENG-Premier League,2425,2025-01-14 Nottingham Forest-Liverpool,Liverpool,Alisson,BRA,32-104,90,3,1,2,66.7,118f8df8
+ENG-Premier League,2425,2025-01-14 Nottingham Forest-Liverpool,Nottingham Forest,Matz Sels,BEL,32-323,90,6,1,5,83.3,118f8df8
+ENG-Premier League,2425,2025-01-14 West Ham United-Fulham,Fulham,Bernd Leno,GER,32-316,90,3,3,0,0.0,c6168c73
+ENG-Premier League,2425,2025-01-14 West Ham United-Fulham,West Ham United,Łukasz Fabiański,POL,39-271,90,4,2,2,50.0,c6168c73
+ENG-Premier League,2425,2025-01-15 Arsenal-Tottenham Hotspur,Arsenal,David Raya,ESP,29-122,90,2,1,1,50.0,ee9ce5e2
+ENG-Premier League,2425,2025-01-15 Arsenal-Tottenham Hotspur,Tottenham Hotspur,Antonín Kinský,CZE,21-308,90,5,2,3,60.0,ee9ce5e2
+ENG-Premier League,2425,2025-01-15 Everton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-135,90,2,0,2,100.0,3e70b855
+ENG-Premier League,2425,2025-01-15 Everton-Aston Villa,Everton,Jordan Pickford,ENG,30-314,90,3,1,2,66.7,3e70b855
+ENG-Premier League,2425,2025-01-15 Leicester City-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-309,90,4,0,4,100.0,99eb6105
+ENG-Premier League,2425,2025-01-15 Leicester City-Crystal Palace,Leicester City,Jakub Stolarczyk,POL,24-027,90,4,2,2,50.0,99eb6105
+ENG-Premier League,2425,2025-01-15 Newcastle United-Wolves,Newcastle United,Martin Dúbravka,SVK,36-000,90,7,0,7,100.0,535d70d7
+ENG-Premier League,2425,2025-01-15 Newcastle United-Wolves,Wolverhampton Wanderers,José Sá,POR,31-364,90,5,3,2,40.0,535d70d7
+ENG-Premier League,2425,2025-01-16 Ipswich Town-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-151,90,3,0,3,100.0,ace86fcc
+ENG-Premier League,2425,2025-01-16 Ipswich Town-Brighton,Ipswich Town,Christian Walton,ENG,29-068,90,5,2,3,60.0,ace86fcc
+ENG-Premier League,2425,2025-01-16 Manchester Utd-Southampton,Manchester United,André Onana,CMR,28-289,90,6,1,5,83.3,f443a602
+ENG-Premier League,2425,2025-01-16 Manchester Utd-Southampton,Southampton,Aaron Ramsdale,ENG,26-247,90,9,3,6,66.7,f443a602
+ENG-Premier League,2425,2025-01-18 Arsenal-Aston Villa,Arsenal,David Raya,ESP,29-125,90,4,2,2,50.0,1fdaaaba
+ENG-Premier League,2425,2025-01-18 Arsenal-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-138,90,6,2,4,66.7,1fdaaaba
+ENG-Premier League,2425,2025-01-18 Brentford-Liverpool,Brentford,Mark Flekken,NED,31-219,90,8,2,6,75.0,5e8445c1
+ENG-Premier League,2425,2025-01-18 Brentford-Liverpool,Liverpool,Alisson,BRA,32-108,90,7,0,6,100.0,5e8445c1
+ENG-Premier League,2425,2025-01-18 Leicester City-Fulham,Fulham,Bernd Leno,GER,32-320,90,5,0,4,100.0,bc3ae18e
+ENG-Premier League,2425,2025-01-18 Leicester City-Fulham,Leicester City,Jakub Stolarczyk,POL,24-030,90,2,2,0,0.0,bc3ae18e
+ENG-Premier League,2425,2025-01-18 Newcastle United-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-107,90,4,1,3,75.0,99d11a39
+ENG-Premier League,2425,2025-01-18 Newcastle United-Bournemouth,Newcastle United,Martin Dúbravka,SVK,36-003,90,10,4,6,60.0,99d11a39
+ENG-Premier League,2425,2025-01-18 West Ham United-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-312,90,0,0,0,,03ac4a9c
+ENG-Premier League,2425,2025-01-18 West Ham United-Crystal Palace,West Ham United,Łukasz Fabiański,POL,39-275,90,6,2,5,83.3,03ac4a9c
+ENG-Premier League,2425,2025-01-19 Everton-Tottenham Hotspur,Everton,Jordan Pickford,ENG,30-318,90,5,2,3,60.0,e9f61cb0
+ENG-Premier League,2425,2025-01-19 Everton-Tottenham Hotspur,Tottenham Hotspur,Antonín Kinský,CZE,21-312,90,7,3,4,57.1,e9f61cb0
+ENG-Premier League,2425,2025-01-19 Ipswich Town-Manchester City,Ipswich Town,Christian Walton,ENG,29-071,90,9,6,3,33.3,6c829b8f
+ENG-Premier League,2425,2025-01-19 Ipswich Town-Manchester City,Manchester City,Ederson,BRA,31-155,90,4,0,4,100.0,6c829b8f
+ENG-Premier League,2425,2025-01-19 Manchester Utd-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-154,90,0,1,0,,45028d5b
+ENG-Premier League,2425,2025-01-19 Manchester Utd-Brighton,Manchester United,André Onana,CMR,28-292,90,3,3,0,0.0,45028d5b
+ENG-Premier League,2425,2025-01-19 Nottingham Forest-Southampton,Nottingham Forest,Matz Sels,BEL,32-328,90,3,2,1,33.3,e0f90407
+ENG-Premier League,2425,2025-01-19 Nottingham Forest-Southampton,Southampton,Aaron Ramsdale,ENG,26-250,90,4,3,1,25.0,e0f90407
+ENG-Premier League,2425,2025-01-20 Chelsea-Wolves,Chelsea,Robert Sánchez,ESP,27-063,90,4,1,3,75.0,e62cfa12
+ENG-Premier League,2425,2025-01-20 Chelsea-Wolves,Wolverhampton Wanderers,José Sá,POR,32-003,90,6,3,3,50.0,e62cfa12
+ENG-Premier League,2425,2025-01-25 Bournemouth-Nottingham Forest,Bournemouth,Kepa Arrizabalaga,ESP,30-114,90,4,0,4,100.0,efa8ddd7
+ENG-Premier League,2425,2025-01-25 Bournemouth-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-334,90,10,5,5,50.0,efa8ddd7
+ENG-Premier League,2425,2025-01-25 Brighton-Everton,Brighton & Hove Albion,Bart Verbruggen,NED,22-160,90,0,1,0,,b54aac79
+ENG-Premier League,2425,2025-01-25 Brighton-Everton,Everton,Jordan Pickford,ENG,30-324,90,1,0,1,100.0,b54aac79
+ENG-Premier League,2425,2025-01-25 Liverpool-Ipswich Town,Ipswich Town,Christian Walton,ENG,29-077,90,6,4,2,33.3,ee59115f
+ENG-Premier League,2425,2025-01-25 Liverpool-Ipswich Town,Liverpool,Alisson,BRA,32-115,90,3,1,2,66.7,ee59115f
+ENG-Premier League,2425,2025-01-25 Manchester City-Chelsea,Chelsea,Robert Sánchez,ESP,27-068,90,6,3,3,50.0,bfd54040
+ENG-Premier League,2425,2025-01-25 Manchester City-Chelsea,Manchester City,Ederson,BRA,31-161,90,4,1,3,75.0,bfd54040
+ENG-Premier League,2425,2025-01-25 Southampton-Newcastle United,Newcastle United,Martin Dúbravka,SVK,36-010,90,5,1,4,80.0,7d05223b
+ENG-Premier League,2425,2025-01-25 Southampton-Newcastle United,Southampton,Alex McCarthy,ENG,35-053,90,7,3,5,71.4,7d05223b
+ENG-Premier League,2425,2025-01-25 Wolves-Arsenal,Arsenal,David Raya,ESP,29-132,90,4,0,4,100.0,0b39252e
+ENG-Premier League,2425,2025-01-25 Wolves-Arsenal,Wolverhampton Wanderers,José Sá,POR,32-008,90,3,1,2,66.7,0b39252e
+ENG-Premier League,2425,2025-01-26 Aston Villa-West Ham United,Aston Villa,Emiliano Martínez,ARG,32-146,90,3,1,2,66.7,bb05246c
+ENG-Premier League,2425,2025-01-26 Aston Villa-West Ham United,West Ham United,Alphonse Areola,FRA,31-334,90,4,1,3,75.0,bb05246c
+ENG-Premier League,2425,2025-01-26 Crystal Palace-Brentford,Brentford,Mark Flekken,NED,31-227,90,5,1,4,80.0,68d6e8fe
+ENG-Premier League,2425,2025-01-26 Crystal Palace-Brentford,Crystal Palace,Dean Henderson,ENG,27-320,90,5,2,4,80.0,68d6e8fe
+ENG-Premier League,2425,2025-01-26 Fulham-Manchester Utd,Fulham,Bernd Leno,GER,32-328,90,1,1,0,0.0,eb14e391
+ENG-Premier League,2425,2025-01-26 Fulham-Manchester Utd,Manchester United,André Onana,CMR,28-299,90,2,0,2,100.0,eb14e391
+ENG-Premier League,2425,2025-01-26 Tottenham Hotspur-Leicester City,Leicester City,Jakub Stolarczyk,POL,24-038,90,6,1,5,83.3,8226bca2
+ENG-Premier League,2425,2025-01-26 Tottenham Hotspur-Leicester City,Tottenham Hotspur,Antonín Kinský,CZE,21-319,90,3,2,1,33.3,8226bca2
+ENG-Premier League,2425,2025-02-01 Bournemouth-Liverpool,Bournemouth,Kepa Arrizabalaga,ESP,30-121,90,6,2,5,83.3,886603cd
+ENG-Premier League,2425,2025-02-01 Bournemouth-Liverpool,Liverpool,Alisson,BRA,32-122,90,4,0,3,100.0,886603cd
+ENG-Premier League,2425,2025-02-01 Everton-Leicester City,Everton,Jordan Pickford,ENG,30-331,90,1,0,1,100.0,475670fb
+ENG-Premier League,2425,2025-02-01 Everton-Leicester City,Leicester City,Mads Hermansen,DEN,24-205,90,7,4,3,42.9,475670fb
+ENG-Premier League,2425,2025-02-01 Ipswich Town-Southampton,Ipswich Town,Arijanet Muric,KVX,26-086,90,4,2,2,50.0,1098cac0
+ENG-Premier League,2425,2025-02-01 Ipswich Town-Southampton,Southampton,Aaron Ramsdale,ENG,26-263,90,6,1,5,83.3,1098cac0
+ENG-Premier League,2425,2025-02-01 Newcastle United-Fulham,Fulham,Bernd Leno,GER,32-334,90,4,1,3,75.0,5ec3f48b
+ENG-Premier League,2425,2025-02-01 Newcastle United-Fulham,Newcastle United,Martin Dúbravka,SVK,36-017,90,4,2,2,50.0,5ec3f48b
+ENG-Premier League,2425,2025-02-01 Nottingham Forest-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-167,90,9,7,3,33.3,897ab235
+ENG-Premier League,2425,2025-02-01 Nottingham Forest-Brighton,Nottingham Forest,Matz Sels,BEL,32-341,90,6,0,5,100.0,897ab235
+ENG-Premier League,2425,2025-02-01 Wolves-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-152,90,5,2,3,60.0,693ab427
+ENG-Premier League,2425,2025-02-01 Wolves-Aston Villa,Wolverhampton Wanderers,José Sá,POR,32-015,90,3,0,3,100.0,693ab427
+ENG-Premier League,2425,2025-02-02 Arsenal-Manchester City,Arsenal,David Raya,ESP,29-140,90,4,1,3,75.0,2906e921
+ENG-Premier League,2425,2025-02-02 Arsenal-Manchester City,Manchester City,Stefan Ortega,GER,32-088,90,7,5,2,28.6,2906e921
+ENG-Premier League,2425,2025-02-02 Brentford-Tottenham Hotspur,Brentford,Hákon Valdimarsson,ISL,23-112,90,3,2,1,33.3,7193a229
+ENG-Premier League,2425,2025-02-02 Brentford-Tottenham Hotspur,Tottenham Hotspur,Antonín Kinský,CZE,21-326,90,3,0,3,100.0,7193a229
+ENG-Premier League,2425,2025-02-02 Manchester Utd-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-327,90,2,0,2,100.0,83dba981
+ENG-Premier League,2425,2025-02-02 Manchester Utd-Crystal Palace,Manchester United,André Onana,CMR,28-306,90,3,2,1,33.3,83dba981
+ENG-Premier League,2425,2025-02-03 Chelsea-West Ham United,Chelsea,Filip Jørgensen,DEN,22-293,90,5,1,4,80.0,ed7df9b1
+ENG-Premier League,2425,2025-02-03 Chelsea-West Ham United,West Ham United,Alphonse Areola,FRA,31-342,90,5,2,3,60.0,ed7df9b1
+ENG-Premier League,2425,2025-02-12 Everton-Liverpool,Everton,Jordan Pickford,ENG,30-342,90,4,2,2,50.0,92627434
+ENG-Premier League,2425,2025-02-12 Everton-Liverpool,Liverpool,Alisson,BRA,32-133,90,3,2,1,33.3,92627434
+ENG-Premier League,2425,2025-02-14 Brighton-Chelsea,Brighton & Hove Albion,Bart Verbruggen,NED,22-180,90,1,0,0,100.0,ed780e1d
+ENG-Premier League,2425,2025-02-14 Brighton-Chelsea,Chelsea,Filip Jørgensen,DEN,22-304,90,6,3,3,50.0,ed780e1d
+ENG-Premier League,2425,2025-02-15 Aston Villa-Ipswich Town,Aston Villa,Emiliano Martínez,ARG,32-166,90,4,1,3,75.0,06fee8c4
+ENG-Premier League,2425,2025-02-15 Aston Villa-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-189,90,7,1,6,85.7,06fee8c4
+ENG-Premier League,2425,2025-02-15 Crystal Palace-Everton,Crystal Palace,Dean Henderson,ENG,27-340,90,6,2,4,66.7,35ee3617
+ENG-Premier League,2425,2025-02-15 Crystal Palace-Everton,Everton,Jordan Pickford,ENG,30-345,90,6,1,5,83.3,35ee3617
+ENG-Premier League,2425,2025-02-15 Fulham-Nottingham Forest,Fulham,Bernd Leno,GER,32-348,90,2,1,1,50.0,5968d7ad
+ENG-Premier League,2425,2025-02-15 Fulham-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-355,90,10,2,8,80.0,5968d7ad
+ENG-Premier League,2425,2025-02-15 Leicester City-Arsenal,Arsenal,David Raya,ESP,29-153,90,2,0,2,100.0,af8aa0dd
+ENG-Premier League,2425,2025-02-15 Leicester City-Arsenal,Leicester City,Mads Hermansen,DEN,24-219,90,5,2,3,60.0,af8aa0dd
+ENG-Premier League,2425,2025-02-15 Manchester City-Newcastle United,Manchester City,Ederson,BRA,31-182,90,1,0,1,100.0,8c51fa01
+ENG-Premier League,2425,2025-02-15 Manchester City-Newcastle United,Newcastle United,Martin Dúbravka,SVK,36-031,90,7,4,3,42.9,8c51fa01
+ENG-Premier League,2425,2025-02-15 Southampton-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-135,90,4,1,3,75.0,ce3da486
+ENG-Premier League,2425,2025-02-15 Southampton-Bournemouth,Southampton,Aaron Ramsdale,ENG,26-277,90,8,3,5,62.5,ce3da486
+ENG-Premier League,2425,2025-02-15 West Ham United-Brentford,Brentford,Mark Flekken,NED,31-247,90,3,0,3,100.0,79406a7e
+ENG-Premier League,2425,2025-02-15 West Ham United-Brentford,West Ham United,Alphonse Areola,FRA,31-354,90,5,1,4,80.0,79406a7e
+ENG-Premier League,2425,2025-02-16 Liverpool-Wolves,Liverpool,Alisson,BRA,32-137,90,4,1,3,75.0,6a917c79
+ENG-Premier League,2425,2025-02-16 Liverpool-Wolves,Wolverhampton Wanderers,José Sá,POR,32-030,90,2,2,1,50.0,6a917c79
+ENG-Premier League,2425,2025-02-16 Tottenham Hotspur-Manchester Utd,Manchester United,André Onana,CMR,28-320,90,7,1,6,85.7,09db2a2f
+ENG-Premier League,2425,2025-02-16 Tottenham Hotspur-Manchester Utd,Tottenham Hotspur,Guglielmo Vicario,ITA,28-132,90,6,0,6,100.0,09db2a2f
+ENG-Premier League,2425,2025-02-19 Aston Villa-Liverpool,Aston Villa,Emiliano Martínez,ARG,32-170,90,3,2,1,33.3,39c7b656
+ENG-Premier League,2425,2025-02-19 Aston Villa-Liverpool,Liverpool,Alisson,BRA,32-140,90,3,2,1,33.3,39c7b656
+ENG-Premier League,2425,2025-02-21 Leicester City-Brentford,Brentford,Mark Flekken,NED,31-253,90,3,0,3,100.0,da5a149a
+ENG-Premier League,2425,2025-02-21 Leicester City-Brentford,Leicester City,Mads Hermansen,DEN,24-225,90,7,4,3,42.9,da5a149a
+ENG-Premier League,2425,2025-02-22 Arsenal-West Ham United,Arsenal,David Raya,ESP,29-160,90,2,1,1,50.0,e511e91c
+ENG-Premier League,2425,2025-02-22 Arsenal-West Ham United,West Ham United,Alphonse Areola,FRA,31-361,90,2,0,2,100.0,e511e91c
+ENG-Premier League,2425,2025-02-22 Aston Villa-Chelsea,Aston Villa,Emiliano Martínez,ARG,32-173,90,6,1,5,83.3,5109d405
+ENG-Premier League,2425,2025-02-22 Aston Villa-Chelsea,Chelsea,Filip Jørgensen,DEN,22-312,90,6,2,4,66.7,5109d405
+ENG-Premier League,2425,2025-02-22 Bournemouth-Wolves,Bournemouth,Kepa Arrizabalaga,ESP,30-142,90,6,1,5,83.3,ccdda6d3
+ENG-Premier League,2425,2025-02-22 Bournemouth-Wolves,Wolverhampton Wanderers,José Sá,POR,32-036,90,3,0,3,100.0,ccdda6d3
+ENG-Premier League,2425,2025-02-22 Everton-Manchester Utd,Everton,Jordan Pickford,ENG,30-352,90,3,2,1,33.3,e5b45c4d
+ENG-Premier League,2425,2025-02-22 Everton-Manchester Utd,Manchester United,André Onana,CMR,28-326,90,8,2,6,75.0,e5b45c4d
+ENG-Premier League,2425,2025-02-22 Fulham-Crystal Palace,Crystal Palace,Dean Henderson,ENG,27-347,90,0,0,0,,7289bcdf
+ENG-Premier League,2425,2025-02-22 Fulham-Crystal Palace,Fulham,Bernd Leno,GER,32-355,90,6,2,4,66.7,7289bcdf
+ENG-Premier League,2425,2025-02-22 Ipswich Town-Tottenham Hotspur,Ipswich Town,Alex Palmer,ENG,28-196,90,6,4,2,33.3,7853cd1a
+ENG-Premier League,2425,2025-02-22 Ipswich Town-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-138,90,5,1,4,80.0,7853cd1a
+ENG-Premier League,2425,2025-02-22 Southampton-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-188,90,1,0,1,100.0,e757bea1
+ENG-Premier League,2425,2025-02-22 Southampton-Brighton,Southampton,Aaron Ramsdale,ENG,26-284,90,12,4,8,66.7,e757bea1
+ENG-Premier League,2425,2025-02-23 Manchester City-Liverpool,Liverpool,Alisson,BRA,32-144,90,5,0,5,100.0,e51a316b
+ENG-Premier League,2425,2025-02-23 Manchester City-Liverpool,Manchester City,Ederson,BRA,31-190,90,4,2,2,50.0,e51a316b
+ENG-Premier League,2425,2025-02-23 Newcastle United-Nottingham Forest,Newcastle United,Nick Pope,ENG,32-310,90,5,3,2,40.0,93caf0bc
+ENG-Premier League,2425,2025-02-23 Newcastle United-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,32-363,90,4,4,1,25.0,93caf0bc
+ENG-Premier League,2425,2025-02-25 Brighton-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-145,90,3,2,2,66.7,fade9277
+ENG-Premier League,2425,2025-02-25 Brighton-Bournemouth,Brighton & Hove Albion,Bart Verbruggen,NED,22-191,90,5,1,4,80.0,fade9277
+ENG-Premier League,2425,2025-02-25 Chelsea-Southampton,Chelsea,Filip Jørgensen,DEN,22-315,90,2,0,2,100.0,21d4a457
+ENG-Premier League,2425,2025-02-25 Chelsea-Southampton,Southampton,Aaron Ramsdale,ENG,26-287,90,10,4,6,60.0,21d4a457
+ENG-Premier League,2425,2025-02-25 Crystal Palace-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-176,45,3,1,2,66.7,0a97629a
+ENG-Premier League,2425,2025-02-25 Crystal Palace-Aston Villa,Aston Villa,Robin Olsen,SWE,35-048,45,3,3,0,0.0,0a97629a
+ENG-Premier League,2425,2025-02-25 Crystal Palace-Aston Villa,Crystal Palace,Dean Henderson,ENG,27-350,90,2,1,1,50.0,0a97629a
+ENG-Premier League,2425,2025-02-25 Wolves-Fulham,Fulham,Bernd Leno,GER,32-358,90,5,1,4,80.0,7aecfc4c
+ENG-Premier League,2425,2025-02-25 Wolves-Fulham,Wolverhampton Wanderers,José Sá,POR,32-039,90,5,2,3,60.0,7aecfc4c
+ENG-Premier League,2425,2025-02-26 Brentford-Everton,Brentford,Mark Flekken,NED,31-258,90,4,1,3,75.0,1218933c
+ENG-Premier League,2425,2025-02-26 Brentford-Everton,Everton,Jordan Pickford,ENG,30-356,90,3,1,2,66.7,1218933c
+ENG-Premier League,2425,2025-02-26 Liverpool-Newcastle United,Liverpool,Alisson,BRA,32-147,90,1,0,0,100.0,a0975f8c
+ENG-Premier League,2425,2025-02-26 Liverpool-Newcastle United,Newcastle United,Nick Pope,ENG,32-313,90,3,2,1,33.3,a0975f8c
+ENG-Premier League,2425,2025-02-26 Manchester Utd-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-200,90,7,3,4,57.1,bf6aa8ee
+ENG-Premier League,2425,2025-02-26 Manchester Utd-Ipswich Town,Manchester United,André Onana,CMR,28-330,90,3,2,1,33.3,bf6aa8ee
+ENG-Premier League,2425,2025-02-26 Nottingham Forest-Arsenal,Arsenal,David Raya,ESP,29-164,90,2,0,2,100.0,d4387bc1
+ENG-Premier League,2425,2025-02-26 Nottingham Forest-Arsenal,Nottingham Forest,Matz Sels,BEL,33-000,90,1,0,1,100.0,d4387bc1
+ENG-Premier League,2425,2025-02-26 Tottenham Hotspur-Manchester City,Manchester City,Ederson,BRA,31-193,90,6,0,6,100.0,3b8160bd
+ENG-Premier League,2425,2025-02-26 Tottenham Hotspur-Manchester City,Tottenham Hotspur,Guglielmo Vicario,ITA,28-142,90,5,1,4,80.0,3b8160bd
+ENG-Premier League,2425,2025-02-27 West Ham United-Leicester City,Leicester City,Mads Hermansen,DEN,24-231,90,3,2,1,33.3,08b1b7de
+ENG-Premier League,2425,2025-02-27 West Ham United-Leicester City,West Ham United,Alphonse Areola,FRA,32-000,90,2,0,2,100.0,08b1b7de
+ENG-Premier League,2425,2025-03-08 Brentford-Aston Villa,Aston Villa,Robin Olsen,SWE,35-059,90,3,0,3,100.0,fb9126ab
+ENG-Premier League,2425,2025-03-08 Brentford-Aston Villa,Brentford,Mark Flekken,NED,31-268,90,4,1,3,75.0,fb9126ab
+ENG-Premier League,2425,2025-03-08 Brighton-Fulham,Brighton & Hove Albion,Bart Verbruggen,NED,22-202,90,1,1,0,0.0,fb4bb61d
+ENG-Premier League,2425,2025-03-08 Brighton-Fulham,Fulham,Bernd Leno,GER,33-004,90,3,2,2,66.7,fb4bb61d
+ENG-Premier League,2425,2025-03-08 Crystal Palace-Ipswich Town,Crystal Palace,Dean Henderson,ENG,27-361,90,7,0,7,100.0,b1ad79e4
+ENG-Premier League,2425,2025-03-08 Crystal Palace-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-210,90,4,1,3,75.0,b1ad79e4
+ENG-Premier League,2425,2025-03-08 Liverpool-Southampton,Liverpool,Alisson,BRA,32-157,90,4,1,3,75.0,049341ab
+ENG-Premier League,2425,2025-03-08 Liverpool-Southampton,Southampton,Aaron Ramsdale,ENG,26-298,90,5,3,4,80.0,049341ab
+ENG-Premier League,2425,2025-03-08 Nottingham Forest-Manchester City,Manchester City,Ederson,BRA,31-203,90,4,1,3,75.0,d53c0405
+ENG-Premier League,2425,2025-03-08 Nottingham Forest-Manchester City,Nottingham Forest,Matz Sels,BEL,33-010,90,3,0,3,100.0,d53c0405
+ENG-Premier League,2425,2025-03-08 Wolves-Everton,Everton,Jordan Pickford,ENG,31-001,90,3,1,2,66.7,2ac7408b
+ENG-Premier League,2425,2025-03-08 Wolves-Everton,Wolverhampton Wanderers,José Sá,POR,32-050,90,4,1,3,75.0,2ac7408b
+ENG-Premier League,2425,2025-03-09 Chelsea-Leicester City,Chelsea,Robert Sánchez,ESP,27-111,90,3,0,3,100.0,236640be
+ENG-Premier League,2425,2025-03-09 Chelsea-Leicester City,Leicester City,Mads Hermansen,DEN,24-241,90,6,1,6,83.3,236640be
+ENG-Premier League,2425,2025-03-09 Manchester Utd-Arsenal,Arsenal,David Raya,ESP,29-175,90,6,1,5,83.3,8efec987
+ENG-Premier League,2425,2025-03-09 Manchester Utd-Arsenal,Manchester United,André Onana,CMR,28-341,90,6,1,5,83.3,8efec987
+ENG-Premier League,2425,2025-03-09 Tottenham Hotspur-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-157,90,3,2,2,66.7,81575514
+ENG-Premier League,2425,2025-03-09 Tottenham Hotspur-Bournemouth,Tottenham Hotspur,Guglielmo Vicario,ITA,28-153,90,8,2,6,75.0,81575514
+ENG-Premier League,2425,2025-03-10 West Ham United-Newcastle United,Newcastle United,Nick Pope,ENG,32-325,90,2,0,2,100.0,61ad9d6a
+ENG-Premier League,2425,2025-03-10 West Ham United-Newcastle United,West Ham United,Alphonse Areola,FRA,32-011,90,4,1,3,75.0,61ad9d6a
+ENG-Premier League,2425,2025-03-15 Bournemouth-Brentford,Bournemouth,Kepa Arrizabalaga,ESP,30-163,90,4,2,2,50.0,f3480c01
+ENG-Premier League,2425,2025-03-15 Bournemouth-Brentford,Brentford,Mark Flekken,NED,31-275,90,6,1,5,83.3,f3480c01
+ENG-Premier League,2425,2025-03-15 Everton-West Ham United,Everton,Jordan Pickford,ENG,31-008,90,5,1,4,80.0,d4bd829f
+ENG-Premier League,2425,2025-03-15 Everton-West Ham United,West Ham United,Alphonse Areola,FRA,32-016,90,5,1,4,80.0,d4bd829f
+ENG-Premier League,2425,2025-03-15 Ipswich Town-Nottingham Forest,Ipswich Town,Alex Palmer,ENG,28-217,90,6,4,2,33.3,a44e04e9
+ENG-Premier League,2425,2025-03-15 Ipswich Town-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,33-017,90,3,2,1,33.3,a44e04e9
+ENG-Premier League,2425,2025-03-15 Manchester City-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-209,90,2,2,1,50.0,83fc3d29
+ENG-Premier League,2425,2025-03-15 Manchester City-Brighton,Manchester City,Stefan Ortega,GER,32-129,90,4,2,2,50.0,83fc3d29
+ENG-Premier League,2425,2025-03-15 Southampton-Wolves,Southampton,Aaron Ramsdale,ENG,26-305,90,3,2,1,33.3,eea61e7f
+ENG-Premier League,2425,2025-03-15 Southampton-Wolves,Wolverhampton Wanderers,José Sá,POR,32-057,90,3,1,2,66.7,eea61e7f
+ENG-Premier League,2425,2025-03-16 Arsenal-Chelsea,Arsenal,David Raya,ESP,29-182,90,2,0,2,100.0,22de525d
+ENG-Premier League,2425,2025-03-16 Arsenal-Chelsea,Chelsea,Robert Sánchez,ESP,27-118,90,5,1,4,80.0,22de525d
+ENG-Premier League,2425,2025-03-16 Fulham-Tottenham Hotspur,Fulham,Bernd Leno,GER,33-012,90,4,0,4,100.0,61428001
+ENG-Premier League,2425,2025-03-16 Fulham-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-160,90,4,2,2,50.0,61428001
+ENG-Premier League,2425,2025-03-16 Leicester City-Manchester Utd,Leicester City,Mads Hermansen,DEN,24-248,90,5,3,2,40.0,7bab156e
+ENG-Premier League,2425,2025-03-16 Leicester City-Manchester Utd,Manchester United,André Onana,CMR,28-348,90,3,0,3,100.0,7bab156e
+ENG-Premier League,2425,2025-04-01 Arsenal-Fulham,Arsenal,David Raya,ESP,29-198,90,3,1,2,66.7,777d595c
+ENG-Premier League,2425,2025-04-01 Arsenal-Fulham,Fulham,Bernd Leno,GER,33-028,90,5,2,3,60.0,777d595c
+ENG-Premier League,2425,2025-04-01 Nottingham Forest-Manchester Utd,Manchester United,André Onana,CMR,28-364,90,2,1,1,50.0,9f8a856e
+ENG-Premier League,2425,2025-04-01 Nottingham Forest-Manchester Utd,Nottingham Forest,Matz Sels,BEL,33-034,90,5,0,5,100.0,9f8a856e
+ENG-Premier League,2425,2025-04-01 Wolves-West Ham United,West Ham United,Alphonse Areola,FRA,32-033,90,2,1,1,50.0,6e6e9d8b
+ENG-Premier League,2425,2025-04-01 Wolves-West Ham United,Wolverhampton Wanderers,José Sá,POR,32-074,90,1,0,1,100.0,6e6e9d8b
+ENG-Premier League,2425,2025-04-02 Bournemouth-Ipswich Town,Bournemouth,Kepa Arrizabalaga,ESP,30-181,90,2,2,0,0.0,19c54be2
+ENG-Premier League,2425,2025-04-02 Bournemouth-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-235,90,6,1,5,83.3,19c54be2
+ENG-Premier League,2425,2025-04-02 Brighton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-212,90,4,0,4,100.0,158e64b3
+ENG-Premier League,2425,2025-04-02 Brighton-Aston Villa,Brighton & Hove Albion,Bart Verbruggen,NED,22-227,90,5,3,2,40.0,158e64b3
+ENG-Premier League,2425,2025-04-02 Liverpool-Everton,Everton,Jordan Pickford,ENG,31-026,90,4,1,3,75.0,7e2a8ebe
+ENG-Premier League,2425,2025-04-02 Liverpool-Everton,Liverpool,Caoimhín Kelleher,IRL,26-130,90,0,0,0,,7e2a8ebe
+ENG-Premier League,2425,2025-04-02 Manchester City-Leicester City,Leicester City,Mads Hermansen,DEN,24-265,90,5,2,3,60.0,464a9c6c
+ENG-Premier League,2425,2025-04-02 Manchester City-Leicester City,Manchester City,Ederson,BRA,31-228,90,0,0,0,,464a9c6c
+ENG-Premier League,2425,2025-04-02 Newcastle United-Brentford,Brentford,Mark Flekken,NED,31-293,90,4,2,2,50.0,e202c3b7
+ENG-Premier League,2425,2025-04-02 Newcastle United-Brentford,Newcastle United,Nick Pope,ENG,32-348,90,2,1,2,100.0,e202c3b7
+ENG-Premier League,2425,2025-04-02 Southampton-Crystal Palace,Crystal Palace,Dean Henderson,ENG,28-021,90,2,1,1,50.0,1c75bcda
+ENG-Premier League,2425,2025-04-02 Southampton-Crystal Palace,Southampton,Aaron Ramsdale,ENG,26-323,90,3,1,2,66.7,1c75bcda
+ENG-Premier League,2425,2025-04-03 Chelsea-Tottenham Hotspur,Chelsea,Robert Sánchez,ESP,27-136,90,2,0,2,100.0,33e26065
+ENG-Premier League,2425,2025-04-03 Chelsea-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-178,90,5,1,4,80.0,33e26065
+ENG-Premier League,2425,2025-04-05 Aston Villa-Nottingham Forest,Aston Villa,Emiliano Martínez,ARG,32-215,90,3,1,2,66.7,7b024699
+ENG-Premier League,2425,2025-04-05 Aston Villa-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,33-038,90,8,2,6,75.0,7b024699
+ENG-Premier League,2425,2025-04-05 Crystal Palace-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-230,90,3,2,1,33.3,e9cb51b4
+ENG-Premier League,2425,2025-04-05 Crystal Palace-Brighton,Crystal Palace,Dean Henderson,ENG,28-024,90,5,1,4,80.0,e9cb51b4
+ENG-Premier League,2425,2025-04-05 Everton-Arsenal,Arsenal,David Raya,ESP,29-202,90,1,1,1,100.0,8a72e3dc
+ENG-Premier League,2425,2025-04-05 Everton-Arsenal,Everton,Jordan Pickford,ENG,31-029,90,4,1,3,75.0,8a72e3dc
+ENG-Premier League,2425,2025-04-05 Ipswich Town-Wolves,Ipswich Town,Alex Palmer,ENG,28-238,90,6,2,4,66.7,b6f200da
+ENG-Premier League,2425,2025-04-05 Ipswich Town-Wolves,Wolverhampton Wanderers,José Sá,POR,32-078,90,2,1,1,50.0,b6f200da
+ENG-Premier League,2425,2025-04-05 West Ham United-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-184,90,4,2,2,50.0,3812dc28
+ENG-Premier League,2425,2025-04-05 West Ham United-Bournemouth,West Ham United,Alphonse Areola,FRA,32-037,90,5,2,3,60.0,3812dc28
+ENG-Premier League,2425,2025-04-06 Brentford-Chelsea,Brentford,Mark Flekken,NED,31-297,90,6,0,5,100.0,5984e216
+ENG-Premier League,2425,2025-04-06 Brentford-Chelsea,Chelsea,Robert Sánchez,ESP,27-139,90,2,0,2,100.0,5984e216
+ENG-Premier League,2425,2025-04-06 Fulham-Liverpool,Fulham,Bernd Leno,GER,33-033,90,6,2,4,66.7,b34400d3
+ENG-Premier League,2425,2025-04-06 Fulham-Liverpool,Liverpool,Caoimhín Kelleher,IRL,26-134,90,6,3,3,50.0,b34400d3
+ENG-Premier League,2425,2025-04-06 Manchester Utd-Manchester City,Manchester City,Ederson,BRA,31-232,90,2,0,2,100.0,53e359bb
+ENG-Premier League,2425,2025-04-06 Manchester Utd-Manchester City,Manchester United,André Onana,CMR,29-004,90,6,0,5,100.0,53e359bb
+ENG-Premier League,2425,2025-04-06 Tottenham Hotspur-Southampton,Southampton,Aaron Ramsdale,ENG,26-327,90,7,3,5,71.4,f671e515
+ENG-Premier League,2425,2025-04-06 Tottenham Hotspur-Southampton,Tottenham Hotspur,Guglielmo Vicario,ITA,28-181,90,4,1,3,75.0,f671e515
+ENG-Premier League,2425,2025-04-07 Leicester City-Newcastle United,Leicester City,Mads Hermansen,DEN,24-270,90,5,3,2,40.0,d8efb6cc
+ENG-Premier League,2425,2025-04-07 Leicester City-Newcastle United,Newcastle United,Nick Pope,ENG,32-353,90,2,0,2,100.0,d8efb6cc
+ENG-Premier League,2425,2025-04-12 Arsenal-Brentford,Arsenal,David Raya,ESP,29-209,90,2,1,1,50.0,471d2141
+ENG-Premier League,2425,2025-04-12 Arsenal-Brentford,Brentford,Mark Flekken,NED,31-303,90,3,1,2,66.7,471d2141
+ENG-Premier League,2425,2025-04-12 Brighton-Leicester City,Brighton & Hove Albion,Bart Verbruggen,NED,22-237,90,6,2,4,66.7,6c4e0e71
+ENG-Premier League,2425,2025-04-12 Brighton-Leicester City,Leicester City,Mads Hermansen,DEN,24-275,90,5,2,5,100.0,6c4e0e71
+ENG-Premier League,2425,2025-04-12 Manchester City-Crystal Palace,Crystal Palace,Dean Henderson,ENG,28-031,90,8,5,3,37.5,7be33a60
+ENG-Premier League,2425,2025-04-12 Manchester City-Crystal Palace,Manchester City,Ederson,BRA,31-238,70,2,2,0,0.0,7be33a60
+ENG-Premier League,2425,2025-04-12 Manchester City-Crystal Palace,Manchester City,Stefan Ortega,GER,32-157,20,1,0,1,100.0,7be33a60
+ENG-Premier League,2425,2025-04-12 Nottingham Forest-Everton,Everton,Jordan Pickford,ENG,31-036,90,5,0,5,100.0,83138c75
+ENG-Premier League,2425,2025-04-12 Nottingham Forest-Everton,Nottingham Forest,Matz Sels,BEL,33-045,90,5,1,4,80.0,83138c75
+ENG-Premier League,2425,2025-04-12 Southampton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-222,90,2,0,2,100.0,eb58af0b
+ENG-Premier League,2425,2025-04-12 Southampton-Aston Villa,Southampton,Aaron Ramsdale,ENG,26-333,90,6,3,5,50.0,eb58af0b
+ENG-Premier League,2425,2025-04-13 Chelsea-Ipswich Town,Chelsea,Robert Sánchez,ESP,27-146,90,4,2,2,50.0,a45626b5
+ENG-Premier League,2425,2025-04-13 Chelsea-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-246,90,10,2,8,80.0,a45626b5
+ENG-Premier League,2425,2025-04-13 Liverpool-West Ham United,Liverpool,Alisson,BRA,32-193,90,5,1,4,80.0,4975981b
+ENG-Premier League,2425,2025-04-13 Liverpool-West Ham United,West Ham United,Alphonse Areola,FRA,32-045,90,6,2,4,66.7,4975981b
+ENG-Premier League,2425,2025-04-13 Newcastle United-Manchester Utd,Manchester United,Altay Bayındır,TUR,26-364,90,6,4,2,33.3,4254acea
+ENG-Premier League,2425,2025-04-13 Newcastle United-Manchester Utd,Newcastle United,Nick Pope,ENG,32-359,90,5,1,4,80.0,4254acea
+ENG-Premier League,2425,2025-04-13 Wolves-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-188,90,6,4,2,33.3,5a44bda9
+ENG-Premier League,2425,2025-04-13 Wolves-Tottenham Hotspur,Wolverhampton Wanderers,José Sá,POR,32-086,90,4,2,2,50.0,5a44bda9
+ENG-Premier League,2425,2025-04-14 Bournemouth-Fulham,Bournemouth,Kepa Arrizabalaga,ESP,30-193,90,7,0,7,100.0,12ecaa9f
+ENG-Premier League,2425,2025-04-14 Bournemouth-Fulham,Fulham,Bernd Leno,GER,33-041,90,3,1,2,66.7,12ecaa9f
+ENG-Premier League,2425,2025-04-16 Newcastle United-Crystal Palace,Crystal Palace,Dean Henderson,ENG,28-035,90,8,5,3,37.5,6e87f6cf
+ENG-Premier League,2425,2025-04-16 Newcastle United-Crystal Palace,Newcastle United,Nick Pope,ENG,32-362,90,1,0,2,100.0,6e87f6cf
+ENG-Premier League,2425,2025-04-19 Aston Villa-Newcastle United,Aston Villa,Emiliano Martínez,ARG,32-229,90,3,1,2,66.7,45a3960e
+ENG-Premier League,2425,2025-04-19 Aston Villa-Newcastle United,Newcastle United,Nick Pope,ENG,33-000,90,10,4,6,60.0,45a3960e
+ENG-Premier League,2425,2025-04-19 Brentford-Brighton,Brentford,Mark Flekken,NED,31-310,90,3,2,1,33.3,36afccb6
+ENG-Premier League,2425,2025-04-19 Brentford-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-244,90,8,4,4,50.0,36afccb6
+ENG-Premier League,2425,2025-04-19 Crystal Palace-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-198,90,0,0,0,,9d095ebf
+ENG-Premier League,2425,2025-04-19 Crystal Palace-Bournemouth,Crystal Palace,Dean Henderson,ENG,28-038,90,4,0,4,100.0,9d095ebf
+ENG-Premier League,2425,2025-04-19 Everton-Manchester City,Everton,Jordan Pickford,ENG,31-043,90,6,2,4,66.7,a95e25da
+ENG-Premier League,2425,2025-04-19 Everton-Manchester City,Manchester City,Stefan Ortega,GER,32-164,90,2,0,2,100.0,a95e25da
+ENG-Premier League,2425,2025-04-19 West Ham United-Southampton,Southampton,Aaron Ramsdale,ENG,26-340,90,4,1,3,75.0,8d613b28
+ENG-Premier League,2425,2025-04-19 West Ham United-Southampton,West Ham United,Alphonse Areola,FRA,32-051,90,4,1,3,75.0,8d613b28
+ENG-Premier League,2425,2025-04-20 Fulham-Chelsea,Chelsea,Robert Sánchez,ESP,27-153,90,1,1,0,0.0,aaac9748
+ENG-Premier League,2425,2025-04-20 Fulham-Chelsea,Fulham,Bernd Leno,GER,33-047,90,7,2,5,71.4,aaac9748
+ENG-Premier League,2425,2025-04-20 Ipswich Town-Arsenal,Arsenal,David Raya,ESP,29-217,90,0,0,0,,2b599f1a
+ENG-Premier League,2425,2025-04-20 Ipswich Town-Arsenal,Ipswich Town,Alex Palmer,ENG,28-253,90,7,4,3,42.9,2b599f1a
+ENG-Premier League,2425,2025-04-20 Leicester City-Liverpool,Leicester City,Mads Hermansen,DEN,24-283,90,8,1,7,87.5,0a2030a0
+ENG-Premier League,2425,2025-04-20 Leicester City-Liverpool,Liverpool,Alisson,BRA,32-200,90,0,0,0,,0a2030a0
+ENG-Premier League,2425,2025-04-20 Manchester Utd-Wolves,Manchester United,André Onana,CMR,29-018,90,2,1,1,50.0,e50fd749
+ENG-Premier League,2425,2025-04-20 Manchester Utd-Wolves,Wolverhampton Wanderers,Daniel Bentley,ENG,31-281,90,2,0,2,100.0,e50fd749
+ENG-Premier League,2425,2025-04-21 Tottenham Hotspur-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,33-054,90,5,1,4,80.0,708743bf
+ENG-Premier League,2425,2025-04-21 Tottenham Hotspur-Nottingham Forest,Tottenham Hotspur,Guglielmo Vicario,ITA,28-196,90,3,2,1,33.3,708743bf
+ENG-Premier League,2425,2025-04-22 Manchester City-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-232,90,6,2,4,66.7,3de68b91
+ENG-Premier League,2425,2025-04-22 Manchester City-Aston Villa,Manchester City,Stefan Ortega,GER,32-167,90,2,1,2,100.0,3de68b91
+ENG-Premier League,2425,2025-04-23 Arsenal-Crystal Palace,Arsenal,David Raya,ESP,29-220,90,4,2,2,50.0,67651145
+ENG-Premier League,2425,2025-04-23 Arsenal-Crystal Palace,Crystal Palace,Dean Henderson,ENG,28-042,90,4,2,2,50.0,67651145
+ENG-Premier League,2425,2025-04-26 Brighton-West Ham United,Brighton & Hove Albion,Bart Verbruggen,NED,22-251,90,4,2,2,50.0,e1669507
+ENG-Premier League,2425,2025-04-26 Brighton-West Ham United,West Ham United,Alphonse Areola,FRA,32-058,90,9,3,6,66.7,e1669507
+ENG-Premier League,2425,2025-04-26 Chelsea-Everton,Chelsea,Robert Sánchez,ESP,27-159,90,3,0,3,100.0,06c5f0ab
+ENG-Premier League,2425,2025-04-26 Chelsea-Everton,Everton,Jordan Pickford,ENG,31-050,90,7,1,6,85.7,06c5f0ab
+ENG-Premier League,2425,2025-04-26 Newcastle United-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-259,90,4,3,2,50.0,3402b61b
+ENG-Premier League,2425,2025-04-26 Newcastle United-Ipswich Town,Newcastle United,Nick Pope,ENG,33-007,90,0,0,0,,3402b61b
+ENG-Premier League,2425,2025-04-26 Southampton-Fulham,Fulham,Bernd Leno,GER,33-053,90,3,1,2,66.7,9c6532bc
+ENG-Premier League,2425,2025-04-26 Southampton-Fulham,Southampton,Aaron Ramsdale,ENG,26-347,90,5,2,3,60.0,9c6532bc
+ENG-Premier League,2425,2025-04-26 Wolves-Leicester City,Leicester City,Mads Hermansen,DEN,24-289,90,5,3,2,40.0,1ced4069
+ENG-Premier League,2425,2025-04-26 Wolves-Leicester City,Wolverhampton Wanderers,José Sá,POR,32-099,90,0,0,1,,1ced4069
+ENG-Premier League,2425,2025-04-27 Bournemouth-Manchester Utd,Bournemouth,Kepa Arrizabalaga,ESP,30-206,90,6,1,5,83.3,81b6c6b4
+ENG-Premier League,2425,2025-04-27 Bournemouth-Manchester Utd,Manchester United,André Onana,CMR,29-025,90,1,1,0,0.0,81b6c6b4
+ENG-Premier League,2425,2025-04-27 Liverpool-Tottenham Hotspur,Liverpool,Alisson,BRA,32-207,90,3,1,2,66.7,64bc833f
+ENG-Premier League,2425,2025-04-27 Liverpool-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-202,90,7,5,2,28.6,64bc833f
+ENG-Premier League,2425,2025-05-01 Nottingham Forest-Brentford,Brentford,Mark Flekken,NED,31-322,90,5,0,5,100.0,a896a308
+ENG-Premier League,2425,2025-05-01 Nottingham Forest-Brentford,Nottingham Forest,Matz Sels,BEL,33-064,90,3,2,1,33.3,a896a308
+ENG-Premier League,2425,2025-05-02 Manchester City-Wolves,Manchester City,Ederson,BRA,31-258,90,0,0,0,,6a433468
+ENG-Premier League,2425,2025-05-02 Manchester City-Wolves,Wolverhampton Wanderers,José Sá,POR,32-105,90,2,1,1,50.0,6a433468
+ENG-Premier League,2425,2025-05-03 Arsenal-Bournemouth,Arsenal,David Raya,ESP,29-230,90,2,2,0,0.0,ad3827f3
+ENG-Premier League,2425,2025-05-03 Arsenal-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-212,90,4,1,3,75.0,ad3827f3
+ENG-Premier League,2425,2025-05-03 Aston Villa-Fulham,Aston Villa,Emiliano Martínez,ARG,32-243,90,3,0,3,100.0,d8e391ab
+ENG-Premier League,2425,2025-05-03 Aston Villa-Fulham,Fulham,Bernd Leno,GER,33-060,90,3,1,2,66.7,d8e391ab
+ENG-Premier League,2425,2025-05-03 Everton-Ipswich Town,Everton,Jordan Pickford,ENG,31-057,90,5,2,3,60.0,b93c98b0
+ENG-Premier League,2425,2025-05-03 Everton-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-266,90,3,2,1,33.3,b93c98b0
+ENG-Premier League,2425,2025-05-03 Leicester City-Southampton,Leicester City,Jakub Stolarczyk,POL,24-135,90,2,0,2,100.0,e89fe486
+ENG-Premier League,2425,2025-05-03 Leicester City-Southampton,Southampton,Aaron Ramsdale,ENG,26-354,90,4,2,2,50.0,e89fe486
+ENG-Premier League,2425,2025-05-04 Brentford-Manchester Utd,Brentford,Mark Flekken,NED,31-325,90,5,3,2,40.0,29dbd7d1
+ENG-Premier League,2425,2025-05-04 Brentford-Manchester Utd,Manchester United,Altay Bayındır,TUR,27-020,90,7,4,3,42.9,29dbd7d1
+ENG-Premier League,2425,2025-05-04 Brighton-Newcastle United,Brighton & Hove Albion,Bart Verbruggen,NED,22-259,90,4,1,4,100.0,e09b4b94
+ENG-Premier League,2425,2025-05-04 Brighton-Newcastle United,Newcastle United,Nick Pope,ENG,33-015,90,2,1,1,50.0,e09b4b94
+ENG-Premier League,2425,2025-05-04 Chelsea-Liverpool,Chelsea,Robert Sánchez,ESP,27-167,90,2,1,1,50.0,157740ee
+ENG-Premier League,2425,2025-05-04 Chelsea-Liverpool,Liverpool,Alisson,BRA,32-214,90,7,3,5,71.4,157740ee
+ENG-Premier League,2425,2025-05-04 West Ham United-Tottenham Hotspur,Tottenham Hotspur,Guglielmo Vicario,ITA,28-209,90,2,1,1,50.0,70dcad6e
+ENG-Premier League,2425,2025-05-04 West Ham United-Tottenham Hotspur,West Ham United,Alphonse Areola,FRA,32-066,90,2,1,1,50.0,70dcad6e
+ENG-Premier League,2425,2025-05-05 Crystal Palace-Nottingham Forest,Crystal Palace,Dean Henderson,ENG,28-054,90,5,1,4,80.0,89cb2963
+ENG-Premier League,2425,2025-05-05 Crystal Palace-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,33-068,90,2,1,2,100.0,89cb2963
+ENG-Premier League,2425,2025-05-10 Bournemouth-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-250,90,4,0,4,100.0,dd48659a
+ENG-Premier League,2425,2025-05-10 Bournemouth-Aston Villa,Bournemouth,Kepa Arrizabalaga,ESP,30-219,90,3,1,2,66.7,dd48659a
+ENG-Premier League,2425,2025-05-10 Fulham-Everton,Everton,Jordan Pickford,ENG,31-064,90,6,1,5,83.3,a637fb4e
+ENG-Premier League,2425,2025-05-10 Fulham-Everton,Fulham,Bernd Leno,GER,33-067,90,7,3,4,57.1,a637fb4e
+ENG-Premier League,2425,2025-05-10 Ipswich Town-Brentford,Brentford,Mark Flekken,NED,31-331,90,4,0,4,100.0,ea2685e0
+ENG-Premier League,2425,2025-05-10 Ipswich Town-Brentford,Ipswich Town,Alex Palmer,ENG,28-273,90,5,1,4,80.0,ea2685e0
+ENG-Premier League,2425,2025-05-10 Southampton-Manchester City,Manchester City,Ederson,BRA,31-266,90,0,0,0,,35a46606
+ENG-Premier League,2425,2025-05-10 Southampton-Manchester City,Southampton,Aaron Ramsdale,ENG,26-361,90,4,0,4,100.0,35a46606
+ENG-Premier League,2425,2025-05-10 Wolves-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-265,90,4,0,3,100.0,f1bf04cb
+ENG-Premier League,2425,2025-05-10 Wolves-Brighton,Wolverhampton Wanderers,José Sá,POR,32-113,90,1,2,0,0.0,f1bf04cb
+ENG-Premier League,2425,2025-05-11 Liverpool-Arsenal,Arsenal,David Raya,ESP,29-238,90,5,2,3,60.0,0dc9bdd9
+ENG-Premier League,2425,2025-05-11 Liverpool-Arsenal,Liverpool,Alisson,BRA,32-221,90,6,2,4,66.7,0dc9bdd9
+ENG-Premier League,2425,2025-05-11 Manchester Utd-West Ham United,Manchester United,Altay Bayındır,TUR,27-027,90,4,2,2,50.0,c4548397
+ENG-Premier League,2425,2025-05-11 Manchester Utd-West Ham United,West Ham United,Alphonse Areola,FRA,32-073,90,5,0,5,100.0,c4548397
+ENG-Premier League,2425,2025-05-11 Newcastle United-Chelsea,Chelsea,Robert Sánchez,ESP,27-174,90,6,2,4,66.7,b409de42
+ENG-Premier League,2425,2025-05-11 Newcastle United-Chelsea,Newcastle United,Nick Pope,ENG,33-022,90,3,0,3,100.0,b409de42
+ENG-Premier League,2425,2025-05-11 Nottingham Forest-Leicester City,Leicester City,Jakub Stolarczyk,POL,24-143,90,4,2,2,50.0,c3e242fc
+ENG-Premier League,2425,2025-05-11 Nottingham Forest-Leicester City,Nottingham Forest,Matz Sels,BEL,33-074,90,6,2,4,66.7,c3e242fc
+ENG-Premier League,2425,2025-05-11 Tottenham Hotspur-Crystal Palace,Crystal Palace,Dean Henderson,ENG,28-060,90,1,0,1,100.0,a442e11f
+ENG-Premier League,2425,2025-05-11 Tottenham Hotspur-Crystal Palace,Tottenham Hotspur,Antonín Kinský,CZE,22-059,90,10,2,8,80.0,a442e11f
+ENG-Premier League,2425,2025-05-16 Aston Villa-Tottenham Hotspur,Aston Villa,Emiliano Martínez,ARG,32-256,90,1,0,1,100.0,b2651680
+ENG-Premier League,2425,2025-05-16 Aston Villa-Tottenham Hotspur,Tottenham Hotspur,Antonín Kinský,CZE,22-064,90,7,2,5,71.4,b2651680
+ENG-Premier League,2425,2025-05-16 Chelsea-Manchester Utd,Chelsea,Robert Sánchez,ESP,27-179,90,1,0,1,100.0,c95dd208
+ENG-Premier League,2425,2025-05-16 Chelsea-Manchester Utd,Manchester United,André Onana,CMR,29-044,90,3,1,2,66.7,c95dd208
+ENG-Premier League,2425,2025-05-18 Arsenal-Newcastle United,Arsenal,David Raya,ESP,29-245,90,5,0,5,100.0,0a51acae
+ENG-Premier League,2425,2025-05-18 Arsenal-Newcastle United,Newcastle United,Nick Pope,ENG,33-029,90,4,1,3,75.0,0a51acae
+ENG-Premier League,2425,2025-05-18 Brentford-Fulham,Brentford,Mark Flekken,NED,31-339,90,7,3,4,57.1,064e6a34
+ENG-Premier League,2425,2025-05-18 Brentford-Fulham,Fulham,Bernd Leno,GER,33-075,90,3,2,2,33.3,064e6a34
+ENG-Premier League,2425,2025-05-18 Everton-Southampton,Everton,Jordan Pickford,ENG,31-072,90,2,0,2,100.0,9e338dfb
+ENG-Premier League,2425,2025-05-18 Everton-Southampton,Southampton,Aaron Ramsdale,ENG,27-004,90,4,2,2,50.0,9e338dfb
+ENG-Premier League,2425,2025-05-18 Leicester City-Ipswich Town,Ipswich Town,Alex Palmer,ENG,28-281,90,3,2,1,33.3,20b5a00b
+ENG-Premier League,2425,2025-05-18 Leicester City-Ipswich Town,Leicester City,Jakub Stolarczyk,POL,24-150,90,2,0,2,100.0,20b5a00b
+ENG-Premier League,2425,2025-05-18 West Ham United-Nottingham Forest,Nottingham Forest,Matz Sels,BEL,33-081,90,5,1,4,80.0,79180ca6
+ENG-Premier League,2425,2025-05-18 West Ham United-Nottingham Forest,West Ham United,Alphonse Areola,FRA,32-080,90,5,2,3,60.0,79180ca6
+ENG-Premier League,2425,2025-05-19 Brighton-Liverpool,Brighton & Hove Albion,Bart Verbruggen,NED,22-274,90,5,2,3,60.0,1f3db37a
+ENG-Premier League,2425,2025-05-19 Brighton-Liverpool,Liverpool,Alisson,BRA,32-229,90,12,3,9,75.0,1f3db37a
+ENG-Premier League,2425,2025-05-20 Crystal Palace-Wolves,Crystal Palace,Dean Henderson,ENG,28-069,90,3,2,1,33.3,f85454d3
+ENG-Premier League,2425,2025-05-20 Crystal Palace-Wolves,Wolverhampton Wanderers,Daniel Bentley,ENG,31-311,90,10,4,6,60.0,f85454d3
+ENG-Premier League,2425,2025-05-20 Manchester City-Bournemouth,Bournemouth,Kepa Arrizabalaga,ESP,30-229,90,5,3,2,40.0,e5e516e9
+ENG-Premier League,2425,2025-05-20 Manchester City-Bournemouth,Manchester City,Ederson,BRA,31-276,90,2,1,1,50.0,e5e516e9
+ENG-Premier League,2425,2025-05-25 Bournemouth-Leicester City,Bournemouth,Kepa Arrizabalaga,ESP,30-234,90,0,0,0,,1ff370e8
+ENG-Premier League,2425,2025-05-25 Bournemouth-Leicester City,Leicester City,Jakub Stolarczyk,POL,24-157,90,7,2,5,71.4,1ff370e8
+ENG-Premier League,2425,2025-05-25 Fulham-Manchester City,Fulham,Bernd Leno,GER,33-082,90,4,2,3,75.0,3d22336e
+ENG-Premier League,2425,2025-05-25 Fulham-Manchester City,Manchester City,Ederson,BRA,31-281,90,3,0,3,100.0,3d22336e
+ENG-Premier League,2425,2025-05-25 Ipswich Town-West Ham United,Ipswich Town,Christian Walton,ENG,29-197,90,6,3,3,50.0,15559cff
+ENG-Premier League,2425,2025-05-25 Ipswich Town-West Ham United,West Ham United,Łukasz Fabiański,POL,40-037,90,4,1,3,75.0,15559cff
+ENG-Premier League,2425,2025-05-25 Liverpool-Crystal Palace,Crystal Palace,Dean Henderson,ENG,28-074,90,3,1,2,66.7,0958eb7a
+ENG-Premier League,2425,2025-05-25 Liverpool-Crystal Palace,Liverpool,Alisson,BRA,32-235,90,5,1,4,80.0,0958eb7a
+ENG-Premier League,2425,2025-05-25 Manchester Utd-Aston Villa,Aston Villa,Emiliano Martínez,ARG,32-265,44,7,2,5,71.4,7ea43929
+ENG-Premier League,2425,2025-05-25 Manchester Utd-Aston Villa,Aston Villa,Robin Olsen,SWE,35-137,46,4,2,3,75.0,7ea43929
+ENG-Premier League,2425,2025-05-25 Manchester Utd-Aston Villa,Manchester United,Altay Bayındır,TUR,27-041,90,1,0,1,100.0,7ea43929
+ENG-Premier League,2425,2025-05-25 Newcastle United-Everton,Everton,Jordan Pickford,ENG,31-079,90,6,0,6,100.0,36844e73
+ENG-Premier League,2425,2025-05-25 Newcastle United-Everton,Newcastle United,Nick Pope,ENG,33-036,90,6,1,5,83.3,36844e73
+ENG-Premier League,2425,2025-05-25 Nottingham Forest-Chelsea,Chelsea,Robert Sánchez,ESP,27-188,90,2,0,2,100.0,464cbad6
+ENG-Premier League,2425,2025-05-25 Nottingham Forest-Chelsea,Nottingham Forest,Matz Sels,BEL,33-088,90,2,1,1,50.0,464cbad6
+ENG-Premier League,2425,2025-05-25 Southampton-Arsenal,Arsenal,David Raya,ESP,29-252,90,2,1,1,50.0,01d155b4
+ENG-Premier League,2425,2025-05-25 Southampton-Arsenal,Southampton,Aaron Ramsdale,ENG,27-011,90,8,2,6,75.0,01d155b4
+ENG-Premier League,2425,2025-05-25 Tottenham Hotspur-Brighton,Brighton & Hove Albion,Bart Verbruggen,NED,22-280,90,1,1,1,100.0,e4bb1c35
+ENG-Premier League,2425,2025-05-25 Tottenham Hotspur-Brighton,Tottenham Hotspur,Guglielmo Vicario,ITA,28-230,90,7,4,4,57.1,e4bb1c35
+ENG-Premier League,2425,2025-05-25 Wolves-Brentford,Brentford,Mark Flekken,NED,31-346,90,6,1,5,83.3,812ef8ad
+ENG-Premier League,2425,2025-05-25 Wolves-Brentford,Wolverhampton Wanderers,José Sá,POR,32-128,89,7,1,6,85.7,812ef8ad
+ENG-Premier League,2425,2025-05-25 Wolves-Brentford,Wolverhampton Wanderers,Tom King,WAL,30-077,1,0,0,0,,812ef8ad

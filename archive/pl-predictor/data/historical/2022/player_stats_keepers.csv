@@ -1,0 +1,771 @@
+league,season,game,team,player,nation,age,min,Shot Stopping_SoTA,Shot Stopping_GA,Shot Stopping_Saves,Shot Stopping_Save%,game_id
+ENG-Premier League,2223,2022-08-05 Crystal Palace-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-083,90,2,0,2,100.0,e62f6e78
+ENG-Premier League,2223,2022-08-05 Crystal Palace-Arsenal,Crystal Palace,Vicente Guaita,ESP,35-207,90,3,2,1,33.3,e62f6e78
+ENG-Premier League,2223,2022-08-06 Bournemouth-Aston Villa,Aston Villa,Emiliano Martínez,ARG,29-338,90,3,2,1,33.3,877e3193
+ENG-Premier League,2223,2022-08-06 Bournemouth-Aston Villa,Bournemouth,Mark Travers,IRL,23-080,90,2,0,2,100.0,877e3193
+ENG-Premier League,2223,2022-08-06 Everton-Chelsea,Chelsea,Edouard Mendy,SEN,30-158,90,3,0,3,100.0,3a917cee
+ENG-Premier League,2223,2022-08-06 Everton-Chelsea,Everton,Jordan Pickford,ENG,28-152,90,5,1,5,100.0,3a917cee
+ENG-Premier League,2223,2022-08-06 Fulham-Liverpool,Fulham,Marek Rodák,SVK,25-236,90,3,2,1,33.3,6713c1dc
+ENG-Premier League,2223,2022-08-06 Fulham-Liverpool,Liverpool,Alisson,BRA,29-308,90,2,2,1,50.0,6713c1dc
+ENG-Premier League,2223,2022-08-06 Leeds United-Wolves,Leeds United,Illan Meslier,FRA,22-157,90,6,1,5,83.3,82702941
+ENG-Premier League,2223,2022-08-06 Leeds United-Wolves,Wolverhampton Wanderers,José Sá,POR,29-201,90,5,2,3,60.0,82702941
+ENG-Premier League,2223,2022-08-06 Newcastle United-Nottingham Forest,Newcastle United,Nick Pope,ENG,30-109,90,0,0,0,,1ac96eb4
+ENG-Premier League,2223,2022-08-06 Newcastle United-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-147,90,9,2,7,77.8,1ac96eb4
+ENG-Premier League,2223,2022-08-06 Tottenham Hotspur-Southampton,Southampton,Gavin Bazunu,IRL,20-167,90,9,4,5,55.6,09d8a999
+ENG-Premier League,2223,2022-08-06 Tottenham Hotspur-Southampton,Tottenham Hotspur,Hugo Lloris,FRA,35-223,90,2,1,1,50.0,09d8a999
+ENG-Premier League,2223,2022-08-07 Leicester City-Brentford,Brentford,David Raya,ESP,26-326,90,5,2,3,60.0,3249ba27
+ENG-Premier League,2223,2022-08-07 Leicester City-Brentford,Leicester City,Danny Ward,WAL,29-046,90,3,2,1,33.3,3249ba27
+ENG-Premier League,2223,2022-08-07 Manchester Utd-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-262,90,6,1,5,83.3,8251694e
+ENG-Premier League,2223,2022-08-07 Manchester Utd-Brighton,Manchester United,David de Gea,ESP,31-273,90,4,2,2,50.0,8251694e
+ENG-Premier League,2223,2022-08-07 West Ham United-Manchester City,Manchester City,Ederson,BRA,28-355,90,1,0,1,100.0,ece62baf
+ENG-Premier League,2223,2022-08-07 West Ham United-Manchester City,West Ham United,Alphonse Areola,FRA,29-161,62,1,2,0,0.0,ece62baf
+ENG-Premier League,2223,2022-08-07 West Ham United-Manchester City,West Ham United,Łukasz Fabiański,POL,37-111,28,0,0,0,,ece62baf
+ENG-Premier League,2223,2022-08-13 Arsenal-Leicester City,Arsenal,Aaron Ramsdale,ENG,24-091,90,3,2,1,33.3,7483b97f
+ENG-Premier League,2223,2022-08-13 Arsenal-Leicester City,Leicester City,Danny Ward,WAL,29-052,90,8,4,4,50.0,7483b97f
+ENG-Premier League,2223,2022-08-13 Aston Villa-Everton,Aston Villa,Emiliano Martínez,ARG,29-345,90,5,1,4,80.0,8cd71c65
+ENG-Premier League,2223,2022-08-13 Aston Villa-Everton,Everton,Jordan Pickford,ENG,28-159,90,3,2,1,33.3,8cd71c65
+ENG-Premier League,2223,2022-08-13 Brentford-Manchester Utd,Brentford,David Raya,ESP,26-332,90,4,0,4,100.0,04712d4e
+ENG-Premier League,2223,2022-08-13 Brentford-Manchester Utd,Manchester United,David de Gea,ESP,31-279,90,7,4,3,42.9,04712d4e
+ENG-Premier League,2223,2022-08-13 Brighton-Newcastle United,Brighton & Hove Albion,Robert Sánchez,ESP,24-268,90,1,0,1,100.0,c916a5f6
+ENG-Premier League,2223,2022-08-13 Brighton-Newcastle United,Newcastle United,Nick Pope,ENG,30-116,90,5,0,5,100.0,c916a5f6
+ENG-Premier League,2223,2022-08-13 Manchester City-Bournemouth,Bournemouth,Mark Travers,IRL,23-087,90,8,4,4,50.0,311d705c
+ENG-Premier League,2223,2022-08-13 Manchester City-Bournemouth,Manchester City,Ederson,BRA,28-361,90,1,0,1,100.0,311d705c
+ENG-Premier League,2223,2022-08-13 Southampton-Leeds United,Leeds United,Illan Meslier,FRA,22-164,90,4,2,2,50.0,54b33a13
+ENG-Premier League,2223,2022-08-13 Southampton-Leeds United,Southampton,Gavin Bazunu,IRL,20-174,90,5,2,3,60.0,54b33a13
+ENG-Premier League,2223,2022-08-13 Wolves-Fulham,Fulham,Marek Rodák,SVK,25-243,90,1,0,1,100.0,669b1665
+ENG-Premier League,2223,2022-08-13 Wolves-Fulham,Wolverhampton Wanderers,José Sá,POR,29-208,90,1,0,2,100.0,669b1665
+ENG-Premier League,2223,2022-08-14 Chelsea-Tottenham Hotspur,Chelsea,Edouard Mendy,SEN,30-166,90,5,2,3,60.0,01e57bf5
+ENG-Premier League,2223,2022-08-14 Chelsea-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-231,90,3,2,1,33.3,01e57bf5
+ENG-Premier League,2223,2022-08-14 Nottingham Forest-West Ham United,Nottingham Forest,Dean Henderson,ENG,25-155,90,2,0,3,100.0,b1ebeda5
+ENG-Premier League,2223,2022-08-14 Nottingham Forest-West Ham United,West Ham United,Łukasz Fabiański,POL,37-118,90,6,1,5,83.3,b1ebeda5
+ENG-Premier League,2223,2022-08-15 Liverpool-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-217,90,4,1,3,75.0,b3c6f709
+ENG-Premier League,2223,2022-08-15 Liverpool-Crystal Palace,Liverpool,Alisson,BRA,29-317,90,3,1,2,66.7,b3c6f709
+ENG-Premier League,2223,2022-08-20 Bournemouth-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-098,90,1,0,1,100.0,7f11dd9e
+ENG-Premier League,2223,2022-08-20 Bournemouth-Arsenal,Bournemouth,Mark Travers,IRL,23-094,90,6,3,3,50.0,7f11dd9e
+ENG-Premier League,2223,2022-08-20 Crystal Palace-Aston Villa,Aston Villa,Emiliano Martínez,ARG,29-352,90,7,3,5,57.1,3f89bccf
+ENG-Premier League,2223,2022-08-20 Crystal Palace-Aston Villa,Crystal Palace,Vicente Guaita,ESP,35-222,90,5,1,4,80.0,3f89bccf
+ENG-Premier League,2223,2022-08-20 Everton-Nottingham Forest,Everton,Jordan Pickford,ENG,28-166,90,5,1,4,80.0,3c3cc86f
+ENG-Premier League,2223,2022-08-20 Everton-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-161,90,8,1,7,87.5,3c3cc86f
+ENG-Premier League,2223,2022-08-20 Fulham-Brentford,Brentford,David Raya,ESP,26-339,90,9,3,6,66.7,a107c037
+ENG-Premier League,2223,2022-08-20 Fulham-Brentford,Fulham,Bernd Leno,GER,30-169,90,5,2,3,60.0,a107c037
+ENG-Premier League,2223,2022-08-20 Leicester City-Southampton,Leicester City,Danny Ward,WAL,29-059,90,3,2,1,33.3,02efd4d1
+ENG-Premier League,2223,2022-08-20 Leicester City-Southampton,Southampton,Gavin Bazunu,IRL,20-181,90,1,1,0,0.0,02efd4d1
+ENG-Premier League,2223,2022-08-20 Tottenham Hotspur-Wolves,Tottenham Hotspur,Hugo Lloris,FRA,35-237,90,3,0,3,100.0,5cc3bd0e
+ENG-Premier League,2223,2022-08-20 Tottenham Hotspur-Wolves,Wolverhampton Wanderers,José Sá,POR,29-215,90,4,1,3,75.0,5cc3bd0e
+ENG-Premier League,2223,2022-08-21 Leeds United-Chelsea,Chelsea,Edouard Mendy,SEN,30-173,90,6,3,3,50.0,a5632124
+ENG-Premier League,2223,2022-08-21 Leeds United-Chelsea,Leeds United,Illan Meslier,FRA,22-172,90,3,0,3,100.0,a5632124
+ENG-Premier League,2223,2022-08-21 Newcastle United-Manchester City,Manchester City,Ederson,BRA,29-004,90,5,3,2,40.0,b513d9fe
+ENG-Premier League,2223,2022-08-21 Newcastle United-Manchester City,Newcastle United,Nick Pope,ENG,30-124,90,10,3,7,70.0,b513d9fe
+ENG-Premier League,2223,2022-08-21 West Ham United-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-276,90,3,0,3,100.0,aa2a3517
+ENG-Premier League,2223,2022-08-21 West Ham United-Brighton,West Ham United,Łukasz Fabiański,POL,37-125,90,1,2,0,0.0,aa2a3517
+ENG-Premier League,2223,2022-08-22 Manchester Utd-Liverpool,Liverpool,Alisson,BRA,29-324,90,4,2,2,50.0,3c9a8f71
+ENG-Premier League,2223,2022-08-22 Manchester Utd-Liverpool,Manchester United,David de Gea,ESP,31-288,90,6,1,5,83.3,3c9a8f71
+ENG-Premier League,2223,2022-08-27 Arsenal-Fulham,Arsenal,Aaron Ramsdale,ENG,24-105,90,3,1,2,66.7,8b69fd2d
+ENG-Premier League,2223,2022-08-27 Arsenal-Fulham,Fulham,Bernd Leno,GER,30-176,90,8,2,6,75.0,8b69fd2d
+ENG-Premier League,2223,2022-08-27 Brentford-Everton,Brentford,David Raya,ESP,26-346,90,7,1,6,85.7,db59fc65
+ENG-Premier League,2223,2022-08-27 Brentford-Everton,Everton,Jordan Pickford,ENG,28-173,90,5,1,4,80.0,db59fc65
+ENG-Premier League,2223,2022-08-27 Brighton-Leeds United,Brighton & Hove Albion,Robert Sánchez,ESP,24-282,90,2,0,2,100.0,77c70160
+ENG-Premier League,2223,2022-08-27 Brighton-Leeds United,Leeds United,Illan Meslier,FRA,22-178,90,4,1,3,75.0,77c70160
+ENG-Premier League,2223,2022-08-27 Chelsea-Leicester City,Chelsea,Edouard Mendy,SEN,30-179,90,5,1,4,80.0,b737a3a7
+ENG-Premier League,2223,2022-08-27 Chelsea-Leicester City,Leicester City,Danny Ward,WAL,29-066,90,3,2,1,33.3,b737a3a7
+ENG-Premier League,2223,2022-08-27 Liverpool-Bournemouth,Bournemouth,Mark Travers,IRL,23-101,90,13,9,4,30.8,de515487
+ENG-Premier League,2223,2022-08-27 Liverpool-Bournemouth,Liverpool,Alisson,BRA,29-329,90,2,0,2,100.0,de515487
+ENG-Premier League,2223,2022-08-27 Manchester City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-229,90,5,4,1,20.0,3b9bbac7
+ENG-Premier League,2223,2022-08-27 Manchester City-Crystal Palace,Manchester City,Ederson,BRA,29-010,90,3,2,1,33.3,3b9bbac7
+ENG-Premier League,2223,2022-08-27 Southampton-Manchester Utd,Manchester United,David de Gea,ESP,31-293,90,4,0,4,100.0,dff99b20
+ENG-Premier League,2223,2022-08-27 Southampton-Manchester Utd,Southampton,Gavin Bazunu,IRL,20-188,90,4,1,3,75.0,dff99b20
+ENG-Premier League,2223,2022-08-28 Aston Villa-West Ham United,Aston Villa,Emiliano Martínez,ARG,29-360,90,2,1,1,50.0,659b9113
+ENG-Premier League,2223,2022-08-28 Aston Villa-West Ham United,West Ham United,Łukasz Fabiański,POL,37-132,90,3,0,3,100.0,659b9113
+ENG-Premier League,2223,2022-08-28 Nottingham Forest-Tottenham Hotspur,Nottingham Forest,Dean Henderson,ENG,25-169,90,4,2,3,50.0,3c364307
+ENG-Premier League,2223,2022-08-28 Nottingham Forest-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-245,90,1,0,1,100.0,3c364307
+ENG-Premier League,2223,2022-08-28 Wolves-Newcastle United,Newcastle United,Nick Pope,ENG,30-131,90,4,1,3,75.0,15d62d04
+ENG-Premier League,2223,2022-08-28 Wolves-Newcastle United,Wolverhampton Wanderers,José Sá,POR,29-223,90,6,1,5,83.3,15d62d04
+ENG-Premier League,2223,2022-08-30 Crystal Palace-Brentford,Brentford,David Raya,ESP,26-349,90,4,1,3,75.0,e1d6440f
+ENG-Premier League,2223,2022-08-30 Crystal Palace-Brentford,Crystal Palace,Vicente Guaita,ESP,35-232,90,3,1,2,66.7,e1d6440f
+ENG-Premier League,2223,2022-08-30 Fulham-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-285,90,4,2,2,50.0,361f4461
+ENG-Premier League,2223,2022-08-30 Fulham-Brighton,Fulham,Bernd Leno,GER,30-179,90,2,1,2,100.0,361f4461
+ENG-Premier League,2223,2022-08-30 Leeds United-Everton,Everton,Jordan Pickford,ENG,28-176,90,5,1,4,80.0,42d294e5
+ENG-Premier League,2223,2022-08-30 Leeds United-Everton,Leeds United,Illan Meslier,FRA,22-181,90,2,1,1,50.0,42d294e5
+ENG-Premier League,2223,2022-08-30 Southampton-Chelsea,Chelsea,Edouard Mendy,SEN,30-182,90,5,2,3,60.0,afd303a8
+ENG-Premier League,2223,2022-08-30 Southampton-Chelsea,Southampton,Gavin Bazunu,IRL,20-191,90,4,1,3,75.0,afd303a8
+ENG-Premier League,2223,2022-08-31 Arsenal-Aston Villa,Arsenal,Aaron Ramsdale,ENG,24-109,90,3,1,2,66.7,cc235aad
+ENG-Premier League,2223,2022-08-31 Arsenal-Aston Villa,Aston Villa,Emiliano Martínez,ARG,29-363,90,8,2,6,75.0,cc235aad
+ENG-Premier League,2223,2022-08-31 Bournemouth-Wolves,Bournemouth,Neto,BRA,33-043,90,3,0,3,100.0,91b239d8
+ENG-Premier League,2223,2022-08-31 Bournemouth-Wolves,Wolverhampton Wanderers,José Sá,POR,29-226,90,2,0,2,100.0,91b239d8
+ENG-Premier League,2223,2022-08-31 Liverpool-Newcastle United,Liverpool,Alisson,BRA,29-333,90,2,1,1,50.0,ac6047cf
+ENG-Premier League,2223,2022-08-31 Liverpool-Newcastle United,Newcastle United,Nick Pope,ENG,30-134,90,6,2,4,66.7,ac6047cf
+ENG-Premier League,2223,2022-08-31 Manchester City-Nottingham Forest,Manchester City,Ederson,BRA,29-014,90,1,0,1,100.0,9760b466
+ENG-Premier League,2223,2022-08-31 Manchester City-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-172,90,9,6,3,33.3,9760b466
+ENG-Premier League,2223,2022-08-31 West Ham United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-248,90,4,1,3,75.0,9f221621
+ENG-Premier League,2223,2022-08-31 West Ham United-Tottenham Hotspur,West Ham United,Łukasz Fabiański,POL,37-135,90,5,1,4,80.0,9f221621
+ENG-Premier League,2223,2022-09-01 Leicester City-Manchester Utd,Leicester City,Danny Ward,WAL,29-071,90,2,1,1,50.0,c1f25d02
+ENG-Premier League,2223,2022-09-01 Leicester City-Manchester Utd,Manchester United,David de Gea,ESP,31-298,90,2,0,2,100.0,c1f25d02
+ENG-Premier League,2223,2022-09-03 Aston Villa-Manchester City,Aston Villa,Emiliano Martínez,ARG,30-001,90,4,1,3,75.0,3091f0b8
+ENG-Premier League,2223,2022-09-03 Aston Villa-Manchester City,Manchester City,Ederson,BRA,29-017,90,1,1,0,0.0,3091f0b8
+ENG-Premier League,2223,2022-09-03 Brentford-Leeds United,Brentford,David Raya,ESP,26-353,90,6,2,4,66.7,88f9aad9
+ENG-Premier League,2223,2022-09-03 Brentford-Leeds United,Leeds United,Illan Meslier,FRA,22-185,90,7,5,3,42.9,88f9aad9
+ENG-Premier League,2223,2022-09-03 Chelsea-West Ham United,Chelsea,Edouard Mendy,SEN,30-186,90,3,1,2,66.7,d7642197
+ENG-Premier League,2223,2022-09-03 Chelsea-West Ham United,West Ham United,Łukasz Fabiański,POL,37-138,90,3,2,1,33.3,d7642197
+ENG-Premier League,2223,2022-09-03 Everton-Liverpool,Everton,Jordan Pickford,ENG,28-180,90,8,0,8,100.0,073227b6
+ENG-Premier League,2223,2022-09-03 Everton-Liverpool,Liverpool,Alisson,BRA,29-336,90,4,0,3,100.0,073227b6
+ENG-Premier League,2223,2022-09-03 Newcastle United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-236,90,5,0,5,100.0,4ca4efa3
+ENG-Premier League,2223,2022-09-03 Newcastle United-Crystal Palace,Newcastle United,Nick Pope,ENG,30-137,90,9,0,9,100.0,4ca4efa3
+ENG-Premier League,2223,2022-09-03 Nottingham Forest-Bournemouth,Bournemouth,Neto,BRA,33-046,90,2,2,1,50.0,05f32555
+ENG-Premier League,2223,2022-09-03 Nottingham Forest-Bournemouth,Nottingham Forest,Dean Henderson,ENG,25-175,90,3,3,0,0.0,05f32555
+ENG-Premier League,2223,2022-09-03 Tottenham Hotspur-Fulham,Fulham,Bernd Leno,GER,30-183,90,10,2,8,80.0,a497b725
+ENG-Premier League,2223,2022-09-03 Tottenham Hotspur-Fulham,Tottenham Hotspur,Hugo Lloris,FRA,35-251,90,3,1,2,66.7,a497b725
+ENG-Premier League,2223,2022-09-03 Wolves-Southampton,Southampton,Gavin Bazunu,IRL,20-195,90,2,1,1,50.0,13f50518
+ENG-Premier League,2223,2022-09-03 Wolves-Southampton,Wolverhampton Wanderers,José Sá,POR,29-229,90,1,0,1,100.0,13f50518
+ENG-Premier League,2223,2022-09-04 Brighton-Leicester City,Brighton & Hove Albion,Robert Sánchez,ESP,24-290,90,4,2,2,50.0,42d5b3b1
+ENG-Premier League,2223,2022-09-04 Brighton-Leicester City,Leicester City,Danny Ward,WAL,29-074,90,11,5,7,63.6,42d5b3b1
+ENG-Premier League,2223,2022-09-04 Manchester Utd-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-113,90,6,3,3,50.0,61ddafa5
+ENG-Premier League,2223,2022-09-04 Manchester Utd-Arsenal,Manchester United,David de Gea,ESP,31-301,90,3,1,2,66.7,61ddafa5
+ENG-Premier League,2223,2022-09-16 Aston Villa-Southampton,Aston Villa,Emiliano Martínez,ARG,30-014,90,1,0,1,100.0,1219daa1
+ENG-Premier League,2223,2022-09-16 Aston Villa-Southampton,Southampton,Gavin Bazunu,IRL,20-208,90,3,1,2,66.7,1219daa1
+ENG-Premier League,2223,2022-09-16 Nottingham Forest-Fulham,Fulham,Bernd Leno,GER,30-196,90,3,2,1,33.3,d0d07e66
+ENG-Premier League,2223,2022-09-16 Nottingham Forest-Fulham,Nottingham Forest,Dean Henderson,ENG,25-188,90,6,3,3,50.0,d0d07e66
+ENG-Premier League,2223,2022-09-17 Newcastle United-Bournemouth,Bournemouth,Neto,BRA,33-060,90,6,1,6,100.0,177da679
+ENG-Premier League,2223,2022-09-17 Newcastle United-Bournemouth,Newcastle United,Nick Pope,ENG,30-151,90,3,1,2,66.7,177da679
+ENG-Premier League,2223,2022-09-17 Tottenham Hotspur-Leicester City,Leicester City,Danny Ward,WAL,29-087,90,11,6,5,45.5,99e44c16
+ENG-Premier League,2223,2022-09-17 Tottenham Hotspur-Leicester City,Tottenham Hotspur,Hugo Lloris,FRA,35-265,90,6,2,5,83.3,99e44c16
+ENG-Premier League,2223,2022-09-17 Wolves-Manchester City,Manchester City,Ederson,BRA,29-031,90,1,0,1,100.0,96b5cc15
+ENG-Premier League,2223,2022-09-17 Wolves-Manchester City,Wolverhampton Wanderers,José Sá,POR,29-243,90,7,3,4,57.1,96b5cc15
+ENG-Premier League,2223,2022-09-18 Brentford-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-127,90,2,0,2,100.0,fd5626e6
+ENG-Premier League,2223,2022-09-18 Brentford-Arsenal,Brentford,David Raya,ESP,27-003,90,7,3,4,57.1,fd5626e6
+ENG-Premier League,2223,2022-09-18 Everton-West Ham United,Everton,Asmir Begović,BIH,35-090,90,4,0,4,100.0,96e9dc0f
+ENG-Premier League,2223,2022-09-18 Everton-West Ham United,West Ham United,Łukasz Fabiański,POL,37-153,90,2,1,1,50.0,96e9dc0f
+ENG-Premier League,2223,2022-10-01 Arsenal-Tottenham Hotspur,Arsenal,Aaron Ramsdale,ENG,24-140,90,2,1,2,100.0,aefe3b90
+ENG-Premier League,2223,2022-10-01 Arsenal-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-279,90,9,3,6,66.7,aefe3b90
+ENG-Premier League,2223,2022-10-01 Bournemouth-Brentford,Bournemouth,Neto,BRA,33-074,90,4,0,4,100.0,f2e86b27
+ENG-Premier League,2223,2022-10-01 Bournemouth-Brentford,Brentford,David Raya,ESP,27-016,90,0,0,0,,f2e86b27
+ENG-Premier League,2223,2022-10-01 Crystal Palace-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,27-363,90,3,1,2,66.7,372249f3
+ENG-Premier League,2223,2022-10-01 Crystal Palace-Chelsea,Crystal Palace,Vicente Guaita,ESP,35-264,90,3,2,1,33.3,372249f3
+ENG-Premier League,2223,2022-10-01 Fulham-Newcastle United,Fulham,Bernd Leno,GER,30-211,90,10,4,6,60.0,dcde1172
+ENG-Premier League,2223,2022-10-01 Fulham-Newcastle United,Newcastle United,Nick Pope,ENG,30-165,90,1,1,0,0.0,dcde1172
+ENG-Premier League,2223,2022-10-01 Liverpool-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-317,90,8,3,5,62.5,aadd2e80
+ENG-Premier League,2223,2022-10-01 Liverpool-Brighton,Liverpool,Alisson,BRA,29-364,90,6,3,3,50.0,aadd2e80
+ENG-Premier League,2223,2022-10-01 Southampton-Everton,Everton,Jordan Pickford,ENG,28-208,90,6,1,5,83.3,06d00bcb
+ENG-Premier League,2223,2022-10-01 Southampton-Everton,Southampton,Gavin Bazunu,IRL,20-223,90,5,2,3,60.0,06d00bcb
+ENG-Premier League,2223,2022-10-01 West Ham United-Wolves,West Ham United,Łukasz Fabiański,POL,37-166,90,4,0,4,100.0,89ff6cd8
+ENG-Premier League,2223,2022-10-01 West Ham United-Wolves,Wolverhampton Wanderers,José Sá,POR,29-257,90,5,2,3,60.0,89ff6cd8
+ENG-Premier League,2223,2022-10-02 Leeds United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-030,90,1,0,1,100.0,627d2279
+ENG-Premier League,2223,2022-10-02 Leeds United-Aston Villa,Leeds United,Illan Meslier,FRA,22-214,90,6,0,6,100.0,627d2279
+ENG-Premier League,2223,2022-10-02 Manchester City-Manchester Utd,Manchester City,Ederson,BRA,29-046,90,7,3,5,71.4,886e6108
+ENG-Premier League,2223,2022-10-02 Manchester City-Manchester Utd,Manchester United,David de Gea,ESP,31-329,90,9,6,3,33.3,886e6108
+ENG-Premier League,2223,2022-10-03 Leicester City-Nottingham Forest,Leicester City,Danny Ward,WAL,29-103,90,3,0,3,100.0,a7976021
+ENG-Premier League,2223,2022-10-03 Leicester City-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-205,90,8,4,4,50.0,a7976021
+ENG-Premier League,2223,2022-10-08 Bournemouth-Leicester City,Bournemouth,Neto,BRA,33-081,90,5,1,4,80.0,7db2a40a
+ENG-Premier League,2223,2022-10-08 Bournemouth-Leicester City,Leicester City,Danny Ward,WAL,29-108,90,4,2,2,50.0,7db2a40a
+ENG-Premier League,2223,2022-10-08 Brighton-Tottenham Hotspur,Brighton & Hove Albion,Robert Sánchez,ESP,24-324,90,3,1,2,66.7,3eeefbc5
+ENG-Premier League,2223,2022-10-08 Brighton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-286,90,4,0,4,100.0,3eeefbc5
+ENG-Premier League,2223,2022-10-08 Chelsea-Wolves,Chelsea,Kepa Arrizabalaga,ESP,28-005,90,2,0,2,100.0,c83cb314
+ENG-Premier League,2223,2022-10-08 Chelsea-Wolves,Wolverhampton Wanderers,José Sá,POR,29-264,90,7,3,4,57.1,c83cb314
+ENG-Premier League,2223,2022-10-08 Manchester City-Southampton,Manchester City,Ederson,BRA,29-052,90,0,0,0,,864294c0
+ENG-Premier League,2223,2022-10-08 Manchester City-Southampton,Southampton,Gavin Bazunu,IRL,20-230,90,8,4,4,50.0,864294c0
+ENG-Premier League,2223,2022-10-08 Newcastle United-Brentford,Brentford,David Raya,ESP,27-023,90,7,5,2,28.6,7dd42d3f
+ENG-Premier League,2223,2022-10-08 Newcastle United-Brentford,Newcastle United,Nick Pope,ENG,30-172,90,2,1,2,100.0,7dd42d3f
+ENG-Premier League,2223,2022-10-09 Arsenal-Liverpool,Arsenal,Aaron Ramsdale,ENG,24-148,90,4,2,2,50.0,84a48413
+ENG-Premier League,2223,2022-10-09 Arsenal-Liverpool,Liverpool,Alisson,BRA,30-007,90,6,3,4,66.7,84a48413
+ENG-Premier League,2223,2022-10-09 Crystal Palace-Leeds United,Crystal Palace,Vicente Guaita,ESP,35-272,90,4,1,3,75.0,f9563020
+ENG-Premier League,2223,2022-10-09 Crystal Palace-Leeds United,Leeds United,Illan Meslier,FRA,22-221,90,5,2,3,60.0,f9563020
+ENG-Premier League,2223,2022-10-09 Everton-Manchester Utd,Everton,Jordan Pickford,ENG,28-216,90,4,2,2,50.0,5d426690
+ENG-Premier League,2223,2022-10-09 Everton-Manchester Utd,Manchester United,David de Gea,ESP,31-336,90,2,1,1,50.0,5d426690
+ENG-Premier League,2223,2022-10-09 West Ham United-Fulham,Fulham,Bernd Leno,GER,30-219,90,7,3,5,71.4,42e38f9d
+ENG-Premier League,2223,2022-10-09 West Ham United-Fulham,West Ham United,Łukasz Fabiański,POL,37-174,90,2,1,1,50.0,42e38f9d
+ENG-Premier League,2223,2022-10-10 Nottingham Forest-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-038,90,3,1,2,66.7,fb99ddf9
+ENG-Premier League,2223,2022-10-10 Nottingham Forest-Aston Villa,Nottingham Forest,Dean Henderson,ENG,25-212,90,2,1,1,50.0,fb99ddf9
+ENG-Premier League,2223,2022-10-14 Brentford-Brighton,Brentford,David Raya,ESP,27-029,90,7,0,7,100.0,69409682
+ENG-Premier League,2223,2022-10-14 Brentford-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-330,90,1,2,0,0.0,69409682
+ENG-Premier League,2223,2022-10-15 Fulham-Bournemouth,Bournemouth,Neto,BRA,33-088,90,3,2,2,66.7,ab7f61dd
+ENG-Premier League,2223,2022-10-15 Fulham-Bournemouth,Fulham,Bernd Leno,GER,30-225,90,6,2,4,66.7,ab7f61dd
+ENG-Premier League,2223,2022-10-15 Leicester City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-278,90,6,0,5,100.0,37677e58
+ENG-Premier League,2223,2022-10-15 Leicester City-Crystal Palace,Leicester City,Danny Ward,WAL,29-115,90,1,0,1,100.0,37677e58
+ENG-Premier League,2223,2022-10-15 Tottenham Hotspur-Everton,Everton,Jordan Pickford,ENG,28-222,90,6,2,5,83.3,e42493f9
+ENG-Premier League,2223,2022-10-15 Tottenham Hotspur-Everton,Tottenham Hotspur,Hugo Lloris,FRA,35-293,90,0,0,0,,e42493f9
+ENG-Premier League,2223,2022-10-15 Wolves-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-217,90,1,1,1,100.0,c9f8e7e9
+ENG-Premier League,2223,2022-10-15 Wolves-Nottingham Forest,Wolverhampton Wanderers,José Sá,POR,29-271,90,0,0,1,,c9f8e7e9
+ENG-Premier League,2223,2022-10-16 Aston Villa-Chelsea,Aston Villa,Emiliano Martínez,ARG,30-044,90,4,2,2,50.0,7113ce7f
+ENG-Premier League,2223,2022-10-16 Aston Villa-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-013,90,7,0,7,100.0,7113ce7f
+ENG-Premier League,2223,2022-10-16 Leeds United-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-155,90,4,0,4,100.0,92885cfc
+ENG-Premier League,2223,2022-10-16 Leeds United-Arsenal,Leeds United,Illan Meslier,FRA,22-228,90,4,1,3,75.0,92885cfc
+ENG-Premier League,2223,2022-10-16 Liverpool-Manchester City,Liverpool,Alisson,BRA,30-014,90,6,0,6,100.0,2ed4b79f
+ENG-Premier League,2223,2022-10-16 Liverpool-Manchester City,Manchester City,Ederson,BRA,29-060,90,2,1,1,50.0,2ed4b79f
+ENG-Premier League,2223,2022-10-16 Manchester Utd-Newcastle United,Manchester United,David de Gea,ESP,31-343,90,2,0,2,100.0,e0b9c72c
+ENG-Premier League,2223,2022-10-16 Manchester Utd-Newcastle United,Newcastle United,Nick Pope,ENG,30-180,90,2,0,2,100.0,e0b9c72c
+ENG-Premier League,2223,2022-10-16 Southampton-West Ham United,Southampton,Gavin Bazunu,IRL,20-238,90,4,1,3,75.0,2f5adfad
+ENG-Premier League,2223,2022-10-16 Southampton-West Ham United,West Ham United,Łukasz Fabiański,POL,37-181,90,8,1,7,87.5,2f5adfad
+ENG-Premier League,2223,2022-10-18 Brighton-Nottingham Forest,Brighton & Hove Albion,Robert Sánchez,ESP,24-334,90,0,0,0,,4f876daa
+ENG-Premier League,2223,2022-10-18 Brighton-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-220,90,7,0,7,100.0,4f876daa
+ENG-Premier League,2223,2022-10-18 Crystal Palace-Wolves,Crystal Palace,Vicente Guaita,ESP,35-281,90,4,1,3,75.0,60705c6d
+ENG-Premier League,2223,2022-10-18 Crystal Palace-Wolves,Wolverhampton Wanderers,José Sá,POR,29-274,90,4,2,2,50.0,60705c6d
+ENG-Premier League,2223,2022-10-19 Bournemouth-Southampton,Bournemouth,Neto,BRA,33-092,90,3,1,2,66.7,8a2bb3b6
+ENG-Premier League,2223,2022-10-19 Bournemouth-Southampton,Southampton,Gavin Bazunu,IRL,20-241,90,3,0,3,100.0,8a2bb3b6
+ENG-Premier League,2223,2022-10-19 Brentford-Chelsea,Brentford,David Raya,ESP,27-034,90,5,0,5,100.0,b7a32aeb
+ENG-Premier League,2223,2022-10-19 Brentford-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-016,90,5,0,5,100.0,b7a32aeb
+ENG-Premier League,2223,2022-10-19 Liverpool-West Ham United,Liverpool,Alisson,BRA,30-017,90,1,0,2,100.0,dba5c5ec
+ENG-Premier League,2223,2022-10-19 Liverpool-West Ham United,West Ham United,Łukasz Fabiański,POL,37-184,90,7,1,6,85.7,dba5c5ec
+ENG-Premier League,2223,2022-10-19 Manchester Utd-Tottenham Hotspur,Manchester United,David de Gea,ESP,31-346,90,2,0,2,100.0,eebe78c1
+ENG-Premier League,2223,2022-10-19 Manchester Utd-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-297,90,10,2,8,80.0,eebe78c1
+ENG-Premier League,2223,2022-10-19 Newcastle United-Everton,Everton,Jordan Pickford,ENG,28-226,90,4,1,3,75.0,e6674f8d
+ENG-Premier League,2223,2022-10-19 Newcastle United-Everton,Newcastle United,Nick Pope,ENG,30-183,90,0,0,0,,e6674f8d
+ENG-Premier League,2223,2022-10-20 Fulham-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-048,90,7,3,5,71.4,e6102606
+ENG-Premier League,2223,2022-10-20 Fulham-Aston Villa,Fulham,Bernd Leno,GER,30-230,90,6,0,6,100.0,e6102606
+ENG-Premier League,2223,2022-10-20 Leicester City-Leeds United,Leeds United,Illan Meslier,FRA,22-232,90,2,2,0,0.0,6356af5a
+ENG-Premier League,2223,2022-10-20 Leicester City-Leeds United,Leicester City,Danny Ward,WAL,29-120,90,2,0,2,100.0,6356af5a
+ENG-Premier League,2223,2022-10-22 Chelsea-Manchester Utd,Chelsea,Kepa Arrizabalaga,ESP,28-019,90,6,1,5,83.3,7ad85c8a
+ENG-Premier League,2223,2022-10-22 Chelsea-Manchester Utd,Manchester United,David de Gea,ESP,31-349,90,1,1,1,100.0,7ad85c8a
+ENG-Premier League,2223,2022-10-22 Everton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-285,90,6,3,3,50.0,24d23a55
+ENG-Premier League,2223,2022-10-22 Everton-Crystal Palace,Everton,Jordan Pickford,ENG,28-229,90,2,0,2,100.0,24d23a55
+ENG-Premier League,2223,2022-10-22 Manchester City-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-338,90,3,3,1,33.3,cd5cd3f0
+ENG-Premier League,2223,2022-10-22 Manchester City-Brighton,Manchester City,Ederson,BRA,29-066,90,2,1,1,50.0,cd5cd3f0
+ENG-Premier League,2223,2022-10-22 Nottingham Forest-Liverpool,Liverpool,Alisson,BRA,30-020,90,7,1,6,85.7,f92b67c2
+ENG-Premier League,2223,2022-10-22 Nottingham Forest-Liverpool,Nottingham Forest,Dean Henderson,ENG,25-224,90,7,0,7,100.0,f92b67c2
+ENG-Premier League,2223,2022-10-23 Aston Villa-Brentford,Aston Villa,Emiliano Martínez,ARG,30-051,90,3,0,3,100.0,7764ca02
+ENG-Premier League,2223,2022-10-23 Aston Villa-Brentford,Brentford,David Raya,ESP,27-038,90,10,4,7,70.0,7764ca02
+ENG-Premier League,2223,2022-10-23 Leeds United-Fulham,Fulham,Bernd Leno,GER,30-233,90,5,2,3,60.0,d7b30e2b
+ENG-Premier League,2223,2022-10-23 Leeds United-Fulham,Leeds United,Illan Meslier,FRA,22-235,90,4,3,1,25.0,d7b30e2b
+ENG-Premier League,2223,2022-10-23 Southampton-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-162,90,3,1,2,66.7,d8138438
+ENG-Premier League,2223,2022-10-23 Southampton-Arsenal,Southampton,Gavin Bazunu,IRL,20-245,90,3,1,2,66.7,d8138438
+ENG-Premier League,2223,2022-10-23 Tottenham Hotspur-Newcastle United,Newcastle United,Nick Pope,ENG,30-187,90,4,1,3,75.0,ae21490f
+ENG-Premier League,2223,2022-10-23 Tottenham Hotspur-Newcastle United,Tottenham Hotspur,Hugo Lloris,FRA,35-301,90,5,2,3,60.0,ae21490f
+ENG-Premier League,2223,2022-10-23 Wolves-Leicester City,Leicester City,Danny Ward,WAL,29-123,90,5,0,5,100.0,8774e664
+ENG-Premier League,2223,2022-10-23 Wolves-Leicester City,Wolverhampton Wanderers,José Sá,POR,29-279,90,4,4,0,0.0,8774e664
+ENG-Premier League,2223,2022-10-24 West Ham United-Bournemouth,Bournemouth,Mark Travers,IRL,23-159,45,1,1,1,100.0,e9d1a18b
+ENG-Premier League,2223,2022-10-24 West Ham United-Bournemouth,Bournemouth,Neto,BRA,33-097,45,2,1,1,50.0,e9d1a18b
+ENG-Premier League,2223,2022-10-24 West Ham United-Bournemouth,West Ham United,Łukasz Fabiański,POL,37-189,90,3,0,3,100.0,e9d1a18b
+ENG-Premier League,2223,2022-10-29 Bournemouth-Tottenham Hotspur,Bournemouth,Mark Travers,IRL,23-164,90,7,3,4,57.1,dcb3b971
+ENG-Premier League,2223,2022-10-29 Bournemouth-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,35-307,90,4,2,2,50.0,dcb3b971
+ENG-Premier League,2223,2022-10-29 Brentford-Wolves,Brentford,David Raya,ESP,27-044,90,4,1,3,75.0,41e403d3
+ENG-Premier League,2223,2022-10-29 Brentford-Wolves,Wolverhampton Wanderers,José Sá,POR,29-285,90,3,1,2,66.7,41e403d3
+ENG-Premier League,2223,2022-10-29 Brighton-Chelsea,Brighton & Hove Albion,Robert Sánchez,ESP,24-345,90,8,1,7,87.5,ac6abad1
+ENG-Premier League,2223,2022-10-29 Brighton-Chelsea,Chelsea,Edouard Mendy,SEN,30-242,45,5,1,4,80.0,ac6abad1
+ENG-Premier League,2223,2022-10-29 Brighton-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-026,45,4,3,1,25.0,ac6abad1
+ENG-Premier League,2223,2022-10-29 Crystal Palace-Southampton,Crystal Palace,Vicente Guaita,ESP,35-292,90,4,0,4,100.0,4be07239
+ENG-Premier League,2223,2022-10-29 Crystal Palace-Southampton,Southampton,Gavin Bazunu,IRL,20-251,90,3,1,2,66.7,4be07239
+ENG-Premier League,2223,2022-10-29 Fulham-Everton,Everton,Jordan Pickford,ENG,28-236,90,6,0,6,100.0,9c4402e1
+ENG-Premier League,2223,2022-10-29 Fulham-Everton,Fulham,Bernd Leno,GER,30-239,90,4,0,4,100.0,9c4402e1
+ENG-Premier League,2223,2022-10-29 Leicester City-Manchester City,Leicester City,Danny Ward,WAL,29-129,90,5,1,4,80.0,96b9ae4e
+ENG-Premier League,2223,2022-10-29 Leicester City-Manchester City,Manchester City,Ederson,BRA,29-073,90,5,0,5,100.0,96b9ae4e
+ENG-Premier League,2223,2022-10-29 Liverpool-Leeds United,Leeds United,Illan Meslier,FRA,22-241,90,10,1,9,90.0,b5b1e744
+ENG-Premier League,2223,2022-10-29 Liverpool-Leeds United,Liverpool,Alisson,BRA,30-027,90,6,2,4,66.7,b5b1e744
+ENG-Premier League,2223,2022-10-29 Newcastle United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-057,34,1,0,1,100.0,96f5ee84
+ENG-Premier League,2223,2022-10-29 Newcastle United-Aston Villa,Aston Villa,Robin Olsen,SWE,32-294,56,5,4,2,40.0,96f5ee84
+ENG-Premier League,2223,2022-10-29 Newcastle United-Aston Villa,Newcastle United,Nick Pope,ENG,30-193,90,0,0,0,,96f5ee84
+ENG-Premier League,2223,2022-10-30 Arsenal-Nottingham Forest,Arsenal,Aaron Ramsdale,ENG,24-169,90,2,0,2,100.0,1b496cc1
+ENG-Premier League,2223,2022-10-30 Arsenal-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-232,90,9,5,4,44.4,1b496cc1
+ENG-Premier League,2223,2022-10-30 Manchester Utd-West Ham United,Manchester United,David de Gea,ESP,31-357,90,4,0,4,100.0,cd0f59f6
+ENG-Premier League,2223,2022-10-30 Manchester Utd-West Ham United,West Ham United,Alphonse Areola,FRA,29-245,45,0,0,0,,cd0f59f6
+ENG-Premier League,2223,2022-10-30 Manchester Utd-West Ham United,West Ham United,Łukasz Fabiański,POL,37-195,45,3,1,2,66.7,cd0f59f6
+ENG-Premier League,2223,2022-11-05 Everton-Leicester City,Everton,Jordan Pickford,ENG,28-243,90,8,2,6,75.0,831c73fc
+ENG-Premier League,2223,2022-11-05 Everton-Leicester City,Leicester City,Danny Ward,WAL,29-136,90,2,0,2,100.0,831c73fc
+ENG-Premier League,2223,2022-11-05 Leeds United-Bournemouth,Bournemouth,Mark Travers,IRL,23-171,90,3,4,0,0.0,63975c3e
+ENG-Premier League,2223,2022-11-05 Leeds United-Bournemouth,Leeds United,Illan Meslier,FRA,22-248,90,5,3,2,40.0,63975c3e
+ENG-Premier League,2223,2022-11-05 Manchester City-Fulham,Fulham,Bernd Leno,GER,30-246,90,4,2,3,75.0,6ef27b3c
+ENG-Premier League,2223,2022-11-05 Manchester City-Fulham,Manchester City,Ederson,BRA,29-080,90,1,1,1,100.0,6ef27b3c
+ENG-Premier League,2223,2022-11-05 Nottingham Forest-Brentford,Brentford,David Raya,ESP,27-051,90,7,2,5,71.4,12251835
+ENG-Premier League,2223,2022-11-05 Nottingham Forest-Brentford,Nottingham Forest,Dean Henderson,ENG,25-238,90,1,2,0,0.0,12251835
+ENG-Premier League,2223,2022-11-05 Wolves-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,24-352,90,4,2,3,75.0,982d16a2
+ENG-Premier League,2223,2022-11-05 Wolves-Brighton,Wolverhampton Wanderers,José Sá,POR,29-292,90,8,3,5,62.5,982d16a2
+ENG-Premier League,2223,2022-11-06 Aston Villa-Manchester Utd,Aston Villa,Emiliano Martínez,ARG,30-065,90,4,1,3,75.0,6638574f
+ENG-Premier League,2223,2022-11-06 Aston Villa-Manchester Utd,Manchester United,David de Gea,ESP,31-364,90,4,3,1,25.0,6638574f
+ENG-Premier League,2223,2022-11-06 Chelsea-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-176,90,1,0,1,100.0,af9dc838
+ENG-Premier League,2223,2022-11-06 Chelsea-Arsenal,Chelsea,Edouard Mendy,SEN,30-250,90,2,1,1,50.0,af9dc838
+ENG-Premier League,2223,2022-11-06 Southampton-Newcastle United,Newcastle United,Nick Pope,ENG,30-201,90,5,1,4,80.0,57f9bcc9
+ENG-Premier League,2223,2022-11-06 Southampton-Newcastle United,Southampton,Gavin Bazunu,IRL,20-259,90,4,4,0,0.0,57f9bcc9
+ENG-Premier League,2223,2022-11-06 Tottenham Hotspur-Liverpool,Liverpool,Alisson,BRA,30-035,90,5,1,4,80.0,2954504d
+ENG-Premier League,2223,2022-11-06 Tottenham Hotspur-Liverpool,Tottenham Hotspur,Hugo Lloris,FRA,35-315,90,6,2,4,66.7,2954504d
+ENG-Premier League,2223,2022-11-06 West Ham United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-300,90,2,1,1,50.0,2586fb04
+ENG-Premier League,2223,2022-11-06 West Ham United-Crystal Palace,West Ham United,Łukasz Fabiański,POL,37-202,90,7,2,5,71.4,2586fb04
+ENG-Premier League,2223,2022-11-12 Bournemouth-Everton,Bournemouth,Mark Travers,IRL,23-178,90,3,0,3,100.0,54f23f03
+ENG-Premier League,2223,2022-11-12 Bournemouth-Everton,Everton,Jordan Pickford,ENG,28-250,90,8,3,5,62.5,54f23f03
+ENG-Premier League,2223,2022-11-12 Liverpool-Southampton,Liverpool,Alisson,BRA,30-041,90,5,1,4,80.0,1579d34b
+ENG-Premier League,2223,2022-11-12 Liverpool-Southampton,Southampton,Gavin Bazunu,IRL,20-265,90,7,3,4,57.1,1579d34b
+ENG-Premier League,2223,2022-11-12 Manchester City-Brentford,Brentford,David Raya,ESP,27-058,90,6,1,5,83.3,28b60c1b
+ENG-Premier League,2223,2022-11-12 Manchester City-Brentford,Manchester City,Ederson,BRA,29-087,90,7,2,5,71.4,28b60c1b
+ENG-Premier League,2223,2022-11-12 Newcastle United-Chelsea,Chelsea,Edouard Mendy,SEN,30-256,90,3,1,2,66.7,e1b3eb1b
+ENG-Premier League,2223,2022-11-12 Newcastle United-Chelsea,Newcastle United,Nick Pope,ENG,30-207,90,2,0,2,100.0,e1b3eb1b
+ENG-Premier League,2223,2022-11-12 Nottingham Forest-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-306,90,2,1,1,50.0,ee827a60
+ENG-Premier League,2223,2022-11-12 Nottingham Forest-Crystal Palace,Nottingham Forest,Dean Henderson,ENG,25-245,90,0,0,0,,ee827a60
+ENG-Premier League,2223,2022-11-12 Tottenham Hotspur-Leeds United,Leeds United,Illan Meslier,FRA,22-255,90,7,4,3,42.9,0030e686
+ENG-Premier League,2223,2022-11-12 Tottenham Hotspur-Leeds United,Tottenham Hotspur,Hugo Lloris,FRA,35-321,90,5,3,2,40.0,0030e686
+ENG-Premier League,2223,2022-11-12 West Ham United-Leicester City,Leicester City,Danny Ward,WAL,29-143,90,6,0,6,100.0,6e89557a
+ENG-Premier League,2223,2022-11-12 West Ham United-Leicester City,West Ham United,Łukasz Fabiański,POL,37-208,90,4,2,3,50.0,6e89557a
+ENG-Premier League,2223,2022-11-12 Wolves-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-182,90,2,0,2,100.0,863d7a8f
+ENG-Premier League,2223,2022-11-12 Wolves-Arsenal,Wolverhampton Wanderers,José Sá,POR,29-299,90,3,2,1,33.3,863d7a8f
+ENG-Premier League,2223,2022-11-13 Brighton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-072,90,2,1,1,50.0,a7031cbd
+ENG-Premier League,2223,2022-11-13 Brighton-Aston Villa,Brighton & Hove Albion,Robert Sánchez,ESP,24-360,90,1,2,0,0.0,a7031cbd
+ENG-Premier League,2223,2022-11-13 Fulham-Manchester Utd,Fulham,Bernd Leno,GER,30-254,90,10,2,8,80.0,af75b6b0
+ENG-Premier League,2223,2022-11-13 Fulham-Manchester Utd,Manchester United,David de Gea,ESP,32-006,90,7,1,6,85.7,af75b6b0
+ENG-Premier League,2223,2022-12-26 Arsenal-West Ham United,Arsenal,Aaron Ramsdale,ENG,24-226,90,3,1,3,100.0,3be32b8b
+ENG-Premier League,2223,2022-12-26 Arsenal-West Ham United,West Ham United,Łukasz Fabiański,POL,37-252,90,5,3,2,40.0,3be32b8b
+ENG-Premier League,2223,2022-12-26 Aston Villa-Liverpool,Aston Villa,Robin Olsen,SWE,32-352,90,9,3,6,66.7,ab7d4465
+ENG-Premier League,2223,2022-12-26 Aston Villa-Liverpool,Liverpool,Alisson,BRA,30-085,90,6,1,5,83.3,ab7d4465
+ENG-Premier League,2223,2022-12-26 Brentford-Tottenham Hotspur,Brentford,David Raya,ESP,27-102,90,8,2,6,75.0,14e4f648
+ENG-Premier League,2223,2022-12-26 Brentford-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,34-284,90,5,2,3,60.0,14e4f648
+ENG-Premier League,2223,2022-12-26 Crystal Palace-Fulham,Crystal Palace,Vicente Guaita,ESP,35-350,90,10,3,7,70.0,bbb301a6
+ENG-Premier League,2223,2022-12-26 Crystal Palace-Fulham,Fulham,Bernd Leno,GER,30-297,90,0,0,0,,bbb301a6
+ENG-Premier League,2223,2022-12-26 Everton-Wolves,Everton,Jordan Pickford,ENG,28-294,90,4,2,2,50.0,ef424180
+ENG-Premier League,2223,2022-12-26 Everton-Wolves,Wolverhampton Wanderers,José Sá,POR,29-343,90,5,1,4,80.0,ef424180
+ENG-Premier League,2223,2022-12-26 Leicester City-Newcastle United,Leicester City,Danny Ward,WAL,29-187,90,4,3,2,50.0,8e186153
+ENG-Premier League,2223,2022-12-26 Leicester City-Newcastle United,Newcastle United,Nick Pope,ENG,30-251,90,2,0,2,100.0,8e186153
+ENG-Premier League,2223,2022-12-26 Southampton-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,25-038,90,2,1,2,50.0,3527c390
+ENG-Premier League,2223,2022-12-26 Southampton-Brighton,Southampton,Gavin Bazunu,IRL,20-309,90,5,3,2,40.0,3527c390
+ENG-Premier League,2223,2022-12-27 Chelsea-Bournemouth,Bournemouth,Mark Travers,IRL,23-223,90,5,2,3,60.0,d55b9033
+ENG-Premier League,2223,2022-12-27 Chelsea-Bournemouth,Chelsea,Kepa Arrizabalaga,ESP,28-085,90,4,0,4,100.0,d55b9033
+ENG-Premier League,2223,2022-12-27 Manchester Utd-Nottingham Forest,Manchester United,David de Gea,ESP,32-050,90,3,0,3,100.0,b860f634
+ENG-Premier League,2223,2022-12-27 Manchester Utd-Nottingham Forest,Nottingham Forest,Wayne Hennessey,WAL,35-337,90,8,3,5,62.5,b860f634
+ENG-Premier League,2223,2022-12-28 Leeds United-Manchester City,Leeds United,Illan Meslier,FRA,22-301,90,9,3,6,66.7,a85ef749
+ENG-Premier League,2223,2022-12-28 Leeds United-Manchester City,Manchester City,Ederson,BRA,29-133,90,1,1,0,0.0,a85ef749
+ENG-Premier League,2223,2022-12-30 Liverpool-Leicester City,Leicester City,Danny Ward,WAL,29-191,90,7,2,5,71.4,c5e4ccf5
+ENG-Premier League,2223,2022-12-30 Liverpool-Leicester City,Liverpool,Alisson,BRA,30-089,90,2,1,1,50.0,c5e4ccf5
+ENG-Premier League,2223,2022-12-30 West Ham United-Brentford,Brentford,David Raya,ESP,27-106,90,5,0,5,100.0,56acbbbe
+ENG-Premier League,2223,2022-12-30 West Ham United-Brentford,West Ham United,Łukasz Fabiański,POL,37-256,90,6,2,4,66.7,56acbbbe
+ENG-Premier League,2223,2022-12-31 Bournemouth-Crystal Palace,Bournemouth,Mark Travers,IRL,23-227,90,6,2,4,66.7,dab2ed3a
+ENG-Premier League,2223,2022-12-31 Bournemouth-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,35-355,90,2,0,2,100.0,dab2ed3a
+ENG-Premier League,2223,2022-12-31 Brighton-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-231,90,5,2,3,60.0,dd50a429
+ENG-Premier League,2223,2022-12-31 Brighton-Arsenal,Brighton & Hove Albion,Robert Sánchez,ESP,25-043,90,7,4,3,42.9,dd50a429
+ENG-Premier League,2223,2022-12-31 Fulham-Southampton,Fulham,Bernd Leno,GER,30-302,90,3,1,2,66.7,a15bf99e
+ENG-Premier League,2223,2022-12-31 Fulham-Southampton,Southampton,Gavin Bazunu,IRL,20-314,90,1,2,0,-100.0,a15bf99e
+ENG-Premier League,2223,2022-12-31 Manchester City-Everton,Everton,Jordan Pickford,ENG,28-299,90,3,1,2,66.7,bcfb66ff
+ENG-Premier League,2223,2022-12-31 Manchester City-Everton,Manchester City,Ederson,BRA,29-136,90,1,1,0,0.0,bcfb66ff
+ENG-Premier League,2223,2022-12-31 Newcastle United-Leeds United,Leeds United,Illan Meslier,FRA,22-304,90,5,0,5,100.0,0facecde
+ENG-Premier League,2223,2022-12-31 Newcastle United-Leeds United,Newcastle United,Nick Pope,ENG,30-256,90,1,0,1,100.0,0facecde
+ENG-Premier League,2223,2022-12-31 Wolves-Manchester Utd,Manchester United,David de Gea,ESP,32-054,90,3,0,3,100.0,8ef80305
+ENG-Premier League,2223,2022-12-31 Wolves-Manchester Utd,Wolverhampton Wanderers,José Sá,POR,29-348,90,7,1,6,85.7,8ef80305
+ENG-Premier League,2223,2023-01-01 Nottingham Forest-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-090,90,5,1,4,80.0,c31cf944
+ENG-Premier League,2223,2023-01-01 Nottingham Forest-Chelsea,Nottingham Forest,Dean Henderson,ENG,25-295,90,2,1,1,50.0,c31cf944
+ENG-Premier League,2223,2023-01-01 Tottenham Hotspur-Aston Villa,Aston Villa,Robin Olsen,SWE,32-358,90,1,0,1,100.0,63e8eaf8
+ENG-Premier League,2223,2023-01-01 Tottenham Hotspur-Aston Villa,Tottenham Hotspur,Hugo Lloris,FRA,36-006,90,4,2,2,50.0,63e8eaf8
+ENG-Premier League,2223,2023-01-02 Brentford-Liverpool,Brentford,David Raya,ESP,27-109,90,5,1,4,80.0,af6aa183
+ENG-Premier League,2223,2023-01-02 Brentford-Liverpool,Liverpool,Alisson,BRA,30-092,90,8,3,5,62.5,af6aa183
+ENG-Premier League,2223,2023-01-03 Arsenal-Newcastle United,Arsenal,Aaron Ramsdale,ENG,24-234,90,1,0,1,100.0,ceebd643
+ENG-Premier League,2223,2023-01-03 Arsenal-Newcastle United,Newcastle United,Nick Pope,ENG,30-259,90,4,0,4,100.0,ceebd643
+ENG-Premier League,2223,2023-01-03 Everton-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,25-046,90,3,1,3,100.0,c62d7632
+ENG-Premier League,2223,2023-01-03 Everton-Brighton,Everton,Jordan Pickford,ENG,28-302,90,8,4,4,50.0,c62d7632
+ENG-Premier League,2223,2023-01-03 Leicester City-Fulham,Fulham,Bernd Leno,GER,30-305,90,6,0,6,100.0,12e0894b
+ENG-Premier League,2223,2023-01-03 Leicester City-Fulham,Leicester City,Danny Ward,WAL,29-195,90,2,1,1,50.0,12e0894b
+ENG-Premier League,2223,2023-01-03 Manchester Utd-Bournemouth,Bournemouth,Mark Travers,IRL,23-230,90,6,3,3,50.0,63fc7f12
+ENG-Premier League,2223,2023-01-03 Manchester Utd-Bournemouth,Manchester United,David de Gea,ESP,32-057,90,4,0,4,100.0,63fc7f12
+ENG-Premier League,2223,2023-01-04 Aston Villa-Wolves,Aston Villa,Emiliano Martínez,ARG,30-124,90,3,1,2,66.7,895a1c1f
+ENG-Premier League,2223,2023-01-04 Aston Villa-Wolves,Wolverhampton Wanderers,José Sá,POR,29-352,90,3,1,2,66.7,895a1c1f
+ENG-Premier League,2223,2023-01-04 Crystal Palace-Tottenham Hotspur,Crystal Palace,Vicente Guaita,ESP,35-359,90,6,4,2,33.3,d8118454
+ENG-Premier League,2223,2023-01-04 Crystal Palace-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,36-009,90,4,0,4,100.0,d8118454
+ENG-Premier League,2223,2023-01-04 Leeds United-West Ham United,Leeds United,Illan Meslier,FRA,22-308,90,1,2,0,0.0,068406dc
+ENG-Premier League,2223,2023-01-04 Leeds United-West Ham United,West Ham United,Łukasz Fabiański,POL,37-261,90,5,2,3,60.0,068406dc
+ENG-Premier League,2223,2023-01-04 Southampton-Nottingham Forest,Nottingham Forest,Dean Henderson,ENG,25-298,90,0,0,0,,cc17c735
+ENG-Premier League,2223,2023-01-04 Southampton-Nottingham Forest,Southampton,Gavin Bazunu,IRL,20-318,90,1,1,0,0.0,cc17c735
+ENG-Premier League,2223,2023-01-05 Chelsea-Manchester City,Chelsea,Kepa Arrizabalaga,ESP,28-094,90,3,1,2,66.7,eacda90c
+ENG-Premier League,2223,2023-01-05 Chelsea-Manchester City,Manchester City,Ederson,BRA,29-141,90,2,0,2,100.0,eacda90c
+ENG-Premier League,2223,2023-01-12 Fulham-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-101,90,3,2,1,33.3,2902a42d
+ENG-Premier League,2223,2023-01-12 Fulham-Chelsea,Fulham,Bernd Leno,GER,30-314,90,10,1,9,90.0,2902a42d
+ENG-Premier League,2223,2023-01-13 Aston Villa-Leeds United,Aston Villa,Emiliano Martínez,ARG,30-133,90,3,1,2,66.7,ea58bf24
+ENG-Premier League,2223,2023-01-13 Aston Villa-Leeds United,Leeds United,Illan Meslier,FRA,22-317,90,5,2,3,60.0,ea58bf24
+ENG-Premier League,2223,2023-01-14 Brentford-Bournemouth,Bournemouth,Neto,BRA,33-179,90,3,2,2,66.7,3f992264
+ENG-Premier League,2223,2023-01-14 Brentford-Bournemouth,Brentford,David Raya,ESP,27-121,90,2,0,2,100.0,3f992264
+ENG-Premier League,2223,2023-01-14 Brighton-Liverpool,Brighton & Hove Albion,Robert Sánchez,ESP,25-057,90,2,0,2,100.0,cfc2a193
+ENG-Premier League,2223,2023-01-14 Brighton-Liverpool,Liverpool,Alisson,BRA,30-104,90,8,3,5,62.5,cfc2a193
+ENG-Premier League,2223,2023-01-14 Everton-Southampton,Everton,Jordan Pickford,ENG,28-313,90,5,2,3,60.0,11603f7f
+ENG-Premier League,2223,2023-01-14 Everton-Southampton,Southampton,Gavin Bazunu,IRL,20-328,90,4,1,3,75.0,11603f7f
+ENG-Premier League,2223,2023-01-14 Manchester Utd-Manchester City,Manchester City,Ederson,BRA,29-150,90,3,2,1,33.3,f0fd7541
+ENG-Premier League,2223,2023-01-14 Manchester Utd-Manchester City,Manchester United,David de Gea,ESP,32-068,90,1,1,0,0.0,f0fd7541
+ENG-Premier League,2223,2023-01-14 Nottingham Forest-Leicester City,Leicester City,Danny Ward,WAL,29-206,90,5,2,3,60.0,95d3b457
+ENG-Premier League,2223,2023-01-14 Nottingham Forest-Leicester City,Nottingham Forest,Dean Henderson,ENG,25-308,90,1,0,1,100.0,95d3b457
+ENG-Premier League,2223,2023-01-14 Wolves-West Ham United,West Ham United,Łukasz Fabiański,POL,37-271,90,4,1,3,75.0,20fbd1a1
+ENG-Premier League,2223,2023-01-14 Wolves-West Ham United,Wolverhampton Wanderers,José Sá,POR,29-362,90,3,0,3,100.0,20fbd1a1
+ENG-Premier League,2223,2023-01-15 Chelsea-Crystal Palace,Chelsea,Kepa Arrizabalaga,ESP,28-104,90,5,0,5,100.0,564d2893
+ENG-Premier League,2223,2023-01-15 Chelsea-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,36-005,90,5,1,4,80.0,564d2893
+ENG-Premier League,2223,2023-01-15 Newcastle United-Fulham,Fulham,Bernd Leno,GER,30-317,90,5,1,4,80.0,f93d11e7
+ENG-Premier League,2223,2023-01-15 Newcastle United-Fulham,Newcastle United,Nick Pope,ENG,30-271,90,0,0,0,,f93d11e7
+ENG-Premier League,2223,2023-01-15 Tottenham Hotspur-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-246,90,7,0,7,100.0,4fc8b7b2
+ENG-Premier League,2223,2023-01-15 Tottenham Hotspur-Arsenal,Tottenham Hotspur,Hugo Lloris,FRA,36-020,90,6,2,4,66.7,4fc8b7b2
+ENG-Premier League,2223,2023-01-18 Crystal Palace-Manchester Utd,Crystal Palace,Vicente Guaita,ESP,36-008,90,4,1,3,75.0,adf46096
+ENG-Premier League,2223,2023-01-18 Crystal Palace-Manchester Utd,Manchester United,David de Gea,ESP,32-072,90,5,1,4,80.0,adf46096
+ENG-Premier League,2223,2023-01-19 Manchester City-Tottenham Hotspur,Manchester City,Ederson,BRA,29-155,90,3,2,1,33.3,847f0a9c
+ENG-Premier League,2223,2023-01-19 Manchester City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,36-024,90,6,4,2,33.3,847f0a9c
+ENG-Premier League,2223,2023-01-21 Bournemouth-Nottingham Forest,Bournemouth,Neto,BRA,33-186,90,5,1,4,80.0,38c715b4
+ENG-Premier League,2223,2023-01-21 Bournemouth-Nottingham Forest,Nottingham Forest,Wayne Hennessey,WAL,35-362,90,3,1,2,66.7,38c715b4
+ENG-Premier League,2223,2023-01-21 Crystal Palace-Newcastle United,Crystal Palace,Vicente Guaita,ESP,36-011,90,7,0,7,100.0,8468f673
+ENG-Premier League,2223,2023-01-21 Crystal Palace-Newcastle United,Newcastle United,Nick Pope,ENG,30-277,90,1,0,1,100.0,8468f673
+ENG-Premier League,2223,2023-01-21 Leicester City-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,25-064,90,2,2,0,0.0,bcbbc55f
+ENG-Premier League,2223,2023-01-21 Leicester City-Brighton,Leicester City,Danny Ward,WAL,29-213,90,4,2,2,50.0,bcbbc55f
+ENG-Premier League,2223,2023-01-21 Liverpool-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-110,90,3,0,3,100.0,7febc290
+ENG-Premier League,2223,2023-01-21 Liverpool-Chelsea,Liverpool,Alisson,BRA,30-111,90,2,0,2,100.0,7febc290
+ENG-Premier League,2223,2023-01-21 Southampton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-141,90,5,0,5,100.0,91d49468
+ENG-Premier League,2223,2023-01-21 Southampton-Aston Villa,Southampton,Gavin Bazunu,IRL,20-335,90,5,1,4,80.0,91d49468
+ENG-Premier League,2223,2023-01-21 West Ham United-Everton,Everton,Jordan Pickford,ENG,28-320,90,4,2,2,50.0,db9cdba8
+ENG-Premier League,2223,2023-01-21 West Ham United-Everton,West Ham United,Łukasz Fabiański,POL,37-278,90,2,0,2,100.0,db9cdba8
+ENG-Premier League,2223,2023-01-22 Arsenal-Manchester Utd,Arsenal,Aaron Ramsdale,ENG,24-253,90,4,2,2,50.0,1b35bc71
+ENG-Premier League,2223,2023-01-22 Arsenal-Manchester Utd,Manchester United,David de Gea,ESP,32-076,90,5,3,2,40.0,1b35bc71
+ENG-Premier League,2223,2023-01-22 Leeds United-Brentford,Brentford,David Raya,ESP,27-129,90,5,0,5,100.0,f0e7d8a8
+ENG-Premier League,2223,2023-01-22 Leeds United-Brentford,Leeds United,Illan Meslier,FRA,22-326,90,0,0,0,,f0e7d8a8
+ENG-Premier League,2223,2023-01-22 Manchester City-Wolves,Manchester City,Ederson,BRA,29-158,90,1,0,1,100.0,7337f90a
+ENG-Premier League,2223,2023-01-22 Manchester City-Wolves,Wolverhampton Wanderers,José Sá,POR,30-005,90,5,3,3,60.0,7337f90a
+ENG-Premier League,2223,2023-01-23 Fulham-Tottenham Hotspur,Fulham,Bernd Leno,GER,30-325,90,3,1,2,66.7,098cd338
+ENG-Premier League,2223,2023-01-23 Fulham-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,36-028,90,5,0,5,100.0,098cd338
+ENG-Premier League,2223,2023-02-03 Chelsea-Fulham,Chelsea,Kepa Arrizabalaga,ESP,28-123,90,4,0,4,100.0,c3cf244b
+ENG-Premier League,2223,2023-02-03 Chelsea-Fulham,Fulham,Bernd Leno,GER,30-336,90,2,0,2,100.0,c3cf244b
+ENG-Premier League,2223,2023-02-04 Aston Villa-Leicester City,Aston Villa,Emiliano Martínez,ARG,30-155,90,5,4,1,20.0,76a2a22c
+ENG-Premier League,2223,2023-02-04 Aston Villa-Leicester City,Leicester City,Danny Ward,WAL,29-227,90,5,2,3,60.0,76a2a22c
+ENG-Premier League,2223,2023-02-04 Brentford-Southampton,Brentford,David Raya,ESP,27-142,90,5,0,5,100.0,ef31dad5
+ENG-Premier League,2223,2023-02-04 Brentford-Southampton,Southampton,Gavin Bazunu,IRL,20-349,90,3,3,0,0.0,ef31dad5
+ENG-Premier League,2223,2023-02-04 Brighton-Bournemouth,Bournemouth,Neto,BRA,33-200,90,6,1,5,83.3,dccc53ae
+ENG-Premier League,2223,2023-02-04 Brighton-Bournemouth,Brighton & Hove Albion,Robert Sánchez,ESP,25-078,90,2,0,2,100.0,dccc53ae
+ENG-Premier League,2223,2023-02-04 Everton-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-266,90,4,1,3,75.0,07fc721a
+ENG-Premier League,2223,2023-02-04 Everton-Arsenal,Everton,Jordan Pickford,ENG,28-334,90,2,0,2,100.0,07fc721a
+ENG-Premier League,2223,2023-02-04 Manchester Utd-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,36-025,90,4,2,3,75.0,dca5ea6c
+ENG-Premier League,2223,2023-02-04 Manchester Utd-Crystal Palace,Manchester United,David de Gea,ESP,32-089,90,3,1,2,66.7,dca5ea6c
+ENG-Premier League,2223,2023-02-04 Newcastle United-West Ham United,Newcastle United,Nick Pope,ENG,30-291,90,1,1,0,0.0,34e9160c
+ENG-Premier League,2223,2023-02-04 Newcastle United-West Ham United,West Ham United,Łukasz Fabiański,POL,37-292,90,2,1,1,50.0,34e9160c
+ENG-Premier League,2223,2023-02-04 Wolves-Liverpool,Liverpool,Alisson,BRA,30-125,90,6,3,3,50.0,d67a16c8
+ENG-Premier League,2223,2023-02-04 Wolves-Liverpool,Wolverhampton Wanderers,José Sá,POR,30-018,90,2,0,2,100.0,d67a16c8
+ENG-Premier League,2223,2023-02-05 Nottingham Forest-Leeds United,Leeds United,Illan Meslier,FRA,22-340,90,2,1,1,50.0,7c47cb5e
+ENG-Premier League,2223,2023-02-05 Nottingham Forest-Leeds United,Nottingham Forest,Keylor Navas,CRC,36-052,90,4,0,4,100.0,7c47cb5e
+ENG-Premier League,2223,2023-02-05 Tottenham Hotspur-Manchester City,Manchester City,Ederson,BRA,29-172,90,3,1,2,66.7,8a923619
+ENG-Premier League,2223,2023-02-05 Tottenham Hotspur-Manchester City,Tottenham Hotspur,Hugo Lloris,FRA,36-041,90,5,0,5,100.0,8a923619
+ENG-Premier League,2223,2023-02-08 Manchester Utd-Leeds United,Leeds United,Illan Meslier,FRA,22-343,90,7,2,5,71.4,80532a54
+ENG-Premier League,2223,2023-02-08 Manchester Utd-Leeds United,Manchester United,David de Gea,ESP,32-093,90,3,2,1,33.3,80532a54
+ENG-Premier League,2223,2023-02-11 Arsenal-Brentford,Arsenal,Aaron Ramsdale,ENG,24-273,90,2,1,1,50.0,7caa56bc
+ENG-Premier League,2223,2023-02-11 Arsenal-Brentford,Brentford,David Raya,ESP,27-149,90,7,1,6,85.7,7caa56bc
+ENG-Premier League,2223,2023-02-11 Bournemouth-Newcastle United,Bournemouth,Neto,BRA,33-207,90,7,1,6,85.7,d9339e30
+ENG-Premier League,2223,2023-02-11 Bournemouth-Newcastle United,Newcastle United,Nick Pope,ENG,30-298,90,4,1,3,75.0,d9339e30
+ENG-Premier League,2223,2023-02-11 Crystal Palace-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,25-085,90,1,1,0,0.0,5d5deba7
+ENG-Premier League,2223,2023-02-11 Crystal Palace-Brighton,Crystal Palace,Vicente Guaita,ESP,36-032,90,7,1,6,85.7,5d5deba7
+ENG-Premier League,2223,2023-02-11 Fulham-Nottingham Forest,Fulham,Bernd Leno,GER,30-344,90,1,0,1,100.0,ee86dc99
+ENG-Premier League,2223,2023-02-11 Fulham-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-058,90,3,2,1,33.3,ee86dc99
+ENG-Premier League,2223,2023-02-11 Leicester City-Tottenham Hotspur,Leicester City,Danny Ward,WAL,29-234,90,4,1,3,75.0,390c7b85
+ENG-Premier League,2223,2023-02-11 Leicester City-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,34-331,90,6,4,2,33.3,390c7b85
+ENG-Premier League,2223,2023-02-11 Southampton-Wolves,Southampton,Gavin Bazunu,IRL,20-356,90,2,2,0,0.0,8c7913ed
+ENG-Premier League,2223,2023-02-11 Southampton-Wolves,Wolverhampton Wanderers,José Sá,POR,30-025,90,2,1,1,50.0,8c7913ed
+ENG-Premier League,2223,2023-02-11 West Ham United-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-131,90,2,1,1,50.0,18dea268
+ENG-Premier League,2223,2023-02-11 West Ham United-Chelsea,West Ham United,Łukasz Fabiański,POL,37-299,90,4,1,3,75.0,18dea268
+ENG-Premier League,2223,2023-02-12 Leeds United-Manchester Utd,Leeds United,Illan Meslier,FRA,22-347,90,5,2,3,60.0,3386146f
+ENG-Premier League,2223,2023-02-12 Leeds United-Manchester Utd,Manchester United,David de Gea,ESP,32-097,90,6,0,6,100.0,3386146f
+ENG-Premier League,2223,2023-02-12 Manchester City-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-163,90,7,3,5,71.4,18fcd595
+ENG-Premier League,2223,2023-02-12 Manchester City-Aston Villa,Manchester City,Ederson,BRA,29-179,90,2,1,1,50.0,18fcd595
+ENG-Premier League,2223,2023-02-13 Liverpool-Everton,Everton,Jordan Pickford,ENG,28-343,90,6,2,4,66.7,a895ec23
+ENG-Premier League,2223,2023-02-13 Liverpool-Everton,Liverpool,Alisson,BRA,30-134,90,1,0,1,100.0,a895ec23
+ENG-Premier League,2223,2023-02-15 Arsenal-Manchester City,Arsenal,Aaron Ramsdale,ENG,24-277,90,5,3,2,40.0,b9da01e6
+ENG-Premier League,2223,2023-02-15 Arsenal-Manchester City,Manchester City,Ederson,BRA,29-182,90,0,1,0,,b9da01e6
+ENG-Premier League,2223,2023-02-18 Aston Villa-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-280,90,5,2,3,60.0,e50bfcf8
+ENG-Premier League,2223,2023-02-18 Aston Villa-Arsenal,Aston Villa,Emiliano Martínez,ARG,30-169,90,6,4,2,33.3,e50bfcf8
+ENG-Premier League,2223,2023-02-18 Brentford-Crystal Palace,Brentford,David Raya,ESP,27-156,90,4,1,3,75.0,f6370484
+ENG-Premier League,2223,2023-02-18 Brentford-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,36-039,90,5,1,4,80.0,f6370484
+ENG-Premier League,2223,2023-02-18 Brighton-Fulham,Brighton & Hove Albion,Robert Sánchez,ESP,25-092,90,2,1,1,50.0,67a7aee6
+ENG-Premier League,2223,2023-02-18 Brighton-Fulham,Fulham,Bernd Leno,GER,30-351,90,7,0,7,100.0,67a7aee6
+ENG-Premier League,2223,2023-02-18 Chelsea-Southampton,Chelsea,Kepa Arrizabalaga,ESP,28-138,90,4,1,3,75.0,8d750d5d
+ENG-Premier League,2223,2023-02-18 Chelsea-Southampton,Southampton,Gavin Bazunu,IRL,20-363,90,4,0,4,100.0,8d750d5d
+ENG-Premier League,2223,2023-02-18 Everton-Leeds United,Everton,Jordan Pickford,ENG,28-348,90,0,0,0,,d5f67d2e
+ENG-Premier League,2223,2023-02-18 Everton-Leeds United,Leeds United,Illan Meslier,FRA,22-353,90,4,1,3,75.0,d5f67d2e
+ENG-Premier League,2223,2023-02-18 Newcastle United-Liverpool,Liverpool,Alisson,BRA,30-139,90,4,0,4,100.0,2f909763
+ENG-Premier League,2223,2023-02-18 Newcastle United-Liverpool,Newcastle United,Martin Dúbravka,SVK,34-034,67,5,0,5,100.0,2f909763
+ENG-Premier League,2223,2023-02-18 Newcastle United-Liverpool,Newcastle United,Nick Pope,ENG,30-305,21,2,2,0,0.0,2f909763
+ENG-Premier League,2223,2023-02-18 Nottingham Forest-Manchester City,Manchester City,Ederson,BRA,29-185,90,1,1,0,0.0,7f12d9aa
+ENG-Premier League,2223,2023-02-18 Nottingham Forest-Manchester City,Nottingham Forest,Keylor Navas,CRC,36-065,90,6,1,5,83.3,7f12d9aa
+ENG-Premier League,2223,2023-02-18 Wolves-Bournemouth,Bournemouth,Neto,BRA,33-214,90,4,0,4,100.0,eaf37ab4
+ENG-Premier League,2223,2023-02-18 Wolves-Bournemouth,Wolverhampton Wanderers,José Sá,POR,30-032,90,1,1,0,0.0,eaf37ab4
+ENG-Premier League,2223,2023-02-19 Manchester Utd-Leicester City,Leicester City,Danny Ward,WAL,29-242,90,8,3,5,62.5,d6e88163
+ENG-Premier League,2223,2023-02-19 Manchester Utd-Leicester City,Manchester United,David de Gea,ESP,32-104,90,3,0,3,100.0,d6e88163
+ENG-Premier League,2223,2023-02-19 Tottenham Hotspur-West Ham United,Tottenham Hotspur,Fraser Forster,ENG,34-339,90,1,0,1,100.0,aae66d3d
+ENG-Premier League,2223,2023-02-19 Tottenham Hotspur-West Ham United,West Ham United,Łukasz Fabiański,POL,37-307,90,6,2,4,66.7,aae66d3d
+ENG-Premier League,2223,2023-02-24 Fulham-Wolves,Fulham,Bernd Leno,GER,30-357,90,2,1,1,50.0,b452508e
+ENG-Premier League,2223,2023-02-24 Fulham-Wolves,Wolverhampton Wanderers,José Sá,POR,30-038,90,5,1,4,80.0,b452508e
+ENG-Premier League,2223,2023-02-25 Bournemouth-Manchester City,Bournemouth,Neto,BRA,33-221,90,6,4,2,33.3,e731c1dd
+ENG-Premier League,2223,2023-02-25 Bournemouth-Manchester City,Manchester City,Ederson,BRA,29-192,90,2,1,1,50.0,e731c1dd
+ENG-Premier League,2223,2023-02-25 Crystal Palace-Liverpool,Crystal Palace,Vicente Guaita,ESP,36-046,90,4,0,4,100.0,8a59c49c
+ENG-Premier League,2223,2023-02-25 Crystal Palace-Liverpool,Liverpool,Alisson,BRA,30-146,90,0,0,0,,8a59c49c
+ENG-Premier League,2223,2023-02-25 Everton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-176,90,4,0,4,100.0,25436a3b
+ENG-Premier League,2223,2023-02-25 Everton-Aston Villa,Everton,Jordan Pickford,ENG,28-355,90,4,2,3,75.0,25436a3b
+ENG-Premier League,2223,2023-02-25 Leeds United-Southampton,Leeds United,Illan Meslier,FRA,22-360,90,2,0,2,100.0,9edb32a3
+ENG-Premier League,2223,2023-02-25 Leeds United-Southampton,Southampton,Gavin Bazunu,IRL,21-005,90,4,1,3,75.0,9edb32a3
+ENG-Premier League,2223,2023-02-25 Leicester City-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-287,90,0,0,0,,145cc0a5
+ENG-Premier League,2223,2023-02-25 Leicester City-Arsenal,Leicester City,Danny Ward,WAL,29-248,90,2,1,1,50.0,145cc0a5
+ENG-Premier League,2223,2023-02-25 West Ham United-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-072,90,5,4,1,20.0,767981c6
+ENG-Premier League,2223,2023-02-25 West Ham United-Nottingham Forest,West Ham United,Alphonse Areola,FRA,29-363,22,1,0,1,100.0,767981c6
+ENG-Premier League,2223,2023-02-25 West Ham United-Nottingham Forest,West Ham United,Łukasz Fabiański,POL,37-313,68,2,0,2,100.0,767981c6
+ENG-Premier League,2223,2023-02-26 Tottenham Hotspur-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-146,90,3,2,1,33.3,8eff71b5
+ENG-Premier League,2223,2023-02-26 Tottenham Hotspur-Chelsea,Tottenham Hotspur,Fraser Forster,ENG,34-346,90,2,0,2,100.0,8eff71b5
+ENG-Premier League,2223,2023-03-01 Arsenal-Everton,Arsenal,Aaron Ramsdale,ENG,24-291,90,5,0,5,100.0,705a2f3c
+ENG-Premier League,2223,2023-03-01 Arsenal-Everton,Everton,Jordan Pickford,ENG,28-359,90,5,4,1,20.0,705a2f3c
+ENG-Premier League,2223,2023-03-01 Liverpool-Wolves,Liverpool,Alisson,BRA,30-150,90,1,0,1,100.0,5e05f5f4
+ENG-Premier League,2223,2023-03-01 Liverpool-Wolves,Wolverhampton Wanderers,José Sá,POR,30-043,90,6,2,4,66.7,5e05f5f4
+ENG-Premier League,2223,2023-03-04 Arsenal-Bournemouth,Arsenal,Aaron Ramsdale,ENG,24-294,90,4,2,2,50.0,3e9a33fc
+ENG-Premier League,2223,2023-03-04 Arsenal-Bournemouth,Bournemouth,Neto,BRA,33-228,90,9,3,6,66.7,3e9a33fc
+ENG-Premier League,2223,2023-03-04 Aston Villa-Crystal Palace,Aston Villa,Emiliano Martínez,ARG,30-183,90,0,0,0,,433a4487
+ENG-Premier League,2223,2023-03-04 Aston Villa-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,36-053,90,2,1,1,50.0,433a4487
+ENG-Premier League,2223,2023-03-04 Brighton-West Ham United,Brighton & Hove Albion,Jason Steele,ENG,32-198,90,2,0,2,100.0,bee059c4
+ENG-Premier League,2223,2023-03-04 Brighton-West Ham United,West Ham United,Alphonse Areola,FRA,30-005,90,8,4,5,62.5,bee059c4
+ENG-Premier League,2223,2023-03-04 Chelsea-Leeds United,Chelsea,Kepa Arrizabalaga,ESP,28-152,90,2,0,2,100.0,59f9a78f
+ENG-Premier League,2223,2023-03-04 Chelsea-Leeds United,Leeds United,Illan Meslier,FRA,23-002,90,3,1,2,66.7,59f9a78f
+ENG-Premier League,2223,2023-03-04 Manchester City-Newcastle United,Manchester City,Ederson,BRA,29-199,90,2,0,2,100.0,b33bcb97
+ENG-Premier League,2223,2023-03-04 Manchester City-Newcastle United,Newcastle United,Nick Pope,ENG,30-319,90,3,2,1,33.3,b33bcb97
+ENG-Premier League,2223,2023-03-04 Southampton-Leicester City,Leicester City,Danny Ward,WAL,29-255,90,3,1,3,66.7,4d14422c
+ENG-Premier League,2223,2023-03-04 Southampton-Leicester City,Southampton,Gavin Bazunu,IRL,21-012,90,0,0,0,,4d14422c
+ENG-Premier League,2223,2023-03-04 Wolves-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,34-352,90,5,1,4,80.0,bf4ac62d
+ENG-Premier League,2223,2023-03-04 Wolves-Tottenham Hotspur,Wolverhampton Wanderers,José Sá,POR,30-046,90,6,0,6,100.0,bf4ac62d
+ENG-Premier League,2223,2023-03-05 Liverpool-Manchester Utd,Liverpool,Alisson,BRA,30-154,90,4,0,4,100.0,756e8036
+ENG-Premier League,2223,2023-03-05 Liverpool-Manchester Utd,Manchester United,David de Gea,ESP,32-118,90,8,7,1,12.5,756e8036
+ENG-Premier League,2223,2023-03-05 Nottingham Forest-Everton,Everton,Jordan Pickford,ENG,28-363,90,4,2,2,50.0,ec770341
+ENG-Premier League,2223,2023-03-05 Nottingham Forest-Everton,Nottingham Forest,Keylor Navas,CRC,36-080,90,2,2,1,50.0,ec770341
+ENG-Premier League,2223,2023-03-06 Brentford-Fulham,Brentford,David Raya,ESP,27-172,90,5,2,3,60.0,3dce3a24
+ENG-Premier League,2223,2023-03-06 Brentford-Fulham,Fulham,Bernd Leno,GER,31-002,90,5,3,3,60.0,3dce3a24
+ENG-Premier League,2223,2023-03-11 Bournemouth-Liverpool,Bournemouth,Neto,BRA,33-235,90,5,0,5,100.0,d376dff8
+ENG-Premier League,2223,2023-03-11 Bournemouth-Liverpool,Liverpool,Alisson,BRA,30-160,90,2,1,1,50.0,d376dff8
+ENG-Premier League,2223,2023-03-11 Crystal Palace-Manchester City,Crystal Palace,Vicente Guaita,ESP,36-060,90,3,1,3,100.0,d29fe1d9
+ENG-Premier League,2223,2023-03-11 Crystal Palace-Manchester City,Manchester City,Ederson,BRA,29-206,90,0,0,0,,d29fe1d9
+ENG-Premier League,2223,2023-03-11 Everton-Brentford,Brentford,David Raya,ESP,27-177,90,6,1,5,83.3,980f57d4
+ENG-Premier League,2223,2023-03-11 Everton-Brentford,Everton,Jordan Pickford,ENG,29-004,90,3,0,3,100.0,980f57d4
+ENG-Premier League,2223,2023-03-11 Leeds United-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-205,90,4,2,2,50.0,3f653d6f
+ENG-Premier League,2223,2023-03-11 Leeds United-Brighton,Leeds United,Illan Meslier,FRA,23-009,90,4,2,2,50.0,3f653d6f
+ENG-Premier League,2223,2023-03-11 Leicester City-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-159,90,6,1,5,83.3,bd5571a1
+ENG-Premier League,2223,2023-03-11 Leicester City-Chelsea,Leicester City,Danny Ward,WAL,29-262,90,6,3,3,50.0,bd5571a1
+ENG-Premier League,2223,2023-03-11 Tottenham Hotspur-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-086,90,6,3,4,66.7,d065f9cd
+ENG-Premier League,2223,2023-03-11 Tottenham Hotspur-Nottingham Forest,Tottenham Hotspur,Fraser Forster,ENG,34-359,90,3,1,3,66.7,d065f9cd
+ENG-Premier League,2223,2023-03-12 Fulham-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-302,90,2,0,2,100.0,d238973c
+ENG-Premier League,2223,2023-03-12 Fulham-Arsenal,Fulham,Bernd Leno,GER,31-008,90,7,3,4,57.1,d238973c
+ENG-Premier League,2223,2023-03-12 Manchester Utd-Southampton,Manchester United,David de Gea,ESP,32-125,90,4,0,4,100.0,9cd3ca2c
+ENG-Premier League,2223,2023-03-12 Manchester Utd-Southampton,Southampton,Gavin Bazunu,IRL,21-020,90,4,0,4,100.0,9cd3ca2c
+ENG-Premier League,2223,2023-03-12 Newcastle United-Wolves,Newcastle United,Nick Pope,ENG,30-327,90,4,1,3,75.0,c416a3de
+ENG-Premier League,2223,2023-03-12 Newcastle United-Wolves,Wolverhampton Wanderers,José Sá,POR,30-054,90,8,2,6,75.0,c416a3de
+ENG-Premier League,2223,2023-03-12 West Ham United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-191,90,4,1,4,100.0,df6f054e
+ENG-Premier League,2223,2023-03-12 West Ham United-Aston Villa,West Ham United,Alphonse Areola,FRA,30-013,90,4,1,3,75.0,df6f054e
+ENG-Premier League,2223,2023-03-15 Brighton-Crystal Palace,Brighton & Hove Albion,Jason Steele,ENG,32-209,90,3,0,3,100.0,d23a30cc
+ENG-Premier League,2223,2023-03-15 Brighton-Crystal Palace,Crystal Palace,Joseph Whitworth,ENG,19-014,90,5,1,4,80.0,d23a30cc
+ENG-Premier League,2223,2023-03-15 Southampton-Brentford,Brentford,David Raya,ESP,27-181,90,0,0,0,,a4202b5b
+ENG-Premier League,2223,2023-03-15 Southampton-Brentford,Southampton,Gavin Bazunu,IRL,21-023,90,4,2,2,50.0,a4202b5b
+ENG-Premier League,2223,2023-03-17 Nottingham Forest-Newcastle United,Newcastle United,Nick Pope,ENG,30-332,90,3,1,2,66.7,5345049a
+ENG-Premier League,2223,2023-03-17 Nottingham Forest-Newcastle United,Nottingham Forest,Keylor Navas,CRC,36-092,90,3,2,2,66.7,5345049a
+ENG-Premier League,2223,2023-03-18 Aston Villa-Bournemouth,Aston Villa,Emiliano Martínez,ARG,30-197,90,3,0,3,100.0,88981274
+ENG-Premier League,2223,2023-03-18 Aston Villa-Bournemouth,Bournemouth,Neto,BRA,33-242,90,9,3,6,66.7,88981274
+ENG-Premier League,2223,2023-03-18 Brentford-Leicester City,Brentford,David Raya,ESP,27-184,90,1,1,0,0.0,7647948e
+ENG-Premier League,2223,2023-03-18 Brentford-Leicester City,Leicester City,Daniel Iversen,DEN,25-242,90,2,1,1,50.0,7647948e
+ENG-Premier League,2223,2023-03-18 Chelsea-Everton,Chelsea,Kepa Arrizabalaga,ESP,28-166,90,3,2,1,33.3,9453dba7
+ENG-Premier League,2223,2023-03-18 Chelsea-Everton,Everton,Jordan Pickford,ENG,29-011,90,6,2,5,83.3,9453dba7
+ENG-Premier League,2223,2023-03-18 Southampton-Tottenham Hotspur,Southampton,Gavin Bazunu,IRL,21-026,90,3,3,0,0.0,bd9ec55d
+ENG-Premier League,2223,2023-03-18 Southampton-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,35-001,90,6,3,4,66.7,bd9ec55d
+ENG-Premier League,2223,2023-03-18 Wolves-Leeds United,Leeds United,Illan Meslier,FRA,23-016,90,8,2,6,75.0,3cb714a4
+ENG-Premier League,2223,2023-03-18 Wolves-Leeds United,Wolverhampton Wanderers,José Sá,POR,30-060,90,4,4,0,0.0,3cb714a4
+ENG-Premier League,2223,2023-03-19 Arsenal-Crystal Palace,Arsenal,Aaron Ramsdale,ENG,24-309,90,4,1,3,75.0,98e0de00
+ENG-Premier League,2223,2023-03-19 Arsenal-Crystal Palace,Crystal Palace,Joseph Whitworth,ENG,19-018,90,5,4,1,20.0,98e0de00
+ENG-Premier League,2223,2023-04-01 Arsenal-Leeds United,Arsenal,Aaron Ramsdale,ENG,24-322,90,5,1,4,80.0,2e4383ca
+ENG-Premier League,2223,2023-04-01 Arsenal-Leeds United,Leeds United,Illan Meslier,FRA,23-030,90,4,4,1,25.0,2e4383ca
+ENG-Premier League,2223,2023-04-01 Bournemouth-Fulham,Bournemouth,Neto,BRA,33-256,90,2,1,1,50.0,f64320c3
+ENG-Premier League,2223,2023-04-01 Bournemouth-Fulham,Fulham,Bernd Leno,GER,31-028,90,6,2,4,66.7,f64320c3
+ENG-Premier League,2223,2023-04-01 Brighton-Brentford,Brentford,David Raya,ESP,27-198,90,13,3,11,84.6,ead2251e
+ENG-Premier League,2223,2023-04-01 Brighton-Brentford,Brighton & Hove Albion,Jason Steele,ENG,32-226,90,5,3,2,40.0,ead2251e
+ENG-Premier League,2223,2023-04-01 Chelsea-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-211,90,7,0,7,100.0,870fa8c9
+ENG-Premier League,2223,2023-04-01 Chelsea-Aston Villa,Chelsea,Kepa Arrizabalaga,ESP,28-180,90,2,2,0,0.0,870fa8c9
+ENG-Premier League,2223,2023-04-01 Crystal Palace-Leicester City,Crystal Palace,Vicente Guaita,ESP,36-081,90,2,1,1,50.0,ee1878a0
+ENG-Premier League,2223,2023-04-01 Crystal Palace-Leicester City,Leicester City,Daniel Iversen,DEN,25-256,90,10,2,8,80.0,ee1878a0
+ENG-Premier League,2223,2023-04-01 Manchester City-Liverpool,Liverpool,Alisson,BRA,30-181,90,8,4,4,50.0,40966f45
+ENG-Premier League,2223,2023-04-01 Manchester City-Liverpool,Manchester City,Ederson,BRA,29-227,90,1,1,0,0.0,40966f45
+ENG-Premier League,2223,2023-04-01 Nottingham Forest-Wolves,Nottingham Forest,Keylor Navas,CRC,36-107,90,1,1,0,0.0,c14b278c
+ENG-Premier League,2223,2023-04-01 Nottingham Forest-Wolves,Wolverhampton Wanderers,José Sá,POR,30-074,90,7,1,6,85.7,c14b278c
+ENG-Premier League,2223,2023-04-02 Newcastle United-Manchester Utd,Manchester United,David de Gea,ESP,32-146,90,6,2,4,66.7,1ed948f6
+ENG-Premier League,2223,2023-04-02 Newcastle United-Manchester Utd,Newcastle United,Nick Pope,ENG,30-348,90,1,0,1,100.0,1ed948f6
+ENG-Premier League,2223,2023-04-02 West Ham United-Southampton,Southampton,Gavin Bazunu,IRL,21-041,90,3,1,2,66.7,42e1f38d
+ENG-Premier League,2223,2023-04-02 West Ham United-Southampton,West Ham United,Łukasz Fabiański,POL,37-349,90,3,0,3,100.0,42e1f38d
+ENG-Premier League,2223,2023-04-03 Everton-Tottenham Hotspur,Everton,Jordan Pickford,ENG,29-027,90,0,1,0,,c00d9a22
+ENG-Premier League,2223,2023-04-03 Everton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,36-098,90,6,1,5,83.3,c00d9a22
+ENG-Premier League,2223,2023-04-04 Bournemouth-Brighton,Bournemouth,Neto,BRA,33-259,90,6,2,4,66.7,95a97dc6
+ENG-Premier League,2223,2023-04-04 Bournemouth-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-229,90,3,0,3,100.0,95a97dc6
+ENG-Premier League,2223,2023-04-04 Chelsea-Liverpool,Chelsea,Kepa Arrizabalaga,ESP,28-183,90,3,0,3,100.0,1028e683
+ENG-Premier League,2223,2023-04-04 Chelsea-Liverpool,Liverpool,Alisson,BRA,30-184,90,2,0,2,100.0,1028e683
+ENG-Premier League,2223,2023-04-04 Leeds United-Nottingham Forest,Leeds United,Illan Meslier,FRA,23-033,90,1,1,0,0.0,1251d1c0
+ENG-Premier League,2223,2023-04-04 Leeds United-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-110,90,6,2,4,66.7,1251d1c0
+ENG-Premier League,2223,2023-04-04 Leicester City-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-214,90,4,1,3,75.0,f213214b
+ENG-Premier League,2223,2023-04-04 Leicester City-Aston Villa,Leicester City,Daniel Iversen,DEN,25-259,90,5,2,3,60.0,f213214b
+ENG-Premier League,2223,2023-04-05 Manchester Utd-Brentford,Brentford,David Raya,ESP,27-202,90,3,1,2,66.7,f3e6e475
+ENG-Premier League,2223,2023-04-05 Manchester Utd-Brentford,Manchester United,David de Gea,ESP,32-149,90,1,0,1,100.0,f3e6e475
+ENG-Premier League,2223,2023-04-05 West Ham United-Newcastle United,Newcastle United,Nick Pope,ENG,30-351,90,2,1,1,50.0,4a87012d
+ENG-Premier League,2223,2023-04-05 West Ham United-Newcastle United,West Ham United,Łukasz Fabiański,POL,37-352,90,7,5,2,28.6,4a87012d
+ENG-Premier League,2223,2023-04-08 Aston Villa-Nottingham Forest,Aston Villa,Emiliano Martínez,ARG,30-218,90,2,0,2,100.0,68cd68fd
+ENG-Premier League,2223,2023-04-08 Aston Villa-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-114,90,3,2,1,33.3,68cd68fd
+ENG-Premier League,2223,2023-04-08 Brentford-Newcastle United,Brentford,David Raya,ESP,27-205,90,5,2,3,60.0,a5e78e89
+ENG-Premier League,2223,2023-04-08 Brentford-Newcastle United,Newcastle United,Nick Pope,ENG,30-354,90,3,1,4,100.0,a5e78e89
+ENG-Premier League,2223,2023-04-08 Fulham-West Ham United,Fulham,Bernd Leno,GER,31-035,90,6,1,5,83.3,0ba42648
+ENG-Premier League,2223,2023-04-08 Fulham-West Ham United,West Ham United,Łukasz Fabiański,POL,37-355,90,3,0,3,100.0,0ba42648
+ENG-Premier League,2223,2023-04-08 Leicester City-Bournemouth,Bournemouth,Neto,BRA,33-263,90,4,0,4,100.0,72ca7930
+ENG-Premier League,2223,2023-04-08 Leicester City-Bournemouth,Leicester City,Daniel Iversen,DEN,25-263,90,7,1,6,85.7,72ca7930
+ENG-Premier League,2223,2023-04-08 Manchester Utd-Everton,Everton,Jordan Pickford,ENG,29-032,90,11,2,9,81.8,e217ed2c
+ENG-Premier League,2223,2023-04-08 Manchester Utd-Everton,Manchester United,David de Gea,ESP,32-152,90,1,0,1,100.0,e217ed2c
+ENG-Premier League,2223,2023-04-08 Southampton-Manchester City,Manchester City,Ederson,BRA,29-234,90,1,1,0,0.0,fb045117
+ENG-Premier League,2223,2023-04-08 Southampton-Manchester City,Southampton,Gavin Bazunu,IRL,21-047,90,7,4,4,57.1,fb045117
+ENG-Premier League,2223,2023-04-08 Tottenham Hotspur-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-233,90,3,2,1,33.3,b3ad7bd4
+ENG-Premier League,2223,2023-04-08 Tottenham Hotspur-Brighton,Tottenham Hotspur,Hugo Lloris,FRA,36-103,90,4,1,3,75.0,b3ad7bd4
+ENG-Premier League,2223,2023-04-08 Wolves-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-187,90,4,1,3,75.0,aa1fa8dc
+ENG-Premier League,2223,2023-04-08 Wolves-Chelsea,Wolverhampton Wanderers,José Sá,POR,30-081,90,1,0,1,100.0,aa1fa8dc
+ENG-Premier League,2223,2023-04-09 Leeds United-Crystal Palace,Crystal Palace,Sam Johnstone,ENG,30-015,90,8,1,7,87.5,a1c39217
+ENG-Premier League,2223,2023-04-09 Leeds United-Crystal Palace,Leeds United,Illan Meslier,FRA,23-038,90,7,5,2,28.6,a1c39217
+ENG-Premier League,2223,2023-04-09 Liverpool-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-330,90,6,2,4,66.7,f3774baa
+ENG-Premier League,2223,2023-04-09 Liverpool-Arsenal,Liverpool,Alisson,BRA,30-189,90,5,2,3,60.0,f3774baa
+ENG-Premier League,2223,2023-04-15 Aston Villa-Newcastle United,Aston Villa,Emiliano Martínez,ARG,30-225,90,2,0,2,100.0,7bbac622
+ENG-Premier League,2223,2023-04-15 Aston Villa-Newcastle United,Newcastle United,Nick Pope,ENG,30-361,90,6,3,3,50.0,7bbac622
+ENG-Premier League,2223,2023-04-15 Chelsea-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,25-148,90,2,1,1,50.0,18e7d354
+ENG-Premier League,2223,2023-04-15 Chelsea-Brighton,Chelsea,Kepa Arrizabalaga,ESP,28-194,90,11,2,9,81.8,18e7d354
+ENG-Premier League,2223,2023-04-15 Everton-Fulham,Everton,Jordan Pickford,ENG,29-039,90,7,3,4,57.1,ecae749b
+ENG-Premier League,2223,2023-04-15 Everton-Fulham,Fulham,Bernd Leno,GER,31-042,90,7,1,6,85.7,ecae749b
+ENG-Premier League,2223,2023-04-15 Manchester City-Leicester City,Leicester City,Daniel Iversen,DEN,25-270,90,3,3,1,33.3,ce8df388
+ENG-Premier League,2223,2023-04-15 Manchester City-Leicester City,Manchester City,Ederson,BRA,29-241,90,4,1,3,75.0,ce8df388
+ENG-Premier League,2223,2023-04-15 Southampton-Crystal Palace,Crystal Palace,Sam Johnstone,ENG,30-021,90,4,0,4,100.0,67f47a1b
+ENG-Premier League,2223,2023-04-15 Southampton-Crystal Palace,Southampton,Gavin Bazunu,IRL,21-054,90,2,2,0,0.0,67f47a1b
+ENG-Premier League,2223,2023-04-15 Tottenham Hotspur-Bournemouth,Bournemouth,Neto,BRA,33-270,90,8,2,6,75.0,bfc49d95
+ENG-Premier League,2223,2023-04-15 Tottenham Hotspur-Bournemouth,Tottenham Hotspur,Hugo Lloris,FRA,36-110,90,6,3,3,50.0,bfc49d95
+ENG-Premier League,2223,2023-04-15 Wolves-Brentford,Brentford,David Raya,ESP,27-212,90,9,2,7,77.8,b2402736
+ENG-Premier League,2223,2023-04-15 Wolves-Brentford,Wolverhampton Wanderers,José Sá,POR,30-088,90,3,0,3,100.0,b2402736
+ENG-Premier League,2223,2023-04-16 Nottingham Forest-Manchester Utd,Manchester United,David de Gea,ESP,32-160,90,0,0,0,,4ca8f9f6
+ENG-Premier League,2223,2023-04-16 Nottingham Forest-Manchester Utd,Nottingham Forest,Keylor Navas,CRC,36-122,90,7,2,5,71.4,4ca8f9f6
+ENG-Premier League,2223,2023-04-16 West Ham United-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-337,90,2,2,1,50.0,3120ba0d
+ENG-Premier League,2223,2023-04-16 West Ham United-Arsenal,West Ham United,Łukasz Fabiański,POL,37-363,90,5,2,3,60.0,3120ba0d
+ENG-Premier League,2223,2023-04-17 Leeds United-Liverpool,Leeds United,Illan Meslier,FRA,23-046,90,7,6,1,14.3,fd3d05f5
+ENG-Premier League,2223,2023-04-17 Leeds United-Liverpool,Liverpool,Alisson,BRA,30-197,90,3,1,2,66.7,fd3d05f5
+ENG-Premier League,2223,2023-04-21 Arsenal-Southampton,Arsenal,Aaron Ramsdale,ENG,24-342,90,6,3,3,50.0,12efc7dd
+ENG-Premier League,2223,2023-04-21 Arsenal-Southampton,Southampton,Gavin Bazunu,IRL,21-060,90,5,3,2,40.0,12efc7dd
+ENG-Premier League,2223,2023-04-22 Brentford-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-232,45,2,0,2,100.0,2b51686a
+ENG-Premier League,2223,2023-04-22 Brentford-Aston Villa,Aston Villa,Robin Olsen,SWE,33-104,45,3,1,2,66.7,2b51686a
+ENG-Premier League,2223,2023-04-22 Brentford-Aston Villa,Brentford,David Raya,ESP,27-219,90,2,1,1,50.0,2b51686a
+ENG-Premier League,2223,2023-04-22 Crystal Palace-Everton,Crystal Palace,Sam Johnstone,ENG,30-028,90,5,0,5,100.0,25f6dcd1
+ENG-Premier League,2223,2023-04-22 Crystal Palace-Everton,Everton,Jordan Pickford,ENG,29-046,90,2,0,2,100.0,25f6dcd1
+ENG-Premier League,2223,2023-04-22 Fulham-Leeds United,Fulham,Bernd Leno,GER,31-049,90,3,1,2,66.7,f2d8700d
+ENG-Premier League,2223,2023-04-22 Fulham-Leeds United,Leeds United,Illan Meslier,FRA,23-051,90,5,2,3,60.0,f2d8700d
+ENG-Premier League,2223,2023-04-22 Leicester City-Wolves,Leicester City,Daniel Iversen,DEN,25-277,90,3,1,2,66.7,b87e66b4
+ENG-Premier League,2223,2023-04-22 Leicester City-Wolves,Wolverhampton Wanderers,José Sá,POR,30-095,90,6,2,5,83.3,b87e66b4
+ENG-Premier League,2223,2023-04-22 Liverpool-Nottingham Forest,Liverpool,Alisson,BRA,30-202,90,5,2,3,60.0,99bfc321
+ENG-Premier League,2223,2023-04-22 Liverpool-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-128,90,5,3,2,40.0,99bfc321
+ENG-Premier League,2223,2023-04-23 Bournemouth-West Ham United,Bournemouth,Neto,BRA,33-278,90,10,4,6,60.0,3306d30f
+ENG-Premier League,2223,2023-04-23 Bournemouth-West Ham United,West Ham United,Łukasz Fabiański,POL,38-005,90,5,0,5,100.0,3306d30f
+ENG-Premier League,2223,2023-04-23 Newcastle United-Tottenham Hotspur,Newcastle United,Nick Pope,ENG,31-004,90,3,1,2,66.7,dff22d13
+ENG-Premier League,2223,2023-04-23 Newcastle United-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,35-037,45,2,1,1,50.0,dff22d13
+ENG-Premier League,2223,2023-04-23 Newcastle United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,36-118,45,6,5,1,16.7,dff22d13
+ENG-Premier League,2223,2023-04-25 Aston Villa-Fulham,Aston Villa,Emiliano Martínez,ARG,30-235,90,0,0,0,,8b295a84
+ENG-Premier League,2223,2023-04-25 Aston Villa-Fulham,Fulham,Bernd Leno,GER,31-052,90,3,1,2,66.7,8b295a84
+ENG-Premier League,2223,2023-04-25 Leeds United-Leicester City,Leeds United,Illan Meslier,FRA,23-054,90,3,1,2,66.7,56c70cf7
+ENG-Premier League,2223,2023-04-25 Leeds United-Leicester City,Leicester City,Daniel Iversen,DEN,25-280,90,3,1,2,66.7,56c70cf7
+ENG-Premier League,2223,2023-04-25 Wolves-Crystal Palace,Crystal Palace,Sam Johnstone,ENG,30-031,90,3,2,2,66.7,825c78f1
+ENG-Premier League,2223,2023-04-25 Wolves-Crystal Palace,Wolverhampton Wanderers,José Sá,POR,30-098,90,4,0,4,100.0,825c78f1
+ENG-Premier League,2223,2023-04-26 Chelsea-Brentford,Brentford,David Raya,ESP,27-223,90,4,0,4,100.0,071b5820
+ENG-Premier League,2223,2023-04-26 Chelsea-Brentford,Chelsea,Kepa Arrizabalaga,ESP,28-205,90,2,2,0,0.0,071b5820
+ENG-Premier League,2223,2023-04-26 Manchester City-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-347,90,9,4,5,55.6,00a73645
+ENG-Premier League,2223,2023-04-26 Manchester City-Arsenal,Manchester City,Ederson,BRA,29-252,90,2,1,1,50.0,00a73645
+ENG-Premier League,2223,2023-04-26 Nottingham Forest-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-251,90,3,3,2,33.3,76db2de1
+ENG-Premier League,2223,2023-04-26 Nottingham Forest-Brighton,Nottingham Forest,Keylor Navas,CRC,36-132,90,7,1,6,85.7,76db2de1
+ENG-Premier League,2223,2023-04-26 West Ham United-Liverpool,Liverpool,Alisson,BRA,30-206,90,2,1,1,50.0,f2f795ae
+ENG-Premier League,2223,2023-04-26 West Ham United-Liverpool,West Ham United,Łukasz Fabiański,POL,38-008,90,4,2,2,50.0,f2f795ae
+ENG-Premier League,2223,2023-04-27 Everton-Newcastle United,Everton,Jordan Pickford,ENG,29-051,90,7,4,3,42.9,37a741a7
+ENG-Premier League,2223,2023-04-27 Everton-Newcastle United,Newcastle United,Nick Pope,ENG,31-008,90,5,1,4,80.0,37a741a7
+ENG-Premier League,2223,2023-04-27 Southampton-Bournemouth,Bournemouth,Neto,BRA,33-282,90,2,0,2,100.0,ccabe10f
+ENG-Premier League,2223,2023-04-27 Southampton-Bournemouth,Southampton,Alex McCarthy,ENG,33-145,90,2,1,1,50.0,ccabe10f
+ENG-Premier League,2223,2023-04-27 Tottenham Hotspur-Manchester Utd,Manchester United,David de Gea,ESP,32-171,90,7,2,5,71.4,8c9a5c5c
+ENG-Premier League,2223,2023-04-27 Tottenham Hotspur-Manchester Utd,Tottenham Hotspur,Fraser Forster,ENG,35-041,90,7,2,5,71.4,8c9a5c5c
+ENG-Premier League,2223,2023-04-29 Brentford-Nottingham Forest,Brentford,David Raya,ESP,27-226,90,3,1,2,66.7,3aeacbaa
+ENG-Premier League,2223,2023-04-29 Brentford-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-135,90,8,2,6,75.0,3aeacbaa
+ENG-Premier League,2223,2023-04-29 Brighton-Wolves,Brighton & Hove Albion,Jason Steele,ENG,32-254,90,2,0,2,100.0,21f920e0
+ENG-Premier League,2223,2023-04-29 Brighton-Wolves,Wolverhampton Wanderers,José Sá,POR,30-102,90,8,6,2,25.0,21f920e0
+ENG-Premier League,2223,2023-04-29 Crystal Palace-West Ham United,Crystal Palace,Sam Johnstone,ENG,30-035,90,4,3,1,25.0,4ec72d3b
+ENG-Premier League,2223,2023-04-29 Crystal Palace-West Ham United,West Ham United,Łukasz Fabiański,POL,38-011,90,5,4,2,40.0,4ec72d3b
+ENG-Premier League,2223,2023-04-30 Bournemouth-Leeds United,Bournemouth,Neto,BRA,33-285,90,6,1,5,83.3,0b0733ce
+ENG-Premier League,2223,2023-04-30 Bournemouth-Leeds United,Leeds United,Illan Meslier,FRA,23-059,90,7,4,3,42.9,0b0733ce
+ENG-Premier League,2223,2023-04-30 Fulham-Manchester City,Fulham,Bernd Leno,GER,31-057,90,8,2,7,87.5,d4d0cb2a
+ENG-Premier League,2223,2023-04-30 Fulham-Manchester City,Manchester City,Ederson,BRA,29-256,90,1,1,0,0.0,d4d0cb2a
+ENG-Premier League,2223,2023-04-30 Liverpool-Tottenham Hotspur,Liverpool,Alisson,BRA,30-210,90,6,3,3,50.0,e07267b3
+ENG-Premier League,2223,2023-04-30 Liverpool-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,35-044,90,3,4,0,0.0,e07267b3
+ENG-Premier League,2223,2023-04-30 Manchester Utd-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-240,90,6,1,5,83.3,08607696
+ENG-Premier League,2223,2023-04-30 Manchester Utd-Aston Villa,Manchester United,David de Gea,ESP,32-174,90,1,0,1,100.0,08607696
+ENG-Premier League,2223,2023-04-30 Newcastle United-Southampton,Newcastle United,Nick Pope,ENG,31-011,90,3,1,2,66.7,b16063b6
+ENG-Premier League,2223,2023-04-30 Newcastle United-Southampton,Southampton,Alex McCarthy,ENG,33-148,90,6,3,3,50.0,b16063b6
+ENG-Premier League,2223,2023-05-01 Leicester City-Everton,Everton,Jordan Pickford,ENG,29-055,90,3,2,2,33.3,95d2cc61
+ENG-Premier League,2223,2023-05-01 Leicester City-Everton,Leicester City,Daniel Iversen,DEN,25-286,90,7,2,6,85.7,95d2cc61
+ENG-Premier League,2223,2023-05-02 Arsenal-Chelsea,Arsenal,Aaron Ramsdale,ENG,24-353,90,4,1,3,75.0,2d551ff5
+ENG-Premier League,2223,2023-05-02 Arsenal-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-211,90,9,3,6,66.7,2d551ff5
+ENG-Premier League,2223,2023-05-03 Liverpool-Fulham,Fulham,Bernd Leno,GER,31-060,90,2,1,2,100.0,24fb8eca
+ENG-Premier League,2223,2023-05-03 Liverpool-Fulham,Liverpool,Alisson,BRA,30-213,90,3,0,3,100.0,24fb8eca
+ENG-Premier League,2223,2023-05-03 Manchester City-West Ham United,Manchester City,Stefan Ortega,GER,30-178,90,2,0,2,100.0,fccab6ff
+ENG-Premier League,2223,2023-05-03 Manchester City-West Ham United,West Ham United,Łukasz Fabiański,POL,38-015,90,7,3,4,57.1,fccab6ff
+ENG-Premier League,2223,2023-05-04 Brighton-Manchester Utd,Brighton & Hove Albion,Jason Steele,ENG,32-259,90,5,0,5,100.0,16209587
+ENG-Premier League,2223,2023-05-04 Brighton-Manchester Utd,Manchester United,David de Gea,ESP,32-178,90,5,1,5,100.0,16209587
+ENG-Premier League,2223,2023-05-06 Bournemouth-Chelsea,Bournemouth,Neto,BRA,33-291,90,5,3,2,40.0,6116824f
+ENG-Premier League,2223,2023-05-06 Bournemouth-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-215,90,4,1,3,75.0,6116824f
+ENG-Premier League,2223,2023-05-06 Liverpool-Brentford,Brentford,David Raya,ESP,27-233,90,5,1,4,80.0,6e2d1c8c
+ENG-Premier League,2223,2023-05-06 Liverpool-Brentford,Liverpool,Alisson,BRA,30-216,90,2,0,1,100.0,6e2d1c8c
+ENG-Premier League,2223,2023-05-06 Manchester City-Leeds United,Leeds United,Joel Robles,ESP,32-323,90,6,2,4,66.7,7ee695ea
+ENG-Premier League,2223,2023-05-06 Manchester City-Leeds United,Manchester City,Ederson,BRA,29-262,90,2,1,1,50.0,7ee695ea
+ENG-Premier League,2223,2023-05-06 Tottenham Hotspur-Crystal Palace,Crystal Palace,Sam Johnstone,ENG,30-042,90,3,1,2,66.7,0f1e1478
+ENG-Premier League,2223,2023-05-06 Tottenham Hotspur-Crystal Palace,Tottenham Hotspur,Fraser Forster,ENG,35-050,90,2,0,2,100.0,0f1e1478
+ENG-Premier League,2223,2023-05-06 Wolves-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-246,90,2,1,1,50.0,217a7faf
+ENG-Premier League,2223,2023-05-06 Wolves-Aston Villa,Wolverhampton Wanderers,José Sá,POR,30-109,90,3,0,3,100.0,217a7faf
+ENG-Premier League,2223,2023-05-07 Newcastle United-Arsenal,Arsenal,Aaron Ramsdale,ENG,24-358,90,5,0,5,100.0,9bb3a778
+ENG-Premier League,2223,2023-05-07 Newcastle United-Arsenal,Newcastle United,Nick Pope,ENG,31-018,90,7,2,5,71.4,9bb3a778
+ENG-Premier League,2223,2023-05-07 West Ham United-Manchester Utd,Manchester United,David de Gea,ESP,32-181,90,4,1,3,75.0,98f0c145
+ENG-Premier League,2223,2023-05-07 West Ham United-Manchester Utd,West Ham United,Łukasz Fabiański,POL,38-019,90,4,0,4,100.0,98f0c145
+ENG-Premier League,2223,2023-05-08 Brighton-Everton,Brighton & Hove Albion,Jason Steele,ENG,32-263,90,6,5,1,16.7,bf8d9047
+ENG-Premier League,2223,2023-05-08 Brighton-Everton,Everton,Jordan Pickford,ENG,29-062,90,5,1,4,80.0,bf8d9047
+ENG-Premier League,2223,2023-05-08 Fulham-Leicester City,Fulham,Bernd Leno,GER,31-065,90,6,3,5,66.7,9a5efecc
+ENG-Premier League,2223,2023-05-08 Fulham-Leicester City,Leicester City,Daniel Iversen,DEN,25-293,90,7,5,2,28.6,9a5efecc
+ENG-Premier League,2223,2023-05-08 Nottingham Forest-Southampton,Nottingham Forest,Keylor Navas,CRC,36-144,90,4,3,2,50.0,23e7953f
+ENG-Premier League,2223,2023-05-08 Nottingham Forest-Southampton,Southampton,Alex McCarthy,ENG,33-156,90,3,4,0,0.0,23e7953f
+ENG-Premier League,2223,2023-05-13 Aston Villa-Tottenham Hotspur,Aston Villa,Emiliano Martínez,ARG,30-253,90,1,1,1,100.0,362514ee
+ENG-Premier League,2223,2023-05-13 Aston Villa-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,35-057,90,4,2,2,50.0,362514ee
+ENG-Premier League,2223,2023-05-13 Chelsea-Nottingham Forest,Chelsea,Edouard Mendy,SEN,31-073,90,2,2,0,0.0,96ab0b45
+ENG-Premier League,2223,2023-05-13 Chelsea-Nottingham Forest,Nottingham Forest,Keylor Navas,CRC,36-149,90,6,2,4,66.7,96ab0b45
+ENG-Premier League,2223,2023-05-13 Crystal Palace-Bournemouth,Bournemouth,Neto,BRA,33-298,90,5,2,3,60.0,a4ffd11f
+ENG-Premier League,2223,2023-05-13 Crystal Palace-Bournemouth,Crystal Palace,Sam Johnstone,ENG,30-049,90,0,0,0,,a4ffd11f
+ENG-Premier League,2223,2023-05-13 Leeds United-Newcastle United,Leeds United,Joel Robles,ESP,32-330,90,3,2,3,100.0,d63581e0
+ENG-Premier League,2223,2023-05-13 Leeds United-Newcastle United,Newcastle United,Nick Pope,ENG,31-024,90,2,2,1,0.0,d63581e0
+ENG-Premier League,2223,2023-05-13 Manchester Utd-Wolves,Manchester United,David de Gea,ESP,32-187,90,0,0,0,,f5d61382
+ENG-Premier League,2223,2023-05-13 Manchester Utd-Wolves,Wolverhampton Wanderers,Daniel Bentley,ENG,29-304,90,10,2,8,80.0,f5d61382
+ENG-Premier League,2223,2023-05-13 Southampton-Fulham,Fulham,Bernd Leno,GER,31-070,90,1,0,1,100.0,e05f67be
+ENG-Premier League,2223,2023-05-13 Southampton-Fulham,Southampton,Alex McCarthy,ENG,33-161,90,3,2,1,33.3,e05f67be
+ENG-Premier League,2223,2023-05-14 Arsenal-Brighton,Arsenal,Aaron Ramsdale,ENG,25-000,90,6,3,3,50.0,dc6fb985
+ENG-Premier League,2223,2023-05-14 Arsenal-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-269,90,2,0,2,100.0,dc6fb985
+ENG-Premier League,2223,2023-05-14 Brentford-West Ham United,Brentford,David Raya,ESP,27-241,90,4,0,4,100.0,9a41c925
+ENG-Premier League,2223,2023-05-14 Brentford-West Ham United,West Ham United,Łukasz Fabiański,POL,38-026,90,9,2,7,77.8,9a41c925
+ENG-Premier League,2223,2023-05-14 Everton-Manchester City,Everton,Jordan Pickford,ENG,29-068,90,4,3,1,25.0,704aa0f3
+ENG-Premier League,2223,2023-05-14 Everton-Manchester City,Manchester City,Ederson,BRA,29-270,90,2,0,2,100.0,704aa0f3
+ENG-Premier League,2223,2023-05-15 Leicester City-Liverpool,Leicester City,Daniel Iversen,DEN,25-300,90,5,3,2,40.0,7dd0fbd7
+ENG-Premier League,2223,2023-05-15 Leicester City-Liverpool,Liverpool,Alisson,BRA,30-225,90,4,0,4,100.0,7dd0fbd7
+ENG-Premier League,2223,2023-05-18 Newcastle United-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-273,90,9,4,5,55.6,e265430e
+ENG-Premier League,2223,2023-05-18 Newcastle United-Brighton,Newcastle United,Nick Pope,ENG,31-029,90,2,1,1,50.0,e265430e
+ENG-Premier League,2223,2023-05-20 Bournemouth-Manchester Utd,Bournemouth,Neto,BRA,33-305,90,5,1,4,80.0,ec496eca
+ENG-Premier League,2223,2023-05-20 Bournemouth-Manchester Utd,Manchester United,David de Gea,ESP,32-194,90,4,0,4,100.0,ec496eca
+ENG-Premier League,2223,2023-05-20 Fulham-Crystal Palace,Crystal Palace,Sam Johnstone,ENG,30-056,90,3,2,2,66.7,844f2c37
+ENG-Premier League,2223,2023-05-20 Fulham-Crystal Palace,Fulham,Bernd Leno,GER,31-077,90,5,2,3,60.0,844f2c37
+ENG-Premier League,2223,2023-05-20 Liverpool-Aston Villa,Aston Villa,Emiliano Martínez,ARG,30-260,90,5,1,4,80.0,72646bde
+ENG-Premier League,2223,2023-05-20 Liverpool-Aston Villa,Liverpool,Alisson,BRA,30-230,90,3,1,2,66.7,72646bde
+ENG-Premier League,2223,2023-05-20 Nottingham Forest-Arsenal,Arsenal,Aaron Ramsdale,ENG,25-006,90,2,1,1,50.0,9a2ea2b3
+ENG-Premier League,2223,2023-05-20 Nottingham Forest-Arsenal,Nottingham Forest,Keylor Navas,CRC,36-156,89,3,0,3,100.0,9a2ea2b3
+ENG-Premier League,2223,2023-05-20 Nottingham Forest-Arsenal,Nottingham Forest,Wayne Hennessey,WAL,36-116,1,0,0,0,,9a2ea2b3
+ENG-Premier League,2223,2023-05-20 Tottenham Hotspur-Brentford,Brentford,David Raya,ESP,27-247,90,7,1,6,85.7,28ebbaf2
+ENG-Premier League,2223,2023-05-20 Tottenham Hotspur-Brentford,Tottenham Hotspur,Fraser Forster,ENG,35-064,90,4,3,1,25.0,28ebbaf2
+ENG-Premier League,2223,2023-05-20 Wolves-Everton,Everton,Jordan Pickford,ENG,29-074,90,5,1,4,80.0,ff2b58c3
+ENG-Premier League,2223,2023-05-20 Wolves-Everton,Wolverhampton Wanderers,Daniel Bentley,ENG,29-311,90,4,1,3,75.0,ff2b58c3
+ENG-Premier League,2223,2023-05-21 Brighton-Southampton,Brighton & Hove Albion,Jason Steele,ENG,32-276,90,1,1,0,0.0,017addef
+ENG-Premier League,2223,2023-05-21 Brighton-Southampton,Southampton,Alex McCarthy,ENG,33-169,90,8,3,5,62.5,017addef
+ENG-Premier League,2223,2023-05-21 Manchester City-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-230,90,2,1,1,50.0,589e447b
+ENG-Premier League,2223,2023-05-21 Manchester City-Chelsea,Manchester City,Stefan Ortega,GER,30-196,90,6,0,6,100.0,589e447b
+ENG-Premier League,2223,2023-05-21 West Ham United-Leeds United,Leeds United,Joel Robles,ESP,32-338,90,9,3,6,66.7,0359c7d5
+ENG-Premier League,2223,2023-05-21 West Ham United-Leeds United,West Ham United,Łukasz Fabiański,POL,38-033,90,3,1,2,66.7,0359c7d5
+ENG-Premier League,2223,2023-05-22 Newcastle United-Leicester City,Leicester City,Daniel Iversen,DEN,25-307,90,3,0,3,100.0,807863d8
+ENG-Premier League,2223,2023-05-22 Newcastle United-Leicester City,Newcastle United,Nick Pope,ENG,31-033,90,1,0,1,100.0,807863d8
+ENG-Premier League,2223,2023-05-24 Brighton-Manchester City,Brighton & Hove Albion,Jason Steele,ENG,32-279,90,4,1,3,75.0,d4bee10d
+ENG-Premier League,2223,2023-05-24 Brighton-Manchester City,Manchester City,Stefan Ortega,GER,30-199,90,7,1,6,85.7,d4bee10d
+ENG-Premier League,2223,2023-05-25 Manchester Utd-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,28-234,90,8,4,5,62.5,d2f2263d
+ENG-Premier League,2223,2023-05-25 Manchester Utd-Chelsea,Manchester United,David de Gea,ESP,32-199,90,5,1,4,80.0,d2f2263d
+ENG-Premier League,2223,2023-05-28 Arsenal-Wolves,Arsenal,Aaron Ramsdale,ENG,25-014,90,0,0,0,,71d5bd41
+ENG-Premier League,2223,2023-05-28 Arsenal-Wolves,Wolverhampton Wanderers,José Sá,POR,30-131,90,8,5,3,37.5,71d5bd41
+ENG-Premier League,2223,2023-05-28 Aston Villa-Brighton,Aston Villa,Emiliano Martínez,ARG,30-268,90,4,1,3,75.0,ac0e65e2
+ENG-Premier League,2223,2023-05-28 Aston Villa-Brighton,Brighton & Hove Albion,Jason Steele,ENG,32-283,90,5,2,3,60.0,ac0e65e2
+ENG-Premier League,2223,2023-05-28 Brentford-Manchester City,Brentford,David Raya,ESP,27-255,90,2,0,2,100.0,e7e969e9
+ENG-Premier League,2223,2023-05-28 Brentford-Manchester City,Manchester City,Ederson,BRA,29-284,90,4,1,3,75.0,e7e969e9
+ENG-Premier League,2223,2023-05-28 Chelsea-Newcastle United,Chelsea,Kepa Arrizabalaga,ESP,28-237,90,4,1,3,75.0,4f7b1a0d
+ENG-Premier League,2223,2023-05-28 Chelsea-Newcastle United,Newcastle United,Martin Dúbravka,SVK,34-133,90,6,1,5,83.3,4f7b1a0d
+ENG-Premier League,2223,2023-05-28 Crystal Palace-Nottingham Forest,Crystal Palace,Sam Johnstone,ENG,30-064,90,4,1,3,75.0,181fd119
+ENG-Premier League,2223,2023-05-28 Crystal Palace-Nottingham Forest,Nottingham Forest,Wayne Hennessey,WAL,36-124,90,4,1,3,75.0,181fd119
+ENG-Premier League,2223,2023-05-28 Everton-Bournemouth,Bournemouth,Mark Travers,IRL,24-010,90,6,1,5,83.3,94de848f
+ENG-Premier League,2223,2023-05-28 Everton-Bournemouth,Everton,Jordan Pickford,ENG,29-082,90,1,0,1,100.0,94de848f
+ENG-Premier League,2223,2023-05-28 Leeds United-Tottenham Hotspur,Leeds United,Joel Robles,ESP,32-345,90,7,4,3,42.9,c9c73ddd
+ENG-Premier League,2223,2023-05-28 Leeds United-Tottenham Hotspur,Tottenham Hotspur,Fraser Forster,ENG,35-072,90,2,1,1,50.0,c9c73ddd
+ENG-Premier League,2223,2023-05-28 Leicester City-West Ham United,Leicester City,Daniel Iversen,DEN,25-313,90,3,1,2,66.7,a96c9915
+ENG-Premier League,2223,2023-05-28 Leicester City-West Ham United,West Ham United,Łukasz Fabiański,POL,38-040,90,4,2,2,50.0,a96c9915
+ENG-Premier League,2223,2023-05-28 Manchester Utd-Fulham,Fulham,Bernd Leno,GER,31-085,90,8,2,6,75.0,64823dc9
+ENG-Premier League,2223,2023-05-28 Manchester Utd-Fulham,Manchester United,David de Gea,ESP,32-202,90,1,1,1,0.0,64823dc9
+ENG-Premier League,2223,2023-05-28 Southampton-Liverpool,Liverpool,Caoimhín Kelleher,IRL,24-186,90,10,4,6,60.0,8e5c6ea7
+ENG-Premier League,2223,2023-05-28 Southampton-Liverpool,Southampton,Alex McCarthy,ENG,33-176,90,8,4,4,50.0,8e5c6ea7

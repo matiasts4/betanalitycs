@@ -1,0 +1,771 @@
+league,season,game,team,player,nation,age,min,Shot Stopping_SoTA,Shot Stopping_GA,Shot Stopping_Saves,Shot Stopping_Save%,game_id
+ENG-Premier League,1920,2019-08-09 Liverpool-Norwich City,Liverpool,Adrián,ESP,32-218,52,3,1,2,66.7,928467bd
+ENG-Premier League,1920,2019-08-09 Liverpool-Norwich City,Liverpool,Alisson,BRA,26-311,38,2,0,2,100.0,928467bd
+ENG-Premier League,1920,2019-08-09 Liverpool-Norwich City,Norwich City,Tim Krul,NED,31-128,90,8,4,4,50.0,928467bd
+ENG-Premier League,1920,2019-08-10 Bournemouth-Sheffield United,Bournemouth,Aaron Ramsdale,ENG,21-088,90,3,1,2,66.7,d402cacd
+ENG-Premier League,1920,2019-08-10 Bournemouth-Sheffield United,Sheffield United,Dean Henderson,ENG,22-151,90,3,1,2,66.7,d402cacd
+ENG-Premier League,1920,2019-08-10 Burnley-Southampton,Burnley,Nick Pope,ENG,27-113,90,3,0,3,100.0,34b99058
+ENG-Premier League,1920,2019-08-10 Burnley-Southampton,Southampton,Angus Gunn,SCO,23-200,90,4,3,1,25.0,34b99058
+ENG-Premier League,1920,2019-08-10 Crystal Palace-Everton,Crystal Palace,Vicente Guaita,ESP,32-212,90,2,0,2,100.0,a802f51e
+ENG-Premier League,1920,2019-08-10 Crystal Palace-Everton,Everton,Jordan Pickford,ENG,25-156,90,2,0,2,100.0,a802f51e
+ENG-Premier League,1920,2019-08-10 Tottenham Hotspur-Aston Villa,Aston Villa,Tom Heaton,ENG,33-117,90,6,3,3,50.0,404ee5d3
+ENG-Premier League,1920,2019-08-10 Tottenham Hotspur-Aston Villa,Tottenham Hotspur,Hugo Lloris,FRA,32-227,90,4,1,3,75.0,404ee5d3
+ENG-Premier League,1920,2019-08-10 Watford-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-124,90,3,0,3,100.0,38111659
+ENG-Premier League,1920,2019-08-10 Watford-Brighton,Watford,Ben Foster,ENG,36-129,90,4,3,1,25.0,38111659
+ENG-Premier League,1920,2019-08-10 West Ham United-Manchester City,Manchester City,Ederson,BRA,25-358,90,3,0,3,100.0,71c8a43e
+ENG-Premier League,1920,2019-08-10 West Ham United-Manchester City,West Ham United,Łukasz Fabiański,POL,34-114,90,8,5,4,50.0,71c8a43e
+ENG-Premier League,1920,2019-08-11 Leicester City-Wolves,Leicester City,Kasper Schmeichel,DEN,32-279,90,2,0,2,100.0,bf4afd61
+ENG-Premier League,1920,2019-08-11 Leicester City-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-177,90,1,0,1,100.0,bf4afd61
+ENG-Premier League,1920,2019-08-11 Manchester Utd-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,24-312,90,4,4,1,25.0,d0583d0d
+ENG-Premier League,1920,2019-08-11 Manchester Utd-Chelsea,Manchester United,David de Gea,ESP,28-277,90,7,0,7,100.0,d0583d0d
+ENG-Premier League,1920,2019-08-11 Newcastle United-Arsenal,Arsenal,Bernd Leno,GER,27-160,90,2,0,2,100.0,1405a610
+ENG-Premier League,1920,2019-08-11 Newcastle United-Arsenal,Newcastle United,Martin Dúbravka,SVK,30-208,90,2,1,1,50.0,1405a610
+ENG-Premier League,1920,2019-08-17 Arsenal-Burnley,Arsenal,Bernd Leno,GER,27-166,90,4,1,3,75.0,ff7eda21
+ENG-Premier League,1920,2019-08-17 Arsenal-Burnley,Burnley,Nick Pope,ENG,27-120,90,9,2,7,77.8,ff7eda21
+ENG-Premier League,1920,2019-08-17 Aston Villa-Bournemouth,Aston Villa,Tom Heaton,ENG,33-124,90,3,2,2,66.7,7ad0ed82
+ENG-Premier League,1920,2019-08-17 Aston Villa-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-095,90,7,1,6,85.7,7ad0ed82
+ENG-Premier League,1920,2019-08-17 Brighton-West Ham United,Brighton & Hove Albion,Mathew Ryan,AUS,27-131,90,3,1,2,66.7,894d0ca5
+ENG-Premier League,1920,2019-08-17 Brighton-West Ham United,West Ham United,Łukasz Fabiański,POL,34-121,90,4,1,3,75.0,894d0ca5
+ENG-Premier League,1920,2019-08-17 Everton-Watford,Everton,Jordan Pickford,ENG,25-163,90,2,0,2,100.0,f35c8c3a
+ENG-Premier League,1920,2019-08-17 Everton-Watford,Watford,Ben Foster,ENG,36-136,90,2,1,1,50.0,f35c8c3a
+ENG-Premier League,1920,2019-08-17 Manchester City-Tottenham Hotspur,Manchester City,Ederson,BRA,26-000,90,2,2,0,0.0,a4ba771e
+ENG-Premier League,1920,2019-08-17 Manchester City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,32-234,90,10,2,8,80.0,a4ba771e
+ENG-Premier League,1920,2019-08-17 Norwich City-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-214,90,8,3,5,62.5,3ea63f4b
+ENG-Premier League,1920,2019-08-17 Norwich City-Newcastle United,Norwich City,Tim Krul,NED,31-136,90,3,1,2,66.7,3ea63f4b
+ENG-Premier League,1920,2019-08-17 Southampton-Liverpool,Liverpool,Adrián,ESP,32-226,90,4,1,3,75.0,b2a48847
+ENG-Premier League,1920,2019-08-17 Southampton-Liverpool,Southampton,Angus Gunn,SCO,23-207,90,6,2,4,66.7,b2a48847
+ENG-Premier League,1920,2019-08-18 Chelsea-Leicester City,Chelsea,Kepa Arrizabalaga,ESP,24-319,90,3,1,2,66.7,aebf58b9
+ENG-Premier League,1920,2019-08-18 Chelsea-Leicester City,Leicester City,Kasper Schmeichel,DEN,32-286,90,5,1,4,80.0,aebf58b9
+ENG-Premier League,1920,2019-08-18 Sheffield United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-220,90,3,1,2,66.7,7ca12d31
+ENG-Premier League,1920,2019-08-18 Sheffield United-Crystal Palace,Sheffield United,Dean Henderson,ENG,22-159,90,4,0,4,100.0,7ca12d31
+ENG-Premier League,1920,2019-08-19 Wolves-Manchester Utd,Manchester United,David de Gea,ESP,28-285,90,2,1,1,50.0,d8a7f871
+ENG-Premier League,1920,2019-08-19 Wolves-Manchester Utd,Wolverhampton Wanderers,Rui Patrício,POR,31-185,90,0,1,0,,d8a7f871
+ENG-Premier League,1920,2019-08-23 Aston Villa-Everton,Aston Villa,Tom Heaton,ENG,33-130,90,1,0,1,100.0,3e805eff
+ENG-Premier League,1920,2019-08-23 Aston Villa-Everton,Everton,Jordan Pickford,ENG,25-169,90,3,2,1,33.3,3e805eff
+ENG-Premier League,1920,2019-08-24 Brighton-Southampton,Brighton & Hove Albion,Mathew Ryan,AUS,27-138,90,4,2,2,50.0,baece203
+ENG-Premier League,1920,2019-08-24 Brighton-Southampton,Southampton,Angus Gunn,SCO,23-214,90,3,0,3,100.0,baece203
+ENG-Premier League,1920,2019-08-24 Liverpool-Arsenal,Arsenal,Bernd Leno,GER,27-173,90,4,3,2,50.0,102b241e
+ENG-Premier League,1920,2019-08-24 Liverpool-Arsenal,Liverpool,Adrián,ESP,32-233,90,3,1,2,66.7,102b241e
+ENG-Premier League,1920,2019-08-24 Manchester Utd-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-226,90,3,1,2,66.7,7c1c4078
+ENG-Premier League,1920,2019-08-24 Manchester Utd-Crystal Palace,Manchester United,David de Gea,ESP,28-290,90,3,2,1,33.3,7c1c4078
+ENG-Premier League,1920,2019-08-24 Norwich City-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,24-325,90,5,2,3,60.0,4f4fd2d8
+ENG-Premier League,1920,2019-08-24 Norwich City-Chelsea,Norwich City,Tim Krul,NED,31-143,90,8,3,5,62.5,4f4fd2d8
+ENG-Premier League,1920,2019-08-24 Sheffield United-Leicester City,Leicester City,Kasper Schmeichel,DEN,32-292,90,3,1,2,66.7,48fcf75b
+ENG-Premier League,1920,2019-08-24 Sheffield United-Leicester City,Sheffield United,Dean Henderson,ENG,22-165,90,2,2,0,0.0,48fcf75b
+ENG-Premier League,1920,2019-08-24 Watford-West Ham United,Watford,Ben Foster,ENG,36-143,90,9,3,7,77.8,89fbf2a3
+ENG-Premier League,1920,2019-08-24 Watford-West Ham United,West Ham United,Łukasz Fabiański,POL,34-128,90,3,1,2,66.7,89fbf2a3
+ENG-Premier League,1920,2019-08-25 Bournemouth-Manchester City,Bournemouth,Aaron Ramsdale,ENG,21-103,90,5,3,2,40.0,7728bd7e
+ENG-Premier League,1920,2019-08-25 Bournemouth-Manchester City,Manchester City,Ederson,BRA,26-008,90,7,1,6,85.7,7728bd7e
+ENG-Premier League,1920,2019-08-25 Tottenham Hotspur-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-222,90,2,0,2,100.0,c224d1e8
+ENG-Premier League,1920,2019-08-25 Tottenham Hotspur-Newcastle United,Tottenham Hotspur,Hugo Lloris,FRA,32-242,90,3,1,2,66.7,c224d1e8
+ENG-Premier League,1920,2019-08-25 Wolves-Burnley,Burnley,Nick Pope,ENG,27-128,90,2,1,2,100.0,16119ef2
+ENG-Premier League,1920,2019-08-25 Wolves-Burnley,Wolverhampton Wanderers,Rui Patrício,POR,31-191,90,4,1,3,75.0,16119ef2
+ENG-Premier League,1920,2019-08-31 Burnley-Liverpool,Burnley,Nick Pope,ENG,27-134,90,8,3,5,62.5,af072d61
+ENG-Premier League,1920,2019-08-31 Burnley-Liverpool,Liverpool,Adrián,ESP,32-240,90,2,0,2,100.0,af072d61
+ENG-Premier League,1920,2019-08-31 Chelsea-Sheffield United,Chelsea,Kepa Arrizabalaga,ESP,24-332,90,4,2,2,50.0,495db223
+ENG-Premier League,1920,2019-08-31 Chelsea-Sheffield United,Sheffield United,Dean Henderson,ENG,22-172,90,5,2,3,60.0,495db223
+ENG-Premier League,1920,2019-08-31 Crystal Palace-Aston Villa,Aston Villa,Tom Heaton,ENG,33-138,90,5,1,4,80.0,230f4fac
+ENG-Premier League,1920,2019-08-31 Crystal Palace-Aston Villa,Crystal Palace,Vicente Guaita,ESP,32-233,90,2,0,2,100.0,230f4fac
+ENG-Premier League,1920,2019-08-31 Leicester City-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-109,90,5,3,2,40.0,3d899563
+ENG-Premier League,1920,2019-08-31 Leicester City-Bournemouth,Leicester City,Kasper Schmeichel,DEN,32-299,90,2,1,1,50.0,3d899563
+ENG-Premier League,1920,2019-08-31 Manchester City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-145,90,6,4,2,33.3,5b9865ad
+ENG-Premier League,1920,2019-08-31 Manchester City-Brighton,Manchester City,Ederson,BRA,26-014,90,1,0,1,100.0,5b9865ad
+ENG-Premier League,1920,2019-08-31 Newcastle United-Watford,Newcastle United,Martin Dúbravka,SVK,30-228,90,4,1,3,75.0,533c240c
+ENG-Premier League,1920,2019-08-31 Newcastle United-Watford,Watford,Ben Foster,ENG,36-150,90,5,1,4,80.0,533c240c
+ENG-Premier League,1920,2019-08-31 Southampton-Manchester Utd,Manchester United,David de Gea,ESP,28-297,90,2,1,1,50.0,bfd4d929
+ENG-Premier League,1920,2019-08-31 Southampton-Manchester Utd,Southampton,Angus Gunn,SCO,23-221,90,8,1,7,87.5,bfd4d929
+ENG-Premier League,1920,2019-08-31 West Ham United-Norwich City,Norwich City,Tim Krul,NED,31-150,90,7,2,5,71.4,164148a8
+ENG-Premier League,1920,2019-08-31 West Ham United-Norwich City,West Ham United,Łukasz Fabiański,POL,34-135,90,3,0,3,100.0,164148a8
+ENG-Premier League,1920,2019-09-01 Arsenal-Tottenham Hotspur,Arsenal,Bernd Leno,GER,27-181,90,8,2,7,87.5,0b6b8aaf
+ENG-Premier League,1920,2019-09-01 Arsenal-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,32-249,90,8,2,6,75.0,0b6b8aaf
+ENG-Premier League,1920,2019-09-01 Everton-Wolves,Everton,Jordan Pickford,ENG,25-178,90,5,2,3,60.0,70303b7b
+ENG-Premier League,1920,2019-09-01 Everton-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-198,90,6,3,3,50.0,70303b7b
+ENG-Premier League,1920,2019-09-14 Brighton-Burnley,Brighton & Hove Albion,Mathew Ryan,AUS,27-159,90,1,1,0,0.0,1d3bbc27
+ENG-Premier League,1920,2019-09-14 Brighton-Burnley,Burnley,Nick Pope,ENG,27-148,90,5,1,4,80.0,1d3bbc27
+ENG-Premier League,1920,2019-09-14 Liverpool-Newcastle United,Liverpool,Adrián,ESP,32-254,90,1,1,0,0.0,cde24fee
+ENG-Premier League,1920,2019-09-14 Liverpool-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-242,90,8,3,5,62.5,cde24fee
+ENG-Premier League,1920,2019-09-14 Manchester Utd-Leicester City,Leicester City,Kasper Schmeichel,DEN,32-313,90,4,1,4,100.0,6d0266a1
+ENG-Premier League,1920,2019-09-14 Manchester Utd-Leicester City,Manchester United,David de Gea,ESP,28-311,90,3,0,3,100.0,6d0266a1
+ENG-Premier League,1920,2019-09-14 Norwich City-Manchester City,Manchester City,Ederson,BRA,26-028,90,3,3,0,0.0,1c7bccd4
+ENG-Premier League,1920,2019-09-14 Norwich City-Manchester City,Norwich City,Tim Krul,NED,31-164,90,8,2,6,75.0,1c7bccd4
+ENG-Premier League,1920,2019-09-14 Sheffield United-Southampton,Sheffield United,Dean Henderson,ENG,22-186,90,7,1,6,85.7,e5f9905d
+ENG-Premier League,1920,2019-09-14 Sheffield United-Southampton,Southampton,Angus Gunn,SCO,23-235,90,4,0,4,100.0,e5f9905d
+ENG-Premier League,1920,2019-09-14 Tottenham Hotspur-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-247,90,6,4,2,33.3,1d812c17
+ENG-Premier League,1920,2019-09-14 Tottenham Hotspur-Crystal Palace,Tottenham Hotspur,Hugo Lloris,FRA,32-262,90,6,0,6,100.0,1d812c17
+ENG-Premier League,1920,2019-09-14 Wolves-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,24-346,90,5,2,3,60.0,0fa0a658
+ENG-Premier League,1920,2019-09-14 Wolves-Chelsea,Wolverhampton Wanderers,Rui Patrício,POR,31-211,90,6,5,1,16.7,0fa0a658
+ENG-Premier League,1920,2019-09-15 Bournemouth-Everton,Bournemouth,Aaron Ramsdale,ENG,21-124,90,5,1,4,80.0,886c59ae
+ENG-Premier League,1920,2019-09-15 Bournemouth-Everton,Everton,Jordan Pickford,ENG,25-192,90,6,3,3,50.0,886c59ae
+ENG-Premier League,1920,2019-09-15 Watford-Arsenal,Arsenal,Bernd Leno,GER,27-195,90,9,2,8,88.9,8257eda8
+ENG-Premier League,1920,2019-09-15 Watford-Arsenal,Watford,Ben Foster,ENG,36-165,90,4,2,2,50.0,8257eda8
+ENG-Premier League,1920,2019-09-16 Aston Villa-West Ham United,Aston Villa,Tom Heaton,ENG,33-154,90,1,0,1,100.0,b26df467
+ENG-Premier League,1920,2019-09-16 Aston Villa-West Ham United,West Ham United,Łukasz Fabiański,POL,34-151,90,5,0,5,100.0,b26df467
+ENG-Premier League,1920,2019-09-20 Southampton-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-129,90,6,1,6,100.0,ebbb65f5
+ENG-Premier League,1920,2019-09-20 Southampton-Bournemouth,Southampton,Angus Gunn,SCO,23-241,90,3,3,0,0.0,ebbb65f5
+ENG-Premier League,1920,2019-09-21 Burnley-Norwich City,Burnley,Nick Pope,ENG,27-155,90,2,0,2,100.0,f97b0ce8
+ENG-Premier League,1920,2019-09-21 Burnley-Norwich City,Norwich City,Tim Krul,NED,31-171,90,6,2,4,66.7,f97b0ce8
+ENG-Premier League,1920,2019-09-21 Everton-Sheffield United,Everton,Jordan Pickford,ENG,25-198,90,2,2,0,0.0,707ee0eb
+ENG-Premier League,1920,2019-09-21 Everton-Sheffield United,Sheffield United,Dean Henderson,ENG,22-193,90,3,0,3,100.0,707ee0eb
+ENG-Premier League,1920,2019-09-21 Leicester City-Tottenham Hotspur,Leicester City,Kasper Schmeichel,DEN,32-320,90,4,1,3,75.0,e30adc4b
+ENG-Premier League,1920,2019-09-21 Leicester City-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-262,90,7,2,5,71.4,e30adc4b
+ENG-Premier League,1920,2019-09-21 Manchester City-Watford,Manchester City,Ederson,BRA,26-035,90,4,0,4,100.0,4672d0d7
+ENG-Premier League,1920,2019-09-21 Manchester City-Watford,Watford,Ben Foster,ENG,36-171,90,10,8,3,30.0,4672d0d7
+ENG-Premier League,1920,2019-09-21 Newcastle United-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-166,90,4,0,4,100.0,966fb8b0
+ENG-Premier League,1920,2019-09-21 Newcastle United-Brighton,Newcastle United,Martin Dúbravka,SVK,30-249,90,2,0,2,100.0,966fb8b0
+ENG-Premier League,1920,2019-09-22 Arsenal-Aston Villa,Arsenal,Bernd Leno,GER,27-202,90,9,2,7,77.8,d5fa0563
+ENG-Premier League,1920,2019-09-22 Arsenal-Aston Villa,Aston Villa,Tom Heaton,ENG,33-160,90,5,3,3,60.0,d5fa0563
+ENG-Premier League,1920,2019-09-22 Chelsea-Liverpool,Chelsea,Kepa Arrizabalaga,ESP,24-354,90,3,2,1,33.3,02e3ae79
+ENG-Premier League,1920,2019-09-22 Chelsea-Liverpool,Liverpool,Adrián,ESP,32-262,90,2,1,1,50.0,02e3ae79
+ENG-Premier League,1920,2019-09-22 Crystal Palace-Wolves,Crystal Palace,Vicente Guaita,ESP,32-255,90,4,1,3,75.0,d76eb681
+ENG-Premier League,1920,2019-09-22 Crystal Palace-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-219,90,5,1,4,80.0,d76eb681
+ENG-Premier League,1920,2019-09-22 West Ham United-Manchester Utd,Manchester United,David de Gea,ESP,28-319,90,6,2,4,66.7,fe3e2bec
+ENG-Premier League,1920,2019-09-22 West Ham United-Manchester Utd,West Ham United,Łukasz Fabiański,POL,34-157,90,3,0,3,100.0,fe3e2bec
+ENG-Premier League,1920,2019-09-28 Aston Villa-Burnley,Aston Villa,Tom Heaton,ENG,33-166,90,3,2,1,33.3,37a51188
+ENG-Premier League,1920,2019-09-28 Aston Villa-Burnley,Burnley,Nick Pope,ENG,27-162,90,3,2,1,33.3,37a51188
+ENG-Premier League,1920,2019-09-28 Bournemouth-West Ham United,Bournemouth,Aaron Ramsdale,ENG,21-137,90,6,2,4,66.7,704e536e
+ENG-Premier League,1920,2019-09-28 Bournemouth-West Ham United,West Ham United,Roberto,ESP,33-230,57,4,1,3,75.0,704e536e
+ENG-Premier League,1920,2019-09-28 Bournemouth-West Ham United,West Ham United,Łukasz Fabiański,POL,34-163,33,1,1,0,0.0,704e536e
+ENG-Premier League,1920,2019-09-28 Chelsea-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-173,90,9,2,8,88.9,1d4b5564
+ENG-Premier League,1920,2019-09-28 Chelsea-Brighton,Chelsea,Kepa Arrizabalaga,ESP,24-360,90,1,0,1,100.0,1d4b5564
+ENG-Premier League,1920,2019-09-28 Crystal Palace-Norwich City,Crystal Palace,Vicente Guaita,ESP,32-261,90,3,0,3,100.0,3b180c0d
+ENG-Premier League,1920,2019-09-28 Crystal Palace-Norwich City,Norwich City,Michael McGovern,NIR,35-078,69,1,1,0,0.0,3b180c0d
+ENG-Premier League,1920,2019-09-28 Crystal Palace-Norwich City,Norwich City,Ralf Fährmann,GER,31-001,21,1,1,1,100.0,3b180c0d
+ENG-Premier League,1920,2019-09-28 Everton-Manchester City,Everton,Jordan Pickford,ENG,25-205,90,9,3,6,66.7,1b9f4fc3
+ENG-Premier League,1920,2019-09-28 Everton-Manchester City,Manchester City,Ederson,BRA,26-042,90,7,1,6,85.7,1b9f4fc3
+ENG-Premier League,1920,2019-09-28 Sheffield United-Liverpool,Liverpool,Adrián,ESP,32-268,90,2,0,2,100.0,1224c8ae
+ENG-Premier League,1920,2019-09-28 Sheffield United-Liverpool,Sheffield United,Dean Henderson,ENG,22-200,90,4,1,3,75.0,1224c8ae
+ENG-Premier League,1920,2019-09-28 Tottenham Hotspur-Southampton,Southampton,Angus Gunn,SCO,23-249,90,4,2,2,50.0,23ec5db0
+ENG-Premier League,1920,2019-09-28 Tottenham Hotspur-Southampton,Tottenham Hotspur,Hugo Lloris,FRA,32-276,90,6,1,5,83.3,23ec5db0
+ENG-Premier League,1920,2019-09-28 Wolves-Watford,Watford,Ben Foster,ENG,36-178,90,3,2,1,33.3,4c088365
+ENG-Premier League,1920,2019-09-28 Wolves-Watford,Wolverhampton Wanderers,Rui Patrício,POR,31-225,90,5,0,5,100.0,4c088365
+ENG-Premier League,1920,2019-09-29 Leicester City-Newcastle United,Leicester City,Kasper Schmeichel,DEN,32-328,90,0,0,0,,40d77688
+ENG-Premier League,1920,2019-09-29 Leicester City-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-257,90,6,5,1,16.7,40d77688
+ENG-Premier League,1920,2019-09-30 Manchester Utd-Arsenal,Arsenal,Bernd Leno,GER,27-210,90,4,1,3,75.0,ce7501cd
+ENG-Premier League,1920,2019-09-30 Manchester Utd-Arsenal,Manchester United,David de Gea,ESP,28-327,90,5,1,4,80.0,ce7501cd
+ENG-Premier League,1920,2019-10-05 Brighton-Tottenham Hotspur,Brighton & Hove Albion,Mathew Ryan,AUS,27-180,90,3,0,3,100.0,aafb2d3a
+ENG-Premier League,1920,2019-10-05 Brighton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,32-283,7,1,1,0,0.0,aafb2d3a
+ENG-Premier League,1920,2019-10-05 Brighton-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-276,83,5,2,3,60.0,aafb2d3a
+ENG-Premier League,1920,2019-10-05 Burnley-Everton,Burnley,Nick Pope,ENG,27-169,90,2,0,2,100.0,2f9439d0
+ENG-Premier League,1920,2019-10-05 Burnley-Everton,Everton,Jordan Pickford,ENG,25-212,90,3,1,2,66.7,2f9439d0
+ENG-Premier League,1920,2019-10-05 Liverpool-Leicester City,Leicester City,Kasper Schmeichel,DEN,32-334,90,7,2,6,85.7,aaed1c4e
+ENG-Premier League,1920,2019-10-05 Liverpool-Leicester City,Liverpool,Adrián,ESP,32-275,90,1,1,0,0.0,aaed1c4e
+ENG-Premier League,1920,2019-10-05 Norwich City-Aston Villa,Aston Villa,Tom Heaton,ENG,33-173,90,5,1,4,80.0,e50b8e5b
+ENG-Premier League,1920,2019-10-05 Norwich City-Aston Villa,Norwich City,Michael McGovern,NIR,35-085,90,10,5,6,50.0,e50b8e5b
+ENG-Premier League,1920,2019-10-05 Watford-Sheffield United,Sheffield United,Dean Henderson,ENG,22-207,90,2,0,2,100.0,2b83068d
+ENG-Premier League,1920,2019-10-05 Watford-Sheffield United,Watford,Ben Foster,ENG,36-185,90,3,0,3,100.0,2b83068d
+ENG-Premier League,1920,2019-10-05 West Ham United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-268,90,5,1,4,80.0,23fe51bc
+ENG-Premier League,1920,2019-10-05 West Ham United-Crystal Palace,West Ham United,Roberto,ESP,33-237,90,2,2,1,50.0,23fe51bc
+ENG-Premier League,1920,2019-10-06 Arsenal-Bournemouth,Arsenal,Bernd Leno,GER,27-216,90,2,0,2,100.0,9575566f
+ENG-Premier League,1920,2019-10-06 Arsenal-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-145,90,2,1,1,50.0,9575566f
+ENG-Premier League,1920,2019-10-06 Manchester City-Wolves,Manchester City,Ederson,BRA,26-050,90,2,2,0,0.0,0481092b
+ENG-Premier League,1920,2019-10-06 Manchester City-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-233,90,2,0,2,100.0,0481092b
+ENG-Premier League,1920,2019-10-06 Newcastle United-Manchester Utd,Manchester United,David de Gea,ESP,28-333,90,2,1,1,50.0,e4a80056
+ENG-Premier League,1920,2019-10-06 Newcastle United-Manchester Utd,Newcastle United,Martin Dúbravka,SVK,30-264,90,3,0,3,100.0,e4a80056
+ENG-Premier League,1920,2019-10-06 Southampton-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-003,90,2,1,1,50.0,078b24d4
+ENG-Premier League,1920,2019-10-06 Southampton-Chelsea,Southampton,Angus Gunn,SCO,23-257,90,7,4,3,42.9,078b24d4
+ENG-Premier League,1920,2019-10-19 Aston Villa-Brighton,Aston Villa,Tom Heaton,ENG,33-187,90,5,1,4,80.0,34685c72
+ENG-Premier League,1920,2019-10-19 Aston Villa-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-194,90,8,2,6,75.0,34685c72
+ENG-Premier League,1920,2019-10-19 Bournemouth-Norwich City,Bournemouth,Aaron Ramsdale,ENG,21-158,90,1,0,1,100.0,d71c01eb
+ENG-Premier League,1920,2019-10-19 Bournemouth-Norwich City,Norwich City,Tim Krul,NED,31-199,90,2,0,2,100.0,d71c01eb
+ENG-Premier League,1920,2019-10-19 Chelsea-Newcastle United,Chelsea,Kepa Arrizabalaga,ESP,25-016,90,0,0,0,,c17538b0
+ENG-Premier League,1920,2019-10-19 Chelsea-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-277,90,7,1,6,85.7,c17538b0
+ENG-Premier League,1920,2019-10-19 Crystal Palace-Manchester City,Crystal Palace,Wayne Hennessey,WAL,32-268,90,11,2,9,81.8,f334b1dc
+ENG-Premier League,1920,2019-10-19 Crystal Palace-Manchester City,Manchester City,Ederson,BRA,26-063,90,2,0,2,100.0,f334b1dc
+ENG-Premier League,1920,2019-10-19 Everton-West Ham United,Everton,Jordan Pickford,ENG,25-226,90,4,0,4,100.0,0fa45675
+ENG-Premier League,1920,2019-10-19 Everton-West Ham United,West Ham United,Roberto,ESP,33-251,90,11,2,9,81.8,0fa45675
+ENG-Premier League,1920,2019-10-19 Leicester City-Burnley,Burnley,Nick Pope,ENG,27-183,90,3,2,1,33.3,3529c097
+ENG-Premier League,1920,2019-10-19 Leicester City-Burnley,Leicester City,Kasper Schmeichel,DEN,32-348,90,4,1,3,75.0,3529c097
+ENG-Premier League,1920,2019-10-19 Tottenham Hotspur-Watford,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-290,90,2,1,1,50.0,4df24be7
+ENG-Premier League,1920,2019-10-19 Tottenham Hotspur-Watford,Watford,Ben Foster,ENG,36-199,90,2,1,1,50.0,4df24be7
+ENG-Premier League,1920,2019-10-19 Wolves-Southampton,Southampton,Angus Gunn,SCO,23-270,90,0,1,0,,644a3723
+ENG-Premier League,1920,2019-10-19 Wolves-Southampton,Wolverhampton Wanderers,Rui Patrício,POR,31-246,90,5,1,4,80.0,644a3723
+ENG-Premier League,1920,2019-10-20 Manchester Utd-Liverpool,Liverpool,Alisson,BRA,27-018,90,2,1,1,50.0,95c3f0c8
+ENG-Premier League,1920,2019-10-20 Manchester Utd-Liverpool,Manchester United,David de Gea,ESP,28-347,90,4,1,3,75.0,95c3f0c8
+ENG-Premier League,1920,2019-10-21 Sheffield United-Arsenal,Arsenal,Bernd Leno,GER,27-231,90,2,1,1,50.0,f63044fd
+ENG-Premier League,1920,2019-10-21 Sheffield United-Arsenal,Sheffield United,Dean Henderson,ENG,22-223,90,3,0,3,100.0,f63044fd
+ENG-Premier League,1920,2019-10-25 Southampton-Leicester City,Leicester City,Kasper Schmeichel,DEN,32-354,90,3,0,3,100.0,3e9712d7
+ENG-Premier League,1920,2019-10-25 Southampton-Leicester City,Southampton,Angus Gunn,SCO,23-276,90,14,9,6,42.9,3e9712d7
+ENG-Premier League,1920,2019-10-26 Brighton-Everton,Brighton & Hove Albion,Mathew Ryan,AUS,27-201,90,7,2,5,71.4,f728ceea
+ENG-Premier League,1920,2019-10-26 Brighton-Everton,Everton,Jordan Pickford,ENG,25-233,90,4,3,2,50.0,f728ceea
+ENG-Premier League,1920,2019-10-26 Burnley-Chelsea,Burnley,Nick Pope,ENG,27-190,90,7,4,3,42.9,082dc9ef
+ENG-Premier League,1920,2019-10-26 Burnley-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-023,90,5,2,3,60.0,082dc9ef
+ENG-Premier League,1920,2019-10-26 Manchester City-Aston Villa,Aston Villa,Tom Heaton,ENG,33-194,90,8,3,5,62.5,e0a4db2d
+ENG-Premier League,1920,2019-10-26 Manchester City-Aston Villa,Manchester City,Ederson,BRA,26-070,90,5,0,5,100.0,e0a4db2d
+ENG-Premier League,1920,2019-10-26 Watford-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-165,90,3,0,3,100.0,1ef8e186
+ENG-Premier League,1920,2019-10-26 Watford-Bournemouth,Watford,Ben Foster,ENG,36-206,90,5,0,5,100.0,1ef8e186
+ENG-Premier League,1920,2019-10-26 West Ham United-Sheffield United,Sheffield United,Dean Henderson,ENG,22-228,90,4,1,3,75.0,43aa7711
+ENG-Premier League,1920,2019-10-26 West Ham United-Sheffield United,West Ham United,Roberto,ESP,33-258,90,3,1,2,66.7,43aa7711
+ENG-Premier League,1920,2019-10-27 Arsenal-Crystal Palace,Arsenal,Bernd Leno,GER,27-237,90,3,2,2,66.7,077b30ff
+ENG-Premier League,1920,2019-10-27 Arsenal-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,32-276,90,6,2,4,66.7,077b30ff
+ENG-Premier League,1920,2019-10-27 Liverpool-Tottenham Hotspur,Liverpool,Alisson,BRA,27-025,90,4,1,3,75.0,16f28685
+ENG-Premier League,1920,2019-10-27 Liverpool-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-298,90,13,2,12,92.3,16f28685
+ENG-Premier League,1920,2019-10-27 Newcastle United-Wolves,Newcastle United,Martin Dúbravka,SVK,30-285,90,5,1,4,80.0,efe2b576
+ENG-Premier League,1920,2019-10-27 Newcastle United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-254,90,2,1,1,50.0,efe2b576
+ENG-Premier League,1920,2019-10-27 Norwich City-Manchester Utd,Manchester United,David de Gea,ESP,28-354,90,3,1,2,66.7,a31a1d67
+ENG-Premier League,1920,2019-10-27 Norwich City-Manchester Utd,Norwich City,Tim Krul,NED,31-207,90,7,3,6,57.1,a31a1d67
+ENG-Premier League,1920,2019-11-02 Arsenal-Wolves,Arsenal,Bernd Leno,GER,27-243,90,8,1,7,87.5,a3427b2c
+ENG-Premier League,1920,2019-11-02 Arsenal-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-260,90,4,1,3,75.0,a3427b2c
+ENG-Premier League,1920,2019-11-02 Aston Villa-Liverpool,Aston Villa,Tom Heaton,ENG,33-201,90,6,2,4,66.7,2206646c
+ENG-Premier League,1920,2019-11-02 Aston Villa-Liverpool,Liverpool,Alisson,BRA,27-031,90,2,1,1,50.0,2206646c
+ENG-Premier League,1920,2019-11-02 Bournemouth-Manchester Utd,Bournemouth,Aaron Ramsdale,ENG,21-172,90,4,0,4,100.0,9e35d172
+ENG-Premier League,1920,2019-11-02 Bournemouth-Manchester Utd,Manchester United,David de Gea,ESP,28-360,90,6,1,5,83.3,9e35d172
+ENG-Premier League,1920,2019-11-02 Brighton-Norwich City,Brighton & Hove Albion,Mathew Ryan,AUS,27-208,90,0,0,0,,21f39009
+ENG-Premier League,1920,2019-11-02 Brighton-Norwich City,Norwich City,Tim Krul,NED,31-213,90,5,2,3,60.0,21f39009
+ENG-Premier League,1920,2019-11-02 Manchester City-Southampton,Manchester City,Ederson,BRA,26-077,90,3,1,2,66.7,afbdd3aa
+ENG-Premier League,1920,2019-11-02 Manchester City-Southampton,Southampton,Alex McCarthy,ENG,29-334,90,4,2,2,50.0,afbdd3aa
+ENG-Premier League,1920,2019-11-02 Sheffield United-Burnley,Burnley,Nick Pope,ENG,27-197,90,6,3,3,50.0,21606115
+ENG-Premier League,1920,2019-11-02 Sheffield United-Burnley,Sheffield United,Dean Henderson,ENG,22-235,90,1,0,0,100.0,21606115
+ENG-Premier League,1920,2019-11-02 Watford-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-030,90,2,1,2,100.0,0b8b7f66
+ENG-Premier League,1920,2019-11-02 Watford-Chelsea,Watford,Ben Foster,ENG,36-213,90,10,2,8,80.0,0b8b7f66
+ENG-Premier League,1920,2019-11-02 West Ham United-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-291,90,6,2,4,66.7,ac4523c2
+ENG-Premier League,1920,2019-11-02 West Ham United-Newcastle United,West Ham United,Roberto,ESP,33-265,90,9,3,6,66.7,ac4523c2
+ENG-Premier League,1920,2019-11-03 Crystal Palace-Leicester City,Crystal Palace,Vicente Guaita,ESP,32-297,90,5,2,3,60.0,25d28387
+ENG-Premier League,1920,2019-11-03 Crystal Palace-Leicester City,Leicester City,Kasper Schmeichel,DEN,32-363,90,3,0,3,100.0,25d28387
+ENG-Premier League,1920,2019-11-03 Everton-Tottenham Hotspur,Everton,Jordan Pickford,ENG,25-241,90,2,1,1,50.0,efe9c8f4
+ENG-Premier League,1920,2019-11-03 Everton-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-305,90,3,1,2,66.7,efe9c8f4
+ENG-Premier League,1920,2019-11-08 Norwich City-Watford,Norwich City,Tim Krul,NED,31-219,90,2,2,0,0.0,e92f4d2c
+ENG-Premier League,1920,2019-11-08 Norwich City-Watford,Watford,Ben Foster,ENG,36-219,90,5,0,5,100.0,e92f4d2c
+ENG-Premier League,1920,2019-11-09 Burnley-West Ham United,Burnley,Nick Pope,ENG,27-204,90,4,0,4,100.0,559f666e
+ENG-Premier League,1920,2019-11-09 Burnley-West Ham United,West Ham United,Roberto,ESP,33-272,90,13,3,10,76.9,559f666e
+ENG-Premier League,1920,2019-11-09 Chelsea-Crystal Palace,Chelsea,Kepa Arrizabalaga,ESP,25-037,90,1,0,1,100.0,99680077
+ENG-Premier League,1920,2019-11-09 Chelsea-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-303,90,5,2,3,60.0,99680077
+ENG-Premier League,1920,2019-11-09 Leicester City-Arsenal,Arsenal,Bernd Leno,GER,27-250,90,7,2,5,71.4,8e13e609
+ENG-Premier League,1920,2019-11-09 Leicester City-Arsenal,Leicester City,Kasper Schmeichel,DEN,33-004,90,1,0,1,100.0,8e13e609
+ENG-Premier League,1920,2019-11-09 Newcastle United-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-179,90,9,2,7,77.8,698f846d
+ENG-Premier League,1920,2019-11-09 Newcastle United-Bournemouth,Newcastle United,Martin Dúbravka,SVK,30-298,90,3,1,2,66.7,698f846d
+ENG-Premier League,1920,2019-11-09 Southampton-Everton,Everton,Jordan Pickford,ENG,25-247,90,3,1,2,66.7,553c5b11
+ENG-Premier League,1920,2019-11-09 Southampton-Everton,Southampton,Alex McCarthy,ENG,29-341,90,5,2,3,60.0,553c5b11
+ENG-Premier League,1920,2019-11-09 Tottenham Hotspur-Sheffield United,Sheffield United,Dean Henderson,ENG,22-242,90,5,1,4,80.0,ec70bb2c
+ENG-Premier League,1920,2019-11-09 Tottenham Hotspur-Sheffield United,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-311,90,4,1,3,75.0,ec70bb2c
+ENG-Premier League,1920,2019-11-10 Liverpool-Manchester City,Liverpool,Alisson,BRA,27-039,90,3,1,2,66.7,47880eb7
+ENG-Premier League,1920,2019-11-10 Liverpool-Manchester City,Manchester City,Claudio Bravo,CHI,36-211,90,5,3,2,40.0,47880eb7
+ENG-Premier League,1920,2019-11-10 Manchester Utd-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-216,90,12,3,9,75.0,014bbabe
+ENG-Premier League,1920,2019-11-10 Manchester Utd-Brighton,Manchester United,David de Gea,ESP,29-003,90,2,1,1,50.0,014bbabe
+ENG-Premier League,1920,2019-11-10 Wolves-Aston Villa,Aston Villa,Jed Steer,ENG,27-048,7,0,0,0,,2794f89d
+ENG-Premier League,1920,2019-11-10 Wolves-Aston Villa,Aston Villa,Ørjan Nyland,NOR,29-061,83,5,2,3,60.0,2794f89d
+ENG-Premier League,1920,2019-11-10 Wolves-Aston Villa,Wolverhampton Wanderers,Rui Patrício,POR,31-268,90,4,1,3,75.0,2794f89d
+ENG-Premier League,1920,2019-11-23 Arsenal-Southampton,Arsenal,Bernd Leno,GER,27-264,90,4,2,3,50.0,19a8b14e
+ENG-Premier League,1920,2019-11-23 Arsenal-Southampton,Southampton,Alex McCarthy,ENG,29-355,90,5,2,3,60.0,19a8b14e
+ENG-Premier League,1920,2019-11-23 Bournemouth-Wolves,Bournemouth,Aaron Ramsdale,ENG,21-193,90,7,2,5,71.4,219643bc
+ENG-Premier League,1920,2019-11-23 Bournemouth-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-281,90,3,1,2,66.7,219643bc
+ENG-Premier League,1920,2019-11-23 Brighton-Leicester City,Brighton & Hove Albion,Mathew Ryan,AUS,27-229,90,8,2,7,87.5,d0f6bac9
+ENG-Premier League,1920,2019-11-23 Brighton-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-018,90,0,0,0,,d0f6bac9
+ENG-Premier League,1920,2019-11-23 Crystal Palace-Liverpool,Crystal Palace,Vicente Guaita,ESP,32-317,90,4,2,2,50.0,0b1da656
+ENG-Premier League,1920,2019-11-23 Crystal Palace-Liverpool,Liverpool,Alisson,BRA,27-052,90,6,1,5,83.3,0b1da656
+ENG-Premier League,1920,2019-11-23 Everton-Norwich City,Everton,Jordan Pickford,ENG,25-261,90,5,2,3,60.0,464461f5
+ENG-Premier League,1920,2019-11-23 Everton-Norwich City,Norwich City,Tim Krul,NED,31-234,90,7,0,7,100.0,464461f5
+ENG-Premier League,1920,2019-11-23 Manchester City-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-051,90,4,2,2,50.0,d16305c7
+ENG-Premier League,1920,2019-11-23 Manchester City-Chelsea,Manchester City,Ederson,BRA,26-098,90,2,1,1,50.0,d16305c7
+ENG-Premier League,1920,2019-11-23 Watford-Burnley,Burnley,Nick Pope,ENG,27-218,90,4,0,4,100.0,d4aea4c0
+ENG-Premier League,1920,2019-11-23 Watford-Burnley,Watford,Ben Foster,ENG,36-234,90,4,3,2,50.0,d4aea4c0
+ENG-Premier League,1920,2019-11-23 West Ham United-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-325,90,5,2,3,60.0,a7dc884b
+ENG-Premier League,1920,2019-11-23 West Ham United-Tottenham Hotspur,West Ham United,Roberto,ESP,33-286,90,6,3,3,50.0,a7dc884b
+ENG-Premier League,1920,2019-11-24 Sheffield United-Manchester Utd,Manchester United,David de Gea,ESP,29-017,90,8,3,5,62.5,a1d9d65f
+ENG-Premier League,1920,2019-11-24 Sheffield United-Manchester Utd,Sheffield United,Simon Moore,ENG,29-189,90,5,3,2,40.0,a1d9d65f
+ENG-Premier League,1920,2019-11-25 Aston Villa-Newcastle United,Aston Villa,Tom Heaton,ENG,33-224,90,5,0,5,100.0,f6f8808e
+ENG-Premier League,1920,2019-11-25 Aston Villa-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-314,90,8,2,6,75.0,f6f8808e
+ENG-Premier League,1920,2019-11-30 Burnley-Crystal Palace,Burnley,Nick Pope,ENG,27-225,90,3,2,1,33.3,86428aca
+ENG-Premier League,1920,2019-11-30 Burnley-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-324,90,3,0,3,100.0,86428aca
+ENG-Premier League,1920,2019-11-30 Chelsea-West Ham United,Chelsea,Kepa Arrizabalaga,ESP,25-058,90,4,1,3,75.0,aa1ff9cd
+ENG-Premier League,1920,2019-11-30 Chelsea-West Ham United,West Ham United,David Martin,ENG,33-312,90,6,0,6,100.0,aa1ff9cd
+ENG-Premier League,1920,2019-11-30 Liverpool-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-236,90,7,2,5,71.4,2c240ae6
+ENG-Premier League,1920,2019-11-30 Liverpool-Brighton,Liverpool,Adrián,ESP,32-331,13,3,1,2,66.7,2c240ae6
+ENG-Premier League,1920,2019-11-30 Liverpool-Brighton,Liverpool,Alisson,BRA,27-059,75,2,0,2,100.0,2c240ae6
+ENG-Premier League,1920,2019-11-30 Newcastle United-Manchester City,Manchester City,Ederson,BRA,26-105,90,3,2,1,33.3,f43fa290
+ENG-Premier League,1920,2019-11-30 Newcastle United-Manchester City,Newcastle United,Martin Dúbravka,SVK,30-319,90,9,2,7,77.8,f43fa290
+ENG-Premier League,1920,2019-11-30 Southampton-Watford,Southampton,Alex McCarthy,ENG,29-362,90,3,1,2,66.7,3f1fdbad
+ENG-Premier League,1920,2019-11-30 Southampton-Watford,Watford,Ben Foster,ENG,36-241,90,5,2,3,60.0,3f1fdbad
+ENG-Premier League,1920,2019-11-30 Tottenham Hotspur-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-200,90,5,3,2,40.0,1722ba52
+ENG-Premier League,1920,2019-11-30 Tottenham Hotspur-Bournemouth,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-332,90,6,2,4,66.7,1722ba52
+ENG-Premier League,1920,2019-12-01 Leicester City-Everton,Everton,Jordan Pickford,ENG,25-269,90,6,2,4,66.7,aa2284c2
+ENG-Premier League,1920,2019-12-01 Leicester City-Everton,Leicester City,Kasper Schmeichel,DEN,33-026,90,3,1,2,66.7,aa2284c2
+ENG-Premier League,1920,2019-12-01 Manchester Utd-Aston Villa,Aston Villa,Tom Heaton,ENG,33-230,90,7,2,5,71.4,e88d9028
+ENG-Premier League,1920,2019-12-01 Manchester Utd-Aston Villa,Manchester United,David de Gea,ESP,29-024,90,3,2,1,33.3,e88d9028
+ENG-Premier League,1920,2019-12-01 Norwich City-Arsenal,Arsenal,Bernd Leno,GER,27-272,90,8,2,6,75.0,39fce32e
+ENG-Premier League,1920,2019-12-01 Norwich City-Arsenal,Norwich City,Tim Krul,NED,31-242,90,5,2,4,80.0,39fce32e
+ENG-Premier League,1920,2019-12-01 Wolves-Sheffield United,Sheffield United,Dean Henderson,ENG,22-264,90,4,1,3,75.0,53a77072
+ENG-Premier League,1920,2019-12-01 Wolves-Sheffield United,Wolverhampton Wanderers,Rui Patrício,POR,31-289,90,4,1,3,75.0,53a77072
+ENG-Premier League,1920,2019-12-03 Burnley-Manchester City,Burnley,Nick Pope,ENG,27-228,90,8,4,4,50.0,4d718594
+ENG-Premier League,1920,2019-12-03 Burnley-Manchester City,Manchester City,Ederson,BRA,26-108,90,2,1,1,50.0,4d718594
+ENG-Premier League,1920,2019-12-03 Crystal Palace-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-203,90,2,1,1,50.0,fd541a1f
+ENG-Premier League,1920,2019-12-03 Crystal Palace-Bournemouth,Crystal Palace,Vicente Guaita,ESP,32-327,90,3,0,3,100.0,fd541a1f
+ENG-Premier League,1920,2019-12-04 Chelsea-Aston Villa,Aston Villa,Tom Heaton,ENG,33-233,90,9,2,7,77.8,3f316110
+ENG-Premier League,1920,2019-12-04 Chelsea-Aston Villa,Chelsea,Kepa Arrizabalaga,ESP,25-062,90,3,1,2,66.7,3f316110
+ENG-Premier League,1920,2019-12-04 Leicester City-Watford,Leicester City,Kasper Schmeichel,DEN,33-029,90,1,0,1,100.0,8b04b0d5
+ENG-Premier League,1920,2019-12-04 Leicester City-Watford,Watford,Ben Foster,ENG,36-245,90,4,2,3,75.0,8b04b0d5
+ENG-Premier League,1920,2019-12-04 Liverpool-Everton,Everton,Jordan Pickford,ENG,25-272,90,5,5,0,0.0,de0ec650
+ENG-Premier League,1920,2019-12-04 Liverpool-Everton,Liverpool,Adrián,ESP,32-335,90,4,2,2,50.0,de0ec650
+ENG-Premier League,1920,2019-12-04 Manchester Utd-Tottenham Hotspur,Manchester United,David de Gea,ESP,29-027,90,5,1,4,80.0,614c7c1f
+ENG-Premier League,1920,2019-12-04 Manchester Utd-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-336,90,6,2,5,83.3,614c7c1f
+ENG-Premier League,1920,2019-12-04 Southampton-Norwich City,Norwich City,Tim Krul,NED,31-245,90,5,2,3,60.0,367829b6
+ENG-Premier League,1920,2019-12-04 Southampton-Norwich City,Southampton,Alex McCarthy,ENG,30-001,90,3,1,2,66.7,367829b6
+ENG-Premier League,1920,2019-12-04 Wolves-West Ham United,West Ham United,David Martin,ENG,33-316,90,7,2,5,71.4,292d0f46
+ENG-Premier League,1920,2019-12-04 Wolves-West Ham United,Wolverhampton Wanderers,Rui Patrício,POR,31-292,90,3,0,3,100.0,292d0f46
+ENG-Premier League,1920,2019-12-05 Arsenal-Brighton,Arsenal,Bernd Leno,GER,27-276,90,9,2,7,77.8,372828cb
+ENG-Premier League,1920,2019-12-05 Arsenal-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-241,90,5,1,4,80.0,372828cb
+ENG-Premier League,1920,2019-12-05 Sheffield United-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-324,90,6,0,6,100.0,8a9fa2d9
+ENG-Premier League,1920,2019-12-05 Sheffield United-Newcastle United,Sheffield United,Dean Henderson,ENG,22-268,90,4,2,2,50.0,8a9fa2d9
+ENG-Premier League,1920,2019-12-07 Bournemouth-Liverpool,Bournemouth,Aaron Ramsdale,ENG,21-207,90,9,3,6,66.7,b7f0ca17
+ENG-Premier League,1920,2019-12-07 Bournemouth-Liverpool,Liverpool,Alisson,BRA,27-066,90,0,0,0,,b7f0ca17
+ENG-Premier League,1920,2019-12-07 Everton-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-065,90,7,3,4,57.1,1b69dd66
+ENG-Premier League,1920,2019-12-07 Everton-Chelsea,Everton,Jordan Pickford,ENG,25-275,90,4,1,3,75.0,1b69dd66
+ENG-Premier League,1920,2019-12-07 Manchester City-Manchester Utd,Manchester City,Ederson,BRA,26-112,90,6,2,5,83.3,bf9c0d50
+ENG-Premier League,1920,2019-12-07 Manchester City-Manchester Utd,Manchester United,David de Gea,ESP,29-030,90,5,1,4,80.0,bf9c0d50
+ENG-Premier League,1920,2019-12-07 Tottenham Hotspur-Burnley,Burnley,Nick Pope,ENG,27-232,90,7,5,2,28.6,56da163b
+ENG-Premier League,1920,2019-12-07 Tottenham Hotspur-Burnley,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-339,90,1,0,1,100.0,56da163b
+ENG-Premier League,1920,2019-12-07 Watford-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-331,90,3,0,3,100.0,90976b40
+ENG-Premier League,1920,2019-12-07 Watford-Crystal Palace,Watford,Ben Foster,ENG,36-248,90,0,0,0,,90976b40
+ENG-Premier League,1920,2019-12-08 Aston Villa-Leicester City,Aston Villa,Tom Heaton,ENG,33-237,90,8,4,4,50.0,559e812a
+ENG-Premier League,1920,2019-12-08 Aston Villa-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-033,90,2,1,1,50.0,559e812a
+ENG-Premier League,1920,2019-12-08 Brighton-Wolves,Brighton & Hove Albion,Mathew Ryan,AUS,27-244,90,5,2,3,60.0,daad5806
+ENG-Premier League,1920,2019-12-08 Brighton-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-296,90,4,2,2,50.0,daad5806
+ENG-Premier League,1920,2019-12-08 Newcastle United-Southampton,Newcastle United,Martin Dúbravka,SVK,30-327,90,4,1,3,75.0,5d9f7fe3
+ENG-Premier League,1920,2019-12-08 Newcastle United-Southampton,Southampton,Alex McCarthy,ENG,30-005,90,6,2,4,66.7,5d9f7fe3
+ENG-Premier League,1920,2019-12-08 Norwich City-Sheffield United,Norwich City,Tim Krul,NED,31-249,90,3,2,1,33.3,529b20fa
+ENG-Premier League,1920,2019-12-08 Norwich City-Sheffield United,Sheffield United,Dean Henderson,ENG,22-271,90,4,1,3,75.0,529b20fa
+ENG-Premier League,1920,2019-12-09 West Ham United-Arsenal,Arsenal,Bernd Leno,GER,27-280,90,4,1,3,75.0,a48c4638
+ENG-Premier League,1920,2019-12-09 West Ham United-Arsenal,West Ham United,David Martin,ENG,33-321,90,3,3,0,0.0,a48c4638
+ENG-Premier League,1920,2019-12-14 Burnley-Newcastle United,Burnley,Nick Pope,ENG,27-239,90,0,0,0,,4c3c57fa
+ENG-Premier League,1920,2019-12-14 Burnley-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-333,90,4,1,3,75.0,4c3c57fa
+ENG-Premier League,1920,2019-12-14 Chelsea-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-214,90,5,0,5,100.0,b75094e0
+ENG-Premier League,1920,2019-12-14 Chelsea-Bournemouth,Chelsea,Kepa Arrizabalaga,ESP,25-072,90,2,1,1,50.0,b75094e0
+ENG-Premier League,1920,2019-12-14 Leicester City-Norwich City,Leicester City,Kasper Schmeichel,DEN,33-039,90,3,1,2,66.7,3b2eb152
+ENG-Premier League,1920,2019-12-14 Leicester City-Norwich City,Norwich City,Tim Krul,NED,31-255,90,6,1,5,83.3,3b2eb152
+ENG-Premier League,1920,2019-12-14 Liverpool-Watford,Liverpool,Alisson,BRA,27-073,90,2,0,2,100.0,f33bb4b3
+ENG-Premier League,1920,2019-12-14 Liverpool-Watford,Watford,Ben Foster,ENG,36-255,90,6,2,4,66.7,f33bb4b3
+ENG-Premier League,1920,2019-12-14 Sheffield United-Aston Villa,Aston Villa,Tom Heaton,ENG,33-243,90,3,2,1,33.3,b1b5e590
+ENG-Premier League,1920,2019-12-14 Sheffield United-Aston Villa,Sheffield United,Dean Henderson,ENG,22-277,90,0,0,0,,b1b5e590
+ENG-Premier League,1920,2019-12-14 Southampton-West Ham United,Southampton,Alex McCarthy,ENG,30-011,90,4,1,3,75.0,a47901a8
+ENG-Premier League,1920,2019-12-14 Southampton-West Ham United,West Ham United,David Martin,ENG,33-326,90,2,0,2,100.0,a47901a8
+ENG-Premier League,1920,2019-12-15 Arsenal-Manchester City,Arsenal,Bernd Leno,GER,27-286,90,7,3,4,57.1,bed05936
+ENG-Premier League,1920,2019-12-15 Arsenal-Manchester City,Manchester City,Ederson,BRA,26-120,90,1,0,1,100.0,bed05936
+ENG-Premier League,1920,2019-12-15 Manchester Utd-Everton,Everton,Jordan Pickford,ENG,25-283,90,8,1,7,87.5,240ac5ad
+ENG-Premier League,1920,2019-12-15 Manchester Utd-Everton,Manchester United,David de Gea,ESP,29-038,90,4,1,3,75.0,240ac5ad
+ENG-Premier League,1920,2019-12-15 Wolves-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-347,90,5,1,4,80.0,e9e002fb
+ENG-Premier League,1920,2019-12-15 Wolves-Tottenham Hotspur,Wolverhampton Wanderers,Rui Patrício,POR,31-303,90,5,2,3,60.0,e9e002fb
+ENG-Premier League,1920,2019-12-16 Crystal Palace-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-252,90,4,1,3,75.0,1163ec4a
+ENG-Premier League,1920,2019-12-16 Crystal Palace-Brighton,Crystal Palace,Vicente Guaita,ESP,32-340,90,10,1,9,90.0,1163ec4a
+ENG-Premier League,1920,2019-12-21 Aston Villa-Southampton,Aston Villa,Tom Heaton,ENG,33-250,90,8,3,5,62.5,d50390a8
+ENG-Premier League,1920,2019-12-21 Aston Villa-Southampton,Southampton,Alex McCarthy,ENG,30-018,90,6,1,5,83.3,d50390a8
+ENG-Premier League,1920,2019-12-21 Bournemouth-Burnley,Bournemouth,Aaron Ramsdale,ENG,21-221,90,1,1,0,0.0,e8b74ca0
+ENG-Premier League,1920,2019-12-21 Bournemouth-Burnley,Burnley,Nick Pope,ENG,27-246,90,0,0,0,,e8b74ca0
+ENG-Premier League,1920,2019-12-21 Brighton-Sheffield United,Brighton & Hove Albion,Mathew Ryan,AUS,27-257,90,2,1,1,50.0,473db5a3
+ENG-Premier League,1920,2019-12-21 Brighton-Sheffield United,Sheffield United,Dean Henderson,ENG,22-284,90,2,0,2,100.0,473db5a3
+ENG-Premier League,1920,2019-12-21 Everton-Arsenal,Arsenal,Bernd Leno,GER,27-292,90,0,0,0,,b9d1d1a7
+ENG-Premier League,1920,2019-12-21 Everton-Arsenal,Everton,Jordan Pickford,ENG,25-289,90,2,0,2,100.0,b9d1d1a7
+ENG-Premier League,1920,2019-12-21 Manchester City-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-046,90,11,3,9,81.8,733c0243
+ENG-Premier League,1920,2019-12-21 Manchester City-Leicester City,Manchester City,Ederson,BRA,26-126,90,2,1,1,50.0,733c0243
+ENG-Premier League,1920,2019-12-21 Newcastle United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-345,90,3,1,2,66.7,5e599d06
+ENG-Premier League,1920,2019-12-21 Newcastle United-Crystal Palace,Newcastle United,Martin Dúbravka,SVK,30-340,90,4,0,4,100.0,5e599d06
+ENG-Premier League,1920,2019-12-21 Norwich City-Wolves,Norwich City,Tim Krul,NED,31-262,90,4,2,2,50.0,223124ce
+ENG-Premier League,1920,2019-12-21 Norwich City-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-309,90,7,1,6,85.7,223124ce
+ENG-Premier League,1920,2019-12-22 Tottenham Hotspur-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-080,90,1,0,1,100.0,a1a20337
+ENG-Premier League,1920,2019-12-22 Tottenham Hotspur-Chelsea,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-354,90,2,2,1,50.0,a1a20337
+ENG-Premier League,1920,2019-12-22 Watford-Manchester Utd,Manchester United,David de Gea,ESP,29-045,90,2,2,1,50.0,a58df282
+ENG-Premier League,1920,2019-12-22 Watford-Manchester Utd,Watford,Ben Foster,ENG,36-263,90,8,0,8,100.0,a58df282
+ENG-Premier League,1920,2019-12-26 Aston Villa-Norwich City,Aston Villa,Tom Heaton,ENG,33-255,90,5,0,5,100.0,010301bf
+ENG-Premier League,1920,2019-12-26 Aston Villa-Norwich City,Norwich City,Tim Krul,NED,31-267,90,2,1,1,50.0,010301bf
+ENG-Premier League,1920,2019-12-26 Bournemouth-Arsenal,Arsenal,Bernd Leno,GER,27-297,90,4,1,3,75.0,5b1ecf02
+ENG-Premier League,1920,2019-12-26 Bournemouth-Arsenal,Bournemouth,Aaron Ramsdale,ENG,21-226,90,2,1,1,50.0,5b1ecf02
+ENG-Premier League,1920,2019-12-26 Chelsea-Southampton,Chelsea,Kepa Arrizabalaga,ESP,25-084,90,3,2,1,33.3,d9a73d72
+ENG-Premier League,1920,2019-12-26 Chelsea-Southampton,Southampton,Alex McCarthy,ENG,30-023,90,3,0,3,100.0,d9a73d72
+ENG-Premier League,1920,2019-12-26 Crystal Palace-West Ham United,Crystal Palace,Vicente Guaita,ESP,32-350,90,2,1,1,50.0,048fa915
+ENG-Premier League,1920,2019-12-26 Crystal Palace-West Ham United,West Ham United,Roberto,ESP,33-319,90,4,2,2,50.0,048fa915
+ENG-Premier League,1920,2019-12-26 Everton-Burnley,Burnley,Nick Pope,ENG,27-251,90,5,1,4,80.0,b23c6c90
+ENG-Premier League,1920,2019-12-26 Everton-Burnley,Everton,Jordan Pickford,ENG,25-294,90,0,0,0,,b23c6c90
+ENG-Premier League,1920,2019-12-26 Leicester City-Liverpool,Leicester City,Kasper Schmeichel,DEN,33-051,90,5,4,2,40.0,4b8063da
+ENG-Premier League,1920,2019-12-26 Leicester City-Liverpool,Liverpool,Alisson,BRA,27-085,90,0,0,0,,4b8063da
+ENG-Premier League,1920,2019-12-26 Manchester Utd-Newcastle United,Manchester United,David de Gea,ESP,29-049,90,2,1,1,50.0,b3d5292f
+ENG-Premier League,1920,2019-12-26 Manchester Utd-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-345,90,10,4,6,60.0,b3d5292f
+ENG-Premier League,1920,2019-12-26 Sheffield United-Watford,Sheffield United,Dean Henderson,ENG,22-289,90,2,1,1,50.0,960ce979
+ENG-Premier League,1920,2019-12-26 Sheffield United-Watford,Watford,Ben Foster,ENG,36-267,90,3,1,3,100.0,960ce979
+ENG-Premier League,1920,2019-12-26 Tottenham Hotspur-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-262,90,5,2,3,60.0,eebe09b9
+ENG-Premier League,1920,2019-12-26 Tottenham Hotspur-Brighton,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-358,90,5,1,4,80.0,eebe09b9
+ENG-Premier League,1920,2019-12-27 Wolves-Manchester City,Manchester City,Claudio Bravo,CHI,36-258,77,8,3,5,62.5,6defd3a2
+ENG-Premier League,1920,2019-12-27 Wolves-Manchester City,Manchester City,Ederson,BRA,26-132,11,0,0,0,,6defd3a2
+ENG-Premier League,1920,2019-12-27 Wolves-Manchester City,Wolverhampton Wanderers,Rui Patrício,POR,31-315,90,1,2,0,-100.0,6defd3a2
+ENG-Premier League,1920,2019-12-28 Brighton-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-228,90,6,2,4,66.7,d7b72d7f
+ENG-Premier League,1920,2019-12-28 Brighton-Bournemouth,Brighton & Hove Albion,Mathew Ryan,AUS,27-264,90,2,0,2,100.0,d7b72d7f
+ENG-Premier League,1920,2019-12-28 Burnley-Manchester Utd,Burnley,Nick Pope,ENG,27-253,90,4,2,2,50.0,f66bbb03
+ENG-Premier League,1920,2019-12-28 Burnley-Manchester Utd,Manchester United,David de Gea,ESP,29-051,90,1,0,1,100.0,f66bbb03
+ENG-Premier League,1920,2019-12-28 Newcastle United-Everton,Everton,Jordan Pickford,ENG,25-296,90,5,1,4,80.0,6edbd555
+ENG-Premier League,1920,2019-12-28 Newcastle United-Everton,Newcastle United,Martin Dúbravka,SVK,30-347,90,9,2,7,77.8,6edbd555
+ENG-Premier League,1920,2019-12-28 Norwich City-Tottenham Hotspur,Norwich City,Tim Krul,NED,31-269,90,6,2,5,83.3,a6e8ab71
+ENG-Premier League,1920,2019-12-28 Norwich City-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-360,90,3,2,1,33.3,a6e8ab71
+ENG-Premier League,1920,2019-12-28 Southampton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-352,90,5,1,4,80.0,a8ab1213
+ENG-Premier League,1920,2019-12-28 Southampton-Crystal Palace,Southampton,Alex McCarthy,ENG,30-025,90,2,1,1,50.0,a8ab1213
+ENG-Premier League,1920,2019-12-28 Watford-Aston Villa,Aston Villa,Tom Heaton,ENG,33-257,90,5,3,3,60.0,36dc1eb8
+ENG-Premier League,1920,2019-12-28 Watford-Aston Villa,Watford,Ben Foster,ENG,36-269,90,2,0,2,100.0,36dc1eb8
+ENG-Premier League,1920,2019-12-28 West Ham United-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-053,90,4,1,3,75.0,1f2bd890
+ENG-Premier League,1920,2019-12-28 West Ham United-Leicester City,West Ham United,Łukasz Fabiański,POL,34-254,90,6,2,5,66.7,1f2bd890
+ENG-Premier League,1920,2019-12-29 Arsenal-Chelsea,Arsenal,Bernd Leno,GER,27-300,90,4,2,2,50.0,850e18c6
+ENG-Premier League,1920,2019-12-29 Arsenal-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-087,90,2,1,1,50.0,850e18c6
+ENG-Premier League,1920,2019-12-29 Liverpool-Wolves,Liverpool,Alisson,BRA,27-088,90,2,0,2,100.0,9892a4f1
+ENG-Premier League,1920,2019-12-29 Liverpool-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-317,90,3,1,2,66.7,9892a4f1
+ENG-Premier League,1920,2019-12-29 Manchester City-Sheffield United,Manchester City,Claudio Bravo,CHI,36-260,90,0,0,0,,aaada016
+ENG-Premier League,1920,2019-12-29 Manchester City-Sheffield United,Sheffield United,Dean Henderson,ENG,22-292,90,4,2,2,50.0,aaada016
+ENG-Premier League,1920,2020-01-01 Arsenal-Manchester Utd,Arsenal,Bernd Leno,GER,27-303,90,4,0,4,100.0,f6b7d570
+ENG-Premier League,1920,2020-01-01 Arsenal-Manchester Utd,Manchester United,David de Gea,ESP,29-055,90,4,2,2,50.0,f6b7d570
+ENG-Premier League,1920,2020-01-01 Brighton-Chelsea,Brighton & Hove Albion,Mathew Ryan,AUS,27-268,90,4,1,3,75.0,9b72407a
+ENG-Premier League,1920,2020-01-01 Brighton-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-090,90,5,1,4,80.0,9b72407a
+ENG-Premier League,1920,2020-01-01 Burnley-Aston Villa,Aston Villa,Tom Heaton,ENG,33-261,84,1,1,0,0.0,ac409026
+ENG-Premier League,1920,2020-01-01 Burnley-Aston Villa,Aston Villa,Ørjan Nyland,NOR,29-113,6,0,0,0,,ac409026
+ENG-Premier League,1920,2020-01-01 Burnley-Aston Villa,Burnley,Nick Pope,ENG,27-257,90,6,2,4,66.7,ac409026
+ENG-Premier League,1920,2020-01-01 Manchester City-Everton,Everton,Jordan Pickford,ENG,25-300,90,7,2,5,71.4,ed58271e
+ENG-Premier League,1920,2020-01-01 Manchester City-Everton,Manchester City,Claudio Bravo,CHI,36-263,90,2,1,1,50.0,ed58271e
+ENG-Premier League,1920,2020-01-01 Newcastle United-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-057,90,2,0,2,100.0,a7902bb1
+ENG-Premier League,1920,2020-01-01 Newcastle United-Leicester City,Newcastle United,Martin Dúbravka,SVK,30-351,90,9,3,6,66.7,a7902bb1
+ENG-Premier League,1920,2020-01-01 Norwich City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,32-356,90,4,1,3,75.0,5bbec2c4
+ENG-Premier League,1920,2020-01-01 Norwich City-Crystal Palace,Norwich City,Tim Krul,NED,31-273,90,3,1,2,66.7,5bbec2c4
+ENG-Premier League,1920,2020-01-01 Southampton-Tottenham Hotspur,Southampton,Alex McCarthy,ENG,30-029,90,5,0,5,100.0,ce2fad1e
+ENG-Premier League,1920,2020-01-01 Southampton-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,27-364,90,3,1,2,66.7,ce2fad1e
+ENG-Premier League,1920,2020-01-01 Watford-Wolves,Watford,Ben Foster,ENG,36-273,90,4,1,3,75.0,dc2a86e8
+ENG-Premier League,1920,2020-01-01 Watford-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-320,90,3,2,1,33.3,dc2a86e8
+ENG-Premier League,1920,2020-01-01 West Ham United-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-232,90,6,4,3,50.0,9ae01aab
+ENG-Premier League,1920,2020-01-01 West Ham United-Bournemouth,West Ham United,Łukasz Fabiański,POL,34-258,90,2,0,2,100.0,9ae01aab
+ENG-Premier League,1920,2020-01-02 Liverpool-Sheffield United,Liverpool,Alisson,BRA,27-092,90,2,0,2,100.0,7fe3382b
+ENG-Premier League,1920,2020-01-02 Liverpool-Sheffield United,Sheffield United,Dean Henderson,ENG,22-296,90,7,2,5,71.4,7fe3382b
+ENG-Premier League,1920,2020-01-10 Sheffield United-West Ham United,Sheffield United,Dean Henderson,ENG,22-304,90,2,0,2,100.0,c5f47ccb
+ENG-Premier League,1920,2020-01-10 Sheffield United-West Ham United,West Ham United,David Martin,ENG,33-353,76,3,1,2,66.7,c5f47ccb
+ENG-Premier League,1920,2020-01-10 Sheffield United-West Ham United,West Ham United,Łukasz Fabiański,POL,34-267,14,0,0,0,,c5f47ccb
+ENG-Premier League,1920,2020-01-11 Chelsea-Burnley,Burnley,Nick Pope,ENG,27-267,90,7,3,5,71.4,17a5a8ef
+ENG-Premier League,1920,2020-01-11 Chelsea-Burnley,Chelsea,Kepa Arrizabalaga,ESP,25-100,90,1,0,1,100.0,17a5a8ef
+ENG-Premier League,1920,2020-01-11 Crystal Palace-Arsenal,Arsenal,Bernd Leno,GER,27-313,90,2,1,1,50.0,e1fdc1f9
+ENG-Premier League,1920,2020-01-11 Crystal Palace-Arsenal,Crystal Palace,Vicente Guaita,ESP,33-001,90,4,1,3,75.0,e1fdc1f9
+ENG-Premier League,1920,2020-01-11 Everton-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-278,90,6,1,5,83.3,61cc2ca5
+ENG-Premier League,1920,2020-01-11 Everton-Brighton,Everton,Jordan Pickford,ENG,25-310,90,2,0,2,100.0,61cc2ca5
+ENG-Premier League,1920,2020-01-11 Leicester City-Southampton,Leicester City,Kasper Schmeichel,DEN,33-067,90,9,2,7,77.8,bf752bf7
+ENG-Premier League,1920,2020-01-11 Leicester City-Southampton,Southampton,Alex McCarthy,ENG,30-039,90,5,1,4,80.0,bf752bf7
+ENG-Premier League,1920,2020-01-11 Manchester Utd-Norwich City,Manchester United,David de Gea,ESP,29-065,90,3,0,3,100.0,db192bf5
+ENG-Premier League,1920,2020-01-11 Manchester Utd-Norwich City,Norwich City,Tim Krul,NED,31-283,90,5,4,2,40.0,db192bf5
+ENG-Premier League,1920,2020-01-11 Tottenham Hotspur-Liverpool,Liverpool,Alisson,BRA,27-101,90,4,0,4,100.0,39432697
+ENG-Premier League,1920,2020-01-11 Tottenham Hotspur-Liverpool,Tottenham Hotspur,Paulo Gazzaniga,ARG,28-009,90,6,1,5,83.3,39432697
+ENG-Premier League,1920,2020-01-11 Wolves-Newcastle United,Newcastle United,Martin Dúbravka,SVK,30-361,90,3,1,2,66.7,d5b1eda9
+ENG-Premier League,1920,2020-01-11 Wolves-Newcastle United,Wolverhampton Wanderers,Rui Patrício,POR,31-330,90,1,1,0,0.0,d5b1eda9
+ENG-Premier League,1920,2020-01-12 Aston Villa-Manchester City,Aston Villa,Ørjan Nyland,NOR,29-124,90,11,6,5,45.5,ffb4946c
+ENG-Premier League,1920,2020-01-12 Aston Villa-Manchester City,Manchester City,Ederson,BRA,26-148,90,0,1,0,,ffb4946c
+ENG-Premier League,1920,2020-01-12 Bournemouth-Watford,Bournemouth,Mark Travers,IRL,20-239,90,5,3,2,40.0,76ce7bd8
+ENG-Premier League,1920,2020-01-12 Bournemouth-Watford,Watford,Ben Foster,ENG,36-284,90,1,0,1,100.0,76ce7bd8
+ENG-Premier League,1920,2020-01-18 Arsenal-Sheffield United,Arsenal,Bernd Leno,GER,27-320,90,3,1,2,66.7,0333a4b6
+ENG-Premier League,1920,2020-01-18 Arsenal-Sheffield United,Sheffield United,Dean Henderson,ENG,22-312,90,4,1,3,75.0,0333a4b6
+ENG-Premier League,1920,2020-01-18 Brighton-Aston Villa,Aston Villa,Pepe Reina,ESP,37-140,90,2,1,1,50.0,bd044bad
+ENG-Premier League,1920,2020-01-18 Brighton-Aston Villa,Brighton & Hove Albion,Mathew Ryan,AUS,27-285,90,3,1,2,66.7,bd044bad
+ENG-Premier League,1920,2020-01-18 Manchester City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-008,90,6,2,4,66.7,4572cd0e
+ENG-Premier League,1920,2020-01-18 Manchester City-Crystal Palace,Manchester City,Ederson,BRA,26-154,90,4,2,2,50.0,4572cd0e
+ENG-Premier League,1920,2020-01-18 Newcastle United-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-107,90,2,1,1,50.0,e5a20f1e
+ENG-Premier League,1920,2020-01-18 Newcastle United-Chelsea,Newcastle United,Martin Dúbravka,SVK,31-003,90,3,0,3,100.0,e5a20f1e
+ENG-Premier League,1920,2020-01-18 Norwich City-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-249,90,3,1,3,100.0,2550abdc
+ENG-Premier League,1920,2020-01-18 Norwich City-Bournemouth,Norwich City,Tim Krul,NED,31-290,90,3,0,3,100.0,2550abdc
+ENG-Premier League,1920,2020-01-18 Southampton-Wolves,Southampton,Alex McCarthy,ENG,30-046,90,3,3,1,33.3,9d6674f8
+ENG-Premier League,1920,2020-01-18 Southampton-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-337,90,5,2,3,60.0,9d6674f8
+ENG-Premier League,1920,2020-01-18 Watford-Tottenham Hotspur,Tottenham Hotspur,Paulo Gazzaniga,ARG,28-016,90,0,0,1,,46697bf6
+ENG-Premier League,1920,2020-01-18 Watford-Tottenham Hotspur,Watford,Ben Foster,ENG,36-290,90,4,0,4,100.0,46697bf6
+ENG-Premier League,1920,2020-01-18 West Ham United-Everton,Everton,Jordan Pickford,ENG,25-317,90,5,1,4,80.0,d4898eac
+ENG-Premier League,1920,2020-01-18 West Ham United-Everton,West Ham United,Darren Randolph,IRL,32-251,90,3,1,2,66.7,d4898eac
+ENG-Premier League,1920,2020-01-19 Burnley-Leicester City,Burnley,Nick Pope,ENG,27-275,90,6,1,6,83.3,bd102a2b
+ENG-Premier League,1920,2020-01-19 Burnley-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-075,90,5,2,3,60.0,bd102a2b
+ENG-Premier League,1920,2020-01-19 Liverpool-Manchester Utd,Liverpool,Alisson,BRA,27-109,90,4,0,4,100.0,d2a888b6
+ENG-Premier League,1920,2020-01-19 Liverpool-Manchester Utd,Manchester United,David de Gea,ESP,29-073,90,5,2,3,60.0,d2a888b6
+ENG-Premier League,1920,2020-01-21 Aston Villa-Watford,Aston Villa,Pepe Reina,ESP,37-143,90,2,1,1,50.0,3deb145e
+ENG-Premier League,1920,2020-01-21 Aston Villa-Watford,Watford,Ben Foster,ENG,36-293,90,5,2,3,60.0,3deb145e
+ENG-Premier League,1920,2020-01-21 Bournemouth-Brighton,Bournemouth,Aaron Ramsdale,ENG,21-252,90,8,1,7,87.5,ba03a070
+ENG-Premier League,1920,2020-01-21 Bournemouth-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-288,90,4,3,1,25.0,ba03a070
+ENG-Premier League,1920,2020-01-21 Chelsea-Arsenal,Arsenal,Bernd Leno,GER,27-323,90,7,2,6,85.7,38d058ad
+ENG-Premier League,1920,2020-01-21 Chelsea-Arsenal,Chelsea,Kepa Arrizabalaga,ESP,25-110,90,2,2,0,0.0,38d058ad
+ENG-Premier League,1920,2020-01-21 Crystal Palace-Southampton,Crystal Palace,Vicente Guaita,ESP,33-011,90,6,2,4,66.7,003ce1e3
+ENG-Premier League,1920,2020-01-21 Crystal Palace-Southampton,Southampton,Alex McCarthy,ENG,30-049,90,0,0,0,,003ce1e3
+ENG-Premier League,1920,2020-01-21 Everton-Newcastle United,Everton,Jordan Pickford,ENG,25-320,90,2,2,0,0.0,33b8c50a
+ENG-Premier League,1920,2020-01-21 Everton-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-006,90,8,2,6,75.0,33b8c50a
+ENG-Premier League,1920,2020-01-21 Sheffield United-Manchester City,Manchester City,Ederson,BRA,26-157,90,1,0,1,100.0,ae7cb0c2
+ENG-Premier League,1920,2020-01-21 Sheffield United-Manchester City,Sheffield United,Dean Henderson,ENG,22-315,90,3,1,3,66.7,ae7cb0c2
+ENG-Premier League,1920,2020-01-22 Leicester City-West Ham United,Leicester City,Kasper Schmeichel,DEN,33-078,90,1,1,1,100.0,354b03ac
+ENG-Premier League,1920,2020-01-22 Leicester City-West Ham United,West Ham United,Darren Randolph,IRL,32-255,90,7,4,4,57.1,354b03ac
+ENG-Premier League,1920,2020-01-22 Manchester Utd-Burnley,Burnley,Nick Pope,ENG,27-278,90,7,0,7,100.0,709e2aa4
+ENG-Premier League,1920,2020-01-22 Manchester Utd-Burnley,Manchester United,David de Gea,ESP,29-076,90,2,2,0,0.0,709e2aa4
+ENG-Premier League,1920,2020-01-22 Tottenham Hotspur-Norwich City,Norwich City,Tim Krul,NED,31-294,90,3,2,1,33.3,b36a7b4d
+ENG-Premier League,1920,2020-01-22 Tottenham Hotspur-Norwich City,Tottenham Hotspur,Hugo Lloris,FRA,33-027,90,1,1,1,100.0,b36a7b4d
+ENG-Premier League,1920,2020-01-23 Wolves-Liverpool,Liverpool,Alisson,BRA,27-113,90,3,1,2,66.7,efd768f0
+ENG-Premier League,1920,2020-01-23 Wolves-Liverpool,Wolverhampton Wanderers,Rui Patrício,POR,31-342,90,6,2,4,66.7,efd768f0
+ENG-Premier League,1920,2020-01-29 West Ham United-Liverpool,Liverpool,Alisson,BRA,27-119,90,4,0,4,100.0,7b057bc1
+ENG-Premier League,1920,2020-01-29 West Ham United-Liverpool,West Ham United,Łukasz Fabiański,POL,34-286,90,4,2,3,75.0,7b057bc1
+ENG-Premier League,1920,2020-02-01 Bournemouth-Aston Villa,Aston Villa,Pepe Reina,ESP,37-154,90,6,2,4,66.7,db21a88a
+ENG-Premier League,1920,2020-02-01 Bournemouth-Aston Villa,Bournemouth,Aaron Ramsdale,ENG,21-263,90,5,1,4,80.0,db21a88a
+ENG-Premier League,1920,2020-02-01 Crystal Palace-Sheffield United,Crystal Palace,Vicente Guaita,ESP,33-022,90,4,1,3,75.0,6b34e6af
+ENG-Premier League,1920,2020-02-01 Crystal Palace-Sheffield United,Sheffield United,Dean Henderson,ENG,22-326,90,3,0,3,100.0,6b34e6af
+ENG-Premier League,1920,2020-02-01 Leicester City-Chelsea,Chelsea,Willy Caballero,ARG,38-126,90,4,2,2,50.0,270dc7ba
+ENG-Premier League,1920,2020-02-01 Leicester City-Chelsea,Leicester City,Kasper Schmeichel,DEN,33-088,90,3,2,1,33.3,270dc7ba
+ENG-Premier League,1920,2020-02-01 Liverpool-Southampton,Liverpool,Alisson,BRA,27-122,90,4,0,4,100.0,ab9e9e23
+ENG-Premier League,1920,2020-02-01 Liverpool-Southampton,Southampton,Alex McCarthy,ENG,30-060,90,9,4,5,55.6,ab9e9e23
+ENG-Premier League,1920,2020-02-01 Manchester Utd-Wolves,Manchester United,David de Gea,ESP,29-086,90,3,0,3,100.0,88328013
+ENG-Premier League,1920,2020-02-01 Manchester Utd-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,31-351,90,5,0,5,100.0,88328013
+ENG-Premier League,1920,2020-02-01 Newcastle United-Norwich City,Newcastle United,Martin Dúbravka,SVK,31-017,90,4,0,4,100.0,eef415ec
+ENG-Premier League,1920,2020-02-01 Newcastle United-Norwich City,Norwich City,Tim Krul,NED,31-304,90,6,0,5,100.0,eef415ec
+ENG-Premier League,1920,2020-02-01 Watford-Everton,Everton,Jordan Pickford,ENG,25-331,90,2,2,0,0.0,476d12a9
+ENG-Premier League,1920,2020-02-01 Watford-Everton,Watford,Ben Foster,ENG,36-304,90,5,3,2,40.0,476d12a9
+ENG-Premier League,1920,2020-02-01 West Ham United-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-299,90,6,3,3,50.0,14d877cc
+ENG-Premier League,1920,2020-02-01 West Ham United-Brighton,West Ham United,Łukasz Fabiański,POL,34-289,90,7,3,4,57.1,14d877cc
+ENG-Premier League,1920,2020-02-02 Burnley-Arsenal,Arsenal,Bernd Leno,GER,27-335,90,2,0,2,100.0,a6b40849
+ENG-Premier League,1920,2020-02-02 Burnley-Arsenal,Burnley,Nick Pope,ENG,27-289,90,2,0,2,100.0,a6b40849
+ENG-Premier League,1920,2020-02-02 Tottenham Hotspur-Manchester City,Manchester City,Ederson,BRA,26-169,90,3,2,1,33.3,e98d8736
+ENG-Premier League,1920,2020-02-02 Tottenham Hotspur-Manchester City,Tottenham Hotspur,Hugo Lloris,FRA,33-038,90,3,0,4,100.0,e98d8736
+ENG-Premier League,1920,2020-02-08 Brighton-Watford,Brighton & Hove Albion,Mathew Ryan,AUS,27-306,90,2,1,1,50.0,111b8b45
+ENG-Premier League,1920,2020-02-08 Brighton-Watford,Watford,Ben Foster,ENG,36-311,90,3,1,2,66.7,111b8b45
+ENG-Premier League,1920,2020-02-08 Everton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-029,90,8,3,5,62.5,4e620966
+ENG-Premier League,1920,2020-02-08 Everton-Crystal Palace,Everton,Jordan Pickford,ENG,25-338,90,2,1,1,50.0,4e620966
+ENG-Premier League,1920,2020-02-09 Sheffield United-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-271,90,5,2,3,60.0,9dbc60d4
+ENG-Premier League,1920,2020-02-09 Sheffield United-Bournemouth,Sheffield United,Dean Henderson,ENG,22-334,90,2,1,1,50.0,9dbc60d4
+ENG-Premier League,1920,2020-02-14 Wolves-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-101,90,3,0,3,100.0,a11273b7
+ENG-Premier League,1920,2020-02-14 Wolves-Leicester City,Wolverhampton Wanderers,Rui Patrício,POR,31-364,90,3,0,3,100.0,a11273b7
+ENG-Premier League,1920,2020-02-15 Norwich City-Liverpool,Liverpool,Alisson,BRA,27-136,90,1,0,1,100.0,9c238122
+ENG-Premier League,1920,2020-02-15 Norwich City-Liverpool,Norwich City,Tim Krul,NED,31-318,90,6,1,5,83.3,9c238122
+ENG-Premier League,1920,2020-02-15 Southampton-Burnley,Burnley,Nick Pope,ENG,27-302,90,2,1,1,50.0,738ade70
+ENG-Premier League,1920,2020-02-15 Southampton-Burnley,Southampton,Alex McCarthy,ENG,30-074,90,6,2,4,66.7,738ade70
+ENG-Premier League,1920,2020-02-16 Arsenal-Newcastle United,Arsenal,Bernd Leno,GER,27-349,90,2,0,2,100.0,6ce374b0
+ENG-Premier League,1920,2020-02-16 Arsenal-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-032,90,7,4,3,42.9,6ce374b0
+ENG-Premier League,1920,2020-02-16 Aston Villa-Tottenham Hotspur,Aston Villa,Pepe Reina,ESP,37-169,90,8,3,6,62.5,ebfe971d
+ENG-Premier League,1920,2020-02-16 Aston Villa-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-052,90,5,2,3,60.0,ebfe971d
+ENG-Premier League,1920,2020-02-17 Chelsea-Manchester Utd,Chelsea,Willy Caballero,ARG,38-142,90,3,2,1,33.3,2619bcb9
+ENG-Premier League,1920,2020-02-17 Chelsea-Manchester Utd,Manchester United,David de Gea,ESP,29-102,90,1,0,1,100.0,2619bcb9
+ENG-Premier League,1920,2020-02-19 Manchester City-West Ham United,Manchester City,Ederson,BRA,26-186,90,0,0,0,,bc091e86
+ENG-Premier League,1920,2020-02-19 Manchester City-West Ham United,West Ham United,Łukasz Fabiański,POL,34-307,90,7,2,5,71.4,bc091e86
+ENG-Premier League,1920,2020-02-22 Burnley-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-284,90,9,3,7,77.8,bcdc3fb0
+ENG-Premier League,1920,2020-02-22 Burnley-Bournemouth,Burnley,Nick Pope,ENG,27-309,90,4,0,4,100.0,bcdc3fb0
+ENG-Premier League,1920,2020-02-22 Chelsea-Tottenham Hotspur,Chelsea,Willy Caballero,ARG,38-147,90,4,1,3,75.0,fdd364a6
+ENG-Premier League,1920,2020-02-22 Chelsea-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-058,90,7,2,5,71.4,fdd364a6
+ENG-Premier League,1920,2020-02-22 Crystal Palace-Newcastle United,Crystal Palace,Vicente Guaita,ESP,33-043,90,2,0,2,100.0,5947b8fb
+ENG-Premier League,1920,2020-02-22 Crystal Palace-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-038,90,9,1,8,88.9,5947b8fb
+ENG-Premier League,1920,2020-02-22 Leicester City-Manchester City,Leicester City,Kasper Schmeichel,DEN,33-109,90,5,1,5,80.0,4f00e03a
+ENG-Premier League,1920,2020-02-22 Leicester City-Manchester City,Manchester City,Ederson,BRA,26-189,90,3,0,3,100.0,4f00e03a
+ENG-Premier League,1920,2020-02-22 Sheffield United-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-320,90,3,1,2,66.7,c24b02bd
+ENG-Premier League,1920,2020-02-22 Sheffield United-Brighton,Sheffield United,Dean Henderson,ENG,22-347,90,2,1,1,50.0,c24b02bd
+ENG-Premier League,1920,2020-02-22 Southampton-Aston Villa,Aston Villa,Pepe Reina,ESP,37-175,90,9,2,7,77.8,66823ac4
+ENG-Premier League,1920,2020-02-22 Southampton-Aston Villa,Southampton,Alex McCarthy,ENG,30-081,90,1,0,1,100.0,66823ac4
+ENG-Premier League,1920,2020-02-23 Arsenal-Everton,Arsenal,Bernd Leno,GER,27-356,90,5,2,3,60.0,485003ed
+ENG-Premier League,1920,2020-02-23 Arsenal-Everton,Everton,Jordan Pickford,ENG,25-353,90,4,3,1,25.0,485003ed
+ENG-Premier League,1920,2020-02-23 Manchester Utd-Watford,Manchester United,David de Gea,ESP,29-108,90,2,0,2,100.0,835d0c36
+ENG-Premier League,1920,2020-02-23 Manchester Utd-Watford,Watford,Ben Foster,ENG,36-326,90,7,3,5,71.4,835d0c36
+ENG-Premier League,1920,2020-02-23 Wolves-Norwich City,Norwich City,Tim Krul,NED,31-326,90,6,3,3,50.0,09ec6552
+ENG-Premier League,1920,2020-02-23 Wolves-Norwich City,Wolverhampton Wanderers,Rui Patrício,POR,32-008,90,4,0,4,100.0,09ec6552
+ENG-Premier League,1920,2020-02-24 Liverpool-West Ham United,Liverpool,Alisson,BRA,27-145,90,4,2,2,50.0,3aee1ba7
+ENG-Premier League,1920,2020-02-24 Liverpool-West Ham United,West Ham United,Łukasz Fabiański,POL,34-312,90,7,3,4,57.1,3aee1ba7
+ENG-Premier League,1920,2020-02-28 Norwich City-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-115,90,6,1,5,83.3,8edf3e12
+ENG-Premier League,1920,2020-02-28 Norwich City-Leicester City,Norwich City,Tim Krul,NED,31-331,90,4,0,4,100.0,8edf3e12
+ENG-Premier League,1920,2020-02-29 Bournemouth-Chelsea,Bournemouth,Aaron Ramsdale,ENG,21-291,90,7,2,5,71.4,57d79762
+ENG-Premier League,1920,2020-02-29 Bournemouth-Chelsea,Chelsea,Willy Caballero,ARG,38-154,90,5,2,3,60.0,57d79762
+ENG-Premier League,1920,2020-02-29 Brighton-Crystal Palace,Brighton & Hove Albion,Mathew Ryan,AUS,27-327,90,3,1,2,66.7,aeb979e2
+ENG-Premier League,1920,2020-02-29 Brighton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-050,90,8,0,8,100.0,aeb979e2
+ENG-Premier League,1920,2020-02-29 Newcastle United-Burnley,Burnley,Nick Pope,ENG,27-316,90,4,0,4,100.0,5d623dc0
+ENG-Premier League,1920,2020-02-29 Newcastle United-Burnley,Newcastle United,Martin Dúbravka,SVK,31-045,90,1,0,1,100.0,5d623dc0
+ENG-Premier League,1920,2020-02-29 Watford-Liverpool,Liverpool,Alisson,BRA,27-150,90,5,3,2,40.0,4df69c15
+ENG-Premier League,1920,2020-02-29 Watford-Liverpool,Watford,Ben Foster,ENG,36-332,90,1,0,1,100.0,4df69c15
+ENG-Premier League,1920,2020-02-29 West Ham United-Southampton,Southampton,Alex McCarthy,ENG,30-088,90,7,3,4,57.1,2cb790f2
+ENG-Premier League,1920,2020-02-29 West Ham United-Southampton,West Ham United,Łukasz Fabiański,POL,34-317,90,2,1,1,50.0,2cb790f2
+ENG-Premier League,1920,2020-03-01 Everton-Manchester Utd,Everton,Jordan Pickford,ENG,25-360,90,5,1,4,80.0,ea2c2272
+ENG-Premier League,1920,2020-03-01 Everton-Manchester Utd,Manchester United,David de Gea,ESP,29-115,90,5,1,4,80.0,ea2c2272
+ENG-Premier League,1920,2020-03-01 Tottenham Hotspur-Wolves,Tottenham Hotspur,Paulo Gazzaniga,ARG,28-059,90,4,3,1,25.0,2475762d
+ENG-Premier League,1920,2020-03-01 Tottenham Hotspur-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-015,90,5,2,3,60.0,2475762d
+ENG-Premier League,1920,2020-03-07 Arsenal-West Ham United,Arsenal,Bernd Leno,GER,28-003,90,6,0,6,100.0,bf382825
+ENG-Premier League,1920,2020-03-07 Arsenal-West Ham United,West Ham United,Łukasz Fabiański,POL,34-324,90,2,1,1,50.0,bf382825
+ENG-Premier League,1920,2020-03-07 Burnley-Tottenham Hotspur,Burnley,Nick Pope,ENG,27-323,90,1,1,1,100.0,1b4c17ec
+ENG-Premier League,1920,2020-03-07 Burnley-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-072,90,7,1,6,85.7,1b4c17ec
+ENG-Premier League,1920,2020-03-07 Crystal Palace-Watford,Crystal Palace,Vicente Guaita,ESP,33-057,90,4,0,4,100.0,7535d777
+ENG-Premier League,1920,2020-03-07 Crystal Palace-Watford,Watford,Ben Foster,ENG,36-339,90,3,1,2,66.7,7535d777
+ENG-Premier League,1920,2020-03-07 Liverpool-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,21-298,90,6,2,4,66.7,a24ed8fc
+ENG-Premier League,1920,2020-03-07 Liverpool-Bournemouth,Liverpool,Adrián,ESP,33-064,90,3,1,2,66.7,a24ed8fc
+ENG-Premier League,1920,2020-03-07 Sheffield United-Norwich City,Norwich City,Tim Krul,NED,31-339,90,3,1,2,66.7,fcdf913d
+ENG-Premier League,1920,2020-03-07 Sheffield United-Norwich City,Sheffield United,Dean Henderson,ENG,22-361,90,4,0,4,100.0,fcdf913d
+ENG-Premier League,1920,2020-03-07 Southampton-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-052,90,3,0,3,100.0,947a04e9
+ENG-Premier League,1920,2020-03-07 Southampton-Newcastle United,Southampton,Alex McCarthy,ENG,30-095,90,5,1,5,80.0,947a04e9
+ENG-Premier League,1920,2020-03-07 Wolves-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,27-334,90,1,0,1,100.0,6a08610e
+ENG-Premier League,1920,2020-03-07 Wolves-Brighton,Wolverhampton Wanderers,Rui Patrício,POR,32-021,90,1,0,1,100.0,6a08610e
+ENG-Premier League,1920,2020-03-08 Chelsea-Everton,Chelsea,Kepa Arrizabalaga,ESP,25-157,90,1,0,1,100.0,c062bff0
+ENG-Premier League,1920,2020-03-08 Chelsea-Everton,Everton,Jordan Pickford,ENG,26-001,90,11,4,7,63.6,c062bff0
+ENG-Premier League,1920,2020-03-08 Manchester Utd-Manchester City,Manchester City,Ederson,BRA,26-204,90,6,2,4,66.7,04416d35
+ENG-Premier League,1920,2020-03-08 Manchester Utd-Manchester City,Manchester United,David de Gea,ESP,29-122,90,4,0,4,100.0,04416d35
+ENG-Premier League,1920,2020-03-09 Leicester City-Aston Villa,Aston Villa,Pepe Reina,ESP,37-191,90,6,4,3,50.0,76f492dc
+ENG-Premier League,1920,2020-03-09 Leicester City-Aston Villa,Leicester City,Kasper Schmeichel,DEN,33-125,90,1,0,1,100.0,76f492dc
+ENG-Premier League,1920,2020-06-17 Aston Villa-Sheffield United,Aston Villa,Ørjan Nyland,NOR,29-281,90,1,0,1,100.0,18961bf7
+ENG-Premier League,1920,2020-06-17 Aston Villa-Sheffield United,Sheffield United,Dean Henderson,ENG,23-097,90,6,0,6,100.0,18961bf7
+ENG-Premier League,1920,2020-06-17 Manchester City-Arsenal,Arsenal,Bernd Leno,GER,28-105,90,11,3,9,81.8,5825b217
+ENG-Premier League,1920,2020-06-17 Manchester City-Arsenal,Manchester City,Ederson,BRA,26-305,90,0,0,0,,5825b217
+ENG-Premier League,1920,2020-06-19 Norwich City-Southampton,Norwich City,Tim Krul,NED,32-077,90,9,3,6,66.7,d659cbdf
+ENG-Premier League,1920,2020-06-19 Norwich City-Southampton,Southampton,Alex McCarthy,ENG,30-199,90,1,0,1,100.0,d659cbdf
+ENG-Premier League,1920,2020-06-19 Tottenham Hotspur-Manchester Utd,Manchester United,David de Gea,ESP,29-225,90,3,1,2,66.7,973a441a
+ENG-Premier League,1920,2020-06-19 Tottenham Hotspur-Manchester Utd,Tottenham Hotspur,Hugo Lloris,FRA,33-176,90,6,1,6,100.0,973a441a
+ENG-Premier League,1920,2020-06-20 Bournemouth-Crystal Palace,Bournemouth,Aaron Ramsdale,ENG,22-037,90,2,2,0,0.0,c4d88352
+ENG-Premier League,1920,2020-06-20 Bournemouth-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-162,90,1,0,1,100.0,c4d88352
+ENG-Premier League,1920,2020-06-20 Brighton-Arsenal,Arsenal,Bernd Leno,GER,28-108,39,0,0,0,,1abcdcde
+ENG-Premier League,1920,2020-06-20 Brighton-Arsenal,Arsenal,Emiliano Martínez,ARG,27-292,51,5,2,3,60.0,1abcdcde
+ENG-Premier League,1920,2020-06-20 Brighton-Arsenal,Brighton & Hove Albion,Mathew Ryan,AUS,28-073,90,6,1,5,83.3,1abcdcde
+ENG-Premier League,1920,2020-06-20 Watford-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-228,90,4,1,3,75.0,e5f403c2
+ENG-Premier League,1920,2020-06-20 Watford-Leicester City,Watford,Ben Foster,ENG,37-078,90,2,1,1,50.0,e5f403c2
+ENG-Premier League,1920,2020-06-20 West Ham United-Wolves,West Ham United,Łukasz Fabiański,POL,35-063,90,6,2,4,66.7,6ddd148a
+ENG-Premier League,1920,2020-06-20 West Ham United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-126,90,2,0,2,100.0,6ddd148a
+ENG-Premier League,1920,2020-06-21 Aston Villa-Chelsea,Aston Villa,Ørjan Nyland,NOR,29-285,90,5,2,3,60.0,827d4651
+ENG-Premier League,1920,2020-06-21 Aston Villa-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-262,90,4,1,3,75.0,827d4651
+ENG-Premier League,1920,2020-06-21 Everton-Liverpool,Everton,Jordan Pickford,ENG,26-106,90,3,0,3,100.0,603174fb
+ENG-Premier League,1920,2020-06-21 Everton-Liverpool,Liverpool,Alisson,BRA,27-263,90,3,0,3,100.0,603174fb
+ENG-Premier League,1920,2020-06-21 Newcastle United-Sheffield United,Newcastle United,Martin Dúbravka,SVK,31-158,90,1,0,1,100.0,4e501da1
+ENG-Premier League,1920,2020-06-21 Newcastle United-Sheffield United,Sheffield United,Dean Henderson,ENG,23-101,90,8,3,5,62.5,4e501da1
+ENG-Premier League,1920,2020-06-22 Manchester City-Burnley,Burnley,Nick Pope,ENG,28-064,90,6,5,2,33.3,b1d3ebde
+ENG-Premier League,1920,2020-06-22 Manchester City-Burnley,Manchester City,Ederson,BRA,26-310,90,0,0,0,,b1d3ebde
+ENG-Premier League,1920,2020-06-23 Leicester City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-076,90,2,0,2,100.0,481a9a3a
+ENG-Premier League,1920,2020-06-23 Leicester City-Brighton,Leicester City,Kasper Schmeichel,DEN,33-231,90,0,0,0,,481a9a3a
+ENG-Premier League,1920,2020-06-23 Tottenham Hotspur-West Ham United,Tottenham Hotspur,Hugo Lloris,FRA,33-180,90,2,0,2,100.0,8fc12d99
+ENG-Premier League,1920,2020-06-23 Tottenham Hotspur-West Ham United,West Ham United,Łukasz Fabiański,POL,35-066,90,5,2,3,60.0,8fc12d99
+ENG-Premier League,1920,2020-06-24 Liverpool-Crystal Palace,Crystal Palace,Wayne Hennessey,WAL,33-152,90,7,4,3,42.9,c486cf76
+ENG-Premier League,1920,2020-06-24 Liverpool-Crystal Palace,Liverpool,Alisson,BRA,27-266,90,0,0,0,,c486cf76
+ENG-Premier League,1920,2020-06-24 Manchester Utd-Sheffield United,Manchester United,David de Gea,ESP,29-230,90,1,0,1,100.0,54cdce8b
+ENG-Premier League,1920,2020-06-24 Manchester Utd-Sheffield United,Sheffield United,Simon Moore,ENG,30-036,90,6,3,3,50.0,54cdce8b
+ENG-Premier League,1920,2020-06-24 Newcastle United-Aston Villa,Aston Villa,Ørjan Nyland,NOR,29-288,90,3,1,2,66.7,66027e20
+ENG-Premier League,1920,2020-06-24 Newcastle United-Aston Villa,Newcastle United,Martin Dúbravka,SVK,31-161,90,2,1,1,50.0,66027e20
+ENG-Premier League,1920,2020-06-24 Norwich City-Everton,Everton,Jordan Pickford,ENG,26-109,90,1,0,1,100.0,49724d90
+ENG-Premier League,1920,2020-06-24 Norwich City-Everton,Norwich City,Tim Krul,NED,32-082,90,5,1,4,80.0,49724d90
+ENG-Premier League,1920,2020-06-24 Wolves-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,22-041,90,2,1,1,50.0,4f61e5af
+ENG-Premier League,1920,2020-06-24 Wolves-Bournemouth,Wolverhampton Wanderers,Rui Patrício,POR,32-130,90,0,0,0,,4f61e5af
+ENG-Premier League,1920,2020-06-25 Burnley-Watford,Burnley,Nick Pope,ENG,28-067,90,3,0,3,100.0,965fbb94
+ENG-Premier League,1920,2020-06-25 Burnley-Watford,Watford,Ben Foster,ENG,37-083,90,4,1,3,75.0,965fbb94
+ENG-Premier League,1920,2020-06-25 Chelsea-Manchester City,Chelsea,Kepa Arrizabalaga,ESP,25-266,90,2,1,1,50.0,bc237647
+ENG-Premier League,1920,2020-06-25 Chelsea-Manchester City,Manchester City,Ederson,BRA,26-313,90,6,2,5,83.3,bc237647
+ENG-Premier League,1920,2020-06-25 Southampton-Arsenal,Arsenal,Emiliano Martínez,ARG,27-297,90,3,0,3,100.0,38757aa1
+ENG-Premier League,1920,2020-06-25 Southampton-Arsenal,Southampton,Alex McCarthy,ENG,30-205,90,5,2,3,60.0,38757aa1
+ENG-Premier League,1920,2020-06-27 Aston Villa-Wolves,Aston Villa,Ørjan Nyland,NOR,29-291,90,2,1,1,50.0,b4483d72
+ENG-Premier League,1920,2020-06-27 Aston Villa-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-133,90,1,0,1,100.0,b4483d72
+ENG-Premier League,1920,2020-06-28 Watford-Southampton,Southampton,Alex McCarthy,ENG,30-208,90,1,1,0,0.0,37720dc3
+ENG-Premier League,1920,2020-06-28 Watford-Southampton,Watford,Ben Foster,ENG,37-086,90,7,3,4,57.1,37720dc3
+ENG-Premier League,1920,2020-06-29 Crystal Palace-Burnley,Burnley,Nick Pope,ENG,28-071,90,4,0,4,100.0,d7661a5f
+ENG-Premier League,1920,2020-06-29 Crystal Palace-Burnley,Crystal Palace,Vicente Guaita,ESP,33-171,90,4,1,3,75.0,d7661a5f
+ENG-Premier League,1920,2020-06-30 Brighton-Manchester Utd,Brighton & Hove Albion,Mathew Ryan,AUS,28-083,90,6,3,3,50.0,be321c59
+ENG-Premier League,1920,2020-06-30 Brighton-Manchester Utd,Manchester United,David de Gea,ESP,29-236,90,2,0,2,100.0,be321c59
+ENG-Premier League,1920,2020-07-01 Arsenal-Norwich City,Arsenal,Emiliano Martínez,ARG,27-303,90,2,0,2,100.0,cb52b4c8
+ENG-Premier League,1920,2020-07-01 Arsenal-Norwich City,Norwich City,Tim Krul,NED,32-089,90,8,4,4,50.0,cb52b4c8
+ENG-Premier League,1920,2020-07-01 Bournemouth-Newcastle United,Bournemouth,Aaron Ramsdale,ENG,22-048,90,7,4,3,42.9,92aaad57
+ENG-Premier League,1920,2020-07-01 Bournemouth-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-168,90,1,1,0,0.0,92aaad57
+ENG-Premier League,1920,2020-07-01 Everton-Leicester City,Everton,Jordan Pickford,ENG,26-116,90,3,1,2,66.7,c2c7ebbf
+ENG-Premier League,1920,2020-07-01 Everton-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-239,90,1,2,0,0.0,c2c7ebbf
+ENG-Premier League,1920,2020-07-01 West Ham United-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-272,90,4,3,1,25.0,5df18070
+ENG-Premier League,1920,2020-07-01 West Ham United-Chelsea,West Ham United,Łukasz Fabiański,POL,35-074,90,5,2,4,80.0,5df18070
+ENG-Premier League,1920,2020-07-02 Manchester City-Liverpool,Liverpool,Alisson,BRA,27-274,90,5,4,2,40.0,5dffd237
+ENG-Premier League,1920,2020-07-02 Manchester City-Liverpool,Manchester City,Ederson,BRA,26-320,90,3,0,3,100.0,5dffd237
+ENG-Premier League,1920,2020-07-02 Sheffield United-Tottenham Hotspur,Sheffield United,Dean Henderson,ENG,23-112,90,2,1,1,50.0,70507f3c
+ENG-Premier League,1920,2020-07-02 Sheffield United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-189,90,5,3,2,40.0,70507f3c
+ENG-Premier League,1920,2020-07-04 Chelsea-Watford,Chelsea,Kepa Arrizabalaga,ESP,25-275,90,3,0,3,100.0,ee7944f1
+ENG-Premier League,1920,2020-07-04 Chelsea-Watford,Watford,Ben Foster,ENG,37-092,90,8,3,6,75.0,ee7944f1
+ENG-Premier League,1920,2020-07-04 Leicester City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-176,90,4,3,1,25.0,88e800c1
+ENG-Premier League,1920,2020-07-04 Leicester City-Crystal Palace,Leicester City,Kasper Schmeichel,DEN,33-242,90,1,0,1,100.0,88e800c1
+ENG-Premier League,1920,2020-07-04 Manchester Utd-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,22-051,90,9,5,5,55.6,8bed0062
+ENG-Premier League,1920,2020-07-04 Manchester Utd-Bournemouth,Manchester United,David de Gea,ESP,29-240,90,2,2,1,50.0,8bed0062
+ENG-Premier League,1920,2020-07-04 Norwich City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-087,90,1,0,1,100.0,aa3a3540
+ENG-Premier League,1920,2020-07-04 Norwich City-Brighton,Norwich City,Tim Krul,NED,32-092,90,2,1,1,50.0,aa3a3540
+ENG-Premier League,1920,2020-07-04 Wolves-Arsenal,Arsenal,Emiliano Martínez,ARG,27-306,90,1,0,1,100.0,df13ee5b
+ENG-Premier League,1920,2020-07-04 Wolves-Arsenal,Wolverhampton Wanderers,Rui Patrício,POR,32-140,90,4,2,2,50.0,df13ee5b
+ENG-Premier League,1920,2020-07-05 Burnley-Sheffield United,Burnley,Nick Pope,ENG,28-077,90,3,1,2,66.7,c2378113
+ENG-Premier League,1920,2020-07-05 Burnley-Sheffield United,Sheffield United,Dean Henderson,ENG,23-115,90,4,1,3,75.0,c2378113
+ENG-Premier League,1920,2020-07-05 Liverpool-Aston Villa,Aston Villa,Pepe Reina,ESP,37-309,90,4,2,2,50.0,c2481cad
+ENG-Premier League,1920,2020-07-05 Liverpool-Aston Villa,Liverpool,Alisson,BRA,27-277,90,3,0,3,100.0,c2481cad
+ENG-Premier League,1920,2020-07-05 Newcastle United-West Ham United,Newcastle United,Martin Dúbravka,SVK,31-172,90,7,2,5,71.4,3d549d43
+ENG-Premier League,1920,2020-07-05 Newcastle United-West Ham United,West Ham United,Łukasz Fabiański,POL,35-078,90,4,2,2,50.0,3d549d43
+ENG-Premier League,1920,2020-07-05 Southampton-Manchester City,Manchester City,Ederson,BRA,26-323,90,4,1,3,75.0,260c5c31
+ENG-Premier League,1920,2020-07-05 Southampton-Manchester City,Southampton,Alex McCarthy,ENG,30-215,90,6,0,6,100.0,260c5c31
+ENG-Premier League,1920,2020-07-06 Tottenham Hotspur-Everton,Everton,Jordan Pickford,ENG,26-121,90,3,1,2,66.7,ba9fd89a
+ENG-Premier League,1920,2020-07-06 Tottenham Hotspur-Everton,Tottenham Hotspur,Hugo Lloris,FRA,33-193,90,3,0,3,100.0,ba9fd89a
+ENG-Premier League,1920,2020-07-07 Arsenal-Leicester City,Arsenal,Emiliano Martínez,ARG,27-309,90,5,1,4,80.0,a26b0a22
+ENG-Premier League,1920,2020-07-07 Arsenal-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-245,90,7,1,6,85.7,a26b0a22
+ENG-Premier League,1920,2020-07-07 Crystal Palace-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-278,90,4,2,2,50.0,61407f3d
+ENG-Premier League,1920,2020-07-07 Crystal Palace-Chelsea,Crystal Palace,Vicente Guaita,ESP,33-179,90,6,3,3,50.0,61407f3d
+ENG-Premier League,1920,2020-07-07 Watford-Norwich City,Norwich City,Tim Krul,NED,32-095,90,4,2,2,50.0,7e51a0cb
+ENG-Premier League,1920,2020-07-07 Watford-Norwich City,Watford,Ben Foster,ENG,37-095,90,3,1,2,66.7,7e51a0cb
+ENG-Premier League,1920,2020-07-08 Brighton-Liverpool,Brighton & Hove Albion,Mathew Ryan,AUS,28-091,90,8,3,5,62.5,3296482a
+ENG-Premier League,1920,2020-07-08 Brighton-Liverpool,Liverpool,Alisson,BRA,27-280,90,2,1,1,50.0,3296482a
+ENG-Premier League,1920,2020-07-08 Manchester City-Newcastle United,Manchester City,Ederson,BRA,26-326,90,1,0,1,100.0,426dcb15
+ENG-Premier League,1920,2020-07-08 Manchester City-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-175,90,10,5,5,50.0,426dcb15
+ENG-Premier League,1920,2020-07-08 Sheffield United-Wolves,Sheffield United,Dean Henderson,ENG,23-118,90,1,0,1,100.0,f898c8ea
+ENG-Premier League,1920,2020-07-08 Sheffield United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-144,90,3,1,2,66.7,f898c8ea
+ENG-Premier League,1920,2020-07-08 West Ham United-Burnley,Burnley,Nick Pope,ENG,28-080,90,4,0,4,100.0,5c57bea6
+ENG-Premier League,1920,2020-07-08 West Ham United-Burnley,West Ham United,Łukasz Fabiański,POL,35-081,90,4,1,3,75.0,5c57bea6
+ENG-Premier League,1920,2020-07-09 Aston Villa-Manchester Utd,Aston Villa,Pepe Reina,ESP,37-313,90,5,3,3,60.0,61422f26
+ENG-Premier League,1920,2020-07-09 Aston Villa-Manchester Utd,Manchester United,David de Gea,ESP,29-245,90,1,0,1,100.0,61422f26
+ENG-Premier League,1920,2020-07-09 Bournemouth-Tottenham Hotspur,Bournemouth,Aaron Ramsdale,ENG,22-056,90,0,0,0,,1d9de580
+ENG-Premier League,1920,2020-07-09 Bournemouth-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-196,90,2,0,2,100.0,1d9de580
+ENG-Premier League,1920,2020-07-09 Everton-Southampton,Everton,Jordan Pickford,ENG,26-124,90,4,1,3,75.0,1357ee3b
+ENG-Premier League,1920,2020-07-09 Everton-Southampton,Southampton,Alex McCarthy,ENG,30-219,90,4,1,3,75.0,1357ee3b
+ENG-Premier League,1920,2020-07-11 Brighton-Manchester City,Brighton & Hove Albion,Mathew Ryan,AUS,28-094,90,8,5,3,37.5,a24d3d6b
+ENG-Premier League,1920,2020-07-11 Brighton-Manchester City,Manchester City,Ederson,BRA,26-329,90,0,0,0,,a24d3d6b
+ENG-Premier League,1920,2020-07-11 Liverpool-Burnley,Burnley,Nick Pope,ENG,28-083,90,9,1,8,88.9,267d7e78
+ENG-Premier League,1920,2020-07-11 Liverpool-Burnley,Liverpool,Alisson,BRA,27-283,90,2,1,1,50.0,267d7e78
+ENG-Premier League,1920,2020-07-11 Norwich City-West Ham United,Norwich City,Tim Krul,NED,32-099,90,7,4,3,42.9,1f633005
+ENG-Premier League,1920,2020-07-11 Norwich City-West Ham United,West Ham United,Łukasz Fabiański,POL,35-084,90,2,0,2,100.0,1f633005
+ENG-Premier League,1920,2020-07-11 Sheffield United-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-282,90,4,3,1,25.0,3f83499d
+ENG-Premier League,1920,2020-07-11 Sheffield United-Chelsea,Sheffield United,Dean Henderson,ENG,23-121,90,4,0,4,100.0,3f83499d
+ENG-Premier League,1920,2020-07-11 Watford-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-178,90,3,2,3,100.0,ae59ff28
+ENG-Premier League,1920,2020-07-11 Watford-Newcastle United,Watford,Ben Foster,ENG,37-099,90,4,1,3,75.0,ae59ff28
+ENG-Premier League,1920,2020-07-12 Aston Villa-Crystal Palace,Aston Villa,Pepe Reina,ESP,37-316,90,5,0,5,100.0,b30bf2e8
+ENG-Premier League,1920,2020-07-12 Aston Villa-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-184,90,9,2,7,77.8,b30bf2e8
+ENG-Premier League,1920,2020-07-12 Bournemouth-Leicester City,Bournemouth,Aaron Ramsdale,ENG,22-059,90,5,1,4,80.0,d2adf574
+ENG-Premier League,1920,2020-07-12 Bournemouth-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-250,90,4,4,1,25.0,d2adf574
+ENG-Premier League,1920,2020-07-12 Tottenham Hotspur-Arsenal,Arsenal,Emiliano Martínez,ARG,27-314,90,9,2,7,77.8,6630c721
+ENG-Premier League,1920,2020-07-12 Tottenham Hotspur-Arsenal,Tottenham Hotspur,Hugo Lloris,FRA,33-199,90,4,1,3,75.0,6630c721
+ENG-Premier League,1920,2020-07-12 Wolves-Everton,Everton,Jordan Pickford,ENG,26-127,90,6,3,4,66.7,476e8583
+ENG-Premier League,1920,2020-07-12 Wolves-Everton,Wolverhampton Wanderers,Rui Patrício,POR,32-148,90,2,0,2,100.0,476e8583
+ENG-Premier League,1920,2020-07-13 Manchester Utd-Southampton,Manchester United,David de Gea,ESP,29-249,90,5,2,3,60.0,668c9423
+ENG-Premier League,1920,2020-07-13 Manchester Utd-Southampton,Southampton,Alex McCarthy,ENG,30-223,90,4,2,2,50.0,668c9423
+ENG-Premier League,1920,2020-07-14 Chelsea-Norwich City,Chelsea,Kepa Arrizabalaga,ESP,25-285,90,0,0,0,,88d08b7b
+ENG-Premier League,1920,2020-07-14 Chelsea-Norwich City,Norwich City,Tim Krul,NED,32-102,90,6,1,5,83.3,88d08b7b
+ENG-Premier League,1920,2020-07-15 Arsenal-Liverpool,Arsenal,Emiliano Martínez,ARG,27-317,90,9,1,8,88.9,12f95828
+ENG-Premier League,1920,2020-07-15 Arsenal-Liverpool,Liverpool,Alisson,BRA,27-287,90,2,2,0,0.0,12f95828
+ENG-Premier League,1920,2020-07-15 Burnley-Wolves,Burnley,Nick Pope,ENG,28-087,90,5,1,4,80.0,a7c5d31f
+ENG-Premier League,1920,2020-07-15 Burnley-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-151,90,0,1,0,,a7c5d31f
+ENG-Premier League,1920,2020-07-15 Manchester City-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,22-062,90,4,2,2,50.0,eff6988f
+ENG-Premier League,1920,2020-07-15 Manchester City-Bournemouth,Manchester City,Ederson,BRA,26-333,90,3,1,2,66.7,eff6988f
+ENG-Premier League,1920,2020-07-15 Newcastle United-Tottenham Hotspur,Newcastle United,Martin Dúbravka,SVK,31-182,90,5,3,2,40.0,21cbea56
+ENG-Premier League,1920,2020-07-15 Newcastle United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-202,90,6,1,5,83.3,21cbea56
+ENG-Premier League,1920,2020-07-16 Crystal Palace-Manchester Utd,Crystal Palace,Vicente Guaita,ESP,33-188,90,5,2,3,60.0,69a16f9d
+ENG-Premier League,1920,2020-07-16 Crystal Palace-Manchester Utd,Manchester United,David de Gea,ESP,29-252,90,5,0,5,100.0,69a16f9d
+ENG-Premier League,1920,2020-07-16 Everton-Aston Villa,Aston Villa,Pepe Reina,ESP,37-320,90,1,1,0,0.0,f855bc55
+ENG-Premier League,1920,2020-07-16 Everton-Aston Villa,Everton,Jordan Pickford,ENG,26-131,90,1,1,0,0.0,f855bc55
+ENG-Premier League,1920,2020-07-16 Leicester City-Sheffield United,Leicester City,Kasper Schmeichel,DEN,33-254,90,1,0,1,100.0,0903cee0
+ENG-Premier League,1920,2020-07-16 Leicester City-Sheffield United,Sheffield United,Dean Henderson,ENG,23-126,90,7,2,5,71.4,0903cee0
+ENG-Premier League,1920,2020-07-16 Southampton-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-099,90,5,1,4,80.0,793f900e
+ENG-Premier League,1920,2020-07-16 Southampton-Brighton,Southampton,Alex McCarthy,ENG,30-226,90,2,1,1,50.0,793f900e
+ENG-Premier League,1920,2020-07-17 West Ham United-Watford,Watford,Ben Foster,ENG,37-105,90,4,3,1,25.0,249bbdaa
+ENG-Premier League,1920,2020-07-17 West Ham United-Watford,West Ham United,Łukasz Fabiański,POL,35-090,90,3,1,2,66.7,249bbdaa
+ENG-Premier League,1920,2020-07-18 Norwich City-Burnley,Burnley,Nick Pope,ENG,28-090,90,2,0,2,100.0,9594e0b4
+ENG-Premier League,1920,2020-07-18 Norwich City-Burnley,Norwich City,Tim Krul,NED,32-106,90,9,2,7,77.8,9594e0b4
+ENG-Premier League,1920,2020-07-19 Bournemouth-Southampton,Bournemouth,Aaron Ramsdale,ENG,22-066,90,6,2,5,66.7,bbd4160f
+ENG-Premier League,1920,2020-07-19 Bournemouth-Southampton,Southampton,Alex McCarthy,ENG,30-229,90,3,0,3,100.0,bbd4160f
+ENG-Premier League,1920,2020-07-19 Tottenham Hotspur-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-257,90,4,3,1,25.0,d4ce66f6
+ENG-Premier League,1920,2020-07-19 Tottenham Hotspur-Leicester City,Tottenham Hotspur,Hugo Lloris,FRA,33-206,90,6,0,6,100.0,d4ce66f6
+ENG-Premier League,1920,2020-07-20 Brighton-Newcastle United,Brighton & Hove Albion,Mathew Ryan,AUS,28-103,90,1,0,1,100.0,9defdd38
+ENG-Premier League,1920,2020-07-20 Brighton-Newcastle United,Newcastle United,Martin Dúbravka,SVK,31-187,90,3,0,3,100.0,9defdd38
+ENG-Premier League,1920,2020-07-20 Sheffield United-Everton,Everton,Jordan Pickford,ENG,26-135,90,0,0,0,,d2e788d0
+ENG-Premier League,1920,2020-07-20 Sheffield United-Everton,Sheffield United,Dean Henderson,ENG,23-130,90,2,1,1,50.0,d2e788d0
+ENG-Premier League,1920,2020-07-20 Wolves-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-192,90,5,2,3,60.0,70598e52
+ENG-Premier League,1920,2020-07-20 Wolves-Crystal Palace,Wolverhampton Wanderers,Rui Patrício,POR,32-156,90,3,0,3,100.0,70598e52
+ENG-Premier League,1920,2020-07-21 Aston Villa-Arsenal,Arsenal,Emiliano Martínez,ARG,27-323,90,3,1,2,66.7,ca0b21bc
+ENG-Premier League,1920,2020-07-21 Aston Villa-Arsenal,Aston Villa,Pepe Reina,ESP,37-325,90,0,0,0,,ca0b21bc
+ENG-Premier League,1920,2020-07-21 Watford-Manchester City,Manchester City,Ederson,BRA,26-339,90,0,0,0,,9979847f
+ENG-Premier League,1920,2020-07-21 Watford-Manchester City,Watford,Ben Foster,ENG,37-109,90,8,4,5,50.0,9979847f
+ENG-Premier League,1920,2020-07-22 Liverpool-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-293,90,7,5,2,28.6,a80ba6fe
+ENG-Premier League,1920,2020-07-22 Liverpool-Chelsea,Liverpool,Alisson,BRA,27-294,90,5,3,2,40.0,a80ba6fe
+ENG-Premier League,1920,2020-07-22 Manchester Utd-West Ham United,Manchester United,David de Gea,ESP,29-258,90,2,1,2,100.0,bf25e016
+ENG-Premier League,1920,2020-07-22 Manchester Utd-West Ham United,West Ham United,Łukasz Fabiański,POL,35-095,90,4,1,3,75.0,bf25e016
+ENG-Premier League,1920,2020-07-26 Arsenal-Watford,Arsenal,Emiliano Martínez,ARG,27-328,90,5,2,4,80.0,5ecaeb4b
+ENG-Premier League,1920,2020-07-26 Arsenal-Watford,Watford,Ben Foster,ENG,37-114,90,4,3,2,50.0,5ecaeb4b
+ENG-Premier League,1920,2020-07-26 Burnley-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-109,90,2,1,1,50.0,d4360fcd
+ENG-Premier League,1920,2020-07-26 Burnley-Brighton,Burnley,Nick Pope,ENG,28-098,90,4,2,2,50.0,d4360fcd
+ENG-Premier League,1920,2020-07-26 Chelsea-Wolves,Chelsea,Willy Caballero,ARG,38-302,90,1,0,1,100.0,9cca4ba0
+ENG-Premier League,1920,2020-07-26 Chelsea-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-162,90,3,2,1,33.3,9cca4ba0
+ENG-Premier League,1920,2020-07-26 Crystal Palace-Tottenham Hotspur,Crystal Palace,Vicente Guaita,ESP,33-198,90,2,1,1,50.0,61616d45
+ENG-Premier League,1920,2020-07-26 Crystal Palace-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-213,90,2,1,1,50.0,61616d45
+ENG-Premier League,1920,2020-07-26 Everton-Bournemouth,Bournemouth,Aaron Ramsdale,ENG,22-073,90,5,1,4,80.0,2a3b8f05
+ENG-Premier League,1920,2020-07-26 Everton-Bournemouth,Everton,Jordan Pickford,ENG,26-141,90,6,3,4,66.7,2a3b8f05
+ENG-Premier League,1920,2020-07-26 Leicester City-Manchester Utd,Leicester City,Kasper Schmeichel,DEN,33-264,90,2,2,1,50.0,3873cc78
+ENG-Premier League,1920,2020-07-26 Leicester City-Manchester Utd,Manchester United,David de Gea,ESP,29-262,90,3,0,3,100.0,3873cc78
+ENG-Premier League,1920,2020-07-26 Manchester City-Norwich City,Manchester City,Ederson,BRA,26-344,90,4,0,4,100.0,9099d1e5
+ENG-Premier League,1920,2020-07-26 Manchester City-Norwich City,Norwich City,Tim Krul,NED,32-114,90,9,5,4,44.4,9099d1e5
+ENG-Premier League,1920,2020-07-26 Newcastle United-Liverpool,Liverpool,Alisson,BRA,27-298,90,2,1,1,50.0,b6b1209d
+ENG-Premier League,1920,2020-07-26 Newcastle United-Liverpool,Newcastle United,Martin Dúbravka,SVK,31-193,90,6,3,3,50.0,b6b1209d
+ENG-Premier League,1920,2020-07-26 Southampton-Sheffield United,Sheffield United,Dean Henderson,ENG,23-136,90,3,3,1,33.3,3e5b45b7
+ENG-Premier League,1920,2020-07-26 Southampton-Sheffield United,Southampton,Alex McCarthy,ENG,30-236,90,3,1,2,66.7,3e5b45b7
+ENG-Premier League,1920,2020-07-26 West Ham United-Aston Villa,Aston Villa,Pepe Reina,ESP,37-330,90,1,1,0,0.0,a3f59c8e
+ENG-Premier League,1920,2020-07-26 West Ham United-Aston Villa,West Ham United,Łukasz Fabiański,POL,35-099,90,4,1,3,75.0,a3f59c8e

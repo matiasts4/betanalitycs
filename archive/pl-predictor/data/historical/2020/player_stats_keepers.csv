@@ -1,0 +1,766 @@
+league,season,game,team,player,nation,age,min,Shot Stopping_SoTA,Shot Stopping_GA,Shot Stopping_Saves,Shot Stopping_Save%,game_id
+ENG-Premier League,2021,2020-09-12 Crystal Palace-Southampton,Crystal Palace,Vicente Guaita,ESP,33-246,90,5,0,5,100.0,db261cb0
+ENG-Premier League,2021,2020-09-12 Crystal Palace-Southampton,Southampton,Alex McCarthy,ENG,30-284,90,3,1,2,66.7,db261cb0
+ENG-Premier League,2021,2020-09-12 Fulham-Arsenal,Arsenal,Bernd Leno,GER,28-192,90,2,0,2,100.0,bf52349b
+ENG-Premier League,2021,2020-09-12 Fulham-Arsenal,Fulham,Marek Rodák,SVK,23-274,90,5,3,2,40.0,bf52349b
+ENG-Premier League,2021,2020-09-12 Liverpool-Leeds United,Leeds United,Illan Meslier,FRA,20-194,90,5,4,3,60.0,21b58926
+ENG-Premier League,2021,2020-09-12 Liverpool-Leeds United,Liverpool,Alisson,BRA,27-346,90,3,3,0,0.0,21b58926
+ENG-Premier League,2021,2020-09-12 West Ham United-Newcastle United,Newcastle United,Karl Darlow,WAL,29-340,90,3,0,3,100.0,78495ced
+ENG-Premier League,2021,2020-09-12 West Ham United-Newcastle United,West Ham United,Łukasz Fabiański,POL,35-147,90,3,2,1,33.3,78495ced
+ENG-Premier League,2021,2020-09-13 Tottenham Hotspur-Everton,Everton,Jordan Pickford,ENG,26-190,90,5,0,5,100.0,fc7f9aa1
+ENG-Premier League,2021,2020-09-13 Tottenham Hotspur-Everton,Tottenham Hotspur,Hugo Lloris,FRA,33-262,90,4,1,3,75.0,fc7f9aa1
+ENG-Premier League,2021,2020-09-13 West Brom-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-313,90,1,0,1,100.0,7dd01ca9
+ENG-Premier League,2021,2020-09-13 West Brom-Leicester City,West Bromwich Albion,Sam Johnstone,ENG,27-172,90,5,3,4,80.0,7dd01ca9
+ENG-Premier League,2021,2020-09-14 Brighton-Chelsea,Brighton & Hove Albion,Mathew Ryan,AUS,28-159,90,4,3,2,50.0,9d7641eb
+ENG-Premier League,2021,2020-09-14 Brighton-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,25-347,90,3,1,2,66.7,9d7641eb
+ENG-Premier League,2021,2020-09-14 Sheffield United-Wolves,Sheffield United,Aaron Ramsdale,ENG,22-123,90,4,2,2,50.0,a3eb7a37
+ENG-Premier League,2021,2020-09-14 Sheffield United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-212,90,1,0,1,100.0,a3eb7a37
+ENG-Premier League,2021,2020-09-19 Arsenal-West Ham United,Arsenal,Bernd Leno,GER,28-199,90,3,1,2,66.7,f4835ec2
+ENG-Premier League,2021,2020-09-19 Arsenal-West Ham United,West Ham United,Łukasz Fabiański,POL,35-154,90,3,2,1,33.3,f4835ec2
+ENG-Premier League,2021,2020-09-19 Everton-West Brom,Everton,Jordan Pickford,ENG,26-196,90,4,2,2,50.0,45bd1880
+ENG-Premier League,2021,2020-09-19 Everton-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-178,90,7,5,2,28.6,45bd1880
+ENG-Premier League,2021,2020-09-19 Leeds United-Fulham,Fulham,Alphonse Areola,FRA,27-205,90,6,4,3,50.0,583c2b60
+ENG-Premier League,2021,2020-09-19 Leeds United-Fulham,Leeds United,Illan Meslier,FRA,20-201,90,5,3,3,60.0,583c2b60
+ENG-Premier League,2021,2020-09-19 Manchester Utd-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-253,90,4,1,3,75.0,97279323
+ENG-Premier League,2021,2020-09-19 Manchester Utd-Crystal Palace,Manchester United,David de Gea,ESP,29-317,90,4,3,2,50.0,97279323
+ENG-Premier League,2021,2020-09-20 Chelsea-Liverpool,Chelsea,Kepa Arrizabalaga,ESP,25-353,90,5,2,3,60.0,c64e5792
+ENG-Premier League,2021,2020-09-20 Chelsea-Liverpool,Liverpool,Alisson,BRA,27-354,90,1,0,2,100.0,c64e5792
+ENG-Premier League,2021,2020-09-20 Leicester City-Burnley,Burnley,Nick Pope,ENG,28-154,90,7,4,3,42.9,465b25a8
+ENG-Premier League,2021,2020-09-20 Leicester City-Burnley,Leicester City,Kasper Schmeichel,DEN,33-320,90,5,2,3,60.0,465b25a8
+ENG-Premier League,2021,2020-09-20 Newcastle United-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-165,90,0,0,0,,845f6a86
+ENG-Premier League,2021,2020-09-20 Newcastle United-Brighton,Newcastle United,Karl Darlow,WAL,29-348,90,6,3,4,66.7,845f6a86
+ENG-Premier League,2021,2020-09-20 Southampton-Tottenham Hotspur,Southampton,Alex McCarthy,ENG,30-292,90,6,5,1,16.7,967efd56
+ENG-Premier League,2021,2020-09-20 Southampton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-269,90,6,2,5,83.3,967efd56
+ENG-Premier League,2021,2020-09-21 Aston Villa-Sheffield United,Aston Villa,Emiliano Martínez,ARG,28-019,90,0,0,0,,98b4b5b6
+ENG-Premier League,2021,2020-09-21 Aston Villa-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-130,90,2,1,1,50.0,98b4b5b6
+ENG-Premier League,2021,2020-09-21 Wolves-Manchester City,Manchester City,Ederson,BRA,27-035,90,1,1,0,0.0,1c17eca3
+ENG-Premier League,2021,2020-09-21 Wolves-Manchester City,Wolverhampton Wanderers,Rui Patrício,POR,32-219,90,8,3,6,75.0,1c17eca3
+ENG-Premier League,2021,2020-09-26 Brighton-Manchester Utd,Brighton & Hove Albion,Mathew Ryan,AUS,28-171,90,3,3,1,33.3,21495573
+ENG-Premier League,2021,2020-09-26 Brighton-Manchester Utd,Manchester United,David de Gea,ESP,29-324,90,4,2,3,75.0,21495573
+ENG-Premier League,2021,2020-09-26 Burnley-Southampton,Burnley,Nick Pope,ENG,28-160,90,1,1,0,0.0,ae113c54
+ENG-Premier League,2021,2020-09-26 Burnley-Southampton,Southampton,Alex McCarthy,ENG,30-298,90,2,0,2,100.0,ae113c54
+ENG-Premier League,2021,2020-09-26 Crystal Palace-Everton,Crystal Palace,Vicente Guaita,ESP,33-260,90,4,2,3,75.0,7387a72e
+ENG-Premier League,2021,2020-09-26 Crystal Palace-Everton,Everton,Jordan Pickford,ENG,26-203,90,1,1,0,0.0,7387a72e
+ENG-Premier League,2021,2020-09-26 West Brom-Chelsea,Chelsea,Willy Caballero,ARG,38-364,90,3,3,0,0.0,d725a16c
+ENG-Premier League,2021,2020-09-26 West Brom-Chelsea,West Bromwich Albion,Sam Johnstone,ENG,27-185,90,10,3,7,70.0,d725a16c
+ENG-Premier League,2021,2020-09-27 Manchester City-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-327,90,5,2,3,60.0,31c2a061
+ENG-Premier League,2021,2020-09-27 Manchester City-Leicester City,Manchester City,Ederson,BRA,27-041,90,4,5,2,50.0,31c2a061
+ENG-Premier League,2021,2020-09-27 Sheffield United-Leeds United,Leeds United,Illan Meslier,FRA,20-209,90,4,0,4,100.0,51fb894e
+ENG-Premier League,2021,2020-09-27 Sheffield United-Leeds United,Sheffield United,Aaron Ramsdale,ENG,22-136,90,8,1,7,87.5,51fb894e
+ENG-Premier League,2021,2020-09-27 Tottenham Hotspur-Newcastle United,Newcastle United,Karl Darlow,WAL,29-355,90,12,1,11,91.7,002c4e89
+ENG-Premier League,2021,2020-09-27 Tottenham Hotspur-Newcastle United,Tottenham Hotspur,Hugo Lloris,FRA,33-276,90,0,1,0,,002c4e89
+ENG-Premier League,2021,2020-09-27 West Ham United-Wolves,West Ham United,Łukasz Fabiański,POL,35-162,90,3,0,2,100.0,a223dd70
+ENG-Premier League,2021,2020-09-27 West Ham United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-225,90,8,4,4,50.0,a223dd70
+ENG-Premier League,2021,2020-09-28 Fulham-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-026,90,2,0,2,100.0,6b258be0
+ENG-Premier League,2021,2020-09-28 Fulham-Aston Villa,Fulham,Alphonse Areola,FRA,27-214,90,5,3,2,40.0,6b258be0
+ENG-Premier League,2021,2020-09-28 Liverpool-Arsenal,Arsenal,Bernd Leno,GER,28-208,90,8,3,5,62.5,ebe4e309
+ENG-Premier League,2021,2020-09-28 Liverpool-Arsenal,Liverpool,Alisson,BRA,27-362,90,3,1,2,66.7,ebe4e309
+ENG-Premier League,2021,2020-10-03 Chelsea-Crystal Palace,Chelsea,Edouard Mendy,SEN,28-216,90,0,0,0,,d97aa1b5
+ENG-Premier League,2021,2020-10-03 Chelsea-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-267,90,4,4,2,50.0,d97aa1b5
+ENG-Premier League,2021,2020-10-03 Everton-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-178,90,6,4,2,33.3,3cbb397e
+ENG-Premier League,2021,2020-10-03 Everton-Brighton,Everton,Jordan Pickford,ENG,26-210,90,3,2,1,33.3,3cbb397e
+ENG-Premier League,2021,2020-10-03 Leeds United-Manchester City,Leeds United,Illan Meslier,FRA,20-215,90,2,1,1,50.0,5ce15b58
+ENG-Premier League,2021,2020-10-03 Leeds United-Manchester City,Manchester City,Ederson,BRA,27-047,90,7,1,6,85.7,5ce15b58
+ENG-Premier League,2021,2020-10-03 Newcastle United-Burnley,Burnley,Nick Pope,ENG,28-167,90,4,3,2,50.0,34ba607f
+ENG-Premier League,2021,2020-10-03 Newcastle United-Burnley,Newcastle United,Karl Darlow,WAL,29-361,90,3,1,2,66.7,34ba607f
+ENG-Premier League,2021,2020-10-04 Arsenal-Sheffield United,Arsenal,Bernd Leno,GER,28-214,90,2,1,1,50.0,09725cb3
+ENG-Premier League,2021,2020-10-04 Arsenal-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-143,90,5,2,3,60.0,09725cb3
+ENG-Premier League,2021,2020-10-04 Aston Villa-Liverpool,Aston Villa,Emiliano Martínez,ARG,28-032,90,8,2,6,75.0,14a7771b
+ENG-Premier League,2021,2020-10-04 Aston Villa-Liverpool,Liverpool,Adrián,ESP,33-275,90,11,7,4,36.4,14a7771b
+ENG-Premier League,2021,2020-10-04 Leicester City-West Ham United,Leicester City,Kasper Schmeichel,DEN,33-334,90,6,3,3,50.0,a29866ec
+ENG-Premier League,2021,2020-10-04 Leicester City-West Ham United,West Ham United,Łukasz Fabiański,POL,35-169,90,0,0,0,,a29866ec
+ENG-Premier League,2021,2020-10-04 Manchester Utd-Tottenham Hotspur,Manchester United,David de Gea,ESP,29-332,90,7,6,2,28.6,cded7e69
+ENG-Premier League,2021,2020-10-04 Manchester Utd-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-283,90,1,1,1,100.0,cded7e69
+ENG-Premier League,2021,2020-10-04 Southampton-West Brom,Southampton,Alex McCarthy,ENG,30-306,90,3,0,2,100.0,39864083
+ENG-Premier League,2021,2020-10-04 Southampton-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-193,90,8,2,6,75.0,39864083
+ENG-Premier League,2021,2020-10-04 Wolves-Fulham,Fulham,Alphonse Areola,FRA,27-220,90,5,1,4,80.0,8f989671
+ENG-Premier League,2021,2020-10-04 Wolves-Fulham,Wolverhampton Wanderers,Rui Patrício,POR,32-232,90,2,0,2,100.0,8f989671
+ENG-Premier League,2021,2020-10-17 Chelsea-Southampton,Chelsea,Kepa Arrizabalaga,ESP,26-014,90,6,3,3,50.0,9bd558f5
+ENG-Premier League,2021,2020-10-17 Chelsea-Southampton,Southampton,Alex McCarthy,ENG,30-319,90,5,3,2,40.0,9bd558f5
+ENG-Premier League,2021,2020-10-17 Everton-Liverpool,Everton,Jordan Pickford,ENG,26-224,90,8,2,6,75.0,6da04e2d
+ENG-Premier League,2021,2020-10-17 Everton-Liverpool,Liverpool,Adrián,ESP,33-288,90,5,2,3,60.0,6da04e2d
+ENG-Premier League,2021,2020-10-17 Manchester City-Arsenal,Arsenal,Bernd Leno,GER,28-227,90,5,1,4,80.0,e95b8546
+ENG-Premier League,2021,2020-10-17 Manchester City-Arsenal,Manchester City,Ederson,BRA,27-061,90,3,0,3,100.0,e95b8546
+ENG-Premier League,2021,2020-10-17 Newcastle United-Manchester Utd,Manchester United,David de Gea,ESP,29-345,90,5,1,4,80.0,0b8239de
+ENG-Premier League,2021,2020-10-17 Newcastle United-Manchester Utd,Newcastle United,Karl Darlow,WAL,30-009,90,10,4,7,60.0,0b8239de
+ENG-Premier League,2021,2020-10-18 Crystal Palace-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-193,90,0,1,0,,e96818bc
+ENG-Premier League,2021,2020-10-18 Crystal Palace-Brighton,Crystal Palace,Vicente Guaita,ESP,33-282,90,3,1,2,66.7,e96818bc
+ENG-Premier League,2021,2020-10-18 Leicester City-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-046,90,5,0,5,100.0,7751d8c1
+ENG-Premier League,2021,2020-10-18 Leicester City-Aston Villa,Leicester City,Kasper Schmeichel,DEN,33-348,90,4,1,3,75.0,7751d8c1
+ENG-Premier League,2021,2020-10-18 Sheffield United-Fulham,Fulham,Alphonse Areola,FRA,27-234,90,5,1,5,100.0,5529e7a0
+ENG-Premier League,2021,2020-10-18 Sheffield United-Fulham,Sheffield United,Aaron Ramsdale,ENG,22-157,90,6,1,5,83.3,5529e7a0
+ENG-Premier League,2021,2020-10-18 Tottenham Hotspur-West Ham United,Tottenham Hotspur,Hugo Lloris,FRA,33-297,90,5,3,2,40.0,17f0eec9
+ENG-Premier League,2021,2020-10-18 Tottenham Hotspur-West Ham United,West Ham United,Łukasz Fabiański,POL,35-183,90,6,3,3,50.0,17f0eec9
+ENG-Premier League,2021,2020-10-19 Leeds United-Wolves,Leeds United,Illan Meslier,FRA,20-231,90,3,1,2,66.7,6a2c4518
+ENG-Premier League,2021,2020-10-19 Leeds United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-247,90,2,0,2,100.0,6a2c4518
+ENG-Premier League,2021,2020-10-19 West Brom-Burnley,Burnley,Nick Pope,ENG,28-183,90,6,0,6,100.0,13f3ae88
+ENG-Premier League,2021,2020-10-19 West Brom-Burnley,West Bromwich Albion,Sam Johnstone,ENG,27-208,90,4,0,4,100.0,13f3ae88
+ENG-Premier League,2021,2020-10-23 Aston Villa-Leeds United,Aston Villa,Emiliano Martínez,ARG,28-051,90,9,3,6,66.7,873ab775
+ENG-Premier League,2021,2020-10-23 Aston Villa-Leeds United,Leeds United,Illan Meslier,FRA,20-235,90,3,0,3,100.0,873ab775
+ENG-Premier League,2021,2020-10-24 Fulham-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-288,90,3,1,2,66.7,8d896969
+ENG-Premier League,2021,2020-10-24 Fulham-Crystal Palace,Fulham,Alphonse Areola,FRA,27-240,90,10,2,8,80.0,8d896969
+ENG-Premier League,2021,2020-10-24 Liverpool-Sheffield United,Liverpool,Alisson,BRA,28-022,90,1,1,1,100.0,0bc8d984
+ENG-Premier League,2021,2020-10-24 Liverpool-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-163,90,5,2,3,60.0,0bc8d984
+ENG-Premier League,2021,2020-10-24 Manchester Utd-Chelsea,Chelsea,Edouard Mendy,SEN,28-237,90,4,0,4,100.0,3aaf7c62
+ENG-Premier League,2021,2020-10-24 Manchester Utd-Chelsea,Manchester United,David de Gea,ESP,29-352,90,1,0,1,100.0,3aaf7c62
+ENG-Premier League,2021,2020-10-24 West Ham United-Manchester City,Manchester City,Ederson,BRA,27-068,90,2,1,1,50.0,2b0c0eca
+ENG-Premier League,2021,2020-10-24 West Ham United-Manchester City,West Ham United,Łukasz Fabiański,POL,35-189,90,7,1,6,85.7,2b0c0eca
+ENG-Premier League,2021,2020-10-25 Arsenal-Leicester City,Arsenal,Bernd Leno,GER,28-235,90,2,1,1,50.0,bcd3a9b4
+ENG-Premier League,2021,2020-10-25 Arsenal-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-355,90,4,0,4,100.0,bcd3a9b4
+ENG-Premier League,2021,2020-10-25 Southampton-Everton,Everton,Jordan Pickford,ENG,26-232,90,6,2,4,66.7,6439c025
+ENG-Premier League,2021,2020-10-25 Southampton-Everton,Southampton,Alex McCarthy,ENG,30-327,90,2,0,2,100.0,6439c025
+ENG-Premier League,2021,2020-10-25 Wolves-Newcastle United,Newcastle United,Karl Darlow,WAL,30-017,90,4,1,3,75.0,76661e3c
+ENG-Premier League,2021,2020-10-25 Wolves-Newcastle United,Wolverhampton Wanderers,Rui Patrício,POR,32-253,90,2,1,1,50.0,76661e3c
+ENG-Premier League,2021,2020-10-26 Brighton-West Brom,Brighton & Hove Albion,Mathew Ryan,AUS,28-201,90,3,1,2,66.7,26452511
+ENG-Premier League,2021,2020-10-26 Brighton-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-215,90,4,1,3,75.0,26452511
+ENG-Premier League,2021,2020-10-26 Burnley-Tottenham Hotspur,Burnley,Nick Pope,ENG,28-190,90,3,1,2,66.7,4931660e
+ENG-Premier League,2021,2020-10-26 Burnley-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-305,90,3,0,3,100.0,4931660e
+ENG-Premier League,2021,2020-10-30 Wolves-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-294,90,5,2,3,60.0,e1741638
+ENG-Premier League,2021,2020-10-30 Wolves-Crystal Palace,Wolverhampton Wanderers,Rui Patrício,POR,32-258,90,2,0,2,100.0,e1741638
+ENG-Premier League,2021,2020-10-31 Burnley-Chelsea,Burnley,Nick Pope,ENG,28-195,90,9,3,6,66.7,0f158c5c
+ENG-Premier League,2021,2020-10-31 Burnley-Chelsea,Chelsea,Edouard Mendy,SEN,28-244,90,0,0,0,,0f158c5c
+ENG-Premier League,2021,2020-10-31 Liverpool-West Ham United,Liverpool,Alisson,BRA,28-029,90,3,1,2,66.7,56ad8025
+ENG-Premier League,2021,2020-10-31 Liverpool-West Ham United,West Ham United,Łukasz Fabiański,POL,35-196,90,5,2,4,80.0,56ad8025
+ENG-Premier League,2021,2020-10-31 Sheffield United-Manchester City,Manchester City,Ederson,BRA,27-075,90,1,0,1,100.0,9aadc93d
+ENG-Premier League,2021,2020-10-31 Sheffield United-Manchester City,Sheffield United,Aaron Ramsdale,ENG,22-170,90,8,1,7,87.5,9aadc93d
+ENG-Premier League,2021,2020-11-01 Aston Villa-Southampton,Aston Villa,Emiliano Martínez,ARG,28-060,90,4,4,0,0.0,235264ac
+ENG-Premier League,2021,2020-11-01 Aston Villa-Southampton,Southampton,Alex McCarthy,ENG,30-334,90,9,3,7,77.8,235264ac
+ENG-Premier League,2021,2020-11-01 Manchester Utd-Arsenal,Arsenal,Bernd Leno,GER,28-242,90,3,0,2,100.0,75dd1359
+ENG-Premier League,2021,2020-11-01 Manchester Utd-Arsenal,Manchester United,David de Gea,ESP,29-360,90,1,1,1,100.0,75dd1359
+ENG-Premier League,2021,2020-11-01 Newcastle United-Everton,Everton,Robin Olsen,SWE,30-298,90,3,2,2,66.7,448a43ee
+ENG-Premier League,2021,2020-11-01 Newcastle United-Everton,Newcastle United,Karl Darlow,WAL,30-024,90,4,1,3,75.0,448a43ee
+ENG-Premier League,2021,2020-11-01 Tottenham Hotspur-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,22-349,90,3,2,2,66.7,1d01ff0c
+ENG-Premier League,2021,2020-11-01 Tottenham Hotspur-Brighton,Tottenham Hotspur,Hugo Lloris,FRA,33-311,90,2,1,1,50.0,1d01ff0c
+ENG-Premier League,2021,2020-11-02 Fulham-West Brom,Fulham,Alphonse Areola,FRA,27-249,90,1,0,1,100.0,f2b91282
+ENG-Premier League,2021,2020-11-02 Fulham-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-222,90,4,2,2,50.0,f2b91282
+ENG-Premier League,2021,2020-11-02 Leeds United-Leicester City,Leeds United,Illan Meslier,FRA,20-245,90,7,4,4,57.1,55d775ec
+ENG-Premier League,2021,2020-11-02 Leeds United-Leicester City,Leicester City,Kasper Schmeichel,DEN,33-363,90,4,1,3,75.0,55d775ec
+ENG-Premier League,2021,2020-11-06 Brighton-Burnley,Brighton & Hove Albion,Mathew Ryan,AUS,28-212,90,1,0,1,100.0,c23d7844
+ENG-Premier League,2021,2020-11-06 Brighton-Burnley,Burnley,Nick Pope,ENG,28-201,90,3,0,3,100.0,c23d7844
+ENG-Premier League,2021,2020-11-06 Southampton-Newcastle United,Newcastle United,Karl Darlow,WAL,30-029,90,7,2,5,71.4,4117b695
+ENG-Premier League,2021,2020-11-06 Southampton-Newcastle United,Southampton,Alex McCarthy,ENG,30-339,90,2,0,2,100.0,4117b695
+ENG-Premier League,2021,2020-11-07 Chelsea-Sheffield United,Chelsea,Edouard Mendy,SEN,28-251,90,3,1,2,66.7,089916ee
+ENG-Premier League,2021,2020-11-07 Chelsea-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-177,90,9,4,5,55.6,089916ee
+ENG-Premier League,2021,2020-11-07 Crystal Palace-Leeds United,Crystal Palace,Vicente Guaita,ESP,33-302,90,3,1,2,66.7,527aee54
+ENG-Premier League,2021,2020-11-07 Crystal Palace-Leeds United,Leeds United,Illan Meslier,FRA,20-250,90,7,4,3,42.9,527aee54
+ENG-Premier League,2021,2020-11-07 Everton-Manchester Utd,Everton,Jordan Pickford,ENG,26-245,90,5,3,2,40.0,ab9f408d
+ENG-Premier League,2021,2020-11-07 Everton-Manchester Utd,Manchester United,David de Gea,ESP,30-000,90,1,1,0,0.0,ab9f408d
+ENG-Premier League,2021,2020-11-07 West Ham United-Fulham,Fulham,Alphonse Areola,FRA,27-254,90,7,1,6,85.7,f075fddc
+ENG-Premier League,2021,2020-11-07 West Ham United-Fulham,West Ham United,Łukasz Fabiański,POL,35-203,90,1,0,2,100.0,f075fddc
+ENG-Premier League,2021,2020-11-08 Arsenal-Aston Villa,Arsenal,Bernd Leno,GER,28-249,90,6,3,3,50.0,90fd3597
+ENG-Premier League,2021,2020-11-08 Arsenal-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-067,90,2,0,2,100.0,90fd3597
+ENG-Premier League,2021,2020-11-08 Leicester City-Wolves,Leicester City,Kasper Schmeichel,DEN,34-003,90,2,0,2,100.0,8407be08
+ENG-Premier League,2021,2020-11-08 Leicester City-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-267,90,0,1,1,,8407be08
+ENG-Premier League,2021,2020-11-08 Manchester City-Liverpool,Liverpool,Alisson,BRA,28-037,90,2,1,1,50.0,26382194
+ENG-Premier League,2021,2020-11-08 Manchester City-Liverpool,Manchester City,Ederson,BRA,27-083,90,2,1,2,100.0,26382194
+ENG-Premier League,2021,2020-11-08 West Brom-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-318,90,2,0,2,100.0,90c0e34c
+ENG-Premier League,2021,2020-11-08 West Brom-Tottenham Hotspur,West Bromwich Albion,Sam Johnstone,ENG,27-228,90,5,1,4,80.0,90c0e34c
+ENG-Premier League,2021,2020-11-21 Aston Villa-Brighton,Aston Villa,Emiliano Martínez,ARG,28-080,90,3,2,1,33.3,dea0df40
+ENG-Premier League,2021,2020-11-21 Aston Villa-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-227,90,4,1,3,75.0,dea0df40
+ENG-Premier League,2021,2020-11-21 Manchester Utd-West Brom,Manchester United,David de Gea,ESP,30-014,90,2,0,2,100.0,50004f43
+ENG-Premier League,2021,2020-11-21 Manchester Utd-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-241,90,4,1,5,100.0,50004f43
+ENG-Premier League,2021,2020-11-21 Newcastle United-Chelsea,Chelsea,Edouard Mendy,SEN,28-265,90,1,0,1,100.0,dbcba6c6
+ENG-Premier League,2021,2020-11-21 Newcastle United-Chelsea,Newcastle United,Karl Darlow,WAL,30-044,90,4,2,2,50.0,dbcba6c6
+ENG-Premier League,2021,2020-11-21 Tottenham Hotspur-Manchester City,Manchester City,Ederson,BRA,27-096,90,2,2,0,0.0,8a038069
+ENG-Premier League,2021,2020-11-21 Tottenham Hotspur-Manchester City,Tottenham Hotspur,Hugo Lloris,FRA,33-331,90,5,0,5,100.0,8a038069
+ENG-Premier League,2021,2020-11-22 Fulham-Everton,Everton,Jordan Pickford,ENG,26-260,90,6,2,4,66.7,13524225
+ENG-Premier League,2021,2020-11-22 Fulham-Everton,Fulham,Alphonse Areola,FRA,27-269,90,7,3,4,57.1,13524225
+ENG-Premier League,2021,2020-11-22 Leeds United-Arsenal,Arsenal,Bernd Leno,GER,28-263,90,4,0,4,100.0,0dd6b39b
+ENG-Premier League,2021,2020-11-22 Leeds United-Arsenal,Leeds United,Illan Meslier,FRA,20-265,90,2,0,2,100.0,0dd6b39b
+ENG-Premier League,2021,2020-11-22 Liverpool-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-017,90,12,3,9,75.0,cc230451
+ENG-Premier League,2021,2020-11-22 Liverpool-Leicester City,Liverpool,Alisson,BRA,28-051,90,4,0,4,100.0,cc230451
+ENG-Premier League,2021,2020-11-22 Sheffield United-West Ham United,Sheffield United,Aaron Ramsdale,ENG,22-192,90,3,1,2,66.7,8ed7d991
+ENG-Premier League,2021,2020-11-22 Sheffield United-West Ham United,West Ham United,Łukasz Fabiański,POL,35-218,90,5,0,5,100.0,8ed7d991
+ENG-Premier League,2021,2020-11-23 Burnley-Crystal Palace,Burnley,Nick Pope,ENG,28-218,90,5,0,5,100.0,1dde1d03
+ENG-Premier League,2021,2020-11-23 Burnley-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-318,90,4,1,3,75.0,1dde1d03
+ENG-Premier League,2021,2020-11-23 Wolves-Southampton,Southampton,Alex McCarthy,ENG,30-356,90,9,1,8,88.9,e5bfd125
+ENG-Premier League,2021,2020-11-23 Wolves-Southampton,Wolverhampton Wanderers,Rui Patrício,POR,32-282,90,2,1,1,50.0,e5bfd125
+ENG-Premier League,2021,2020-11-27 Crystal Palace-Newcastle United,Crystal Palace,Vicente Guaita,ESP,33-322,90,7,2,5,71.4,0d5962be
+ENG-Premier League,2021,2020-11-27 Crystal Palace-Newcastle United,Newcastle United,Karl Darlow,WAL,30-050,90,3,0,3,100.0,0d5962be
+ENG-Premier League,2021,2020-11-28 Brighton-Liverpool,Brighton & Hove Albion,Mathew Ryan,AUS,28-234,90,2,1,1,50.0,31baf354
+ENG-Premier League,2021,2020-11-28 Brighton-Liverpool,Liverpool,Alisson,BRA,28-057,90,2,1,2,100.0,31baf354
+ENG-Premier League,2021,2020-11-28 Everton-Leeds United,Everton,Jordan Pickford,ENG,26-266,90,6,1,5,83.3,3eeb39c5
+ENG-Premier League,2021,2020-11-28 Everton-Leeds United,Leeds United,Illan Meslier,FRA,20-271,90,8,0,8,100.0,3eeb39c5
+ENG-Premier League,2021,2020-11-28 Manchester City-Burnley,Burnley,Bailey Peacock-Farrell,NIR,24-030,90,6,5,1,16.7,2069ffbc
+ENG-Premier League,2021,2020-11-28 Manchester City-Burnley,Manchester City,Ederson,BRA,27-103,90,1,0,1,100.0,2069ffbc
+ENG-Premier League,2021,2020-11-28 West Brom-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-198,90,6,1,5,83.3,bd68404c
+ENG-Premier League,2021,2020-11-28 West Brom-Sheffield United,West Bromwich Albion,Sam Johnstone,ENG,27-248,90,6,0,6,100.0,bd68404c
+ENG-Premier League,2021,2020-11-29 Arsenal-Wolves,Arsenal,Bernd Leno,GER,28-270,90,5,2,3,60.0,fa17687c
+ENG-Premier League,2021,2020-11-29 Arsenal-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-288,90,2,1,1,50.0,fa17687c
+ENG-Premier League,2021,2020-11-29 Chelsea-Tottenham Hotspur,Chelsea,Edouard Mendy,SEN,28-273,90,1,0,1,100.0,58306243
+ENG-Premier League,2021,2020-11-29 Chelsea-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-339,90,3,0,3,100.0,58306243
+ENG-Premier League,2021,2020-11-29 Southampton-Manchester Utd,Manchester United,David de Gea,ESP,30-022,45,3,2,1,33.3,e0a84e7e
+ENG-Premier League,2021,2020-11-29 Southampton-Manchester Utd,Manchester United,Dean Henderson,ENG,23-262,45,2,0,2,100.0,e0a84e7e
+ENG-Premier League,2021,2020-11-29 Southampton-Manchester Utd,Southampton,Alex McCarthy,ENG,30-362,90,6,3,3,50.0,e0a84e7e
+ENG-Premier League,2021,2020-11-30 Leicester City-Fulham,Fulham,Alphonse Areola,FRA,27-277,90,3,1,2,66.7,ae493b10
+ENG-Premier League,2021,2020-11-30 Leicester City-Fulham,Leicester City,Kasper Schmeichel,DEN,34-025,90,4,2,3,75.0,ae493b10
+ENG-Premier League,2021,2020-11-30 West Ham United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-089,90,2,2,0,0.0,2f67603c
+ENG-Premier League,2021,2020-11-30 West Ham United-Aston Villa,West Ham United,Łukasz Fabiański,POL,35-226,90,6,1,5,83.3,2f67603c
+ENG-Premier League,2021,2020-12-05 Burnley-Everton,Burnley,Nick Pope,ENG,28-230,90,6,1,5,83.3,399c7e1c
+ENG-Premier League,2021,2020-12-05 Burnley-Everton,Everton,Jordan Pickford,ENG,26-273,90,3,1,2,66.7,399c7e1c
+ENG-Premier League,2021,2020-12-05 Chelsea-Leeds United,Chelsea,Edouard Mendy,SEN,28-279,90,3,1,2,66.7,419abbc0
+ENG-Premier League,2021,2020-12-05 Chelsea-Leeds United,Leeds United,Illan Meslier,FRA,20-278,90,10,3,7,70.0,419abbc0
+ENG-Premier League,2021,2020-12-05 Manchester City-Fulham,Fulham,Alphonse Areola,FRA,27-282,90,5,2,4,80.0,887dfef6
+ENG-Premier League,2021,2020-12-05 Manchester City-Fulham,Manchester City,Ederson,BRA,27-110,90,1,0,1,100.0,887dfef6
+ENG-Premier League,2021,2020-12-05 West Ham United-Manchester Utd,Manchester United,Dean Henderson,ENG,23-268,90,6,1,5,83.3,c2206b97
+ENG-Premier League,2021,2020-12-05 West Ham United-Manchester Utd,West Ham United,Łukasz Fabiański,POL,35-231,90,6,3,3,50.0,c2206b97
+ENG-Premier League,2021,2020-12-06 Liverpool-Wolves,Liverpool,Caoimhín Kelleher,IRL,22-013,90,3,0,3,100.0,25249736
+ENG-Premier League,2021,2020-12-06 Liverpool-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-295,90,7,4,3,42.9,25249736
+ENG-Premier League,2021,2020-12-06 Sheffield United-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-031,90,1,1,0,0.0,c1c08638
+ENG-Premier League,2021,2020-12-06 Sheffield United-Leicester City,Sheffield United,Aaron Ramsdale,ENG,22-206,90,4,2,2,50.0,c1c08638
+ENG-Premier League,2021,2020-12-06 Tottenham Hotspur-Arsenal,Arsenal,Bernd Leno,GER,28-277,90,3,2,1,33.3,35abfa2f
+ENG-Premier League,2021,2020-12-06 Tottenham Hotspur-Arsenal,Tottenham Hotspur,Hugo Lloris,FRA,33-346,90,2,0,2,100.0,35abfa2f
+ENG-Premier League,2021,2020-12-06 West Brom-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-331,90,4,1,3,75.0,ac9d70e3
+ENG-Premier League,2021,2020-12-06 West Brom-Crystal Palace,West Bromwich Albion,Sam Johnstone,ENG,27-256,90,7,5,2,28.6,ac9d70e3
+ENG-Premier League,2021,2020-12-07 Brighton-Southampton,Brighton & Hove Albion,Mathew Ryan,AUS,28-243,90,2,2,1,50.0,32356abc
+ENG-Premier League,2021,2020-12-07 Brighton-Southampton,Southampton,Alex McCarthy,ENG,31-004,90,3,1,3,100.0,32356abc
+ENG-Premier League,2021,2020-12-11 Leeds United-West Ham United,Leeds United,Illan Meslier,FRA,20-284,90,8,2,6,75.0,2d36ffad
+ENG-Premier League,2021,2020-12-11 Leeds United-West Ham United,West Ham United,Łukasz Fabiański,POL,35-237,90,4,1,5,100.0,2d36ffad
+ENG-Premier League,2021,2020-12-12 Everton-Chelsea,Chelsea,Edouard Mendy,SEN,28-286,90,3,1,3,100.0,4847e3c3
+ENG-Premier League,2021,2020-12-12 Everton-Chelsea,Everton,Jordan Pickford,ENG,26-280,90,3,0,3,100.0,4847e3c3
+ENG-Premier League,2021,2020-12-12 Manchester Utd-Manchester City,Manchester City,Ederson,BRA,27-117,90,2,0,2,100.0,85cc70bb
+ENG-Premier League,2021,2020-12-12 Manchester Utd-Manchester City,Manchester United,David de Gea,ESP,30-035,90,2,0,2,100.0,85cc70bb
+ENG-Premier League,2021,2020-12-12 Newcastle United-West Brom,Newcastle United,Karl Darlow,WAL,30-065,90,3,1,2,66.7,4a2a6f14
+ENG-Premier League,2021,2020-12-12 Newcastle United-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-262,90,6,2,4,66.7,4a2a6f14
+ENG-Premier League,2021,2020-12-12 Wolves-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-101,90,7,0,7,100.0,f809a014
+ENG-Premier League,2021,2020-12-12 Wolves-Aston Villa,Wolverhampton Wanderers,Rui Patrício,POR,32-301,90,1,1,1,100.0,f809a014
+ENG-Premier League,2021,2020-12-13 Arsenal-Burnley,Arsenal,Bernd Leno,GER,28-284,90,3,1,2,66.7,e4dc55d0
+ENG-Premier League,2021,2020-12-13 Arsenal-Burnley,Burnley,Nick Pope,ENG,28-238,90,6,0,6,100.0,e4dc55d0
+ENG-Premier League,2021,2020-12-13 Crystal Palace-Tottenham Hotspur,Crystal Palace,Vicente Guaita,ESP,33-338,90,6,1,5,83.3,9b0e267e
+ENG-Premier League,2021,2020-12-13 Crystal Palace-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-353,90,5,1,4,80.0,9b0e267e
+ENG-Premier League,2021,2020-12-13 Fulham-Liverpool,Fulham,Alphonse Areola,FRA,27-290,90,5,1,5,100.0,5abb0bd1
+ENG-Premier League,2021,2020-12-13 Fulham-Liverpool,Liverpool,Alisson,BRA,28-072,90,5,1,4,80.0,5abb0bd1
+ENG-Premier League,2021,2020-12-13 Leicester City-Brighton,Brighton & Hove Albion,Mathew Ryan,AUS,28-249,90,6,3,3,50.0,964e6470
+ENG-Premier League,2021,2020-12-13 Leicester City-Brighton,Leicester City,Kasper Schmeichel,DEN,34-038,90,4,0,4,100.0,964e6470
+ENG-Premier League,2021,2020-12-13 Southampton-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-213,90,6,3,3,50.0,9bec56c6
+ENG-Premier League,2021,2020-12-13 Southampton-Sheffield United,Southampton,Alex McCarthy,ENG,31-010,90,0,0,0,,9bec56c6
+ENG-Premier League,2021,2020-12-15 Manchester City-West Brom,Manchester City,Ederson,BRA,27-120,90,2,1,1,50.0,40b42ca1
+ENG-Premier League,2021,2020-12-15 Manchester City-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-265,90,7,1,6,85.7,40b42ca1
+ENG-Premier League,2021,2020-12-15 Wolves-Chelsea,Chelsea,Edouard Mendy,SEN,28-289,90,4,2,2,50.0,20bd0665
+ENG-Premier League,2021,2020-12-15 Wolves-Chelsea,Wolverhampton Wanderers,Rui Patrício,POR,32-304,90,3,1,2,66.7,20bd0665
+ENG-Premier League,2021,2020-12-16 Arsenal-Southampton,Arsenal,Bernd Leno,GER,28-287,90,3,1,2,66.7,0ceceee4
+ENG-Premier League,2021,2020-12-16 Arsenal-Southampton,Southampton,Alex McCarthy,ENG,31-013,90,5,1,4,80.0,0ceceee4
+ENG-Premier League,2021,2020-12-16 Fulham-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-028,90,4,0,4,100.0,eb73d532
+ENG-Premier League,2021,2020-12-16 Fulham-Brighton,Fulham,Alphonse Areola,FRA,27-293,90,4,0,4,100.0,eb73d532
+ENG-Premier League,2021,2020-12-16 Leeds United-Newcastle United,Leeds United,Illan Meslier,FRA,20-289,90,4,2,2,50.0,b52c441b
+ENG-Premier League,2021,2020-12-16 Leeds United-Newcastle United,Newcastle United,Karl Darlow,WAL,30-069,90,10,5,5,50.0,b52c441b
+ENG-Premier League,2021,2020-12-16 Leicester City-Everton,Everton,Robin Olsen,SWE,30-343,90,2,0,2,100.0,b30c816c
+ENG-Premier League,2021,2020-12-16 Leicester City-Everton,Leicester City,Kasper Schmeichel,DEN,34-041,90,6,2,4,66.7,b30c816c
+ENG-Premier League,2021,2020-12-16 Liverpool-Tottenham Hotspur,Liverpool,Alisson,BRA,28-075,90,2,1,1,50.0,966f86fe
+ENG-Premier League,2021,2020-12-16 Liverpool-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,33-356,90,11,2,9,81.8,966f86fe
+ENG-Premier League,2021,2020-12-16 West Ham United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-341,90,2,1,1,50.0,98bf02e0
+ENG-Premier League,2021,2020-12-16 West Ham United-Crystal Palace,West Ham United,Łukasz Fabiański,POL,35-242,90,2,1,1,50.0,98bf02e0
+ENG-Premier League,2021,2020-12-17 Aston Villa-Burnley,Aston Villa,Emiliano Martínez,ARG,28-106,90,4,0,4,100.0,5d89f60c
+ENG-Premier League,2021,2020-12-17 Aston Villa-Burnley,Burnley,Nick Pope,ENG,28-242,90,6,0,6,100.0,5d89f60c
+ENG-Premier League,2021,2020-12-17 Sheffield United-Manchester Utd,Manchester United,Dean Henderson,ENG,23-280,90,6,2,4,66.7,3b3cc5f6
+ENG-Premier League,2021,2020-12-17 Sheffield United-Manchester Utd,Sheffield United,Aaron Ramsdale,ENG,22-217,90,7,3,4,57.1,3b3cc5f6
+ENG-Premier League,2021,2020-12-19 Crystal Palace-Liverpool,Crystal Palace,Vicente Guaita,ESP,33-344,90,7,7,0,0.0,d05715a8
+ENG-Premier League,2021,2020-12-19 Crystal Palace-Liverpool,Liverpool,Alisson,BRA,28-078,90,3,0,3,100.0,d05715a8
+ENG-Premier League,2021,2020-12-19 Everton-Arsenal,Arsenal,Bernd Leno,GER,28-290,90,3,2,1,33.3,72fa1993
+ENG-Premier League,2021,2020-12-19 Everton-Arsenal,Everton,Jordan Pickford,ENG,26-287,90,1,1,1,100.0,72fa1993
+ENG-Premier League,2021,2020-12-19 Newcastle United-Fulham,Fulham,Alphonse Areola,FRA,27-296,90,4,1,4,100.0,3ae84056
+ENG-Premier League,2021,2020-12-19 Newcastle United-Fulham,Newcastle United,Karl Darlow,WAL,30-072,90,5,1,4,80.0,3ae84056
+ENG-Premier League,2021,2020-12-19 Southampton-Manchester City,Manchester City,Ederson,BRA,27-124,90,3,0,3,100.0,8d4a02ae
+ENG-Premier League,2021,2020-12-19 Southampton-Manchester City,Southampton,Alex McCarthy,ENG,31-016,90,5,1,4,80.0,8d4a02ae
+ENG-Premier League,2021,2020-12-20 Brighton-Sheffield United,Brighton & Hove Albion,Robert Sánchez,ESP,23-032,90,3,1,2,66.7,d1273e90
+ENG-Premier League,2021,2020-12-20 Brighton-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-220,90,4,1,3,75.0,d1273e90
+ENG-Premier League,2021,2020-12-20 Manchester Utd-Leeds United,Leeds United,Illan Meslier,FRA,20-293,90,13,6,8,61.5,b7ab53b3
+ENG-Premier League,2021,2020-12-20 Manchester Utd-Leeds United,Manchester United,David de Gea,ESP,30-043,90,3,2,1,33.3,b7ab53b3
+ENG-Premier League,2021,2020-12-20 Tottenham Hotspur-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-045,90,3,0,3,100.0,56ffe356
+ENG-Premier League,2021,2020-12-20 Tottenham Hotspur-Leicester City,Tottenham Hotspur,Hugo Lloris,FRA,33-360,90,4,2,3,75.0,56ffe356
+ENG-Premier League,2021,2020-12-20 West Brom-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-109,90,1,0,1,100.0,4bbe55ff
+ENG-Premier League,2021,2020-12-20 West Brom-Aston Villa,West Bromwich Albion,Sam Johnstone,ENG,27-270,90,9,3,7,77.8,4bbe55ff
+ENG-Premier League,2021,2020-12-21 Burnley-Wolves,Burnley,Nick Pope,ENG,28-246,90,2,1,2,100.0,4e106790
+ENG-Premier League,2021,2020-12-21 Burnley-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-310,90,4,2,2,50.0,4e106790
+ENG-Premier League,2021,2020-12-21 Chelsea-West Ham United,Chelsea,Edouard Mendy,SEN,28-295,90,0,0,0,,9a718e42
+ENG-Premier League,2021,2020-12-21 Chelsea-West Ham United,West Ham United,Łukasz Fabiański,POL,35-247,90,7,3,4,57.1,9a718e42
+ENG-Premier League,2021,2020-12-26 Arsenal-Chelsea,Arsenal,Bernd Leno,GER,28-297,90,1,1,1,0.0,c5de8a0c
+ENG-Premier League,2021,2020-12-26 Arsenal-Chelsea,Chelsea,Edouard Mendy,SEN,28-300,90,6,3,4,66.7,c5de8a0c
+ENG-Premier League,2021,2020-12-26 Aston Villa-Crystal Palace,Aston Villa,Emiliano Martínez,ARG,28-115,90,6,0,6,100.0,537b6ef8
+ENG-Premier League,2021,2020-12-26 Aston Villa-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,33-351,90,10,3,7,70.0,537b6ef8
+ENG-Premier League,2021,2020-12-26 Fulham-Southampton,Fulham,Alphonse Areola,FRA,27-303,90,2,0,2,100.0,cf86c208
+ENG-Premier League,2021,2020-12-26 Fulham-Southampton,Southampton,Alex McCarthy,ENG,31-023,90,1,0,1,100.0,cf86c208
+ENG-Premier League,2021,2020-12-26 Leicester City-Manchester Utd,Leicester City,Kasper Schmeichel,DEN,34-051,90,4,2,2,50.0,33c8b5c8
+ENG-Premier League,2021,2020-12-26 Leicester City-Manchester Utd,Manchester United,David de Gea,ESP,30-049,90,3,2,1,33.3,33c8b5c8
+ENG-Premier League,2021,2020-12-26 Manchester City-Newcastle United,Manchester City,Ederson,BRA,27-131,90,2,0,2,100.0,c1c40b30
+ENG-Premier League,2021,2020-12-26 Manchester City-Newcastle United,Newcastle United,Karl Darlow,WAL,30-079,90,6,2,4,66.7,c1c40b30
+ENG-Premier League,2021,2020-12-26 Sheffield United-Everton,Everton,Jordan Pickford,ENG,26-294,90,1,0,1,100.0,870d9436
+ENG-Premier League,2021,2020-12-26 Sheffield United-Everton,Sheffield United,Aaron Ramsdale,ENG,22-226,90,3,1,2,66.7,870d9436
+ENG-Premier League,2021,2020-12-27 Leeds United-Burnley,Burnley,Nick Pope,ENG,28-252,90,3,1,3,100.0,d54f6293
+ENG-Premier League,2021,2020-12-27 Leeds United-Burnley,Leeds United,Illan Meslier,FRA,20-300,90,6,0,6,100.0,d54f6293
+ENG-Premier League,2021,2020-12-27 Liverpool-West Brom,Liverpool,Alisson,BRA,28-086,90,3,1,2,66.7,daa09f69
+ENG-Premier League,2021,2020-12-27 Liverpool-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-277,90,2,1,1,50.0,daa09f69
+ENG-Premier League,2021,2020-12-27 West Ham United-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-039,90,4,2,2,50.0,7ba8c6e9
+ENG-Premier League,2021,2020-12-27 West Ham United-Brighton,West Ham United,Łukasz Fabiański,POL,35-253,90,4,2,2,50.0,7ba8c6e9
+ENG-Premier League,2021,2020-12-27 Wolves-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-001,90,6,1,5,83.3,f50faef3
+ENG-Premier League,2021,2020-12-27 Wolves-Tottenham Hotspur,Wolverhampton Wanderers,Rui Patrício,POR,32-316,90,3,1,2,66.7,f50faef3
+ENG-Premier League,2021,2020-12-28 Chelsea-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-117,90,5,1,4,80.0,ac7d1071
+ENG-Premier League,2021,2020-12-28 Chelsea-Aston Villa,Chelsea,Edouard Mendy,SEN,28-302,90,2,1,1,50.0,ac7d1071
+ENG-Premier League,2021,2020-12-28 Crystal Palace-Leicester City,Crystal Palace,Vicente Guaita,ESP,33-353,90,1,1,1,0.0,77437741
+ENG-Premier League,2021,2020-12-28 Crystal Palace-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-053,90,1,1,0,0.0,77437741
+ENG-Premier League,2021,2020-12-29 Brighton-Arsenal,Arsenal,Bernd Leno,GER,28-300,90,2,0,2,100.0,fdca0bef
+ENG-Premier League,2021,2020-12-29 Brighton-Arsenal,Brighton & Hove Albion,Robert Sánchez,ESP,23-041,90,3,1,2,66.7,fdca0bef
+ENG-Premier League,2021,2020-12-29 Burnley-Sheffield United,Burnley,Nick Pope,ENG,28-254,90,2,0,2,100.0,b33de500
+ENG-Premier League,2021,2020-12-29 Burnley-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-229,90,3,1,2,66.7,b33de500
+ENG-Premier League,2021,2020-12-29 Manchester Utd-Wolves,Manchester United,David de Gea,ESP,30-052,90,5,0,5,100.0,a8d659e4
+ENG-Premier League,2021,2020-12-29 Manchester Utd-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-318,90,3,1,2,66.7,a8d659e4
+ENG-Premier League,2021,2020-12-29 Southampton-West Ham United,Southampton,Alex McCarthy,ENG,31-026,90,3,0,3,100.0,7577b54b
+ENG-Premier League,2021,2020-12-29 Southampton-West Ham United,West Ham United,Łukasz Fabiański,POL,35-255,90,3,0,3,100.0,7577b54b
+ENG-Premier League,2021,2020-12-29 West Brom-Leeds United,Leeds United,Illan Meslier,FRA,20-302,90,1,0,1,100.0,21f2b720
+ENG-Premier League,2021,2020-12-29 West Brom-Leeds United,West Bromwich Albion,Sam Johnstone,ENG,27-279,90,7,5,2,28.6,21f2b720
+ENG-Premier League,2021,2020-12-30 Newcastle United-Liverpool,Liverpool,Alisson,BRA,28-089,90,2,0,2,100.0,385cda3f
+ENG-Premier League,2021,2020-12-30 Newcastle United-Liverpool,Newcastle United,Karl Darlow,WAL,30-083,90,4,0,4,100.0,385cda3f
+ENG-Premier League,2021,2021-01-01 Everton-West Ham United,Everton,Jordan Pickford,ENG,26-300,90,5,1,4,80.0,0cd189c5
+ENG-Premier League,2021,2021-01-01 Everton-West Ham United,West Ham United,Darren Randolph,IRL,33-234,90,2,0,2,100.0,0cd189c5
+ENG-Premier League,2021,2021-01-01 Manchester Utd-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-121,90,8,2,7,87.5,0ae3a66d
+ENG-Premier League,2021,2021-01-01 Manchester Utd-Aston Villa,Manchester United,David de Gea,ESP,30-055,90,5,1,4,80.0,0ae3a66d
+ENG-Premier League,2021,2021-01-02 Brighton-Wolves,Brighton & Hove Albion,Robert Sánchez,ESP,23-045,90,4,3,2,50.0,abeb80b7
+ENG-Premier League,2021,2021-01-02 Brighton-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-322,90,3,3,1,33.3,abeb80b7
+ENG-Premier League,2021,2021-01-02 Crystal Palace-Sheffield United,Crystal Palace,Vicente Guaita,ESP,33-358,90,2,0,2,100.0,84a373f5
+ENG-Premier League,2021,2021-01-02 Crystal Palace-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-233,90,4,2,2,50.0,84a373f5
+ENG-Premier League,2021,2021-01-02 Tottenham Hotspur-Leeds United,Leeds United,Illan Meslier,FRA,20-306,90,6,3,4,66.7,93463aad
+ENG-Premier League,2021,2021-01-02 Tottenham Hotspur-Leeds United,Tottenham Hotspur,Hugo Lloris,FRA,34-007,90,5,0,5,100.0,93463aad
+ENG-Premier League,2021,2021-01-02 West Brom-Arsenal,Arsenal,Bernd Leno,GER,28-304,90,3,0,3,100.0,a56531b0
+ENG-Premier League,2021,2021-01-02 West Brom-Arsenal,West Bromwich Albion,Sam Johnstone,ENG,27-283,90,12,4,8,66.7,a56531b0
+ENG-Premier League,2021,2021-01-03 Chelsea-Manchester City,Chelsea,Edouard Mendy,SEN,28-308,90,6,3,3,50.0,85507602
+ENG-Premier League,2021,2021-01-03 Chelsea-Manchester City,Manchester City,Zack Steffen,USA,25-276,90,2,1,1,50.0,85507602
+ENG-Premier League,2021,2021-01-03 Newcastle United-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-059,90,2,1,1,50.0,4c205b24
+ENG-Premier League,2021,2021-01-03 Newcastle United-Leicester City,Newcastle United,Karl Darlow,WAL,30-087,90,3,2,1,33.3,4c205b24
+ENG-Premier League,2021,2021-01-04 Southampton-Liverpool,Liverpool,Alisson,BRA,28-094,90,2,1,1,50.0,d0482032
+ENG-Premier League,2021,2021-01-04 Southampton-Liverpool,Southampton,Fraser Forster,ENG,32-293,90,1,0,1,100.0,d0482032
+ENG-Premier League,2021,2021-01-12 Burnley-Manchester Utd,Burnley,Nick Pope,ENG,28-268,90,7,1,6,85.7,2c8aa556
+ENG-Premier League,2021,2021-01-12 Burnley-Manchester Utd,Manchester United,David de Gea,ESP,30-066,90,0,0,0,,2c8aa556
+ENG-Premier League,2021,2021-01-12 Sheffield United-Newcastle United,Newcastle United,Karl Darlow,WAL,30-096,90,3,1,3,100.0,18ccfdb9
+ENG-Premier League,2021,2021-01-12 Sheffield United-Newcastle United,Sheffield United,Aaron Ramsdale,ENG,22-243,90,3,0,3,100.0,18ccfdb9
+ENG-Premier League,2021,2021-01-12 Wolves-Everton,Everton,Jordan Pickford,ENG,26-311,90,3,1,2,66.7,8cbb9119
+ENG-Premier League,2021,2021-01-12 Wolves-Everton,Wolverhampton Wanderers,Rui Patrício,POR,32-332,90,3,2,1,33.3,8cbb9119
+ENG-Premier League,2021,2021-01-13 Manchester City-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-056,90,6,1,5,83.3,9926f1f0
+ENG-Premier League,2021,2021-01-13 Manchester City-Brighton,Manchester City,Ederson,BRA,27-149,90,1,0,1,100.0,9926f1f0
+ENG-Premier League,2021,2021-01-13 Tottenham Hotspur-Fulham,Fulham,Alphonse Areola,FRA,27-321,90,6,1,5,83.3,fcad17a1
+ENG-Premier League,2021,2021-01-13 Tottenham Hotspur-Fulham,Tottenham Hotspur,Hugo Lloris,FRA,34-018,90,4,1,3,75.0,fcad17a1
+ENG-Premier League,2021,2021-01-14 Arsenal-Crystal Palace,Arsenal,Bernd Leno,GER,28-316,90,2,0,2,100.0,0476b43a
+ENG-Premier League,2021,2021-01-14 Arsenal-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-004,90,4,0,4,100.0,0476b43a
+ENG-Premier League,2021,2021-01-16 Fulham-Chelsea,Chelsea,Edouard Mendy,SEN,28-321,90,2,0,2,100.0,714c642d
+ENG-Premier League,2021,2021-01-16 Fulham-Chelsea,Fulham,Alphonse Areola,FRA,27-324,90,6,1,5,83.3,714c642d
+ENG-Premier League,2021,2021-01-16 Leeds United-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-059,90,2,0,2,100.0,ade7aac2
+ENG-Premier League,2021,2021-01-16 Leeds United-Brighton,Leeds United,Kiko Casilla,ESP,34-106,90,2,1,1,50.0,ade7aac2
+ENG-Premier League,2021,2021-01-16 Leicester City-Southampton,Leicester City,Kasper Schmeichel,DEN,34-072,90,3,0,3,100.0,85d4ec49
+ENG-Premier League,2021,2021-01-16 Leicester City-Southampton,Southampton,Alex McCarthy,ENG,31-044,90,4,2,2,50.0,85d4ec49
+ENG-Premier League,2021,2021-01-16 West Ham United-Burnley,Burnley,Nick Pope,ENG,28-272,90,3,1,2,66.7,1b06e352
+ENG-Premier League,2021,2021-01-16 West Ham United-Burnley,West Ham United,Łukasz Fabiański,POL,35-273,90,2,0,2,100.0,1b06e352
+ENG-Premier League,2021,2021-01-16 Wolves-West Brom,West Bromwich Albion,David Button,ENG,31-324,90,6,2,4,66.7,93420516
+ENG-Premier League,2021,2021-01-16 Wolves-West Brom,Wolverhampton Wanderers,Rui Patrício,POR,32-336,90,3,3,2,66.7,93420516
+ENG-Premier League,2021,2021-01-17 Liverpool-Manchester Utd,Liverpool,Alisson,BRA,28-107,90,4,0,4,100.0,7e1384ef
+ENG-Premier League,2021,2021-01-17 Liverpool-Manchester Utd,Manchester United,David de Gea,ESP,30-071,90,3,0,3,100.0,7e1384ef
+ENG-Premier League,2021,2021-01-17 Manchester City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-007,90,6,4,2,33.3,15d2f67c
+ENG-Premier League,2021,2021-01-17 Manchester City-Crystal Palace,Manchester City,Ederson,BRA,27-153,90,0,0,0,,15d2f67c
+ENG-Premier League,2021,2021-01-17 Sheffield United-Tottenham Hotspur,Sheffield United,Aaron Ramsdale,ENG,22-248,90,5,3,2,40.0,c52b1c4f
+ENG-Premier League,2021,2021-01-17 Sheffield United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-022,90,5,1,4,80.0,c52b1c4f
+ENG-Premier League,2021,2021-01-18 Arsenal-Newcastle United,Arsenal,Bernd Leno,GER,28-320,90,1,0,1,100.0,620df215
+ENG-Premier League,2021,2021-01-18 Arsenal-Newcastle United,Newcastle United,Karl Darlow,WAL,30-102,90,6,3,3,50.0,620df215
+ENG-Premier League,2021,2021-01-19 Leicester City-Chelsea,Chelsea,Edouard Mendy,SEN,28-324,90,6,2,4,66.7,8467b110
+ENG-Premier League,2021,2021-01-19 Leicester City-Chelsea,Leicester City,Kasper Schmeichel,DEN,34-075,90,5,0,5,100.0,8467b110
+ENG-Premier League,2021,2021-01-19 West Ham United-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-300,90,6,2,4,66.7,42daddbb
+ENG-Premier League,2021,2021-01-19 West Ham United-West Brom,West Ham United,Łukasz Fabiański,POL,35-276,90,3,1,2,66.7,42daddbb
+ENG-Premier League,2021,2021-01-20 Fulham-Manchester Utd,Fulham,Alphonse Areola,FRA,27-328,90,5,2,3,60.0,2a3855db
+ENG-Premier League,2021,2021-01-20 Fulham-Manchester Utd,Manchester United,David de Gea,ESP,30-074,90,5,1,4,80.0,2a3855db
+ENG-Premier League,2021,2021-01-20 Manchester City-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-140,90,8,2,7,87.5,c9710420
+ENG-Premier League,2021,2021-01-20 Manchester City-Aston Villa,Manchester City,Ederson,BRA,27-156,90,4,0,4,100.0,c9710420
+ENG-Premier League,2021,2021-01-21 Liverpool-Burnley,Burnley,Nick Pope,ENG,28-277,90,6,0,6,100.0,787d11cc
+ENG-Premier League,2021,2021-01-21 Liverpool-Burnley,Liverpool,Alisson,BRA,28-111,90,3,1,3,100.0,787d11cc
+ENG-Premier League,2021,2021-01-23 Aston Villa-Newcastle United,Aston Villa,Emiliano Martínez,ARG,28-143,90,1,0,1,100.0,b2143993
+ENG-Premier League,2021,2021-01-23 Aston Villa-Newcastle United,Newcastle United,Karl Darlow,WAL,30-107,90,5,2,3,60.0,b2143993
+ENG-Premier League,2021,2021-01-26 Crystal Palace-West Ham United,Crystal Palace,Vicente Guaita,ESP,34-016,90,8,3,5,62.5,aab6365d
+ENG-Premier League,2021,2021-01-26 Crystal Palace-West Ham United,West Ham United,Łukasz Fabiański,POL,35-283,90,3,2,1,33.3,aab6365d
+ENG-Premier League,2021,2021-01-26 Newcastle United-Leeds United,Leeds United,Illan Meslier,FRA,20-330,90,5,1,4,80.0,831d8a36
+ENG-Premier League,2021,2021-01-26 Newcastle United-Leeds United,Newcastle United,Karl Darlow,WAL,30-110,90,3,2,1,33.3,831d8a36
+ENG-Premier League,2021,2021-01-26 Southampton-Arsenal,Arsenal,Bernd Leno,GER,28-328,90,5,1,4,80.0,ac54f8a6
+ENG-Premier League,2021,2021-01-26 Southampton-Arsenal,Southampton,Alex McCarthy,ENG,31-054,90,4,3,1,25.0,ac54f8a6
+ENG-Premier League,2021,2021-01-26 West Brom-Manchester City,Manchester City,Ederson,BRA,27-162,90,1,0,1,100.0,83f7b656
+ENG-Premier League,2021,2021-01-26 West Brom-Manchester City,West Bromwich Albion,Sam Johnstone,ENG,27-307,90,7,5,2,28.6,83f7b656
+ENG-Premier League,2021,2021-01-27 Brighton-Fulham,Brighton & Hove Albion,Robert Sánchez,ESP,23-070,90,2,0,2,100.0,ea5464bd
+ENG-Premier League,2021,2021-01-27 Brighton-Fulham,Fulham,Alphonse Areola,FRA,27-335,90,5,0,5,100.0,ea5464bd
+ENG-Premier League,2021,2021-01-27 Burnley-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-147,90,5,3,2,40.0,f45d57b7
+ENG-Premier League,2021,2021-01-27 Burnley-Aston Villa,Burnley,Nick Pope,ENG,28-283,90,10,2,8,80.0,f45d57b7
+ENG-Premier League,2021,2021-01-27 Chelsea-Wolves,Chelsea,Edouard Mendy,SEN,28-332,90,0,0,0,,42eeae0e
+ENG-Premier League,2021,2021-01-27 Chelsea-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-347,90,5,0,5,100.0,42eeae0e
+ENG-Premier League,2021,2021-01-27 Everton-Leicester City,Everton,Jordan Pickford,ENG,26-326,90,5,1,4,80.0,3e4ff1e0
+ENG-Premier League,2021,2021-01-27 Everton-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-083,90,2,1,1,50.0,3e4ff1e0
+ENG-Premier League,2021,2021-01-27 Manchester Utd-Sheffield United,Manchester United,David de Gea,ESP,30-081,90,3,2,1,33.3,6e963555
+ENG-Premier League,2021,2021-01-27 Manchester Utd-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-258,90,4,1,3,75.0,6e963555
+ENG-Premier League,2021,2021-01-28 Tottenham Hotspur-Liverpool,Liverpool,Alisson,BRA,28-118,90,2,1,1,50.0,17bac3d1
+ENG-Premier League,2021,2021-01-28 Tottenham Hotspur-Liverpool,Tottenham Hotspur,Hugo Lloris,FRA,34-033,90,7,3,4,57.1,17bac3d1
+ENG-Premier League,2021,2021-01-30 Arsenal-Manchester Utd,Arsenal,Bernd Leno,GER,28-332,90,3,0,3,100.0,0fcaaa5f
+ENG-Premier League,2021,2021-01-30 Arsenal-Manchester Utd,Manchester United,David de Gea,ESP,30-084,90,3,0,3,100.0,0fcaaa5f
+ENG-Premier League,2021,2021-01-30 Crystal Palace-Wolves,Crystal Palace,Vicente Guaita,ESP,34-020,90,4,0,4,100.0,111bd050
+ENG-Premier League,2021,2021-01-30 Crystal Palace-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-350,90,2,1,1,50.0,111bd050
+ENG-Premier League,2021,2021-01-30 Everton-Newcastle United,Everton,Jordan Pickford,ENG,26-329,90,3,2,1,33.3,88053fb0
+ENG-Premier League,2021,2021-01-30 Everton-Newcastle United,Newcastle United,Karl Darlow,WAL,30-114,90,3,0,3,100.0,88053fb0
+ENG-Premier League,2021,2021-01-30 Manchester City-Sheffield United,Manchester City,Ederson,BRA,27-166,90,1,0,1,100.0,150c80d7
+ENG-Premier League,2021,2021-01-30 Manchester City-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-261,90,5,1,4,80.0,150c80d7
+ENG-Premier League,2021,2021-01-30 Southampton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-150,90,4,0,4,100.0,10d13e5b
+ENG-Premier League,2021,2021-01-30 Southampton-Aston Villa,Southampton,Alex McCarthy,ENG,31-058,90,4,1,3,75.0,10d13e5b
+ENG-Premier League,2021,2021-01-30 West Brom-Fulham,Fulham,Alphonse Areola,FRA,27-338,90,3,2,1,33.3,d1517c30
+ENG-Premier League,2021,2021-01-30 West Brom-Fulham,West Bromwich Albion,Sam Johnstone,ENG,27-311,90,7,2,5,71.4,d1517c30
+ENG-Premier League,2021,2021-01-31 Brighton-Tottenham Hotspur,Brighton & Hove Albion,Robert Sánchez,ESP,23-074,90,4,0,4,100.0,4663c253
+ENG-Premier League,2021,2021-01-31 Brighton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-036,90,3,1,2,66.7,4663c253
+ENG-Premier League,2021,2021-01-31 Chelsea-Burnley,Burnley,Nick Pope,ENG,28-287,90,9,2,7,77.8,3372f3f3
+ENG-Premier League,2021,2021-01-31 Chelsea-Burnley,Chelsea,Edouard Mendy,SEN,28-336,90,0,0,0,,3372f3f3
+ENG-Premier League,2021,2021-01-31 Leicester City-Leeds United,Leeds United,Illan Meslier,FRA,20-335,90,8,1,7,87.5,e5e46ead
+ENG-Premier League,2021,2021-01-31 Leicester City-Leeds United,Leicester City,Kasper Schmeichel,DEN,34-087,90,6,3,3,50.0,e5e46ead
+ENG-Premier League,2021,2021-01-31 West Ham United-Liverpool,Liverpool,Alisson,BRA,28-121,90,2,1,1,50.0,3de3a736
+ENG-Premier League,2021,2021-01-31 West Ham United-Liverpool,West Ham United,Łukasz Fabiański,POL,35-288,90,5,3,2,40.0,3de3a736
+ENG-Premier League,2021,2021-02-02 Manchester Utd-Southampton,Manchester United,David de Gea,ESP,30-087,90,1,0,1,100.0,37a9f2fd
+ENG-Premier League,2021,2021-02-02 Manchester Utd-Southampton,Southampton,Alex McCarthy,ENG,31-061,90,14,9,6,42.9,37a9f2fd
+ENG-Premier League,2021,2021-02-02 Newcastle United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-023,90,5,1,4,80.0,ca8297c0
+ENG-Premier League,2021,2021-02-02 Newcastle United-Crystal Palace,Newcastle United,Karl Darlow,WAL,30-117,90,3,2,1,33.3,ca8297c0
+ENG-Premier League,2021,2021-02-02 Sheffield United-West Brom,Sheffield United,Aaron Ramsdale,ENG,22-264,90,4,1,3,75.0,2d3d863d
+ENG-Premier League,2021,2021-02-02 Sheffield United-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-314,90,6,2,4,66.7,2d3d863d
+ENG-Premier League,2021,2021-02-02 Wolves-Arsenal,Arsenal,Bernd Leno,GER,28-335,71,4,2,3,75.0,558fa672
+ENG-Premier League,2021,2021-02-02 Wolves-Arsenal,Arsenal,Rúnar Alex Rúnarsson,ISL,25-350,16,2,0,2,100.0,558fa672
+ENG-Premier League,2021,2021-02-02 Wolves-Arsenal,Wolverhampton Wanderers,Rui Patrício,POR,32-353,90,3,1,2,66.7,558fa672
+ENG-Premier League,2021,2021-02-03 Aston Villa-West Ham United,Aston Villa,Emiliano Martínez,ARG,28-154,90,9,3,6,66.7,8f9d1856
+ENG-Premier League,2021,2021-02-03 Aston Villa-West Ham United,West Ham United,Łukasz Fabiański,POL,35-291,90,2,1,1,50.0,8f9d1856
+ENG-Premier League,2021,2021-02-03 Burnley-Manchester City,Burnley,Nick Pope,ENG,28-290,90,6,2,4,66.7,a05d7ae7
+ENG-Premier League,2021,2021-02-03 Burnley-Manchester City,Manchester City,Ederson,BRA,27-170,90,0,0,0,,a05d7ae7
+ENG-Premier League,2021,2021-02-03 Fulham-Leicester City,Fulham,Alphonse Areola,FRA,27-342,90,5,2,3,60.0,bd0673ed
+ENG-Premier League,2021,2021-02-03 Fulham-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-090,90,1,0,1,100.0,bd0673ed
+ENG-Premier League,2021,2021-02-03 Leeds United-Everton,Everton,Robin Olsen,SWE,31-026,90,7,1,6,85.7,d9b96ee1
+ENG-Premier League,2021,2021-02-03 Leeds United-Everton,Leeds United,Illan Meslier,FRA,20-338,90,6,2,4,66.7,d9b96ee1
+ENG-Premier League,2021,2021-02-03 Liverpool-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-077,90,1,0,1,100.0,314c860f
+ENG-Premier League,2021,2021-02-03 Liverpool-Brighton,Liverpool,Caoimhín Kelleher,IRL,22-072,90,4,1,3,75.0,314c860f
+ENG-Premier League,2021,2021-02-04 Tottenham Hotspur-Chelsea,Chelsea,Edouard Mendy,SEN,28-340,90,2,0,2,100.0,7d98a679
+ENG-Premier League,2021,2021-02-04 Tottenham Hotspur-Chelsea,Tottenham Hotspur,Hugo Lloris,FRA,34-040,90,1,1,1,100.0,7d98a679
+ENG-Premier League,2021,2021-02-06 Aston Villa-Arsenal,Arsenal,Mathew Ryan,AUS,28-304,90,8,1,7,87.5,224bcfc4
+ENG-Premier League,2021,2021-02-06 Aston Villa-Arsenal,Aston Villa,Emiliano Martínez,ARG,28-157,90,3,0,3,100.0,224bcfc4
+ENG-Premier League,2021,2021-02-06 Burnley-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-080,90,7,1,6,85.7,4400251e
+ENG-Premier League,2021,2021-02-06 Burnley-Brighton,Burnley,Nick Pope,ENG,28-293,90,2,1,1,50.0,4400251e
+ENG-Premier League,2021,2021-02-06 Fulham-West Ham United,Fulham,Alphonse Areola,FRA,27-345,90,1,0,1,100.0,d18e21ab
+ENG-Premier League,2021,2021-02-06 Fulham-West Ham United,West Ham United,Łukasz Fabiański,POL,35-294,90,3,0,2,100.0,d18e21ab
+ENG-Premier League,2021,2021-02-06 Manchester Utd-Everton,Everton,Robin Olsen,SWE,31-029,90,5,3,2,40.0,6504b158
+ENG-Premier League,2021,2021-02-06 Manchester Utd-Everton,Manchester United,David de Gea,ESP,30-091,90,3,3,0,0.0,6504b158
+ENG-Premier League,2021,2021-02-06 Newcastle United-Southampton,Newcastle United,Karl Darlow,WAL,30-121,90,5,2,3,60.0,5313627a
+ENG-Premier League,2021,2021-02-06 Newcastle United-Southampton,Southampton,Alex McCarthy,ENG,31-065,90,4,3,1,25.0,5313627a
+ENG-Premier League,2021,2021-02-07 Liverpool-Manchester City,Liverpool,Alisson,BRA,28-128,90,5,4,1,20.0,e044d71d
+ENG-Premier League,2021,2021-02-07 Liverpool-Manchester City,Manchester City,Ederson,BRA,27-174,90,2,1,2,100.0,e044d71d
+ENG-Premier League,2021,2021-02-07 Sheffield United-Chelsea,Chelsea,Edouard Mendy,SEN,28-343,90,4,1,3,75.0,d3467620
+ENG-Premier League,2021,2021-02-07 Sheffield United-Chelsea,Sheffield United,Aaron Ramsdale,ENG,22-269,90,1,2,0,0.0,d3467620
+ENG-Premier League,2021,2021-02-07 Tottenham Hotspur-West Brom,Tottenham Hotspur,Hugo Lloris,FRA,34-043,90,1,0,1,100.0,4a652b81
+ENG-Premier League,2021,2021-02-07 Tottenham Hotspur-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-319,90,6,2,4,66.7,4a652b81
+ENG-Premier League,2021,2021-02-07 Wolves-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-094,90,1,0,1,100.0,dca0be20
+ENG-Premier League,2021,2021-02-07 Wolves-Leicester City,Wolverhampton Wanderers,Rui Patrício,POR,32-358,90,3,0,3,100.0,dca0be20
+ENG-Premier League,2021,2021-02-08 Leeds United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-029,90,7,2,5,71.4,ff2cee2b
+ENG-Premier League,2021,2021-02-08 Leeds United-Crystal Palace,Leeds United,Illan Meslier,FRA,20-343,90,3,0,3,100.0,ff2cee2b
+ENG-Premier League,2021,2021-02-13 Brighton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-164,90,9,0,9,100.0,c7922348
+ENG-Premier League,2021,2021-02-13 Brighton-Aston Villa,Brighton & Hove Albion,Robert Sánchez,ESP,23-087,90,1,0,1,100.0,c7922348
+ENG-Premier League,2021,2021-02-13 Crystal Palace-Burnley,Burnley,Nick Pope,ENG,28-300,90,3,0,3,100.0,34a4b546
+ENG-Premier League,2021,2021-02-13 Crystal Palace-Burnley,Crystal Palace,Vicente Guaita,ESP,34-034,90,4,3,1,25.0,34a4b546
+ENG-Premier League,2021,2021-02-13 Leicester City-Liverpool,Leicester City,Kasper Schmeichel,DEN,34-100,90,4,1,3,75.0,666f6961
+ENG-Premier League,2021,2021-02-13 Leicester City-Liverpool,Liverpool,Alisson,BRA,28-134,90,6,3,3,50.0,666f6961
+ENG-Premier League,2021,2021-02-13 Manchester City-Tottenham Hotspur,Manchester City,Ederson,BRA,27-180,90,3,0,3,100.0,5d0cd646
+ENG-Premier League,2021,2021-02-13 Manchester City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-049,90,5,3,3,60.0,5d0cd646
+ENG-Premier League,2021,2021-02-14 Arsenal-Leeds United,Arsenal,Bernd Leno,GER,28-347,90,5,2,3,60.0,85624e5e
+ENG-Premier League,2021,2021-02-14 Arsenal-Leeds United,Leeds United,Illan Meslier,FRA,20-349,90,4,4,1,25.0,85624e5e
+ENG-Premier League,2021,2021-02-14 Everton-Fulham,Everton,Robin Olsen,SWE,31-037,90,3,2,1,33.3,46f84386
+ENG-Premier League,2021,2021-02-14 Everton-Fulham,Fulham,Alphonse Areola,FRA,27-353,90,2,0,2,100.0,46f84386
+ENG-Premier League,2021,2021-02-14 Southampton-Wolves,Southampton,Alex McCarthy,ENG,31-073,90,3,2,2,66.7,34682a95
+ENG-Premier League,2021,2021-02-14 Southampton-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,32-365,90,3,1,2,66.7,34682a95
+ENG-Premier League,2021,2021-02-14 West Brom-Manchester Utd,Manchester United,David de Gea,ESP,30-099,90,3,1,2,66.7,80124feb
+ENG-Premier League,2021,2021-02-14 West Brom-Manchester Utd,West Bromwich Albion,Sam Johnstone,ENG,27-326,90,6,1,5,83.3,80124feb
+ENG-Premier League,2021,2021-02-15 Chelsea-Newcastle United,Chelsea,Kepa Arrizabalaga,ESP,26-135,90,4,0,4,100.0,dd033287
+ENG-Premier League,2021,2021-02-15 Chelsea-Newcastle United,Newcastle United,Karl Darlow,WAL,30-130,90,5,2,3,60.0,dd033287
+ENG-Premier League,2021,2021-02-15 West Ham United-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-277,90,8,3,6,75.0,d6167896
+ENG-Premier League,2021,2021-02-15 West Ham United-Sheffield United,West Ham United,Łukasz Fabiański,POL,35-303,90,5,0,5,100.0,d6167896
+ENG-Premier League,2021,2021-02-17 Burnley-Fulham,Burnley,Nick Pope,ENG,28-304,90,3,1,2,66.7,6285d050
+ENG-Premier League,2021,2021-02-17 Burnley-Fulham,Fulham,Alphonse Areola,FRA,27-356,90,3,1,2,66.7,6285d050
+ENG-Premier League,2021,2021-02-17 Everton-Manchester City,Everton,Jordan Pickford,ENG,26-347,90,7,3,4,57.1,78270b8a
+ENG-Premier League,2021,2021-02-17 Everton-Manchester City,Manchester City,Ederson,BRA,27-184,90,2,1,1,50.0,78270b8a
+ENG-Premier League,2021,2021-02-19 Wolves-Leeds United,Leeds United,Illan Meslier,FRA,20-354,90,6,1,5,83.3,ae2d6f15
+ENG-Premier League,2021,2021-02-19 Wolves-Leeds United,Wolverhampton Wanderers,Rui Patrício,POR,33-004,90,7,0,7,100.0,ae2d6f15
+ENG-Premier League,2021,2021-02-20 Burnley-West Brom,Burnley,Nick Pope,ENG,28-307,90,2,0,2,100.0,072e8501
+ENG-Premier League,2021,2021-02-20 Burnley-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-332,90,1,0,1,100.0,072e8501
+ENG-Premier League,2021,2021-02-20 Fulham-Sheffield United,Fulham,Alphonse Areola,FRA,27-359,90,2,0,2,100.0,b1892d66
+ENG-Premier League,2021,2021-02-20 Fulham-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-282,90,5,1,4,80.0,b1892d66
+ENG-Premier League,2021,2021-02-20 Liverpool-Everton,Everton,Jordan Pickford,ENG,26-350,90,6,0,6,100.0,e4ac45fb
+ENG-Premier League,2021,2021-02-20 Liverpool-Everton,Liverpool,Alisson,BRA,28-141,90,5,2,4,80.0,e4ac45fb
+ENG-Premier League,2021,2021-02-20 Southampton-Chelsea,Chelsea,Edouard Mendy,SEN,28-356,90,1,1,0,0.0,9e4c8c99
+ENG-Premier League,2021,2021-02-20 Southampton-Chelsea,Southampton,Alex McCarthy,ENG,31-079,90,2,1,2,100.0,9e4c8c99
+ENG-Premier League,2021,2021-02-21 Arsenal-Manchester City,Arsenal,Bernd Leno,GER,28-354,90,3,1,2,66.7,2dedf408
+ENG-Premier League,2021,2021-02-21 Arsenal-Manchester City,Manchester City,Ederson,BRA,27-188,90,1,0,1,100.0,2dedf408
+ENG-Premier League,2021,2021-02-21 Aston Villa-Leicester City,Aston Villa,Emiliano Martínez,ARG,28-172,90,7,2,5,71.4,2c6f8c0e
+ENG-Premier League,2021,2021-02-21 Aston Villa-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-108,90,2,1,1,50.0,2c6f8c0e
+ENG-Premier League,2021,2021-02-21 Manchester Utd-Newcastle United,Manchester United,David de Gea,ESP,30-106,90,6,1,5,83.3,401e0d48
+ENG-Premier League,2021,2021-02-21 Manchester Utd-Newcastle United,Newcastle United,Karl Darlow,WAL,30-136,90,6,3,4,66.7,401e0d48
+ENG-Premier League,2021,2021-02-21 West Ham United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-057,90,4,2,2,50.0,59222b5f
+ENG-Premier League,2021,2021-02-21 West Ham United-Tottenham Hotspur,West Ham United,Łukasz Fabiański,POL,35-309,90,4,1,3,75.0,59222b5f
+ENG-Premier League,2021,2021-02-22 Brighton-Crystal Palace,Brighton & Hove Albion,Robert Sánchez,ESP,23-096,90,2,2,0,0.0,86f378b6
+ENG-Premier League,2021,2021-02-22 Brighton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-043,90,5,1,4,80.0,86f378b6
+ENG-Premier League,2021,2021-02-23 Leeds United-Southampton,Leeds United,Illan Meslier,FRA,20-358,90,5,0,5,100.0,6a198933
+ENG-Premier League,2021,2021-02-23 Leeds United-Southampton,Southampton,Alex McCarthy,ENG,31-082,90,7,3,4,57.1,6a198933
+ENG-Premier League,2021,2021-02-27 Leeds United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-178,90,3,0,3,100.0,70056c3b
+ENG-Premier League,2021,2021-02-27 Leeds United-Aston Villa,Leeds United,Illan Meslier,FRA,20-362,90,4,1,3,75.0,70056c3b
+ENG-Premier League,2021,2021-02-27 Manchester City-West Ham United,Manchester City,Ederson,BRA,27-194,90,3,1,2,66.7,6faa8392
+ENG-Premier League,2021,2021-02-27 Manchester City-West Ham United,West Ham United,Darren Randolph,IRL,33-291,90,3,2,1,33.3,6faa8392
+ENG-Premier League,2021,2021-02-27 Newcastle United-Wolves,Newcastle United,Martin Dúbravka,SVK,32-043,90,4,1,3,75.0,99e5e3dc
+ENG-Premier League,2021,2021-02-27 Newcastle United-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,33-012,90,6,1,5,83.3,99e5e3dc
+ENG-Premier League,2021,2021-02-27 West Brom-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-101,90,2,1,1,50.0,ff18265a
+ENG-Premier League,2021,2021-02-27 West Brom-Brighton,West Bromwich Albion,Sam Johnstone,ENG,27-339,90,6,0,6,100.0,ff18265a
+ENG-Premier League,2021,2021-02-28 Chelsea-Manchester Utd,Chelsea,Edouard Mendy,SEN,28-364,90,4,0,4,100.0,9ba4df6a
+ENG-Premier League,2021,2021-02-28 Chelsea-Manchester Utd,Manchester United,David de Gea,ESP,30-113,90,6,0,6,100.0,9ba4df6a
+ENG-Premier League,2021,2021-02-28 Crystal Palace-Fulham,Crystal Palace,Vicente Guaita,ESP,34-049,90,4,0,4,100.0,2d530fe3
+ENG-Premier League,2021,2021-02-28 Crystal Palace-Fulham,Fulham,Alphonse Areola,FRA,28-001,90,1,0,0,100.0,2d530fe3
+ENG-Premier League,2021,2021-02-28 Leicester City-Arsenal,Arsenal,Bernd Leno,GER,28-361,90,3,1,2,66.7,88b309f1
+ENG-Premier League,2021,2021-02-28 Leicester City-Arsenal,Leicester City,Kasper Schmeichel,DEN,34-115,90,3,3,1,33.3,88b309f1
+ENG-Premier League,2021,2021-02-28 Sheffield United-Liverpool,Liverpool,Adrián,ESP,34-056,90,3,0,2,100.0,3826d9aa
+ENG-Premier League,2021,2021-02-28 Sheffield United-Liverpool,Sheffield United,Aaron Ramsdale,ENG,22-290,90,9,2,7,77.8,3826d9aa
+ENG-Premier League,2021,2021-02-28 Tottenham Hotspur-Burnley,Burnley,Nick Pope,ENG,28-315,90,7,4,3,42.9,d28c364e
+ENG-Premier League,2021,2021-02-28 Tottenham Hotspur-Burnley,Tottenham Hotspur,Hugo Lloris,FRA,34-064,90,3,0,3,100.0,d28c364e
+ENG-Premier League,2021,2021-03-01 Everton-Southampton,Everton,Jordan Pickford,ENG,26-359,90,1,0,1,100.0,a81e1c82
+ENG-Premier League,2021,2021-03-01 Everton-Southampton,Southampton,Fraser Forster,ENG,32-349,90,1,1,0,0.0,a81e1c82
+ENG-Premier League,2021,2021-03-02 Manchester City-Wolves,Manchester City,Ederson,BRA,27-197,90,1,1,0,0.0,7145e0a8
+ENG-Premier League,2021,2021-03-02 Manchester City-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,33-015,90,11,4,7,63.6,7145e0a8
+ENG-Premier League,2021,2021-03-03 Burnley-Leicester City,Burnley,Nick Pope,ENG,28-318,90,4,1,3,75.0,5e1c69aa
+ENG-Premier League,2021,2021-03-03 Burnley-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-118,90,7,1,6,85.7,5e1c69aa
+ENG-Premier League,2021,2021-03-03 Crystal Palace-Manchester Utd,Crystal Palace,Vicente Guaita,ESP,34-052,90,1,0,1,100.0,aecb46ac
+ENG-Premier League,2021,2021-03-03 Crystal Palace-Manchester Utd,Manchester United,Dean Henderson,ENG,23-356,90,2,0,2,100.0,aecb46ac
+ENG-Premier League,2021,2021-03-03 Sheffield United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-182,90,2,1,1,50.0,3a9c1c4d
+ENG-Premier League,2021,2021-03-03 Sheffield United-Aston Villa,Sheffield United,Aaron Ramsdale,ENG,22-293,90,4,0,4,100.0,3a9c1c4d
+ENG-Premier League,2021,2021-03-04 Fulham-Tottenham Hotspur,Fulham,Alphonse Areola,FRA,28-005,90,3,1,2,66.7,44b3d20c
+ENG-Premier League,2021,2021-03-04 Fulham-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-068,90,3,0,3,100.0,44b3d20c
+ENG-Premier League,2021,2021-03-04 Liverpool-Chelsea,Chelsea,Edouard Mendy,SEN,29-003,90,1,0,1,100.0,86920e88
+ENG-Premier League,2021,2021-03-04 Liverpool-Chelsea,Liverpool,Alisson,BRA,28-153,90,4,1,3,75.0,86920e88
+ENG-Premier League,2021,2021-03-04 West Brom-Everton,Everton,Jordan Pickford,ENG,26-362,90,3,0,3,100.0,ee055741
+ENG-Premier League,2021,2021-03-04 West Brom-Everton,West Bromwich Albion,Sam Johnstone,ENG,27-344,90,3,1,2,66.7,ee055741
+ENG-Premier League,2021,2021-03-06 Aston Villa-Wolves,Aston Villa,Emiliano Martínez,ARG,28-185,90,2,0,2,100.0,e52c1e46
+ENG-Premier League,2021,2021-03-06 Aston Villa-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,33-019,90,1,0,1,100.0,e52c1e46
+ENG-Premier League,2021,2021-03-06 Brighton-Leicester City,Brighton & Hove Albion,Robert Sánchez,ESP,23-108,90,4,2,2,50.0,6fc64077
+ENG-Premier League,2021,2021-03-06 Brighton-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-121,90,2,1,1,50.0,6fc64077
+ENG-Premier League,2021,2021-03-06 Burnley-Arsenal,Arsenal,Bernd Leno,GER,29-002,90,5,1,4,80.0,db9a5ac8
+ENG-Premier League,2021,2021-03-06 Burnley-Arsenal,Burnley,Nick Pope,ENG,28-321,90,2,1,1,50.0,db9a5ac8
+ENG-Premier League,2021,2021-03-06 Sheffield United-Southampton,Sheffield United,Aaron Ramsdale,ENG,22-296,90,6,2,5,83.3,9d08bb4e
+ENG-Premier League,2021,2021-03-06 Sheffield United-Southampton,Southampton,Fraser Forster,ENG,32-354,90,2,0,2,100.0,9d08bb4e
+ENG-Premier League,2021,2021-03-07 Liverpool-Fulham,Fulham,Alphonse Areola,FRA,28-008,90,3,0,3,100.0,5826a836
+ENG-Premier League,2021,2021-03-07 Liverpool-Fulham,Liverpool,Alisson,BRA,28-156,90,3,1,2,66.7,5826a836
+ENG-Premier League,2021,2021-03-07 Manchester City-Manchester Utd,Manchester City,Ederson,BRA,27-202,90,5,2,4,80.0,28ebbc70
+ENG-Premier League,2021,2021-03-07 Manchester City-Manchester Utd,Manchester United,Dean Henderson,ENG,23-360,90,6,0,6,100.0,28ebbc70
+ENG-Premier League,2021,2021-03-07 Tottenham Hotspur-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-056,90,5,4,1,20.0,330fc75f
+ENG-Premier League,2021,2021-03-07 Tottenham Hotspur-Crystal Palace,Tottenham Hotspur,Hugo Lloris,FRA,34-071,90,1,1,0,0.0,330fc75f
+ENG-Premier League,2021,2021-03-07 West Brom-Newcastle United,Newcastle United,Martin Dúbravka,SVK,32-051,90,3,0,3,100.0,a096c32f
+ENG-Premier League,2021,2021-03-07 West Brom-Newcastle United,West Bromwich Albion,Sam Johnstone,ENG,27-347,90,5,0,5,100.0,a096c32f
+ENG-Premier League,2021,2021-03-08 Chelsea-Everton,Chelsea,Edouard Mendy,SEN,29-007,90,1,0,1,100.0,7e4a240e
+ENG-Premier League,2021,2021-03-08 Chelsea-Everton,Everton,Jordan Pickford,ENG,27-001,90,9,2,8,88.9,7e4a240e
+ENG-Premier League,2021,2021-03-08 West Ham United-Leeds United,Leeds United,Illan Meslier,FRA,21-006,90,3,2,2,33.3,c3b4d1ba
+ENG-Premier League,2021,2021-03-08 West Ham United-Leeds United,West Ham United,Łukasz Fabiański,POL,35-324,90,2,0,2,100.0,c3b4d1ba
+ENG-Premier League,2021,2021-03-10 Manchester City-Southampton,Manchester City,Ederson,BRA,27-205,90,5,2,4,80.0,ba04db4f
+ENG-Premier League,2021,2021-03-10 Manchester City-Southampton,Southampton,Alex McCarthy,ENG,31-097,90,10,5,5,50.0,ba04db4f
+ENG-Premier League,2021,2021-03-12 Newcastle United-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-191,90,4,1,3,75.0,5ac8e391
+ENG-Premier League,2021,2021-03-12 Newcastle United-Aston Villa,Newcastle United,Martin Dúbravka,SVK,32-056,90,7,1,6,85.7,5ac8e391
+ENG-Premier League,2021,2021-03-13 Crystal Palace-West Brom,Crystal Palace,Vicente Guaita,ESP,34-062,90,1,0,1,100.0,29954372
+ENG-Premier League,2021,2021-03-13 Crystal Palace-West Brom,West Bromwich Albion,Sam Johnstone,ENG,27-353,90,3,1,3,100.0,29954372
+ENG-Premier League,2021,2021-03-13 Everton-Burnley,Burnley,Nick Pope,ENG,28-328,90,4,1,3,75.0,91cce376
+ENG-Premier League,2021,2021-03-13 Everton-Burnley,Everton,Jordan Pickford,ENG,27-006,42,2,2,0,0.0,91cce376
+ENG-Premier League,2021,2021-03-13 Everton-Burnley,Everton,João Virgínia,POR,21-154,48,3,0,3,100.0,91cce376
+ENG-Premier League,2021,2021-03-13 Fulham-Manchester City,Fulham,Alphonse Areola,FRA,28-014,90,6,3,4,66.7,279b0eb5
+ENG-Premier League,2021,2021-03-13 Fulham-Manchester City,Manchester City,Ederson,BRA,27-208,90,0,0,0,,279b0eb5
+ENG-Premier League,2021,2021-03-13 Leeds United-Chelsea,Chelsea,Edouard Mendy,SEN,29-012,90,4,0,4,100.0,a711769f
+ENG-Premier League,2021,2021-03-13 Leeds United-Chelsea,Leeds United,Illan Meslier,FRA,21-011,90,8,0,8,100.0,a711769f
+ENG-Premier League,2021,2021-03-14 Arsenal-Tottenham Hotspur,Arsenal,Bernd Leno,GER,29-010,90,3,1,2,66.7,127b8258
+ENG-Premier League,2021,2021-03-14 Arsenal-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-078,90,2,2,1,50.0,127b8258
+ENG-Premier League,2021,2021-03-14 Leicester City-Sheffield United,Leicester City,Kasper Schmeichel,DEN,34-129,90,0,0,0,,d3bc5214
+ENG-Premier League,2021,2021-03-14 Leicester City-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-304,90,10,5,5,50.0,d3bc5214
+ENG-Premier League,2021,2021-03-14 Manchester Utd-West Ham United,Manchester United,Dean Henderson,ENG,24-002,90,0,0,0,,05c95367
+ENG-Premier League,2021,2021-03-14 Manchester Utd-West Ham United,West Ham United,Łukasz Fabiański,POL,35-330,90,5,1,4,80.0,05c95367
+ENG-Premier League,2021,2021-03-14 Southampton-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-116,90,4,1,3,75.0,b40eb9c6
+ENG-Premier League,2021,2021-03-14 Southampton-Brighton,Southampton,Fraser Forster,ENG,32-362,90,6,2,4,66.7,b40eb9c6
+ENG-Premier League,2021,2021-03-15 Wolves-Liverpool,Liverpool,Alisson,BRA,28-164,90,5,0,5,100.0,ad3063c2
+ENG-Premier League,2021,2021-03-15 Wolves-Liverpool,Wolverhampton Wanderers,John Ruddy,ENG,34-142,1,0,0,0,,ad3063c2
+ENG-Premier League,2021,2021-03-15 Wolves-Liverpool,Wolverhampton Wanderers,Rui Patrício,POR,33-028,89,4,1,3,75.0,ad3063c2
+ENG-Premier League,2021,2021-03-19 Fulham-Leeds United,Fulham,Alphonse Areola,FRA,28-020,90,4,2,2,50.0,05e3dd18
+ENG-Premier League,2021,2021-03-19 Fulham-Leeds United,Leeds United,Illan Meslier,FRA,21-017,90,6,1,5,83.3,05e3dd18
+ENG-Premier League,2021,2021-03-20 Brighton-Newcastle United,Brighton & Hove Albion,Robert Sánchez,ESP,23-122,90,1,0,1,100.0,1daf63a9
+ENG-Premier League,2021,2021-03-20 Brighton-Newcastle United,Newcastle United,Martin Dúbravka,SVK,32-064,90,6,3,3,50.0,1daf63a9
+ENG-Premier League,2021,2021-03-21 Aston Villa-Tottenham Hotspur,Aston Villa,Emiliano Martínez,ARG,28-200,90,2,2,1,50.0,faf3633c
+ENG-Premier League,2021,2021-03-21 Aston Villa-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-085,90,1,0,1,100.0,faf3633c
+ENG-Premier League,2021,2021-03-21 West Ham United-Arsenal,Arsenal,Bernd Leno,GER,29-017,90,5,3,2,40.0,c592a3d7
+ENG-Premier League,2021,2021-03-21 West Ham United-Arsenal,West Ham United,Łukasz Fabiański,POL,35-337,90,8,3,5,62.5,c592a3d7
+ENG-Premier League,2021,2021-04-03 Arsenal-Liverpool,Arsenal,Bernd Leno,GER,29-030,90,7,3,4,57.1,562d1981
+ENG-Premier League,2021,2021-04-03 Arsenal-Liverpool,Liverpool,Alisson,BRA,28-183,90,2,0,2,100.0,562d1981
+ENG-Premier League,2021,2021-04-03 Chelsea-West Brom,Chelsea,Edouard Mendy,SEN,29-033,90,7,5,2,28.6,c5d6a493
+ENG-Premier League,2021,2021-04-03 Chelsea-West Brom,West Bromwich Albion,Sam Johnstone,ENG,28-009,90,7,2,5,71.4,c5d6a493
+ENG-Premier League,2021,2021-04-03 Leeds United-Sheffield United,Leeds United,Illan Meslier,FRA,21-032,90,1,1,0,0.0,c4ed64b9
+ENG-Premier League,2021,2021-04-03 Leeds United-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-324,90,9,2,7,77.8,c4ed64b9
+ENG-Premier League,2021,2021-04-03 Leicester City-Manchester City,Leicester City,Kasper Schmeichel,DEN,34-149,90,4,2,2,50.0,d798017f
+ENG-Premier League,2021,2021-04-03 Leicester City-Manchester City,Manchester City,Ederson,BRA,27-229,90,2,0,2,100.0,d798017f
+ENG-Premier League,2021,2021-04-04 Aston Villa-Fulham,Aston Villa,Emiliano Martínez,ARG,28-214,90,7,1,6,85.7,a2d96ab5
+ENG-Premier League,2021,2021-04-04 Aston Villa-Fulham,Fulham,Alphonse Areola,FRA,28-036,90,4,3,1,25.0,a2d96ab5
+ENG-Premier League,2021,2021-04-04 Manchester Utd-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-137,90,7,2,5,71.4,de17a70e
+ENG-Premier League,2021,2021-04-04 Manchester Utd-Brighton,Manchester United,Dean Henderson,ENG,24-023,90,3,1,2,66.7,de17a70e
+ENG-Premier League,2021,2021-04-04 Newcastle United-Tottenham Hotspur,Newcastle United,Martin Dúbravka,SVK,32-079,90,4,2,2,50.0,7a399858
+ENG-Premier League,2021,2021-04-04 Newcastle United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-099,90,6,2,4,66.7,7a399858
+ENG-Premier League,2021,2021-04-04 Southampton-Burnley,Burnley,Nick Pope,ENG,28-350,90,8,3,5,62.5,2c313b76
+ENG-Premier League,2021,2021-04-04 Southampton-Burnley,Southampton,Fraser Forster,ENG,33-018,90,4,2,3,75.0,2c313b76
+ENG-Premier League,2021,2021-04-05 Everton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-085,90,7,1,6,85.7,66f16cd5
+ENG-Premier League,2021,2021-04-05 Everton-Crystal Palace,Everton,Robin Olsen,SWE,31-087,90,6,1,5,83.3,66f16cd5
+ENG-Premier League,2021,2021-04-05 Wolves-West Ham United,West Ham United,Łukasz Fabiański,POL,35-352,90,5,2,3,60.0,4c2f6a7b
+ENG-Premier League,2021,2021-04-05 Wolves-West Ham United,Wolverhampton Wanderers,Rui Patrício,POR,33-049,90,6,3,3,50.0,4c2f6a7b
+ENG-Premier League,2021,2021-04-09 Fulham-Wolves,Fulham,Alphonse Areola,FRA,28-041,90,3,1,2,66.7,be1ee647
+ENG-Premier League,2021,2021-04-09 Fulham-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,33-053,90,3,0,3,100.0,be1ee647
+ENG-Premier League,2021,2021-04-10 Crystal Palace-Chelsea,Chelsea,Edouard Mendy,SEN,29-040,90,1,1,0,0.0,54b07679
+ENG-Premier League,2021,2021-04-10 Crystal Palace-Chelsea,Crystal Palace,Vicente Guaita,ESP,34-090,90,9,4,5,55.6,54b07679
+ENG-Premier League,2021,2021-04-10 Liverpool-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-220,90,10,2,8,80.0,20bdebdc
+ENG-Premier League,2021,2021-04-10 Liverpool-Aston Villa,Liverpool,Alisson,BRA,28-190,90,5,1,4,80.0,20bdebdc
+ENG-Premier League,2021,2021-04-10 Manchester City-Leeds United,Leeds United,Illan Meslier,FRA,21-039,90,7,1,6,85.7,ad969519
+ENG-Premier League,2021,2021-04-10 Manchester City-Leeds United,Manchester City,Ederson,BRA,27-236,90,2,2,0,0.0,ad969519
+ENG-Premier League,2021,2021-04-11 Burnley-Newcastle United,Burnley,Bailey Peacock-Farrell,NIR,24-164,90,4,2,2,50.0,daebaaa1
+ENG-Premier League,2021,2021-04-11 Burnley-Newcastle United,Newcastle United,Martin Dúbravka,SVK,32-086,90,5,1,4,80.0,daebaaa1
+ENG-Premier League,2021,2021-04-11 Sheffield United-Arsenal,Arsenal,Bernd Leno,GER,29-038,90,2,0,2,100.0,34395b54
+ENG-Premier League,2021,2021-04-11 Sheffield United-Arsenal,Sheffield United,Aaron Ramsdale,ENG,22-332,90,5,3,2,40.0,34395b54
+ENG-Premier League,2021,2021-04-11 Tottenham Hotspur-Manchester Utd,Manchester United,Dean Henderson,ENG,24-030,90,3,1,2,66.7,a51d567c
+ENG-Premier League,2021,2021-04-11 Tottenham Hotspur-Manchester Utd,Tottenham Hotspur,Hugo Lloris,FRA,34-106,90,7,3,4,57.1,a51d567c
+ENG-Premier League,2021,2021-04-11 West Ham United-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-157,90,4,3,1,25.0,06b2801a
+ENG-Premier League,2021,2021-04-11 West Ham United-Leicester City,West Ham United,Łukasz Fabiański,POL,35-358,90,4,2,2,50.0,06b2801a
+ENG-Premier League,2021,2021-04-12 Brighton-Everton,Brighton & Hove Albion,Robert Sánchez,ESP,23-145,90,1,0,1,100.0,ac6ac8f8
+ENG-Premier League,2021,2021-04-12 Brighton-Everton,Everton,Robin Olsen,SWE,31-094,90,3,0,3,100.0,ac6ac8f8
+ENG-Premier League,2021,2021-04-12 West Brom-Southampton,Southampton,Fraser Forster,ENG,33-026,90,5,3,3,60.0,3dee3681
+ENG-Premier League,2021,2021-04-12 West Brom-Southampton,West Bromwich Albion,Sam Johnstone,ENG,28-018,90,2,0,3,100.0,3dee3681
+ENG-Premier League,2021,2021-04-16 Everton-Tottenham Hotspur,Everton,Jordan Pickford,ENG,27-040,90,3,2,1,33.3,ebeb462d
+ENG-Premier League,2021,2021-04-16 Everton-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-111,90,6,2,5,83.3,ebeb462d
+ENG-Premier League,2021,2021-04-17 Newcastle United-West Ham United,Newcastle United,Martin Dúbravka,SVK,32-092,90,5,2,4,80.0,25a3b695
+ENG-Premier League,2021,2021-04-17 Newcastle United-West Ham United,West Ham United,Łukasz Fabiański,POL,35-364,90,7,3,4,57.1,25a3b695
+ENG-Premier League,2021,2021-04-17 Wolves-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-338,90,4,1,3,75.0,07745ff2
+ENG-Premier League,2021,2021-04-17 Wolves-Sheffield United,Wolverhampton Wanderers,Rui Patrício,POR,33-061,90,2,0,2,100.0,07745ff2
+ENG-Premier League,2021,2021-04-18 Arsenal-Fulham,Arsenal,Mathew Ryan,AUS,29-010,90,0,1,0,,a19ff865
+ENG-Premier League,2021,2021-04-18 Arsenal-Fulham,Fulham,Alphonse Areola,FRA,28-050,90,5,1,4,80.0,a19ff865
+ENG-Premier League,2021,2021-04-18 Manchester Utd-Burnley,Burnley,Bailey Peacock-Farrell,NIR,24-171,90,8,3,5,62.5,3e00561f
+ENG-Premier League,2021,2021-04-18 Manchester Utd-Burnley,Manchester United,Dean Henderson,ENG,24-037,90,3,1,2,66.7,3e00561f
+ENG-Premier League,2021,2021-04-19 Leeds United-Liverpool,Leeds United,Illan Meslier,FRA,21-048,90,7,1,6,85.7,6c0666e6
+ENG-Premier League,2021,2021-04-19 Leeds United-Liverpool,Liverpool,Alisson,BRA,28-199,90,5,1,4,80.0,6c0666e6
+ENG-Premier League,2021,2021-04-20 Chelsea-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-153,90,4,0,4,100.0,07b4e58b
+ENG-Premier League,2021,2021-04-20 Chelsea-Brighton,Chelsea,Kepa Arrizabalaga,ESP,26-199,90,2,0,2,100.0,07b4e58b
+ENG-Premier League,2021,2021-04-21 Aston Villa-Manchester City,Aston Villa,Emiliano Martínez,ARG,28-231,90,3,2,1,33.3,ac46a079
+ENG-Premier League,2021,2021-04-21 Aston Villa-Manchester City,Manchester City,Ederson,BRA,27-247,90,3,1,2,66.7,ac46a079
+ENG-Premier League,2021,2021-04-21 Tottenham Hotspur-Southampton,Southampton,Alex McCarthy,ENG,31-139,90,2,2,1,50.0,81a7befa
+ENG-Premier League,2021,2021-04-21 Tottenham Hotspur-Southampton,Tottenham Hotspur,Hugo Lloris,FRA,34-116,90,5,1,4,80.0,81a7befa
+ENG-Premier League,2021,2021-04-22 Leicester City-West Brom,Leicester City,Kasper Schmeichel,DEN,34-168,90,1,0,1,100.0,be6edfdf
+ENG-Premier League,2021,2021-04-22 Leicester City-West Brom,West Bromwich Albion,Sam Johnstone,ENG,28-028,90,7,3,4,57.1,be6edfdf
+ENG-Premier League,2021,2021-04-23 Arsenal-Everton,Arsenal,Bernd Leno,GER,29-050,90,2,1,1,50.0,30f36320
+ENG-Premier League,2021,2021-04-23 Arsenal-Everton,Everton,Jordan Pickford,ENG,27-047,90,3,0,3,100.0,30f36320
+ENG-Premier League,2021,2021-04-24 Liverpool-Newcastle United,Liverpool,Alisson,BRA,28-204,90,4,1,3,75.0,81e8aaf4
+ENG-Premier League,2021,2021-04-24 Liverpool-Newcastle United,Newcastle United,Martin Dúbravka,SVK,32-099,90,9,1,8,88.9,81e8aaf4
+ENG-Premier League,2021,2021-04-24 Sheffield United-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-157,90,3,1,2,66.7,1ef0a8f2
+ENG-Premier League,2021,2021-04-24 Sheffield United-Brighton,Sheffield United,Aaron Ramsdale,ENG,22-345,90,4,0,4,100.0,1ef0a8f2
+ENG-Premier League,2021,2021-04-24 West Ham United-Chelsea,Chelsea,Edouard Mendy,SEN,29-054,90,2,0,2,100.0,ea1579bb
+ENG-Premier League,2021,2021-04-24 West Ham United-Chelsea,West Ham United,Łukasz Fabiański,POL,36-006,90,6,1,5,83.3,ea1579bb
+ENG-Premier League,2021,2021-04-25 Aston Villa-West Brom,Aston Villa,Emiliano Martínez,ARG,28-235,90,4,2,3,75.0,2ab535fa
+ENG-Premier League,2021,2021-04-25 Aston Villa-West Brom,West Bromwich Albion,Sam Johnstone,ENG,28-031,90,10,2,9,90.0,2ab535fa
+ENG-Premier League,2021,2021-04-25 Leeds United-Manchester Utd,Leeds United,Illan Meslier,FRA,21-054,90,4,0,4,100.0,8422804d
+ENG-Premier League,2021,2021-04-25 Leeds United-Manchester Utd,Manchester United,Dean Henderson,ENG,24-044,90,3,0,3,100.0,8422804d
+ENG-Premier League,2021,2021-04-25 Wolves-Burnley,Burnley,Nick Pope,ENG,29-006,90,2,0,2,100.0,5656770f
+ENG-Premier League,2021,2021-04-25 Wolves-Burnley,Wolverhampton Wanderers,Rui Patrício,POR,33-069,90,7,4,3,42.9,5656770f
+ENG-Premier League,2021,2021-04-26 Leicester City-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-106,90,5,2,3,60.0,b30b8887
+ENG-Premier League,2021,2021-04-26 Leicester City-Crystal Palace,Leicester City,Kasper Schmeichel,DEN,34-172,90,2,1,1,50.0,b30b8887
+ENG-Premier League,2021,2021-04-30 Southampton-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-176,90,2,1,2,100.0,c0d4f879
+ENG-Premier League,2021,2021-04-30 Southampton-Leicester City,Southampton,Alex McCarthy,ENG,31-148,90,9,1,8,88.9,c0d4f879
+ENG-Premier League,2021,2021-05-01 Brighton-Leeds United,Brighton & Hove Albion,Robert Sánchez,ESP,23-164,90,2,0,2,100.0,1e2ba709
+ENG-Premier League,2021,2021-05-01 Brighton-Leeds United,Leeds United,Illan Meslier,FRA,21-060,90,4,2,3,75.0,1e2ba709
+ENG-Premier League,2021,2021-05-01 Chelsea-Fulham,Chelsea,Edouard Mendy,SEN,29-061,90,3,0,3,100.0,44d49bd5
+ENG-Premier League,2021,2021-05-01 Chelsea-Fulham,Fulham,Alphonse Areola,FRA,28-063,90,5,2,3,60.0,44d49bd5
+ENG-Premier League,2021,2021-05-01 Crystal Palace-Manchester City,Crystal Palace,Vicente Guaita,ESP,34-111,90,3,2,1,33.3,bf22075a
+ENG-Premier League,2021,2021-05-01 Crystal Palace-Manchester City,Manchester City,Ederson,BRA,27-257,90,4,0,4,100.0,bf22075a
+ENG-Premier League,2021,2021-05-01 Everton-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-241,90,3,1,2,66.7,2452619d
+ENG-Premier League,2021,2021-05-01 Everton-Aston Villa,Everton,Jordan Pickford,ENG,27-055,90,5,2,3,60.0,2452619d
+ENG-Premier League,2021,2021-05-02 Newcastle United-Arsenal,Arsenal,Mathew Ryan,AUS,29-024,90,1,0,1,100.0,af2c27de
+ENG-Premier League,2021,2021-05-02 Newcastle United-Arsenal,Newcastle United,Martin Dúbravka,SVK,32-107,90,4,2,2,50.0,af2c27de
+ENG-Premier League,2021,2021-05-02 Tottenham Hotspur-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,22-353,90,10,4,6,60.0,8b2e31ef
+ENG-Premier League,2021,2021-05-02 Tottenham Hotspur-Sheffield United,Tottenham Hotspur,Hugo Lloris,FRA,34-127,90,1,0,1,100.0,8b2e31ef
+ENG-Premier League,2021,2021-05-03 Burnley-West Ham United,Burnley,Nick Pope,ENG,29-014,90,4,2,2,50.0,a89e62a7
+ENG-Premier League,2021,2021-05-03 Burnley-West Ham United,West Ham United,Łukasz Fabiański,POL,36-015,90,1,1,1,100.0,a89e62a7
+ENG-Premier League,2021,2021-05-03 West Brom-Wolves,West Bromwich Albion,Sam Johnstone,ENG,28-039,90,10,1,9,90.0,378a8a95
+ENG-Premier League,2021,2021-05-03 West Brom-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,33-077,90,3,1,2,66.7,378a8a95
+ENG-Premier League,2021,2021-05-07 Leicester City-Newcastle United,Leicester City,Kasper Schmeichel,DEN,34-183,90,6,4,2,33.3,d93b0c17
+ENG-Premier League,2021,2021-05-07 Leicester City-Newcastle United,Newcastle United,Martin Dúbravka,SVK,32-112,90,9,2,7,77.8,d93b0c17
+ENG-Premier League,2021,2021-05-08 Leeds United-Tottenham Hotspur,Leeds United,Illan Meslier,FRA,21-067,90,3,1,2,66.7,4eecc9bb
+ENG-Premier League,2021,2021-05-08 Leeds United-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-133,90,8,3,5,62.5,4eecc9bb
+ENG-Premier League,2021,2021-05-08 Liverpool-Southampton,Liverpool,Alisson,BRA,28-218,90,6,0,6,100.0,e5923f92
+ENG-Premier League,2021,2021-05-08 Liverpool-Southampton,Southampton,Fraser Forster,ENG,33-052,90,6,2,4,66.7,e5923f92
+ENG-Premier League,2021,2021-05-08 Manchester City-Chelsea,Chelsea,Edouard Mendy,SEN,29-068,90,2,1,2,50.0,b657d658
+ENG-Premier League,2021,2021-05-08 Manchester City-Chelsea,Manchester City,Ederson,BRA,27-264,90,5,2,3,60.0,b657d658
+ENG-Premier League,2021,2021-05-08 Sheffield United-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-118,90,0,0,0,,02c409c1
+ENG-Premier League,2021,2021-05-08 Sheffield United-Crystal Palace,Sheffield United,Aaron Ramsdale,ENG,22-359,90,8,2,6,75.0,02c409c1
+ENG-Premier League,2021,2021-05-09 Arsenal-West Brom,Arsenal,Bernd Leno,GER,29-066,90,1,1,0,0.0,49369ed5
+ENG-Premier League,2021,2021-05-09 Arsenal-West Brom,West Bromwich Albion,Sam Johnstone,ENG,28-045,90,7,3,4,57.1,49369ed5
+ENG-Premier League,2021,2021-05-09 Aston Villa-Manchester Utd,Aston Villa,Emiliano Martínez,ARG,28-249,90,6,3,4,66.7,c80d17ca
+ENG-Premier League,2021,2021-05-09 Aston Villa-Manchester Utd,Manchester United,Dean Henderson,ENG,24-058,90,6,1,5,83.3,c80d17ca
+ENG-Premier League,2021,2021-05-09 West Ham United-Everton,Everton,Jordan Pickford,ENG,27-063,90,0,0,0,,57632a35
+ENG-Premier League,2021,2021-05-09 West Ham United-Everton,West Ham United,Łukasz Fabiański,POL,36-021,90,3,1,2,66.7,57632a35
+ENG-Premier League,2021,2021-05-09 Wolves-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-172,90,6,2,4,66.7,ad903480
+ENG-Premier League,2021,2021-05-09 Wolves-Brighton,Wolverhampton Wanderers,Rui Patrício,POR,33-083,90,3,1,2,66.7,ad903480
+ENG-Premier League,2021,2021-05-10 Fulham-Burnley,Burnley,Nick Pope,ENG,29-021,90,3,0,3,100.0,430d879c
+ENG-Premier League,2021,2021-05-10 Fulham-Burnley,Fulham,Alphonse Areola,FRA,28-072,90,5,2,3,60.0,430d879c
+ENG-Premier League,2021,2021-05-11 Manchester Utd-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-187,90,1,1,0,0.0,855994bf
+ENG-Premier League,2021,2021-05-11 Manchester Utd-Leicester City,Manchester United,David de Gea,ESP,30-185,90,3,2,1,33.3,855994bf
+ENG-Premier League,2021,2021-05-11 Southampton-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-121,90,6,3,3,50.0,5e4ec091
+ENG-Premier League,2021,2021-05-11 Southampton-Crystal Palace,Southampton,Fraser Forster,ENG,33-055,90,2,1,2,50.0,5e4ec091
+ENG-Premier League,2021,2021-05-12 Chelsea-Arsenal,Arsenal,Bernd Leno,GER,29-069,90,4,0,4,100.0,51632a55
+ENG-Premier League,2021,2021-05-12 Chelsea-Arsenal,Chelsea,Kepa Arrizabalaga,ESP,26-221,90,3,1,2,66.7,51632a55
+ENG-Premier League,2021,2021-05-13 Aston Villa-Everton,Aston Villa,Emiliano Martínez,ARG,28-253,90,5,0,5,100.0,b5b24fd8
+ENG-Premier League,2021,2021-05-13 Aston Villa-Everton,Everton,Jordan Pickford,ENG,27-067,90,2,0,2,100.0,b5b24fd8
+ENG-Premier League,2021,2021-05-13 Manchester Utd-Liverpool,Liverpool,Alisson,BRA,28-223,90,2,2,0,0.0,9f0275a4
+ENG-Premier League,2021,2021-05-13 Manchester Utd-Liverpool,Manchester United,Dean Henderson,ENG,24-062,90,8,4,4,50.0,9f0275a4
+ENG-Premier League,2021,2021-05-14 Newcastle United-Manchester City,Manchester City,Scott Carson,ENG,35-253,90,2,3,1,0.0,27601c16
+ENG-Premier League,2021,2021-05-14 Newcastle United-Manchester City,Newcastle United,Martin Dúbravka,SVK,32-119,90,6,4,2,33.3,27601c16
+ENG-Premier League,2021,2021-05-15 Brighton-West Ham United,Brighton & Hove Albion,Robert Sánchez,ESP,23-178,90,2,1,1,50.0,1a1095c2
+ENG-Premier League,2021,2021-05-15 Brighton-West Ham United,West Ham United,Łukasz Fabiański,POL,36-027,90,2,1,1,50.0,1a1095c2
+ENG-Premier League,2021,2021-05-15 Burnley-Leeds United,Burnley,Bailey Peacock-Farrell,NIR,24-198,90,6,4,2,33.3,18d42916
+ENG-Premier League,2021,2021-05-15 Burnley-Leeds United,Leeds United,Illan Meslier,FRA,21-074,90,4,0,4,100.0,18d42916
+ENG-Premier League,2021,2021-05-15 Southampton-Fulham,Fulham,Alphonse Areola,FRA,28-077,90,6,3,3,50.0,34739ed7
+ENG-Premier League,2021,2021-05-15 Southampton-Fulham,Southampton,Alex McCarthy,ENG,31-163,90,3,1,2,66.7,34739ed7
+ENG-Premier League,2021,2021-05-16 Crystal Palace-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-256,90,8,3,5,62.5,7b21d5b9
+ENG-Premier League,2021,2021-05-16 Crystal Palace-Aston Villa,Crystal Palace,Jack Butland,ENG,28-067,90,5,2,3,60.0,7b21d5b9
+ENG-Premier League,2021,2021-05-16 Everton-Sheffield United,Everton,Jordan Pickford,ENG,27-070,90,3,1,2,66.7,707d5282
+ENG-Premier League,2021,2021-05-16 Everton-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,23-002,90,6,0,6,100.0,707d5282
+ENG-Premier League,2021,2021-05-16 Tottenham Hotspur-Wolves,Tottenham Hotspur,Hugo Lloris,FRA,34-141,90,3,0,3,100.0,9059c960
+ENG-Premier League,2021,2021-05-16 Tottenham Hotspur-Wolves,Wolverhampton Wanderers,Rui Patrício,POR,33-090,90,11,2,9,81.8,9059c960
+ENG-Premier League,2021,2021-05-16 West Brom-Liverpool,Liverpool,Alisson,BRA,28-226,90,3,1,2,66.7,6a834f6e
+ENG-Premier League,2021,2021-05-16 West Brom-Liverpool,West Bromwich Albion,Sam Johnstone,ENG,28-052,90,6,2,4,66.7,6a834f6e
+ENG-Premier League,2021,2021-05-18 Brighton-Manchester City,Brighton & Hove Albion,Robert Sánchez,ESP,23-181,90,4,2,2,50.0,3b1cd656
+ENG-Premier League,2021,2021-05-18 Brighton-Manchester City,Manchester City,Ederson,BRA,27-274,90,6,3,3,50.0,3b1cd656
+ENG-Premier League,2021,2021-05-18 Chelsea-Leicester City,Chelsea,Edouard Mendy,SEN,29-078,90,3,1,2,66.7,509c9927
+ENG-Premier League,2021,2021-05-18 Chelsea-Leicester City,Leicester City,Kasper Schmeichel,DEN,34-194,90,5,2,4,80.0,509c9927
+ENG-Premier League,2021,2021-05-18 Manchester Utd-Fulham,Fulham,Alphonse Areola,FRA,28-080,90,6,1,5,83.3,d8018048
+ENG-Premier League,2021,2021-05-18 Manchester Utd-Fulham,Manchester United,David de Gea,ESP,30-192,90,5,1,4,80.0,d8018048
+ENG-Premier League,2021,2021-05-18 Southampton-Leeds United,Leeds United,Kiko Casilla,ESP,34-228,90,3,0,3,100.0,de4e566f
+ENG-Premier League,2021,2021-05-18 Southampton-Leeds United,Southampton,Alex McCarthy,ENG,31-166,90,7,2,5,71.4,de4e566f
+ENG-Premier League,2021,2021-05-19 Burnley-Liverpool,Burnley,Will Norris,ENG,27-280,90,3,3,0,0.0,33d72496
+ENG-Premier League,2021,2021-05-19 Burnley-Liverpool,Liverpool,Alisson,BRA,28-229,90,4,0,4,100.0,33d72496
+ENG-Premier League,2021,2021-05-19 Crystal Palace-Arsenal,Arsenal,Bernd Leno,GER,29-076,90,6,1,5,83.3,624e6758
+ENG-Premier League,2021,2021-05-19 Crystal Palace-Arsenal,Crystal Palace,Vicente Guaita,ESP,34-129,90,3,3,0,0.0,624e6758
+ENG-Premier League,2021,2021-05-19 Everton-Wolves,Everton,Jordan Pickford,ENG,27-073,90,3,0,3,100.0,eb7bd01f
+ENG-Premier League,2021,2021-05-19 Everton-Wolves,Wolverhampton Wanderers,John Ruddy,ENG,34-207,90,4,1,3,75.0,eb7bd01f
+ENG-Premier League,2021,2021-05-19 Newcastle United-Sheffield United,Newcastle United,Martin Dúbravka,SVK,32-124,90,1,0,1,100.0,62adcd41
+ENG-Premier League,2021,2021-05-19 Newcastle United-Sheffield United,Sheffield United,Aaron Ramsdale,ENG,23-005,90,5,1,4,80.0,62adcd41
+ENG-Premier League,2021,2021-05-19 Tottenham Hotspur-Aston Villa,Aston Villa,Emiliano Martínez,ARG,28-259,90,4,1,3,75.0,d4273555
+ENG-Premier League,2021,2021-05-19 Tottenham Hotspur-Aston Villa,Tottenham Hotspur,Hugo Lloris,FRA,34-144,90,5,2,3,60.0,d4273555
+ENG-Premier League,2021,2021-05-19 West Brom-West Ham United,West Bromwich Albion,Sam Johnstone,ENG,28-055,90,9,3,6,66.7,88927a77
+ENG-Premier League,2021,2021-05-19 West Brom-West Ham United,West Ham United,Darren Randolph,IRL,34-007,90,4,1,3,75.0,88927a77
+ENG-Premier League,2021,2021-05-23 Arsenal-Brighton,Arsenal,Bernd Leno,GER,29-080,90,1,0,1,100.0,9f6c52f8
+ENG-Premier League,2021,2021-05-23 Arsenal-Brighton,Brighton & Hove Albion,Robert Sánchez,ESP,23-186,90,5,2,3,60.0,9f6c52f8
+ENG-Premier League,2021,2021-05-23 Aston Villa-Chelsea,Aston Villa,Emiliano Martínez,ARG,28-263,90,7,1,6,85.7,0143966a
+ENG-Premier League,2021,2021-05-23 Aston Villa-Chelsea,Chelsea,Edouard Mendy,SEN,29-083,45,2,1,1,50.0,0143966a
+ENG-Premier League,2021,2021-05-23 Aston Villa-Chelsea,Chelsea,Kepa Arrizabalaga,ESP,26-232,45,0,1,0,,0143966a
+ENG-Premier League,2021,2021-05-23 Fulham-Newcastle United,Fulham,Marek Rodák,SVK,24-161,90,3,2,2,66.7,f966eee0
+ENG-Premier League,2021,2021-05-23 Fulham-Newcastle United,Newcastle United,Martin Dúbravka,SVK,32-128,90,0,0,0,,f966eee0
+ENG-Premier League,2021,2021-05-23 Leeds United-West Brom,Leeds United,Kiko Casilla,ESP,34-233,90,5,1,4,80.0,9ade2b5d
+ENG-Premier League,2021,2021-05-23 Leeds United-West Brom,West Bromwich Albion,Sam Johnstone,ENG,28-059,90,8,3,6,75.0,9ade2b5d
+ENG-Premier League,2021,2021-05-23 Leicester City-Tottenham Hotspur,Leicester City,Kasper Schmeichel,DEN,34-199,90,5,4,1,20.0,0d04cd74
+ENG-Premier League,2021,2021-05-23 Leicester City-Tottenham Hotspur,Tottenham Hotspur,Hugo Lloris,FRA,34-148,90,4,2,4,100.0,0d04cd74
+ENG-Premier League,2021,2021-05-23 Liverpool-Crystal Palace,Crystal Palace,Vicente Guaita,ESP,34-133,90,5,2,3,60.0,c2fc07f0
+ENG-Premier League,2021,2021-05-23 Liverpool-Crystal Palace,Liverpool,Alisson,BRA,28-233,90,4,0,4,100.0,c2fc07f0
+ENG-Premier League,2021,2021-05-23 Manchester City-Everton,Everton,Jordan Pickford,ENG,27-077,90,11,5,6,54.5,12d3970f
+ENG-Premier League,2021,2021-05-23 Manchester City-Everton,Manchester City,Ederson,BRA,27-279,90,1,0,2,100.0,12d3970f
+ENG-Premier League,2021,2021-05-23 Sheffield United-Burnley,Burnley,Will Norris,ENG,27-284,90,3,1,2,66.7,2c07a228
+ENG-Premier League,2021,2021-05-23 Sheffield United-Burnley,Sheffield United,Aaron Ramsdale,ENG,23-009,90,3,0,3,100.0,2c07a228
+ENG-Premier League,2021,2021-05-23 West Ham United-Southampton,Southampton,Alex McCarthy,ENG,31-171,90,7,3,4,57.1,50ec33b2
+ENG-Premier League,2021,2021-05-23 West Ham United-Southampton,West Ham United,Łukasz Fabiański,POL,36-035,90,5,0,5,100.0,50ec33b2
+ENG-Premier League,2021,2021-05-23 Wolves-Manchester Utd,Manchester United,Dean Henderson,ENG,24-072,90,4,1,3,75.0,2c081c94
+ENG-Premier League,2021,2021-05-23 Wolves-Manchester Utd,Wolverhampton Wanderers,Rui Patrício,POR,33-097,90,3,2,2,66.7,2c081c94
